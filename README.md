@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="image/52CV.png" width="600"/>
+  <img src="image/52CV1.png" width="600"/>
 </div>
 
 # 2021-CV-Survey
