@@ -8,6 +8,11 @@
 
 ## Transformers
 
-### [Transformers in Vision: A Survey](https://arxiv.org/abs/2101.01169)
+- Transformers in Vision: A Survey[paper](https://arxiv.org/abs/2101.01169)
 - 2021-01-01
 - 旨在为计算机视觉学科中的 Transformer 模型提供一个全面的概述
+
+
+## Human Action Detection and Recognitionn 人体动作检测与识别
+- Human Activity Recognition using Wearable Sensors: Review, Challenges, Evaluation Benchmark[paper](https://arxiv.org/abs/2101.01665)
+- 对近期基于可穿戴传感器的人类活动识别中的优异表现方法进行了广泛回顾
