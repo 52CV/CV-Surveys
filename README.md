@@ -15,3 +15,6 @@
 ## Human Action Detection and Recognitionn 人体动作检测与识别
 - Human Activity Recognition using Wearable Sensors: Review, Challenges, Evaluation Benchmark [[paper](https://arxiv.org/abs/2101.01665)][2021-01-05]
 -- 对近期基于可穿戴传感器的人类活动识别中的优异表现方法进行了广泛回顾
+
+## Re-identification 人员重识别
+- Deep Learning for Person Re-identification: A Survey and Outlook [[paper](https://arxiv.org/abs/2001.04193v2)][[github](github.com/mangye16/ReI)][2021-01-06]
