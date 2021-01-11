@@ -18,3 +18,10 @@
 
 ## Re-identification 人员重识别
 - Deep Learning for Person Re-identification: A Survey and Outlook [[paper](https://arxiv.org/abs/2001.04193v2)][[github](github.com/mangye16/ReI)][2021-01-06]
+
+## Classification 分类
+
+### One-Class Classification 单分类
+
+- One-Class Classification: A Survey  [[paper](https://arxiv.org/abs/2101.03064)][2021-01-11]
+
