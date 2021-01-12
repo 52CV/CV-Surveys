@@ -25,3 +25,9 @@
 
 - One-Class Classification: A Survey  [[paper](https://arxiv.org/abs/2101.03064)][2021-01-11]
 
+## Face 人脸技术
+
+### Face Super-resolution 人脸超分辨率
+
+-Deep Learning-based Face Super-resolution: A Survey  [[paper](https://arxiv.org/abs/2101.03749)][2021-01-12]
+人脸超分辨率也称为【facial hallucination人脸幻构】系统地对人脸超分辨率中的深度学习技术进行了全面的回顾。
