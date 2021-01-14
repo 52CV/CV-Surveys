@@ -37,6 +37,12 @@
 
 - Hyperbolic Deep Neural Networks: A Survey [[paper](https://arxiv.org/abs/2101.04562)][2021-01-13]
 
+## Other
+
+- Urban land-use analysis using proximate sensing imagery: a survey [[paper](https://arxiv.org/abs/2101.04827)][2021-01-14]
+
+对 proximate sensing 支持土地利用分析的最先进方法和公开的数据集进行了全面回顾。
+
 
 
 
