@@ -43,6 +43,11 @@
 - GAN Inversion: A Survey [[paper](https://arxiv.org/abs/2101.05278)][2021-01-15] [[awesome gan-inversion papers](https://github.com/weihaox/awesome-image-translation/blob/master/awesome-gan-inversion.md)]
 [[Papers on generative modeling](https://github.com/zhoubolei/awesome-generative-modeling)]
 
+## 智能驾驶
+
+### autonomous driving 自动驾驶
+- Explainability of vision-based autonomous driving systems: Review and challenges [[paper](https://arxiv.org/abs/2101.05307)][2021-01-15]
+
 ## Other
 
 - Urban land-use analysis using proximate sensing imagery: a survey [[paper](https://arxiv.org/abs/2101.04827)][2021-01-14]
