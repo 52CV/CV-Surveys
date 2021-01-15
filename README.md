@@ -40,8 +40,8 @@
 ## GAN 生成对抗网络
 
 ### GAN Inversion GAN 逆映射
-- GAN Inversion: A Survey [[paper](https://arxiv.org/abs/2101.05278)][2021-01-15] [awesome gan-inversion papers](https://github.com/weihaox/awesome-image-translation/blob/master/awesome-gan-inversion.md)
-[Papers on generative modeling](https://github.com/zhoubolei/awesome-generative-modeling)
+- GAN Inversion: A Survey [[paper](https://arxiv.org/abs/2101.05278)][2021-01-15] [[awesome gan-inversion papers](https://github.com/weihaox/awesome-image-translation/blob/master/awesome-gan-inversion.md)]
+[[Papers on generative modeling](https://github.com/zhoubolei/awesome-generative-modeling)]
 
 ## Other
 
