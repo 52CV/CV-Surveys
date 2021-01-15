@@ -37,6 +37,12 @@
 
 - Hyperbolic Deep Neural Networks: A Survey [[paper](https://arxiv.org/abs/2101.04562)][2021-01-13]
 
+## GAN 生成对抗网络
+
+### GAN Inversion GAN 逆映射
+- GAN Inversion: A Survey [[paper](https://arxiv.org/abs/2101.05278)][2021-01-15] [awesome gan-inversion papers](https://github.com/weihaox/awesome-image-translation/blob/master/awesome-gan-inversion.md)
+[Papers on generative modeling](https://github.com/zhoubolei/awesome-generative-modeling)
+
 ## Other
 
 - Urban land-use analysis using proximate sensing imagery: a survey [[paper](https://arxiv.org/abs/2101.04827)][2021-01-14]
