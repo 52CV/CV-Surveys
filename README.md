@@ -48,6 +48,9 @@
 ### autonomous driving 自动驾驶
 - Explainability of vision-based autonomous driving systems: Review and challenges [[paper](https://arxiv.org/abs/2101.05307)][2021-01-15]
 
+### Vehicle Speed Estimation 车速估计
+- Vision-based Vehicle Speed Estimation for ITS: A Survey [[paper](https://arxiv.org/abs/2101.06159)][2021-01-18]
+
 ## Other
 
 - Urban land-use analysis using proximate sensing imagery: a survey [[paper](https://arxiv.org/abs/2101.04827)][2021-01-14]
