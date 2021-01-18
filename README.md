@@ -19,11 +19,15 @@
 ## Re-identification 人员重识别
 - Deep Learning for Person Re-identification: A Survey and Outlook [[paper](https://arxiv.org/abs/2001.04193v2)][[github](github.com/mangye16/ReI)][2021-01-06]
 
-## Classification 分类
+## Image Classification 分类
 
 ### One-Class Classification 单分类
 
 - One-Class Classification: A Survey  [[paper](https://arxiv.org/abs/2101.03064)][2021-01-11]
+
+### Hyperspectral Image Classification  高光谱图像分类
+
+- Hyperspectral Image Classification -- Traditional to Deep Models: A Survey for Future Prospects [[paper](https://arxiv.org/abs/2101.06116)][2021-01-18]
 
 ## Face 人脸技术
 
@@ -50,6 +54,11 @@
 
 ### Vehicle Speed Estimation 车速估计
 - Vision-based Vehicle Speed Estimation for ITS: A Survey [[paper](https://arxiv.org/abs/2101.06159)][2021-01-18]
+
+## Video Summarization 视频摘要
+
+- Video Summarization Using Deep Neural Networks: A Survey [[paper](https://arxiv.org/abs/2101.06072)][2021-01-18]
+
 
 ## Other
 
