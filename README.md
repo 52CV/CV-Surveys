@@ -59,6 +59,21 @@
 
 - Video Summarization Using Deep Neural Networks: A Survey [[paper](https://arxiv.org/abs/2101.06072)][2021-01-18]
 
+## Video Question Answering 视觉问答
+
+- Recent Advances in Video Question Answering: A Review of Datasets and Methods[[paper](https://arxiv.org/abs/2101.05954)][2021-01-18]
+
+## Medical Image 医学影像
+
+#### 医学图像分割
+- A survey on shape-constraint deep learning for medical image segmentation [[paper](https://arxiv.org/abs/2101.07721)][2021-01-20]
+
+#### 医学诊断字幕
+
+- Diagnostic Captioning: A Survey [[paper](https://arxiv.org/abs/2101.07299)][2021-01-20]
+
+
+
 
 ## Other
 
