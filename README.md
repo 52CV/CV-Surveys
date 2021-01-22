@@ -41,6 +41,8 @@
 
 - Hyperbolic Deep Neural Networks: A Survey [[paper](https://arxiv.org/abs/2101.04562)][2021-01-13]
 
+- Aesthetics, Personalization and Recommendation: A survey on Deep Learning in Fashion [[paper](https://arxiv.org/abs/2101.08301)][2021-01-22]
+
 ## GAN 生成对抗网络
 
 ### GAN Inversion GAN 逆映射
