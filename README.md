@@ -41,7 +41,7 @@
 
 - Hyperbolic Deep Neural Networks: A Survey [[paper](https://arxiv.org/abs/2101.04562)][2021-01-13]
 
-- Aesthetics, Personalization and Recommendation: A survey on Deep Learning in Fashion [[paper](https://arxiv.org/abs/2101.08301)][2021-01-22]
+- Aesthetics, Personalization and Recommendation: A survey on Deep Learning in Fashion [[paper](https://arxiv.org/abs/2101.08301)][2021-01-22] 基于深度学习、人工智能、机器学习的时尚穿搭技术综述
 
 ## GAN 生成对抗网络
 
