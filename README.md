@@ -39,11 +39,13 @@
 
 
 
-## Image Classification 分类
+## Image Classification 图像分类
 
 - One-Class Classification: A Survey  [[paper](https://arxiv.org/abs/2101.03064)][2021-01-11] 单分类综述
 
 - Hyperspectral Image Classification -- Traditional to Deep Models: A Survey for Future Prospects [[paper](https://arxiv.org/abs/2101.06116)][2021-01-18] 高光谱图像分类综述
+
+- Deep Learning for Scene Classification: A Survey [[paper](https://arxiv.org/abs/2101.10531)][2021-01-27] 深度学习在场景分类的应用综述
 
 
 
@@ -51,7 +53,7 @@
 
 ## Face 人脸技术
 
--Deep Learning-based Face Super-resolution: A Survey  [[paper](https://arxiv.org/abs/2101.03749)][2021-01-12]
+- Deep Learning-based Face Super-resolution: A Survey  [[paper](https://arxiv.org/abs/2101.03749)][2021-01-12]
 人脸超分辨率也称为【facial hallucination人脸幻构】系统地对人脸超分辨率中的深度学习技术进行了全面的回顾。
 
 - Weakly Supervised Learning for Facial Behavior Analysis : A Review [[paper](https://arxiv.org/abs/2101.09858)][2021-01-26] 无监督学习在人脸表情识别的应用综述
@@ -120,9 +122,7 @@ Pruning and Quantization for Deep Neural Network Acceleration: A Survey [[paper]
 
 ## Other
 
-- Urban land-use analysis using proximate sensing imagery: a survey [[paper](https://arxiv.org/abs/2101.04827)][2021-01-14]
-
-对 proximate sensing 支持土地利用分析的最先进方法和公开的数据集进行了全面回顾。
+- Urban land-use analysis using proximate sensing imagery: a survey [[paper](https://arxiv.org/abs/2101.04827)][2021-01-14] 对 proximate sensing 支持土地利用分析的最先进方法和公开的数据集进行了全面回顾。
 
 
 
