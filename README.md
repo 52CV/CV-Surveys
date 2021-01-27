@@ -75,6 +75,9 @@ Pruning and Quantization for Deep Neural Network Acceleration: A Survey [[paper]
 - Aesthetics, Personalization and Recommendation: A survey on Deep Learning in Fashion [[paper](https://arxiv.org/abs/2101.08301)][2021-01-22] 基于深度学习、人工智能、机器学习的时尚穿搭技术综述
 
 
+## Remote Image 遥感图像
+
+A Review on Deep Learning in UAV Remote Sensing [[paper](https://arxiv.org/abs/2101.10808)][2021-01-27] 深度学习在无人机遥感中的应用综述
 
 
 
@@ -124,6 +127,8 @@ Pruning and Quantization for Deep Neural Network Acceleration: A Survey [[paper]
 ## Other
 
 - Urban land-use analysis using proximate sensing imagery: a survey [[paper](https://arxiv.org/abs/2101.04827)][2021-01-14] 对 proximate sensing 支持土地利用分析的最先进方法和公开的数据集进行了全面回顾。
+
+- Curriculum Learning: A Survey  [[paper](https://arxiv.org/abs/2101.10382)][2021-01-27] 机器学习综述
 
 
 
