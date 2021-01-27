@@ -47,7 +47,7 @@
 
 - Deep Learning for Scene Classification: A Survey [[paper](https://arxiv.org/abs/2101.10531)][2021-01-27] 深度学习在场景分类的应用综述
 
-
+- Online Continual Learning in Image Classification: An Empirical Survey [[paper](https://arxiv.org/abs/2101.10423)][2021-01-27]图像分类中的在线持续学习综述
 
 
 
