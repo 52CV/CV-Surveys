@@ -118,6 +118,7 @@ Pruning and Quantization for Deep Neural Network Acceleration: A Survey [[paper]
 
 - Applications of Deep Learning in Fundus Images: A Review  [[paper](https://arxiv.org/abs/2101.09864)][2021-01-26] [[github](https://github.com/nkicsl/Fundus_Review)]深度学习在眼底图像中应用综述
 
+- A Survey and Analysis on Automated Glioma Brain Tumor Segmentation and Overall Patient Survival Prediction  [[paper](https://arxiv.org/abs/2101.10599)][2021-01-27] 医学图像分析综述
 
 
 ## Other
