@@ -50,6 +50,12 @@
 - Online Continual Learning in Image Classification: An Empirical Survey [[paper](https://arxiv.org/abs/2101.10423)][2021-01-27]图像分类中的在线持续学习综述
 
 
+## Image Retrieval 图像检索
+
+- Deep Image Retrieval: A Survey [[paper](https://arxiv.org/abs/2101.11282)][2021-01-28] 图像检索综述
+
+
+
 
 ## Face 人脸技术
 
@@ -129,6 +135,9 @@ A Review on Deep Learning in UAV Remote Sensing [[paper](https://arxiv.org/abs/2
 - Urban land-use analysis using proximate sensing imagery: a survey [[paper](https://arxiv.org/abs/2101.04827)][2021-01-14] 对 proximate sensing 支持土地利用分析的最先进方法和公开的数据集进行了全面回顾。
 
 - Curriculum Learning: A Survey  [[paper](https://arxiv.org/abs/2101.10382)][2021-01-27] 机器学习综述
+
+
+Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective: A Survey and Beyond [[paper](https://arxiv.org/abs/2101.11517)][2021-01-28] 
 
 
 
