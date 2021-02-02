@@ -6,6 +6,12 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
+详细请看：
+
+- [推荐几篇近期必看的视觉综述，含图像检索、目标检测、人脸关键点检测、医学图像分割、遥感、模型优化等](https://mp.weixin.qq.com/s/rO-0IaDy7cAehryFKYbT_g) [一月中下旬]
+
+- [推荐几篇近期必看的视觉综述，含GAN、Transformer、人脸超分辨、遥感等](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247488123&idx=1&sn=f51f3137a16e625c962705997f0daf0a&chksm=fad13d2dcda6b43b1001b8ff924f317f5fcbdbcbd41894b193823e2fcd1d2412f4c3394ebb8e&scene=21#wechat_redirect) [一月上旬]
+
 
 
 ## Transformers
@@ -65,6 +71,8 @@
 - Weakly Supervised Learning for Facial Behavior Analysis : A Review [[paper](https://arxiv.org/abs/2101.09858)][2021-01-26] 无监督学习在人脸表情识别的应用综述
 
 - Fast Facial Landmark Detection and Applications: A Survey   [[paper](https://arxiv.org/abs/2101.10808)][2021-01-27] 人脸关键点检测综述
+
+- About Face: A Survey of Facial Recognition Evaluation [[paper](https://arxiv.org/abs/2102.00813)][2021-02-02] 人脸识别综述
 
 
 
