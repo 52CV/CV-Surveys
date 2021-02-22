@@ -41,6 +41,8 @@
 ## Re-identification 人员重识别
 - Deep Learning for Person Re-identification: A Survey and Outlook [[paper](https://arxiv.org/abs/2001.04193v2)][[github](github.com/mangye16/ReI)][2021-01-06]
 
+- (Deep Gait Recognition: A Survey)[https://arxiv.org/abs/2102.09546] [2021-02-19] 全面调查深度学习在步态识别方面的突破和最新发展，并涵盖了包括数据集、测试协议、最先进的解决方案、挑战和未来研究方向在内的广泛话题。
+
 
 
 
@@ -78,6 +80,11 @@
 - Fast Facial Landmark Detection and Applications: A Survey   [[paper](https://arxiv.org/abs/2101.10808)][2021-01-27] 人脸关键点检测综述
 
 - About Face: A Survey of Facial Recognition Evaluation [[paper](https://arxiv.org/abs/2102.00813)][2021-02-02] 人脸识别综述
+
+
+## Image Super-resolution 图像超分辨率
+
+- [A Comprehensive Review of Deep Learning-based Single Image Super-resolution](https://arxiv.org/abs/2102.09351)[2021-02-19] 基于深度学习的单图像超分辨调查
 
 
 
@@ -141,6 +148,8 @@ A Review on Deep Learning in UAV Remote Sensing [[paper](https://arxiv.org/abs/2
 - Applications of Deep Learning in Fundus Images: A Review  [[paper](https://arxiv.org/abs/2101.09864)][2021-01-26] [[github](https://github.com/nkicsl/Fundus_Review)]深度学习在眼底图像中应用综述
 
 - A Survey and Analysis on Automated Glioma Brain Tumor Segmentation and Overall Patient Survival Prediction  [[paper](https://arxiv.org/abs/2101.10599)][2021-01-27] 医学图像分析综述
+
+- [Domain Adaptation for Medical Image Analysis: A Survey](https://arxiv.org/abs/2102.09508) [2021-02-19] 旨在调查医学图像分析中域适应方法的最新进展
 
 
 ## Other
