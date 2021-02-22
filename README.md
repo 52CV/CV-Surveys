@@ -41,7 +41,7 @@
 ## Re-identification 人员重识别
 - Deep Learning for Person Re-identification: A Survey and Outlook [[paper](https://arxiv.org/abs/2001.04193v2)][[github](github.com/mangye16/ReI)][2021-01-06]
 
-- (Deep Gait Recognition: A Survey)[https://arxiv.org/abs/2102.09546] [2021-02-19] 全面调查深度学习在步态识别方面的突破和最新发展，并涵盖了包括数据集、测试协议、最先进的解决方案、挑战和未来研究方向在内的广泛话题。
+- [Deep Gait Recognition: A Survey](https://arxiv.org/abs/2102.09546) [2021-02-19] 全面调查深度学习在步态识别方面的突破和最新发展，并涵盖了包括数据集、测试协议、最先进的解决方案、挑战和未来研究方向在内的广泛话题。
 
 
 
