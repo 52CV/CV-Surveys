@@ -22,6 +22,12 @@
 
 
 
+## Point Clouds 点云
+
+
+- [Attention Models for Point Clouds in Deep Learning: A Survey](https://arxiv.org/abs/2102.10788) [2021-02-23]对使用注意力模型的点云特征表示进行全面的概述
+
+
 ## Object Detection 目标检测
 
 - Occlusion Handling in Generic Object Detection: A Review [[paper](https://arxiv.org/abs/2101.08845)][2021-01-25]
@@ -150,6 +156,10 @@ A Review on Deep Learning in UAV Remote Sensing [[paper](https://arxiv.org/abs/2
 - A Survey and Analysis on Automated Glioma Brain Tumor Segmentation and Overall Patient Survival Prediction  [[paper](https://arxiv.org/abs/2101.10599)][2021-01-27] 医学图像分析综述
 
 - [Domain Adaptation for Medical Image Analysis: A Survey](https://arxiv.org/abs/2102.09508) [2021-02-19] 旨在调查医学图像分析中域适应方法的最新进展
+
+
+
+
 
 
 ## Other
