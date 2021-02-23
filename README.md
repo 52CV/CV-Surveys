@@ -157,6 +157,8 @@ A Review on Deep Learning in UAV Remote Sensing [[paper](https://arxiv.org/abs/2
 
 - [Domain Adaptation for Medical Image Analysis: A Survey](https://arxiv.org/abs/2102.09508) [2021-02-19] 旨在调查医学图像分析中域适应方法的最新进展
 
+- [A Comprehensive Review of Computer-aided Whole-slide Image Analysis: from Datasets to Feature Extraction, Segmentation, Classification, and Detection Approaches](https://arxiv.org/abs/2102.10553) [2021-02-23]对基于机器学习的 WSI 分割、分类和检测的综述
+
 
 
 
