@@ -87,7 +87,7 @@
 
 - About Face: A Survey of Facial Recognition Evaluation [[paper](https://arxiv.org/abs/2102.00813)][2021-02-02] 人脸识别综述
 
-- [Countering Malicious DeepFakes: Survey, Battleground, and Horizon](https://arxiv.org/abs/2103.00218)[主页](http://www.xujuefei.com/dfsurvey)[2021-03-02]对抵制恶意的 DeepFakes 综述调查
+- [Countering Malicious DeepFakes: Survey, Battleground, and Horizon](https://arxiv.org/abs/2103.00218) [[主页](http://www.xujuefei.com/dfsurvey)][2021-03-02]对抵制恶意的 DeepFakes 综述调查
 
 
 ## Image Super-resolution 图像超分辨率
