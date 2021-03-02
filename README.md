@@ -161,6 +161,8 @@ A Review on Deep Learning in UAV Remote Sensing [[paper](https://arxiv.org/abs/2
 
 - [A Comprehensive Review of Computer-aided Whole-slide Image Analysis: from Datasets to Feature Extraction, Segmentation, Classification, and Detection Approaches](https://arxiv.org/abs/2102.10553) [2021-02-23]对基于机器学习的 WSI 分割、分类和检测的综述
 
+- [Medical Image Segmentation with Limited Supervision: A Review of Deep Network Models](https://arxiv.org/abs/2103.00429) [2021-03-02]
+
 
 
 
