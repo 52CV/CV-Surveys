@@ -8,8 +8,8 @@
 
 ## 目录
 
-|:cat:|:dog:|:tiger:|:wolaf:|
-|......|......|......|......|
+|:cat:|:dog:|:tiger:|:wolf:|
+|-----|-----|-----|-----|
 |[20.异常检测](#20)|[19.Transformers](#19)|[18.Point Clouds 点云](#18)|[17.Object Detection 目标检测](#17)|
 |[16.Human Action Detection and Recognitionn 人体动作检测与识别](#16)|[15.Re-identification 人员重识别](#15)|[14.:dancers:人体姿态估计](#14)|[13.Image Classification 图像分类](#13)|
 |[12.Image Retrieval 图像检索](#12)|[11.:neutral_face:人脸技术](#11)|[10.Image Super-resolution 图像超分辨率](#10)|[9.模型压缩 & 应用部署](#9)|
