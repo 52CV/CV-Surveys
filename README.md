@@ -54,7 +54,7 @@
 
 
 
-## 19.Transformers
+## 19.Transformers<br>
 
 - [Transformers in Vision: A Survey](https://arxiv.org/abs/2101.01169)[2021-01-01]
 -- 旨在为计算机视觉学科中的 Transformer 模型提供一个全面的概述
@@ -155,7 +155,7 @@ A Review on Deep Learning in UAV Remote Sensing [[paper](https://arxiv.org/abs/2
 
 
 
-## 6.GAN 生成对抗网络
+## 6.GAN 生成对抗网络<br>
 
 - GAN Inversion: A Survey [[paper](https://arxiv.org/abs/2101.05278)][2021-01-15] [[awesome gan-inversion papers](https://github.com/weihaox/awesome-image-translation/blob/master/awesome-gan-inversion.md)]
 [[Papers on generative modeling](https://github.com/zhoubolei/awesome-generative-modeling)] GAN 逆映射综述
