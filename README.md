@@ -34,9 +34,9 @@
 
 [Remote Image 遥感图像](7)<br>
 
-[6.GAN 生成对抗网络](#6)<br>
+[6. GAN 生成对抗网络](#6)<br>
 
-[ 5.智能驾驶](5)<br>
+[5.智能驾驶](5)<br>
 
 [4.Video Summarization 视频摘要](4)<br>
 
