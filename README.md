@@ -199,12 +199,12 @@
 
 ## 1.Other
 
-- [Urban land-use analysis using proximate sensing imagery: a survey](https://arxiv.org/abs/2101.04827)]<br>[2021-01-14] <br>对 proximate sensing 支持土地利用分析的最先进方法和公开的数据集进行了全面回顾。
+- [Urban land-use analysis using proximate sensing imagery: a survey](https://arxiv.org/abs/2101.04827)<br>[2021-01-14] <br>对 proximate sensing 支持土地利用分析的最先进方法和公开的数据集进行了全面回顾。
 
-- [Curriculum Learning: A Survey](https://arxiv.org/abs/2101.10382)]<br>[2021-01-27] <br>机器学习综述
+- [Curriculum Learning: A Survey](https://arxiv.org/abs/2101.10382)<br>[2021-01-27] <br>机器学习综述
 
 
-- [Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective: A Survey and Beyond](https://arxiv.org/abs/2101.11517)]<br>[2021-01-28] 
+- [Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective: A Survey and Beyond](https://arxiv.org/abs/2101.11517)<br>[2021-01-28] 
 
 
 
