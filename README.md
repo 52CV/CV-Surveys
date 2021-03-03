@@ -16,7 +16,7 @@
 [14.Human Pose Estimation 人体姿态估计](#14)<br>
 [13.Image Classification 图像分类](#13)<br>
 [12.Image Retrieval 图像检索](#12)<br>
-[11.:ok:人脸技术](#11)<br>
+[11.:neutral_face:人脸技术](#11)<br>
 [10.Image Super-resolution 图像超分辨率](#10)<br>
 [9.模型压缩 & 应用部署](#9)<br>
 [8.Deep Learning 深度学习](#8)<br>
