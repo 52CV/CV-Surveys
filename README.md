@@ -8,6 +8,7 @@
 
 ## 目录
 
+[20.异常检测](#20)<br>
 [19.Transformers](#19)<br>
 [18.Point Clouds 点云](#18)<br>
 [17.Object Detection 目标检测](#17)<br>
@@ -33,6 +34,13 @@
 - [推荐几篇近期必看的视觉综述，含图像检索、目标检测、人脸关键点检测、医学图像分割、遥感、模型优化等](https://mp.weixin.qq.com/s/rO-0IaDy7cAehryFKYbT_g) <br>[一月中下旬]
 
 - [推荐几篇近期必看的视觉综述，含GAN、Transformer、人脸超分辨、遥感等](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247488123&idx=1&sn=f51f3137a16e625c962705997f0daf0a&chksm=fad13d2dcda6b43b1001b8ff924f317f5fcbdbcbd41894b193823e2fcd1d2412f4c3394ebb8e&scene=21#wechat_redirect) <br>[一月上旬]
+
+<a name="20"/> 
+
+## 20.异常检测
+
+- [Image/Video Deep Anomaly Detection: A Survey](https://arxiv.org/abs/2103.01739)
+<br>[2021-03-03]<br>基于图像和视频的深度学习 AD 的专业综述的缺失，作者对此进行了深入调查。工作的重点在无监督技术上，并提供 AD 概念的精确定义，同时对最近提出的 AD 方法进行了的分类。以及对当前的挑战和未来的研究方向进行了彻底讨论。
 
 
 <a name="19"/> 
