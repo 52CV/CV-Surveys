@@ -13,7 +13,7 @@
 [17.Object Detection 目标检测](#17)<br>
 [16.Human Action Detection and Recognitionn 人体动作检测与识别](#16)<br>
 [15.Re-identification 人员重识别](#15)<br>
-[14.Human Pose Estimation 人体姿态估计](#14)<br>
+[14.:dancers:人体姿态估计](#14)<br>
 [13.Image Classification 图像分类](#13)<br>
 [12.Image Retrieval 图像检索](#12)<br>
 [11.:neutral_face:人脸技术](#11)<br>
@@ -21,11 +21,11 @@
 [9.模型压缩 & 应用部署](#9)<br>
 [8.Deep Learning 深度学习](#8)<br>
 [7.Remote Image 遥感图像](#7)<br>
-[6. GAN 生成对抗网络](#6)<br>
-[5.智能驾驶](5)<br>
+[6.GAN 生成对抗网络](#6)<br>
+[5.:bus:智能驾驶](5)<br>
 [4.Video Summarization 视频摘要](#4)<br>
 [3.Video Question Answering 视觉问答](#3)<br>
-[2.Medical Image 医学影像](#2)<br>
+[2.:hospital:医学影像](#2)<br>
 [1.Other](#1)<br>
 
 详细请看：
