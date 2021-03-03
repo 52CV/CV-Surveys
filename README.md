@@ -49,6 +49,7 @@
 ## 17.Object Detection 目标检测
 
 - [Occlusion Handling in Generic Object Detection: A Review](https://arxiv.org/abs/2101.08845)<br>[2021-01-25]
+- [A Survey of Deep Learning Techniques for Weed Detection from Images](https://arxiv.org/abs/2103.01415)<br>[2021-03-03]<br>从图像中检测杂草的深度学习技术调查报告,共梳理了70篇相关文献。
 
 
 <a name="16"/> 
@@ -194,12 +195,10 @@
 
 ## 1.Other
 
-- [Urban land-use analysis using proximate sensing imagery: a survey](https://arxiv.org/abs/2101.04827)<br>[2021-01-14] <br>对 proximate sensing 支持土地利用分析的最先进方法和公开的数据集进行了全面回顾。
-
-- [Curriculum Learning: A Survey](https://arxiv.org/abs/2101.10382)<br>[2021-01-27] <br>机器学习综述
-
-
-- [Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective: A Survey and Beyond](https://arxiv.org/abs/2101.11517)<br>[2021-01-28] 
+- [Urban land-use analysis using proximate sensing imagery: a survey](https://arxiv.org/abs/2101.04827)<br>[2021-01-14] <br>对 proximate sensing 支持土地利用分析的最先进方法和公开的数据集进行了全面回顾。<br>
+- [Curriculum Learning: A Survey](https://arxiv.org/abs/2101.10382)<br>[2021-01-27] <br>机器学习综述<br>
+- [Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective: A Survey and Beyond](https://arxiv.org/abs/2101.11517)<br>[2021-01-28] <br>
+- [A Survey On Universal Adversarial Attack](https://arxiv.org/abs/2103.01498)<br>
 
 
 
