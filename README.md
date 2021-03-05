@@ -9,7 +9,8 @@
 ## 目录
 
 |:cat:|:dog:|:tiger:|:wolf:|
-|-----|-----|-----|-----|
+|------|------|------|------|
+|-----|-----|-----|[21.小/零样本，域适应，域泛化](#21)|
 |[20.异常检测](#20)|[19.Transformers](#19)|[18.Point Clouds 点云](#18)|[17.Object Detection 目标检测](#17)|
 |[16.Human Action Detection and Recognitionn 人体动作检测与识别](#16)|[15.Re-identification 人员重识别](#15)|[14.:dancers:人体姿态估计](#14)|[13.Image Classification 图像分类](#13)|
 |[12.Image Retrieval 图像检索](#12)|[11.:neutral_face:人脸技术](#11)|[10.Image Super-resolution 图像超分辨率](#10)|[9.模型压缩 & 应用部署](#9)|
@@ -21,6 +22,13 @@
 - [推荐几篇近期必看的视觉综述，含图像检索、目标检测、人脸关键点检测、医学图像分割、遥感、模型优化等](https://mp.weixin.qq.com/s/rO-0IaDy7cAehryFKYbT_g) <br>[一月中下旬]
 
 - [推荐几篇近期必看的视觉综述，含GAN、Transformer、人脸超分辨、遥感等](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247488123&idx=1&sn=f51f3137a16e625c962705997f0daf0a&chksm=fad13d2dcda6b43b1001b8ff924f317f5fcbdbcbd41894b193823e2fcd1d2412f4c3394ebb8e&scene=21#wechat_redirect) <br>[一月上旬]
+
+<a name="21"/> 
+
+## 21.小/零样本，域适应，域泛化
+
+- [Generalizing to Unseen Domains: A Survey on Domain Generalization](https://arxiv.org/abs/2103.03097)<br>本篇文章作者从 same-source（同源） 和 cross-source（跨源）域对点云配准进行了全面的回顾
+
 
 <a name="20"/> 
 
@@ -43,6 +51,7 @@
 
 
 - [Attention Models for Point Clouds in Deep Learning: A Survey](https://arxiv.org/abs/2102.10788) <br>[2021-02-23]<br>对使用注意力模型的点云特征表示进行全面的概述
+- [A comprehensive survey on point cloud registration](https://arxiv.org/abs/2103.02690)<br>[2021-03-05]<br>回顾了跨源点云配准的发展，并建立一个新的基准来评估最新的配准算法。此外，本次综述还总结了基准数据集，并讨论了各领域的点云配准应用。
 
 <a name="17"/> 
 
