@@ -81,26 +81,23 @@
 ## 15.Re-identification 人员重识别
 - [Deep Learning for Person Re-identification: A Survey and Outlook](https://arxiv.org/abs/2001.04193v2)<br>[[github](github.com/mangye16/ReI)]<br>[2021-01-06]
 
-- [Deep Gait Recognition: A Survey](https://arxiv.org/abs/2102.09546) <br>[2021-02-19] <br>全面调查深度学习在步态识别方面的突破和最新发展，并涵盖了包括数据集、测试协议、最先进的解决方案、挑战和未来研究方向在内的广泛话题。
+- [Deep Gait Recognition: A Survey](https://arxiv.org/abs/2102.09546) <br>[2021-02-19]<br>全面调查深度学习在步态识别方面的突破和最新发展，并涵盖了包括数据集、测试协议、最先进的解决方案、挑战和未来研究方向在内的广泛话题。
 
 
 <a name="14"/> 
 
 ## 14.Human Pose Estimation 人体姿态估计
 
-- [Gesture Recognition in Robotic Surgery: a Review](https://arxiv.org/abs/2102.00027) <br>[2021-02-02] <br>机器人手术中的手势识别：综述
+- [Gesture Recognition in Robotic Surgery: a Review](https://arxiv.org/abs/2102.00027) <br>[2021-02-02]<br>机器人手术中的手势识别：综述
 
 <a name="13"/> 
 
 ## 13.Image Classification 图像分类
 
-- [One-Class Classification: A Survey](https://arxiv.org/abs/2101.03064)<br>[2021-01-11] <br>单分类综述
-
-- [Hyperspectral Image Classification -- Traditional to Deep Models: A Survey for Future Prospects](https://arxiv.org/abs/2101.06116)<br>[2021-01-18] <br>高光谱图像分类综述
-
-- [Deep Learning for Scene Classification: A Survey](https://arxiv.org/abs/2101.10531)<br>[2021-01-27] <br>深度学习在场景分类的应用综述
-
-- [Online Continual Learning in Image Classification: An Empirical Survey](https://arxiv.org/abs/2101.10423)<br>[2021-01-27]<br>图像分类中的在线持续学习综述
+- [One-Class Classification: A Survey](https://arxiv.org/abs/2101.03064)<br>[2021-01-11] <br>单分类综述<br>
+- [Hyperspectral Image Classification -- Traditional to Deep Models: A Survey for Future Prospects](https://arxiv.org/abs/2101.06116)<br>[2021-01-18] <br>高光谱图像分类综述<br>
+- [Deep Learning for Scene Classification: A Survey](https://arxiv.org/abs/2101.10531)<br>[2021-01-27] <br>深度学习在场景分类的应用综述<br>
+- [Online Continual Learning in Image Classification: An Empirical Survey](https://arxiv.org/abs/2101.10423)<br>[2021-01-27]<br>图像分类中的在线持续学习综述<br>
 
 
 <a name="12"/> 
@@ -114,15 +111,11 @@
 
 ## 11.Face 人脸技术
 
-- [Deep Learning-based Face Super-resolution: A Survey](https://arxiv.org/abs/2101.03749)<br>[2021-01-12]<br>人脸超分辨率也称为【facial hallucination人脸幻构】系统地对人脸超分辨率中的深度学习技术进行了全面的回顾。
-
-- [Weakly Supervised Learning for Facial Behavior Analysis : A Review](https://arxiv.org/abs/2101.09858)<br>[2021-01-26] <br>无监督学习在人脸表情识别的应用综述
-
-- [Fast Facial Landmark Detection and Applications: A Survey](https://arxiv.org/abs/2101.10808)<br>[2021-01-27] <br>人脸关键点检测综述
-
-- [About Face: A Survey of Facial Recognition Evaluation](https://arxiv.org/abs/2102.00813)<br>[2021-02-02] <br>人脸识别综述
-
-- [Countering Malicious DeepFakes: Survey, Battleground, and Horizon](https://arxiv.org/abs/2103.00218) <br>[[主页](http://www.xujuefei.com/dfsurvey)]<br>[2021-03-02]<br>对抵制恶意的 DeepFakes 综述调查
+- [Deep Learning-based Face Super-resolution: A Survey](https://arxiv.org/abs/2101.03749)<br>[2021-01-12]<br>人脸超分辨率也称为【facial hallucination人脸幻构】系统地对人脸超分辨率中的深度学习技术进行了全面的回顾。<br>
+- [Weakly Supervised Learning for Facial Behavior Analysis : A Review](https://arxiv.org/abs/2101.09858)<br>[2021-01-26]<br>无监督学习在人脸表情识别的应用综述<br>
+- [Fast Facial Landmark Detection and Applications: A Survey](https://arxiv.org/abs/2101.10808)<br>[2021-01-27]<br>人脸关键点检测综述<br>
+- [About Face: A Survey of Facial Recognition Evaluation](https://arxiv.org/abs/2102.00813)<br>[2021-02-02]<br>人脸识别综述<br>
+- [Countering Malicious DeepFakes: Survey, Battleground, and Horizon](https://arxiv.org/abs/2103.00218)<br>[[主页](http://www.xujuefei.com/dfsurvey)]<br>[2021-03-02]<br>对抵制恶意的 DeepFakes 综述调查
 
 
 <a name="10"/> 
@@ -136,14 +129,13 @@
 
 ## 9.模型压缩 & 应用部署
 
-- [Pruning and Quantization for Deep Neural Network Acceleration: A Survey](https://arxiv.org/abs/2101.09671)<br>[2021-01-26] <br>量化剪枝综述
+- [Pruning and Quantization for Deep Neural Network Acceleration: A Survey](https://arxiv.org/abs/2101.09671)<br>[2021-01-26]<br>量化剪枝综述
 
 <a name="8"/> 
 
 ## 8.Deep Learning 深度学习
 
-- [Hyperbolic Deep Neural Networks: A Survey](https://arxiv.org/abs/2101.04562)<br>[2021-01-13]
-
+- [Hyperbolic Deep Neural Networks: A Survey](https://arxiv.org/abs/2101.04562)<br>[2021-01-13]<br>
 - [Aesthetics, Personalization and Recommendation: A survey on Deep Learning in Fashion](https://arxiv.org/abs/2101.08301)<br>[2021-01-22] <br>基于深度学习、人工智能、机器学习的时尚穿搭技术综述
 
 
@@ -157,20 +149,16 @@
 
 ## 6.GAN 生成对抗网络<br>
 
-- [GAN Inversion: A Survey](https://arxiv.org/abs/2101.05278)<br>[2021-01-15] <br>[[awesome gan-inversion papers](https://github.com/weihaox/awesome-image-translation/blob/master/awesome-gan-inversion.md)]
-<br>[[Papers on generative modeling](https://github.com/zhoubolei/awesome-generative-modeling)] <br>GAN 逆映射综述
-
-
-- [Adversarial Text-to-Image Synthesis: A Review](https://arxiv.org/abs/2101.09983)<br>[2021-01-26] <br>文本到图像生成综述
+- [GAN Inversion: A Survey](https://arxiv.org/abs/2101.05278)<br>[2021-01-15] <br>[[awesome gan-inversion papers](https://github.com/weihaox/awesome-image-translation/blob/master/awesome-gan-inversion.md)]<br>[[Papers on generative modeling](https://github.com/zhoubolei/awesome-generative-modeling)]<br>GAN 逆映射综述<br>
+- [Adversarial Text-to-Image Synthesis: A Review](https://arxiv.org/abs/2101.09983)<br>[2021-01-26]<br>文本到图像生成综述<br>
 
 
 <a name="5"/> 
 
 ## 5.智能驾驶
 
-- [Explainability of vision-based autonomous driving systems: Review and challenges](https://arxiv.org/abs/2101.05307)<br>[2021-01-15] <br>自动驾驶综述
-
-- [Vision-based Vehicle Speed Estimation for ITS: A Survey](https://arxiv.org/abs/2101.06159)<br>[2021-01-18] <br>车速估计综述
+- [Explainability of vision-based autonomous driving systems: Review and challenges](https://arxiv.org/abs/2101.05307)<br>[2021-01-15] <br>自动驾驶综述<br>
+- [Vision-based Vehicle Speed Estimation for ITS: A Survey](https://arxiv.org/abs/2101.06159)<br>[2021-01-18]<br>车速估计综述<br>
 
 
 <a name="4"/> 
@@ -191,22 +179,22 @@
 
 ## 2.Medical Image 医学影像
 
-- [A survey on shape-constraint deep learning for medical image segmentation](https://arxiv.org/abs/2101.07721)<br>[2021-01-20] <br>医学图像分割综述
-
 - [Diagnostic Captioning: A Survey](https://arxiv.org/abs/2101.07299)<br>[2021-01-20] <br>医学诊断字幕综述
 
 - [Applications of Deep Learning in Fundus Images: A Review](https://arxiv.org/abs/2101.09864)<br>[2021-01-26] <br>[[github](https://github.com/nkicsl/Fundus_Review)]<br>深度学习在眼底图像中应用综述
 
-- [A Survey and Analysis on Automated Glioma Brain Tumor Segmentation and Overall Patient Survival Prediction](https://arxiv.org/abs/2101.10599)<br>[2021-01-27] <br>医学图像分析综述
+- [A Survey and Analysis on Automated Glioma Brain Tumor Segmentation and Overall Patient Survival Prediction](https://arxiv.org/abs/2101.10599)<br>[2021-01-27]<br>医学图像分析综述
 
-- [Domain Adaptation for Medical Image Analysis: A Survey](https://arxiv.org/abs/2102.09508) <br>[2021-02-19] <br>旨在调查医学图像分析中域适应方法的最新进展
+- [Domain Adaptation for Medical Image Analysis: A Survey](https://arxiv.org/abs/2102.09508)<br>[2021-02-19]<br>旨在调查医学图像分析中域适应方法的最新进展
 
 - [A Comprehensive Review of Computer-aided Whole-slide Image Analysis: from Datasets to Feature Extraction, Segmentation, Classification, and Detection Approaches](https://arxiv.org/abs/2102.10553) <br>[2021-02-23]<br>对基于机器学习的 WSI 分割、分类和检测的综述
 
-- [Medical Image Segmentation with Limited Supervision: A Review of Deep Network Models](https://arxiv.org/abs/2103.00429) <br>[2021-03-02]<br>
+- [Medical Image Segmentation with Limited Supervision: A Review of Deep Network Models](https://arxiv.org/abs/2103.00429)<br>[2021-03-02]<br>
 - [Deep reinforcement learning in medical imaging: A literature review](https://arxiv.org/abs/2103.05115)<br>[2021-03-10]<br>医学影像中DRL的文献综述
 
-
+* 医学图像分割
+  * [A survey on shape-constraint deep learning for medical image segmentation](https://arxiv.org/abs/2101.07721)<br>[2021-01-20]<br>医学图像分割综述
+  * [Automated liver tissues delineation based on machine learning techniques: A survey, current trends and future orientations](https://arxiv.org/abs/2103.06384)<br>[2021-03-12]<br>本篇综述是对2014年至2020年期间所发表的主要研究的调查，包含研究人员用于分割肝脏、肝脏肿瘤和肝脏-血管结构的不同机器学习算法。
 
 <a name="1"/> 
 
