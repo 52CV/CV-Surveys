@@ -10,7 +10,7 @@
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
-|:x:|[23.3D 语义场景完成(SSC)](#23)|[22.图像分割](#22)|[21.小/零样本，域适应，域泛化](#21)|
+|[24.模型压缩/知识蒸馏](#24)|[23.3D 语义场景完成(SSC)](#23)|[22.图像分割](#22)|[21.小/零样本，域适应，域泛化](#21)|
 |[20.异常检测](#20)|[19.Transformers](#19)|[18.Point Clouds 点云](#18)|[17.Object Detection 目标检测](#17)|
 |[16.Human Action Detection and Recognitionn 人体动作检测与识别](#16)|[15.Re-identification 人员重识别](#15)|[14.:dancers:人体姿态估计](#14)|[13.Image Classification 图像分类](#13)|
 |[12.Image Retrieval 图像检索](#12)|[11.:neutral_face:人脸技术](#11)|[10.Image Super-resolution 图像超分辨率](#10)|[9.模型压缩 & 应用部署](#9)|
@@ -22,6 +22,12 @@
 - [推荐几篇近期必看的视觉综述，含图像检索、目标检测、人脸关键点检测、医学图像分割、遥感、模型优化等](https://mp.weixin.qq.com/s/rO-0IaDy7cAehryFKYbT_g) <br>[一月中下旬]
 
 - [推荐几篇近期必看的视觉综述，含GAN、Transformer、人脸超分辨、遥感等](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247488123&idx=1&sn=f51f3137a16e625c962705997f0daf0a&chksm=fad13d2dcda6b43b1001b8ff924f317f5fcbdbcbd41894b193823e2fcd1d2412f4c3394ebb8e&scene=21#wechat_redirect) <br>[一月上旬]
+
+<a name="24"/>
+
+## 24.模型压缩/知识蒸馏/应用部署/剪枝/量化
+
+* [Dynamic Neural Networks: A Survey](https://arxiv.org/abs/2102.04906)<br>[2021-02-09]<br>清华黄高等人新作：动态神经网络首篇综述
 
 
 <a name="23"/>
@@ -41,7 +47,9 @@
 
 ## 21.小/零样本，域适应，域泛化
 
-- [Generalizing to Unseen Domains: A Survey on Domain Generalization](https://arxiv.org/abs/2103.03097)<br>[2021-03-05]<br>本篇文章作者从 same-source（同源） 和 cross-source（跨源）域对点云配准进行了全面的回顾
+* 域泛化
+  * [Generalizing to Unseen Domains: A Survey on Domain Generalization](https://arxiv.org/abs/2103.03097)<br>[2021-03-05]<br>本篇文章作者从 same-source（同源） 和 cross-source（跨源）域对点云配准进行了全面的回顾
+  * [Domain Generalization: A Survey](https://arxiv.org/abs/2103.02503)<br>[2021-03-04]<br>本篇文章是首次对 DG（Domain Generalization）的十年发展进行了全面的文献回顾总结<br>
 
 
 <a name="20"/> 
@@ -214,7 +222,6 @@
 - [Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective: A Survey and Beyond](https://arxiv.org/abs/2101.11517)<br>[2021-01-28] <br>
 - [A Survey On Universal Adversarial Attack](https://arxiv.org/abs/2103.01498)<br>[2021-03-03]<br>
 - [Material Measurement Units: Foundations Through a Survey](https://arxiv.org/abs/2103.01997)<br>[2021-03-04]<br>本篇综述确定一种新兴的计算机视觉支持的物料监测技术，称为物料测量单元(MMU)；对发展 MMU 的相关工作进行了调查；描述了一个部署多个 MMU的物料库存监测传感器网络。<br>
-- [Domain Generalization: A Survey](https://arxiv.org/abs/2103.02503)<br>[2021-03-04]<br>本篇文章是首次对 DG（Domain Generalization）的十年发展进行了全面的文献回顾总结<br>
 - [Land Cover Mapping in Limited Labels Scenario: A Survey](https://arxiv.org/abs/2103.02429)<br> [2021-03-04]<br>IJCAI 2021<br>本篇文章是对土地覆盖测绘中的挑战和用于解决这些问题的机器学习方法进行了结构化的全面概述。并对该领域推进研究的差距和机会进行了讨论。<br>
 - [Deep Neural Networks for the Assessment of Surgical Skills: A Systematic Review](https://arxiv.org/abs/2103.05113)<br>[2021-03-10]<br>本篇综述是对深度神经网络在手术技能评估中的应用的全面调查，包含530篇论文文献。
 
