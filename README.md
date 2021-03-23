@@ -10,6 +10,7 @@
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
+|[25.图像处理](#25)|
 |[24.模型压缩/知识蒸馏](#24)|[23.3D 语义场景完成(SSC)](#23)|[22.图像分割](#22)|[21.小/零样本，域适应，域泛化](#21)|
 |[20.异常检测](#20)|[19.Transformers](#19)|[18.Point Clouds 点云](#18)|[17.Object Detection 目标检测](#17)|
 |[16.Human Action Detection and Recognitionn 人体动作检测与识别](#16)|[15.Re-identification 人员重识别](#15)|[14.:dancers:人体姿态估计](#14)|[13.Image Classification 图像分类](#13)|
@@ -22,6 +23,13 @@
 - [推荐几篇近期必看的视觉综述，含图像检索、目标检测、人脸关键点检测、医学图像分割、遥感、模型优化等](https://mp.weixin.qq.com/s/rO-0IaDy7cAehryFKYbT_g) <br>[一月中下旬]
 
 - [推荐几篇近期必看的视觉综述，含GAN、Transformer、人脸超分辨、遥感等](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247488123&idx=1&sn=f51f3137a16e625c962705997f0daf0a&chksm=fad13d2dcda6b43b1001b8ff924f317f5fcbdbcbd41894b193823e2fcd1d2412f4c3394ebb8e&scene=21#wechat_redirect) <br>[一月上旬]
+
+<a name="25"/>
+
+## 25.图像处理
+* 图像美学评级
+  * [A Survey of Hand Crafted and Deep Learning Methods for Image Aesthetic Assessment](https://arxiv.org/abs/2103.11616)<br>[2021-03-23]<br>文章是对近期图像美学自动评估技术进行的文献调查。回顾大量的传统手工制作和基于深度学习的方法。并对关键的问题进行讨论，如为什么一些特征或模型比其他的表现更好，有什么局限性。最后对不同方法的量化结果进行比较。
+
 
 <a name="24"/>
 
