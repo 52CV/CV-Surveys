@@ -236,5 +236,6 @@
 
 ## 扫码CV君微信（注明：CV）入微信交流群：
 
-![image](https://user-images.githubusercontent.com/62801906/109789529-655e4380-7c4b-11eb-9f1a-58c5cb097428.png)
+![image](https://user-images.githubusercontent.com/62801906/112356736-d3a59b80-8d09-11eb-9863-663671ee4f4d.png)
+
 
