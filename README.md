@@ -234,23 +234,7 @@
 - [Deep Neural Networks for the Assessment of Surgical Skills: A Systematic Review](https://arxiv.org/abs/2103.05113)<br>[2021-03-10]<br>本篇综述是对深度神经网络在手术技能评估中的应用的全面调查，包含530篇论文文献。
 
 
+## 扫码CV君微信（注明：CV）入微信交流群：
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/62801906/109789529-655e4380-7c4b-11eb-9f1a-58c5cb097428.png)
 
