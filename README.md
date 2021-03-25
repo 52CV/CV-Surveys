@@ -34,7 +34,7 @@
 
 ## 24.模型压缩/知识蒸馏/应用部署/剪枝/量化
 
-* [Dynamic Neural Networks: A Survey](https://arxiv.org/abs/2102.04906)<br>[2021-02-09]<br>清华黄高等人新作：动态神经网络首篇综述
+* [Dynamic Neural Networks: A Survey](https://arxiv.org/abs/2102.04906)<br>[2021-02-09]<br>解读：[【深度】清华黄高等人新作：动态神经网络首篇综述](https://mp.weixin.qq.com/s/aEj1JfkpnsXB4ZRxeWfZAQ)
 
 
 <a name="23"/>
