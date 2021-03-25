@@ -165,7 +165,7 @@
 
 ## 7.Remote Image 遥感图像
 
-- [A Review on Deep Learning in UAV Remote Sensing](https://arxiv.org/abs/2101.10808)<br>[2021-01-27] <br>深度学习在无人机遥感中的应用综述
+- [A Review on Deep Learning in UAV Remote Sensing](https://arxiv.org/abs/2101.10861)<br>[2021-01-27] <br>深度学习在无人机遥感中的应用综述
 
 <a name="6"/> 
 
