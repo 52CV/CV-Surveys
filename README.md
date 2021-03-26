@@ -24,6 +24,12 @@
 
 - [推荐几篇近期必看的视觉综述，含GAN、Transformer、人脸超分辨、遥感等](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247488123&idx=1&sn=f51f3137a16e625c962705997f0daf0a&chksm=fad13d2dcda6b43b1001b8ff924f317f5fcbdbcbd41894b193823e2fcd1d2412f4c3394ebb8e&scene=21#wechat_redirect) <br>[一月上旬]
 
+<a name="26"/>
+
+## 26.多媒体数据处理
+
+* [A Survey of Multimedia Technologies and Robust Algorithms](https://arxiv.org/abs/2103.13477)<br>[2021-03-26]<br>本文是对从日常生活到医学研究的各种多媒体技术和强大算法的调研。
+
 <a name="25"/>
 
 ## 25.图像处理
@@ -157,8 +163,10 @@
 
 ## 8.Deep Learning 深度学习
 
-- [Hyperbolic Deep Neural Networks: A Survey](https://arxiv.org/abs/2101.04562)<br>[2021-01-13]<br>
 - [Aesthetics, Personalization and Recommendation: A survey on Deep Learning in Fashion](https://arxiv.org/abs/2101.08301)<br>[2021-01-22] <br>基于深度学习、人工智能、机器学习的时尚穿搭技术综述
+* 神经网络
+  * [A Survey of Quantization Methods for Efficient Neural Network Inference](https://arxiv.org/abs/2103.13630)<br>[2021-03-26]<br>用于高效神经网络推理的量化方法研究
+  * [Hyperbolic Deep Neural Networks: A Survey](https://arxiv.org/abs/2101.04562)<br>[2021-01-13]<br>
 
 
 <a name="7"/> 
