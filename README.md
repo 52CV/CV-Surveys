@@ -181,6 +181,7 @@
 
 - [GAN Inversion: A Survey](https://arxiv.org/abs/2101.05278)<br>[2021-01-15] <br>[[awesome gan-inversion papers](https://github.com/weihaox/awesome-image-translation/blob/master/awesome-gan-inversion.md)]<br>[[Papers on generative modeling](https://github.com/zhoubolei/awesome-generative-modeling)]<br>GAN 逆映射综述<br>
 - [Adversarial Text-to-Image Synthesis: A Review](https://arxiv.org/abs/2101.09983)<br>[2021-01-26]<br>文本到图像生成综述<br>
+- [Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy](https://arxiv.org/abs/1906.01529)<br>:star:[code](https://github.com/sheqi/GAN_Review)[Publication](https://dl.acm.org/doi/fullHtml/10.1145/3439723)
 
 
 <a name="5"/> 
