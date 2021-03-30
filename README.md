@@ -10,19 +10,28 @@
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
-|[26.多媒体数据处理](#26)|[25.图像处理](#25)|
+|[27.图像表征](#27)|[26.多媒体数据处理](#26)|[25.图像处理](#25)|
 |[24.模型压缩/知识蒸馏](#24)|[23.3D 语义场景完成(SSC)](#23)|[22.图像分割](#22)|[21.小/零样本，域适应，域泛化](#21)|
 |[20.异常检测](#20)|[19.Transformers](#19)|[18.Point Clouds 点云](#18)|[17.Object Detection 目标检测](#17)|
 |[16.Human Action Detection and Recognitionn 人体动作检测与识别](#16)|[15.Re-identification 人员重识别](#15)|[14.:dancers:人体姿态估计](#14)|[13.Image Classification 图像分类](#13)|
 |[12.Image Retrieval 图像检索](#12)|[11.:neutral_face:人脸技术](#11)|[10.Image Super-resolution 图像超分辨率](#10)|[9.模型压缩 & 应用部署](#9)|
 [8.Deep Learning 深度学习](#8)|[7.Remote Image 遥感图像](#7)|[6.GAN 生成对抗网络](#6)|[5.:bus:智能驾驶](5)|
-|[4.Video Summarization 视频摘要](#4)|[3.Video Question Answering 视觉问答](#3)|[2.:hospital:医学影像](#2)|[1.Other](#1)|
+|[4.Video 视频相关技术（摘要理解/字幕）](#4)|[3.Visual Question Answering 视觉问答](#3)|[2.:hospital:医学影像](#2)|[1.Other](#1)|
 
 详细请看：
 
 - [推荐几篇近期必看的视觉综述，含图像检索、目标检测、人脸关键点检测、医学图像分割、遥感、模型优化等](https://mp.weixin.qq.com/s/rO-0IaDy7cAehryFKYbT_g) <br>[一月中下旬]
 
 - [推荐几篇近期必看的视觉综述，含GAN、Transformer、人脸超分辨、遥感等](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247488123&idx=1&sn=f51f3137a16e625c962705997f0daf0a&chksm=fad13d2dcda6b43b1001b8ff924f317f5fcbdbcbd41894b193823e2fcd1d2412f4c3394ebb8e&scene=21#wechat_redirect) <br>[一月上旬]
+
+
+
+<a name="27"/>
+
+## 27.图像表征
+
+* [A Survey of Orthogonal Moments for Image Representation: Theory, Implementation, and Evaluation](https://arxiv.org/abs/2103.14799)<br>[2021-03-30]<br>本文是对用于图像表征的正交矩进行的全面调查，涵盖快速/精准计算、鲁棒性/不变性优化和定义扩展方面的最新进展。为各种广泛使用的正交矩创建了一个软件包，并在同一基础上对这些方法进行了评估。作者表示所提出的理论分析、软件实现和评价结果可以为社会提供支持，特别是在开发新技术和推广实际应用方面。
+
 
 <a name="26"/>
 
@@ -126,7 +135,8 @@
 - [Hyperspectral Image Classification -- Traditional to Deep Models: A Survey for Future Prospects](https://arxiv.org/abs/2101.06116)<br>[2021-01-18] <br>高光谱图像分类综述<br>
 - [Deep Learning for Scene Classification: A Survey](https://arxiv.org/abs/2101.10531)<br>[2021-01-27] <br>深度学习在场景分类的应用综述<br>
 - [Online Continual Learning in Image Classification: An Empirical Survey](https://arxiv.org/abs/2101.10423)<br>[2021-01-27]<br>图像分类中的在线持续学习综述<br>
-
+* 杂草检测
+  * [Deep Learning Techniques for In-Crop Weed Identification: A Review](https://arxiv.org/abs/2103.14872)<br>[2021-03-30]<br>文章是对深度学习技术在基于图像的杂草检测领域最新发展的调查。首先介绍了与杂草检测相关的深度学习基本原理。然后对关于深度杂草检测的进展进行回顾，以及讨论了包括公共杂草数据集在内的研究材料。最后，总结开发可实际部署的杂草检测方法所面临的挑战，以及对未来研究机会的讨论。作者希望这篇综述能对该领域进行及时的调查，并吸引更多的研究者来解决这一跨学科的研究问题。
 
 <a name="12"/> 
 
@@ -139,11 +149,18 @@
 
 ## 11.Face 人脸技术
 
-- [Deep Learning-based Face Super-resolution: A Survey](https://arxiv.org/abs/2101.03749)<br>[2021-01-12]<br>人脸超分辨率也称为【facial hallucination人脸幻构】系统地对人脸超分辨率中的深度学习技术进行了全面的回顾。<br>
-- [Weakly Supervised Learning for Facial Behavior Analysis : A Review](https://arxiv.org/abs/2101.09858)<br>[2021-01-26]<br>无监督学习在人脸表情识别的应用综述<br>
 - [Fast Facial Landmark Detection and Applications: A Survey](https://arxiv.org/abs/2101.10808)<br>[2021-01-27]<br>人脸关键点检测综述<br>
-- [About Face: A Survey of Facial Recognition Evaluation](https://arxiv.org/abs/2102.00813)<br>[2021-02-02]<br>人脸识别综述<br>
 - [Countering Malicious DeepFakes: Survey, Battleground, and Horizon](https://arxiv.org/abs/2103.00218)<br>[[主页](http://www.xujuefei.com/dfsurvey)]<br>[2021-03-02]<br>对抵制恶意的 DeepFakes 综述调查
+* 人脸超分辨率
+  * [Deep Learning-based Face Super-resolution: A Survey](https://arxiv.org/abs/2101.03749)<br>[2021-01-12]<br>人脸超分辨率也称为【facial hallucination人脸幻构】系统地对人脸超分辨率中的深度学习技术进行了全面的回顾。<br>
+* 人脸识别检测
+  * [About Face: A Survey of Facial Recognition Evaluation](https://arxiv.org/abs/2102.00813)<br>[2021-02-02]<br>人脸识别综述<br>
+  * [Going Deeper Into Face Detection: A Survey](https://arxiv.org/abs/2103.14983)<br>[2021-03-30]<br>本文是对近期基于深度学习的人脸检测方面文献的综述，包括五十多种人脸检测方法。并对这些方法的不同方面进行了全面的评述，包括训练数据、网络结构的选择、损失函数、训练策略以及它们贡献。作者根据对人脸检测的贡献技术将这些方法分为以下几个架构组：1) Cascade-CNN Based Models 2) R-CNN and Faster-RCNN Based Models 3) Single Shot Detector Models 4) Feature Pyramid Network Based Models 5) Other models 。还总结一些流行的人脸检测基准，如 Wider-Face、FDDB 和 PASCAL Face，以及在这些流行基准上的量化性能。最后，对未来几年基于深度学习的人脸检测的一些公开挑战和有前途的方向进行了讨论。
+* 人脸表情识别
+  * [Weakly Supervised Learning for Facial Behavior Analysis : A Review](https://arxiv.org/abs/2101.09858)<br>[2021-01-26]<br>无监督学习在人脸表情识别的应用综述<br>
+* 面部情感分析FAA
+  * [Graph-based Facial Affect Analysis: A Review of Methods, Applications and Challenges](https://arxiv.org/abs/2103.15599)<br>[2021-03-30]<br>本文是对基于 Graph 的面部情感分析的全面调查，包括算法的演变及其应用。首先，介绍情感分析的背景知识，特别是关于 Graph（图）的作用。然后，对文献中广泛用于基于图的情感表示的方法进行讨论，并展示出图构建的趋势。对于基于图的情感分析中的关系推理，作者根据传统方法或深度模型的使用情况对现有研究进行分类，特别强调最新的图神经网络。还总结了标准 FAA 问题上最先进的实验比较。最后，将综述扩展到当前的挑战和潜在的方向。作者称是首次对基于图的 FAA 方法的调查，该研究结果可以作为该领域未来研究的参考点。
+
 
 
 <a name="10"/> 
@@ -194,16 +211,19 @@
 
 <a name="4"/> 
 
-## 4.Video Summarization 视频摘要
+## 4.Video 视频相关技术（摘要理解/字幕）
 
-- [Video Summarization Using Deep Neural Networks: A Survey](https://arxiv.org/abs/2101.06072)<br>[2021-01-18]
+* Video Summarization 视频摘要
+  * [Video Summarization Using Deep Neural Networks: A Survey](https://arxiv.org/abs/2101.06072)<br>[2021-01-18]
+* 视频字幕
+   * [Bridging Vision and Language from the Video-to-Text Perspective: A Comprehensive Review](https://arxiv.org/abs/2103.14785)<br>[2021-03-30]<br>本篇综述作者对 VTT 问题的最重要方法进行了分类和分析。回顾了常用于训练和测试模型的流行基准数据集和最相关的比赛。对优化过程中使用的自动评估指标和损失函数进行了回顾与比较。以及对每一个主要数据集的最先进结果进行了总结和分析。
 
 
 <a name="3"/> 
 
-## 3.Video Question Answering 视觉问答
-
-- [Recent Advances in Video Question Answering: A Review of Datasets and Methods](https://arxiv.org/abs/2101.05954)<br>[2021-01-18]
+## 3.Visual Question Answering 视觉问答
+* 视频问答
+    * [Recent Advances in Video Question Answering: A Review of Datasets and Methods](https://arxiv.org/abs/2101.05954)<br>[2021-01-18]
 
 
 <a name="2"/> 
