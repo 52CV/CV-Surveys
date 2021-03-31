@@ -10,7 +10,7 @@
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
-|[27.图像表征](#27)|[26.多媒体数据处理](#26)|[25.图像处理](#25)|
+|[28.Sign Language Production手语制作](#28)|[27.图像表征](#27)|[26.多媒体数据处理](#26)|[25.图像处理](#25)|
 |[24.模型压缩/知识蒸馏](#24)|[23.3D 语义场景完成(SSC)](#23)|[22.图像分割](#22)|[21.小/零样本，域适应，域泛化](#21)|
 |[20.异常检测](#20)|[19.Transformers](#19)|[18.Point Clouds 点云](#18)|[17.Object Detection 目标检测](#17)|
 |[16.Human Action Detection and Recognitionn 人体动作检测与识别](#16)|[15.Re-identification 人员重识别](#15)|[14.:dancers:人体姿态估计](#14)|[13.Image Classification 图像分类](#13)|
@@ -24,7 +24,10 @@
 
 - [推荐几篇近期必看的视觉综述，含GAN、Transformer、人脸超分辨、遥感等](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247488123&idx=1&sn=f51f3137a16e625c962705997f0daf0a&chksm=fad13d2dcda6b43b1001b8ff924f317f5fcbdbcbd41894b193823e2fcd1d2412f4c3394ebb8e&scene=21#wechat_redirect) <br>[一月上旬]
 
+<a name="28"/>
 
+## 28.Sign Language Production手语制作
+* [Sign Language Production: A Review](https://arxiv.org/abs/2103.15910)<br>[2021-03-31]<br>本文回顾了利用深度学习在手语制作（SLP）和相关领域的最新进展。旨在简要总结SLP 的最新成就，讨论其优势、局限性和未来的研究方向。
 
 <a name="27"/>
 
@@ -260,6 +263,7 @@
 - [Material Measurement Units: Foundations Through a Survey](https://arxiv.org/abs/2103.01997)<br>[2021-03-04]<br>本篇综述确定一种新兴的计算机视觉支持的物料监测技术，称为物料测量单元(MMU)；对发展 MMU 的相关工作进行了调查；描述了一个部署多个 MMU的物料库存监测传感器网络。<br>
 - [Land Cover Mapping in Limited Labels Scenario: A Survey](https://arxiv.org/abs/2103.02429)<br> [2021-03-04]<br>IJCAI 2021<br>本篇文章是对土地覆盖测绘中的挑战和用于解决这些问题的机器学习方法进行了结构化的全面概述。并对该领域推进研究的差距和机会进行了讨论。<br>
 - [Deep Neural Networks for the Assessment of Surgical Skills: A Systematic Review](https://arxiv.org/abs/2103.05113)<br>[2021-03-10]<br>本篇综述是对深度神经网络在手术技能评估中的应用的全面调查，包含530篇论文文献。
+- [Deep Learning and Machine Vision for Food Processing: A Survey](https://arxiv.org/abs/2103.16106)<br>[2021-03-31]<br>本文是对传统的机器学习和深度学习方法，以及可应用于食品加工领域的机器视觉技术进行的调查。总结了近五年来该领域所发表的代表性论文。是根据它们所使用的不同功能和方法来组织的，便于追踪机器视觉系统和图像处理在食品加工领域的最先进方法。
 
 
 ## 扫码CV君微信（注明：CV）入微信交流群：
