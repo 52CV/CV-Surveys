@@ -10,8 +10,8 @@
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
-|[28.Sign Language Production手语制作](#28)|[27.图像表征](#27)|[26.多媒体数据处理](#26)|[25.图像处理](#25)|
-|[24.模型压缩/知识蒸馏](#24)|[23.3D 语义场景完成(SSC)](#23)|[22.图像分割](#22)|[21.小/零样本，域适应，域泛化](#21)|
+|[27.Sign Language Production手语制作](#27)|[26.图像表征](#26)|[25.多媒体数据处理](#25)|
+|[24.图像处理](#24)|[23.3D 语义场景完成(SSC)](#23)|[22.图像分割](#22)|[21.小/零样本，域适应，域泛化](#21)|
 |[20.异常检测](#20)|[19.Transformers](#19)|[18.Point Clouds 点云](#18)|[17.Object Detection 目标检测](#17)|
 |[16.Human Action Detection and Recognitionn 人体动作检测与识别](#16)|[15.Re-identification 人员重识别](#15)|[14.:dancers:人体姿态估计](#14)|[13.Image Classification 图像分类](#13)|
 |[12.Image Retrieval 图像检索](#12)|[11.:neutral_face:人脸技术](#11)|[10.Image Super-resolution 图像超分辨率](#10)|[9.模型压缩 & 应用部署](#9)|
@@ -24,36 +24,29 @@
 
 - [推荐几篇近期必看的视觉综述，含GAN、Transformer、人脸超分辨、遥感等](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247488123&idx=1&sn=f51f3137a16e625c962705997f0daf0a&chksm=fad13d2dcda6b43b1001b8ff924f317f5fcbdbcbd41894b193823e2fcd1d2412f4c3394ebb8e&scene=21#wechat_redirect) <br>[一月上旬]
 
-<a name="28"/>
-
-## 28.Sign Language Production手语制作
-* [Sign Language Production: A Review](https://arxiv.org/abs/2103.15910)<br>[2021-03-31]<br>本文回顾了利用深度学习在手语制作（SLP）和相关领域的最新进展。旨在简要总结SLP 的最新成就，讨论其优势、局限性和未来的研究方向。
-
 <a name="27"/>
 
-## 27.图像表征
+## 27.Sign Language Production手语制作
+* [Sign Language Production: A Review](https://arxiv.org/abs/2103.15910)<br>[2021-03-31]<br>本文回顾了利用深度学习在手语制作（SLP）和相关领域的最新进展。旨在简要总结SLP 的最新成就，讨论其优势、局限性和未来的研究方向。
+
+<a name="26"/>
+
+## 26.图像表征
 
 * [A Survey of Orthogonal Moments for Image Representation: Theory, Implementation, and Evaluation](https://arxiv.org/abs/2103.14799)<br>[2021-03-30]<br>本文是对用于图像表征的正交矩进行的全面调查，涵盖快速/精准计算、鲁棒性/不变性优化和定义扩展方面的最新进展。为各种广泛使用的正交矩创建了一个软件包，并在同一基础上对这些方法进行了评估。作者表示所提出的理论分析、软件实现和评价结果可以为社会提供支持，特别是在开发新技术和推广实际应用方面。
 
 
-<a name="26"/>
+<a name="25"/>
 
-## 26.多媒体数据处理
+## 25.多媒体数据处理
 
 * [A Survey of Multimedia Technologies and Robust Algorithms](https://arxiv.org/abs/2103.13477)<br>[2021-03-26]<br>本文是对从日常生活到医学研究的各种多媒体技术和强大算法的调研。
 
-<a name="25"/>
-
-## 25.图像处理
-* 图像美学评级
-  * [A Survey of Hand Crafted and Deep Learning Methods for Image Aesthetic Assessment](https://arxiv.org/abs/2103.11616)<br>[2021-03-23]<br>文章是对近期图像美学自动评估技术进行的文献调查。回顾大量的传统手工制作和基于深度学习的方法。并对关键的问题进行讨论，如为什么一些特征或模型比其他的表现更好，有什么局限性。最后对不同方法的量化结果进行比较。
-
 <a name="24"/>
 
-## 24.模型压缩/知识蒸馏/应用部署/剪枝/量化
-
-* [Dynamic Neural Networks: A Survey](https://arxiv.org/abs/2102.04906)<br>[2021-02-09]<br>解读：[【深度】清华黄高等人新作：动态神经网络首篇综述](https://mp.weixin.qq.com/s/aEj1JfkpnsXB4ZRxeWfZAQ)
-
+## 24.图像处理
+* 图像美学评级
+  * [A Survey of Hand Crafted and Deep Learning Methods for Image Aesthetic Assessment](https://arxiv.org/abs/2103.11616)<br>[2021-03-23]<br>文章是对近期图像美学自动评估技术进行的文献调查。回顾大量的传统手工制作和基于深度学习的方法。并对关键的问题进行讨论，如为什么一些特征或模型比其他的表现更好，有什么局限性。最后对不同方法的量化结果进行比较。
 
 <a name="23"/>
 
@@ -178,6 +171,7 @@
 ## 9.模型压缩 & 应用部署
 
 - [Pruning and Quantization for Deep Neural Network Acceleration: A Survey](https://arxiv.org/abs/2101.09671)<br>[2021-01-26]<br>量化剪枝综述
+- [Dynamic Neural Networks: A Survey](https://arxiv.org/abs/2102.04906)<br>[2021-02-09]<br>解读：[【深度】清华黄高等人新作：动态神经网络首篇综述](https://mp.weixin.qq.com/s/aEj1JfkpnsXB4ZRxeWfZAQ)
 
 <a name="8"/> 
 
@@ -187,7 +181,8 @@
 * 神经网络
   * [A Survey of Quantization Methods for Efficient Neural Network Inference](https://arxiv.org/abs/2103.13630)<br>[2021-03-26]<br>用于高效神经网络推理的量化方法研究
   * [Hyperbolic Deep Neural Networks: A Survey](https://arxiv.org/abs/2101.04562)<br>[2021-01-13]<br>
-
+* 注意力机制
+  * [Attention, please! A survey of Neural Attention Models in Deep Learning](https://arxiv.org/abs/2103.16775)<br>为了评估注意力在深度神经网络中的应用广度，作者在本次调查中对该领域进行了系统的回顾。包括该领域的数百种架构，确定并讨论一些表现出重大影响的架构。还开发并公开一种自动化的方法，以促进该领域评论的发展。通过对 650 部作品进行批判性分析，描述了注意力在卷积、循环网络和生成模型中的主要用途，并确定共同的用途和应用子群。此外，还描述了注意力在不同应用领域的影响，以及它们对神经网络可解释性的影响。最后，列出可能的趋势和进一步研究的机会，希望这篇综述能对该领域的主要注意力模型进行简洁的概述，并指导研究人员开发未来的方法，以推动进一步的改进。
 
 <a name="7"/> 
 
