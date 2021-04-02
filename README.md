@@ -215,7 +215,8 @@
   * [Video Summarization Using Deep Neural Networks: A Survey](https://arxiv.org/abs/2101.06072)<br>[2021-01-18]
 * 视频字幕
    * [Bridging Vision and Language from the Video-to-Text Perspective: A Comprehensive Review](https://arxiv.org/abs/2103.14785)<br>[2021-03-30]<br>本篇综述作者对 VTT 问题的最重要方法进行了分类和分析。回顾了常用于训练和测试模型的流行基准数据集和最相关的比赛。对优化过程中使用的自动评估指标和损失函数进行了回顾与比较。以及对每一个主要数据集的最先进结果进行了总结和分析。
-
+* 视频检索
+  [A Survey on Natural Language Video Localization](https://arxiv.org/abs/2104.00234)<br>[2021-04-02]<br>本篇综述是对 Natural Language Video Localization（NLVL）算法的全面调研，先是提出 NLVL 的 pipeline，并分为有监督和弱监督的方法，接着对每种方法的优缺点进行分析。随后，提出对数据集、评估协议和一般性能分析。最后，通过对现有方法的总结，得到一些可能的观点。
 
 <a name="3"/> 
 
