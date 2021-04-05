@@ -225,7 +225,9 @@
 ## 3.Visual Question Answering 视觉问答
 * 视频问答
     * [Recent Advances in Video Question Answering: A Review of Datasets and Methods](https://arxiv.org/abs/2101.05954)<br>[2021-01-18]
-
+* 场景解析
+  * 场景图
+    * [Scene Graphs: A Survey of Generations and Applications](https://arxiv.org/abs/2104.01111)<br>[2021-04-05]<br>本篇综述是对目前的场景图研究进行了全面的调查。具体来说，首先总结了场景图的一般定义，然后对场景图(SGG)的生成方法进行了全面系统的讨论，并借助先验知识对SGG进行了研究。然后，研究了场景图的主要应用，并总结了最常用的数据集。最后，对场景图的未来发展提出了一些见解。并相信这将是未来场景图研究的一个非常有益的基础。
 
 <a name="2"/> 
 
