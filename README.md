@@ -12,7 +12,7 @@
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
-|[27.Sign Language Production手语制作](#27)|[26.图像表征](#26)|[25.多媒体数据处理](#25)|
+|[27.Sign Language Production手语制作](#27)|[26.图像表征](#26)|[25.多媒体技术](#25)|
 |[24.图像处理](#24)|[23.3D 语义场景完成(SSC)](#23)|[22.图像分割](#22)|[21.小/零样本，域适应，域泛化](#21)|
 |[20.异常检测](#20)|[19.Transformers](#19)|[18.Point Clouds 点云](#18)|[17.Object Detection 目标检测](#17)|
 |[16.Human Action Detection and Recognitionn 人体动作检测与识别](#16)|[15.Re-identification 人员重识别](#15)|[14.:dancers:人体姿态估计](#14)|[13.Image Classification 图像分类](#13)|
@@ -40,9 +40,10 @@
 
 <a name="25"/>
 
-## 25.多媒体数据处理
+## 25.多媒体技术
 
 * [A Survey of Multimedia Technologies and Robust Algorithms](https://arxiv.org/abs/2103.13477)<br>[2021-03-26]<br>本文是对从日常生活到医学研究的各种多媒体技术和强大算法的调研。
+* [Multimedia Technology Applications and Algorithms: A Survey](https://arxiv.org/abs/2104.01301)<br>[2021-04-06]<br>多媒体技术及用于综述调研
 
 <a name="24"/>
 
@@ -154,6 +155,7 @@
 * 人脸识别检测
   * [About Face: A Survey of Facial Recognition Evaluation](https://arxiv.org/abs/2102.00813)<br>[2021-02-02]<br>人脸识别综述<br>
   * [Going Deeper Into Face Detection: A Survey](https://arxiv.org/abs/2103.14983)<br>[2021-03-30]<br>本文是对近期基于深度学习的人脸检测方面文献的综述，包括五十多种人脸检测方法。并对这些方法的不同方面进行了全面的评述，包括训练数据、网络结构的选择、损失函数、训练策略以及它们贡献。作者根据对人脸检测的贡献技术将这些方法分为以下几个架构组：1) Cascade-CNN Based Models 2) R-CNN and Faster-RCNN Based Models 3) Single Shot Detector Models 4) Feature Pyramid Network Based Models 5) Other models 。还总结一些流行的人脸检测基准，如 Wider-Face、FDDB 和 PASCAL Face，以及在这些流行基准上的量化性能。最后，对未来几年基于深度学习的人脸检测的一些公开挑战和有前途的方向进行了讨论。
+  * [Performance analysis of facial recognition: A critical review through glass factor](https://arxiv.org/abs/2104.01536)<br>[2021-04-06]<>本篇综述针对 glass factor 对人脸识别影响的全面调研。
 * 人脸表情识别
   * [Weakly Supervised Learning for Facial Behavior Analysis : A Review](https://arxiv.org/abs/2101.09858)<br>[2021-01-26]<br>无监督学习在人脸表情识别的应用综述<br>
 * 面部情感分析FAA
@@ -204,9 +206,10 @@
 <a name="5"/> 
 
 ## 5.智能驾驶
-
-- [Explainability of vision-based autonomous driving systems: Review and challenges](https://arxiv.org/abs/2101.05307)<br>[2021-01-15] <br>自动驾驶综述<br>
 - [Vision-based Vehicle Speed Estimation for ITS: A Survey](https://arxiv.org/abs/2101.06159)<br>[2021-01-18]<br>车速估计综述<br>
+* 自动驾驶
+  * [Explainability of vision-based autonomous driving systems: Review and challenges](https://arxiv.org/abs/2101.05307)<br>[2021-01-15] <br>自动驾驶综述<br>
+  * [Deep Learning-Based Autonomous Driving Systems: A Survey of Attacks and Defenses](https://arxiv.org/abs/2104.01789)<br>[2021-04-06]<br>本篇综述对各种针对基于深度学习的 ADS pipeline 的攻击进行了详细的回顾和分析。全面阐明了基于深度学习的 ADS 中最先进的攻击和防御方法。并提出未来应用新攻击的研究方向，以及保障和提高基于深度学习的 ADS 的鲁棒性。
 
 
 <a name="4"/> 
