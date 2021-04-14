@@ -256,7 +256,9 @@
   * [A survey on shape-constraint deep learning for medical image segmentation](https://arxiv.org/abs/2101.07721)<br>[2021-01-20]<br>医学图像分割综述
   * [Medical Image Segmentation with Limited Supervision: A Review of Deep Network Models](https://arxiv.org/abs/2103.00429)<br>[2021-03-02]<br>
   * [Automated liver tissues delineation based on machine learning techniques: A survey, current trends and future orientations](https://arxiv.org/abs/2103.06384)<br>[2021-03-12]<br>本篇综述是对2014年至2020年期间所发表的主要研究的调查，包含研究人员用于分割肝脏、肝脏肿瘤和肝脏-血管结构的不同机器学习算法。
-
+* 病理图像（WSI）分析
+  * [A State-of-the-art Survey of Artificial Neural Networks for Whole-slide Image Analysis:from Popular Convolutional Neural Networks to Potential Visual Transformers](https://arxiv.org/abs/2104.06243)<br>[2021-04-14]<br>从流行的 CNN 到具有强大潜力的 Transformers，对用于 Whole-slide Image（病理图像） 分析的人工智能神经网络（ANN）调查。
+  * 
 <a name="1"/> 
 
 ## 1.Other
