@@ -26,6 +26,11 @@
 
 - [推荐几篇近期必看的视觉综述，含GAN、Transformer、人脸超分辨、遥感等](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247488123&idx=1&sn=f51f3137a16e625c962705997f0daf0a&chksm=fad13d2dcda6b43b1001b8ff924f317f5fcbdbcbd41894b193823e2fcd1d2412f4c3394ebb8e&scene=21#wechat_redirect) <br>[一月上旬]
 
+<a name="28"/>
+
+28.Depth Estimation 深度估计
+* [Single Image Depth Estimation: An Overview](https://arxiv.org/abs/2104.06456)<br>[2021-04-15]<br>本文是对场景理解中的重要子任务深度估计的回顾，并重点关注单图像深度估计。从早于深度学习，利用手工制作的特征和假设的非深度学习方法，到大多使用深度学习技术的最新作品；从监督到无监督。以及将深度估计问题与语义分割和表面法线估计等相关任务相结合的多任务方法。最后，还讨论了对当代解决方案的机制、原理和失败案例的调查。
+
 <a name="27"/>
 
 ## 27.Sign Language Production手语制作
