@@ -107,7 +107,8 @@
 
 - [Occlusion Handling in Generic Object Detection: A Review](https://arxiv.org/abs/2101.08845)<br>[2021-01-25]
 - [A Survey of Deep Learning Techniques for Weed Detection from Images](https://arxiv.org/abs/2103.01415)<br>[2021-03-03]<br>从图像中检测杂草的深度学习技术调查报告,共梳理了70篇相关文献。
-
+* 弱监督目标定位与检测
+  * [Weakly Supervised Object Localization and Detection: A Survey](https://arxiv.org/abs/2104.07918)<br>[2021-04-19]<br>本篇综述回顾了弱监督目标定位与检测的经典模型，来自现成深度网络的特征表示方法，完全基于深度学习的方法，以及在该领域广泛使用的公开数据集和标准评估指标。还该领域的主要挑战、发展历史、各类方法的优/劣势、不同类别方法之间的关系、应用以及未来可能的发展方向进行了讨论，以进一步促进该研究领域的发展。
 
 <a name="16"/> 
 
@@ -200,6 +201,8 @@
 ## 7.Remote Image 遥感图像
 
 - [A Review on Deep Learning in UAV Remote Sensing](https://arxiv.org/abs/2101.10861)<br>[2021-01-29] <br>深度学习在无人机遥感中的应用综述
+* 遥感图像分类
+  * [A survey of active learning algorithms for supervised remote sensing image classification](https://arxiv.org/abs/2104.07784)<br>[2021-04-19] <br>主动学习算法在监督式遥感图像分类中的应用研究.本篇综述回顾并测试了主动学习算法的主要系列：committee, large margin 和 posterior probability-based。并对每一种算法，都讨论了遥感界的最新进展，以及详细介绍和测试了一些启发式算法。考虑了几个具有挑战性的遥感场景，包括非常高的空间分辨率和高光谱图像分类。最后，为新用户和/或没有经验的用户提供了选择良好架构的指南。
 
 <a name="6"/> 
 
