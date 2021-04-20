@@ -12,7 +12,7 @@
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
-|[27.Sign Language Production手语制作](#27)|[26.图像表征](#26)|[25.多媒体技术](#25)|
+|[29.图像标注](#29)|[27.Sign Language Production手语制作](#27)|[26.图像表征](#26)|[25.多媒体技术](#25)|
 |[24.图像处理](#24)|[23.3D 语义场景完成(SSC)](#23)|[22.图像分割](#22)|[21.小/零样本，域适应，域泛化](#21)|
 |[20.异常检测](#20)|[19.Transformers](#19)|[18.Point Clouds 点云](#18)|[17.Object Detection 目标检测](#17)|
 |[16.Human Action Detection and Recognitionn 人体动作检测与识别](#16)|[15.Re-identification 人员重识别](#15)|[14.:dancers:人体姿态估计](#14)|[13.Image Classification 图像分类](#13)|
@@ -26,9 +26,14 @@
 
 - [推荐几篇近期必看的视觉综述，含GAN、Transformer、人脸超分辨、遥感等](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247488123&idx=1&sn=f51f3137a16e625c962705997f0daf0a&chksm=fad13d2dcda6b43b1001b8ff924f317f5fcbdbcbd41894b193823e2fcd1d2412f4c3394ebb8e&scene=21#wechat_redirect) <br>[一月上旬]
 
+<a name="29"/>
+
+## 29.图像标注
+* [A survey of image labelling for computer vision applications](https://arxiv.org/abs/2104.08885)<br>[2021-04-20]<br>图像标注在计算机视觉中的应用调研
+
 <a name="28"/>
 
-28.Depth Estimation 深度估计
+## 28.Depth Estimation 深度估计
 * [Single Image Depth Estimation: An Overview](https://arxiv.org/abs/2104.06456)<br>[2021-04-15]<br>本文是对场景理解中的重要子任务深度估计的回顾，并重点关注单图像深度估计。从早于深度学习，利用手工制作的特征和假设的非深度学习方法，到大多使用深度学习技术的最新作品；从监督到无监督。以及将深度估计问题与语义分割和表面法线估计等相关任务相结合的多任务方法。最后，还讨论了对当代解决方案的机制、原理和失败案例的调查。
 
 <a name="27"/>
@@ -266,7 +271,9 @@
   * [Automated liver tissues delineation based on machine learning techniques: A survey, current trends and future orientations](https://arxiv.org/abs/2103.06384)<br>[2021-03-12]<br>本篇综述是对2014年至2020年期间所发表的主要研究的调查，包含研究人员用于分割肝脏、肝脏肿瘤和肝脏-血管结构的不同机器学习算法。
 * 病理图像（WSI）分析
   * [A State-of-the-art Survey of Artificial Neural Networks for Whole-slide Image Analysis:from Popular Convolutional Neural Networks to Potential Visual Transformers](https://arxiv.org/abs/2104.06243)<br>[2021-04-14]<br>从流行的 CNN 到具有强大潜力的 Transformers，对用于 Whole-slide Image（病理图像） 分析的人工智能神经网络（ANN）调查。
-  * 
+* 牙齿矫正
+  * [Convolutional Neural Networks in Orthodontics: a review](https://arxiv.org/abs/2104.08886)<br>[2021-04-20]<br>卷积神经网络在矫正牙齿中应用调研
+ 
 <a name="1"/> 
 
 ## 1.Other
@@ -279,7 +286,7 @@
 - [Land Cover Mapping in Limited Labels Scenario: A Survey](https://arxiv.org/abs/2103.02429)<br> [2021-03-04]<br>IJCAI 2021<br>本篇文章是对土地覆盖测绘中的挑战和用于解决这些问题的机器学习方法进行了结构化的全面概述。并对该领域推进研究的差距和机会进行了讨论。<br>
 - [Deep Neural Networks for the Assessment of Surgical Skills: A Systematic Review](https://arxiv.org/abs/2103.05113)<br>[2021-03-10]<br>本篇综述是对深度神经网络在手术技能评估中的应用的全面调查，包含530篇论文文献。
 - [Deep Learning and Machine Vision for Food Processing: A Survey](https://arxiv.org/abs/2103.16106)<br>[2021-03-31]<br>本文是对传统的机器学习和深度学习方法，以及可应用于食品加工领域的机器视觉技术进行的调查。总结了近五年来该领域所发表的代表性论文。是根据它们所使用的不同功能和方法来组织的，便于追踪机器视觉系统和图像处理在食品加工领域的最先进方法。
-
+- [Application of Computer Vision and Machine Learning for Digitized Herbarium Specimens: A Systematic Literature Review](https://arxiv.org/abs/2104.08732)<br>[2021-04-20]<br>计算机视觉和机器学习在数字化标本馆中的应用综述
 
 ## 扫码CV君微信（注明：CV）入微信交流群：
 
