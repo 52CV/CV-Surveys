@@ -12,7 +12,7 @@
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
-|[29.图像标注](#29)|[27.Sign Language Production手语制作](#27)|[26.图像表征](#26)|[25.多媒体技术](#25)|
+|[30.视线估计](#30)|[29.图像标注](#29)|[27.Sign Language Production手语制作](#27)|[26.图像表征](#26)|[25.多媒体技术](#25)|
 |[24.图像处理](#24)|[23.3D 语义场景完成(SSC)](#23)|[22.图像分割](#22)|[21.小/零样本，域适应，域泛化](#21)|
 |[20.异常检测](#20)|[19.Transformers](#19)|[18.Point Clouds 点云](#18)|[17.Object Detection 目标检测](#17)|
 |[16.Human Action Detection and Recognitionn 人体动作检测与识别](#16)|[15.Re-identification 人员重识别](#15)|[14.:dancers:人体姿态估计](#14)|[13.Image Classification 图像分类](#13)|
@@ -25,6 +25,12 @@
 - [推荐几篇近期必看的视觉综述，含图像检索、目标检测、人脸关键点检测、医学图像分割、遥感、模型优化等](https://mp.weixin.qq.com/s/rO-0IaDy7cAehryFKYbT_g) <br>[一月中下旬]
 
 - [推荐几篇近期必看的视觉综述，含GAN、Transformer、人脸超分辨、遥感等](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247488123&idx=1&sn=f51f3137a16e625c962705997f0daf0a&chksm=fad13d2dcda6b43b1001b8ff924f317f5fcbdbcbd41894b193823e2fcd1d2412f4c3394ebb8e&scene=21#wechat_redirect) <br>[一月上旬]
+
+
+<a name="30"/>
+
+## 30.视线估计
+* [Appearance-based Gaze Estimation With Deep Learning: A Review and Benchmark](https://arxiv.org/abs/2104.12668)<br>[2021-04-27]<br>本片综述是对基于外观的深度学习的视线估计方法进行的全面回顾。并从四个角度讨论这些方法：深度特征提取、深度神经网络架构设计、个人校准以及设备和平台。
 
 <a name="29"/>
 
@@ -112,6 +118,7 @@
 
 - [Occlusion Handling in Generic Object Detection: A Review](https://arxiv.org/abs/2101.08845)<br>[2021-01-25]
 - [A Survey of Deep Learning Techniques for Weed Detection from Images](https://arxiv.org/abs/2103.01415)<br>[2021-03-03]<br>从图像中检测杂草的深度学习技术调查报告,共梳理了70篇相关文献。
+- [A Survey of Modern Deep Learning based Object Detection Models](https://arxiv.org/abs/2104.11892)<br>[2021-04-27]<br>本片综述是对基于深度学习的目标检测器最新发展的调查。提供了检测中使用的基准数据集和评估指标的简要概述，以及识别任务中使用的一些突出的骨干架构。涵盖了在边缘设备上使用的当代轻量级分类模型。并比较了这些架构在多个指标上的表现。
 * 弱监督目标定位与检测
   * [Weakly Supervised Object Localization and Detection: A Survey](https://arxiv.org/abs/2104.07918)<br>[2021-04-19]<br>本篇综述回顾了弱监督目标定位与检测的经典模型，来自现成深度网络的特征表示方法，完全基于深度学习的方法，以及在该领域广泛使用的公开数据集和标准评估指标。还该领域的主要挑战、发展历史、各类方法的优/劣势、不同类别方法之间的关系、应用以及未来可能的发展方向进行了讨论，以进一步促进该研究领域的发展。
 
@@ -225,6 +232,7 @@
 * 自动驾驶
   * [Explainability of vision-based autonomous driving systems: Review and challenges](https://arxiv.org/abs/2101.05307)<br>[2021-01-15] <br>自动驾驶综述<br>
   * [Deep Learning-Based Autonomous Driving Systems: A Survey of Attacks and Defenses](https://arxiv.org/abs/2104.01789)<br>[2021-04-06]<br>本篇综述对各种针对基于深度学习的 ADS pipeline 的攻击进行了详细的回顾和分析。全面阐明了基于深度学习的 ADS 中最先进的攻击和防御方法。并提出未来应用新攻击的研究方向，以及保障和提高基于深度学习的 ADS 的鲁棒性。
+  * [Vision-based Driver Assistance Systems: Survey, Taxonomy and Advances](https://arxiv.org/abs/2104.12583)<br>[2021-04-27]<br>基于视觉的驾驶辅助系统：调查、分类学和进展
 
 
 <a name="4"/> 
