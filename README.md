@@ -30,7 +30,7 @@
 <a name="30"/>
 
 ## 30.视线估计
-* [Appearance-based Gaze Estimation With Deep Learning: A Review and Benchmark](https://arxiv.org/abs/2104.12668)<br>[2021-04-27]<br>本片综述是对基于外观的深度学习的视线估计方法进行的全面回顾。并从四个角度讨论这些方法：深度特征提取、深度神经网络架构设计、个人校准以及设备和平台。
+* [Appearance-based Gaze Estimation With Deep Learning: A Review and Benchmark](https://arxiv.org/abs/2104.12668)<br>[2021-04-27]<br>:star:[code](http://phi-ai.org/GazeHub/)<br>本片综述是对基于外观的深度学习的视线估计方法进行的全面回顾。并从四个角度讨论这些方法：深度特征提取、深度神经网络架构设计、个人校准以及设备和平台。
 
 <a name="29"/>
 
