@@ -12,6 +12,7 @@
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
+|[31.变化检测](#31)|
 |[30.视线估计](#30)|[29.图像标注](#29)|[27.Sign Language Production手语制作](#27)|[26.图像表征](#26)|[25.多媒体技术](#25)|
 |[24.图像处理](#24)|[23.3D 语义场景完成(SSC)](#23)|[22.图像分割](#22)|[21.小/零样本，域适应，域泛化](#21)|
 |[20.异常检测](#20)|[19.Transformers](#19)|[18.Point Clouds 点云](#18)|[17.Object Detection 目标检测](#17)|
@@ -26,6 +27,14 @@
 
 - [推荐几篇近期必看的视觉综述，含GAN、Transformer、人脸超分辨、遥感等](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247488123&idx=1&sn=f51f3137a16e625c962705997f0daf0a&chksm=fad13d2dcda6b43b1001b8ff924f317f5fcbdbcbd41894b193823e2fcd1d2412f4c3394ebb8e&scene=21#wechat_redirect) <br>[一月上旬]
 
+
+## 32.Adversarial Example Detection对抗性示例检测
+* [Adversarial Example Detection for DNN Models: A Review](https://arxiv.org/abs/2105.00203)<br>[2021-05-04]<br>本文试图为 AE 检测方法提供一个理论和实验回顾。对这些方法进行了详细的讨论，并在四个数据集的不同场景下介绍了八个最先进的检测器的实验结果。还提供了该研究方向的潜在挑战和未来前景。
+
+<a name="31"/>
+
+## 31.变化检测
+* [An Empirical Review of Deep Learning Frameworks for Change Detection: Model Design, Experimental Frameworks, Challenges and Research Needs](https://arxiv.org/abs/2105.01342)<br>[2021-05-05]<br>用于变化检测的深度学习框架的经验性回顾:模型设计、实验框架、挑战和研究需求
 
 <a name="30"/>
 
@@ -135,8 +144,9 @@
 ## 15.Re-identification 人员重识别
 - [Deep Learning for Person Re-identification: A Survey and Outlook](https://arxiv.org/abs/2001.04193v2)<br>[[github](github.com/mangye16/ReI)]<br>[2021-01-06]
 
-- [Deep Gait Recognition: A Survey](https://arxiv.org/abs/2102.09546) <br>[2021-02-19]<br>全面调查深度学习在步态识别方面的突破和最新发展，并涵盖了包括数据集、测试协议、最先进的解决方案、挑战和未来研究方向在内的广泛话题。
-
+- [Deep Gait Recognition: A Survey](https://arxiv.org/abs/2102.09546)<br>[2021-02-19]<br>全面调查深度学习在步态识别方面的突破和最新发展，并涵盖了包括数据集、测试协议、最先进的解决方案、挑战和未来研究方向在内的广泛话题。
+* Person Search
+  * [Person Search Challenges and Solutions: A Survey](https://arxiv.org/abs/2105.01605)<br>[2021-05-05]<br>IJCAI 2021<br>本篇综述从挑战和解决方案的角度对近期关于基于图像和文本的人物搜索工作进行的调研
 
 <a name="14"/> 
 
@@ -223,7 +233,7 @@
 - [GAN Inversion: A Survey](https://arxiv.org/abs/2101.05278)<br>[2021-01-15] <br>[[awesome gan-inversion papers](https://github.com/weihaox/awesome-image-translation/blob/master/awesome-gan-inversion.md)]<br>[[Papers on generative modeling](https://github.com/zhoubolei/awesome-generative-modeling)]<br>GAN 逆映射综述<br>
 - [Adversarial Text-to-Image Synthesis: A Review](https://arxiv.org/abs/2101.09983)<br>[2021-01-26]<br>文本到图像生成综述<br>
 - [Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy](https://arxiv.org/abs/1906.01529)<br>[2021-03-29]<br>:star:[code](https://github.com/sheqi/GAN_Review):newspaper:[Publication](https://dl.acm.org/doi/fullHtml/10.1145/3439723)
-
+* [Generative Adversarial Networks (GAN) Powered Fast Magnetic Resonance Imaging -- Mini Review, Comparison and Perspectives](https://arxiv.org/abs/2105.01800)<br>[2021-05-06]<br>本篇综述对基于 GAN 驱动的快速 MRI 方法进行了回顾，并对各种解剖数据集进行了比较研究，以证明这种快速 MRI 的通用性和鲁棒性，同时提供了未来的展望。
 
 <a name="5"/> 
 
@@ -245,12 +255,15 @@
    * [Bridging Vision and Language from the Video-to-Text Perspective: A Comprehensive Review](https://arxiv.org/abs/2103.14785)<br>[2021-03-30]<br>本篇综述作者对 VTT 问题的最重要方法进行了分类和分析。回顾了常用于训练和测试模型的流行基准数据集和最相关的比赛。对优化过程中使用的自动评估指标和损失函数进行了回顾与比较。以及对每一个主要数据集的最先进结果进行了总结和分析。
 * 视频检索
   [A Survey on Natural Language Video Localization](https://arxiv.org/abs/2104.00234)<br>[2021-04-02]<br>本篇综述是对 Natural Language Video Localization（NLVL）算法的全面调研，先是提出 NLVL 的 pipeline，并分为有监督和弱监督的方法，接着对每种方法的优缺点进行分析。随后，提出对数据集、评估协议和一般性能分析。最后，通过对现有方法的总结，得到一些可能的观点。
-
+* 视频监控
+  * 人员检索
+    * [Person Retrieval in Surveillance Using Textual Query: A Review](https://arxiv.org/abs/2105.02414)<br>[2021-05-07]<br>使用文本查询进行监控中的人员检索调研
 <a name="3"/> 
 
 ## 3.Visual Question Answering 视觉问答
 * 视频问答
     * [Recent Advances in Video Question Answering: A Review of Datasets and Methods](https://arxiv.org/abs/2101.05954)<br>[2021-01-18]
+    * [A survey on VQA_Datasets and Approaches](https://arxiv.org/abs/2105.00421)<br>[2021-05-04]<br>本篇综述是对2018年以后的 VQA 数据集、指标和模型，尤其是2018年以后的作品的调研
 * 场景解析
   * 场景图
     * [Scene Graphs: A Survey of Generations and Applications](https://arxiv.org/abs/2104.01111)<br>[2021-04-05]<br>本篇综述是对目前的场景图研究进行了全面的调查。具体来说，首先总结了场景图的一般定义，然后对场景图(SGG)的生成方法进行了全面系统的讨论，并借助先验知识对SGG进行了研究。然后，研究了场景图的主要应用，并总结了最常用的数据集。最后，对场景图的未来发展提出了一些见解。并相信这将是未来场景图研究的一个非常有益的基础。
