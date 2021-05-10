@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:下载这些综述在【我爱计算机视觉】后台回复“CV综述”，即可收到。目前已公开 80 篇。
+### :green_book::green_book::green_book:下载这些综述在【我爱计算机视觉】后台回复“CV综述”，即可收到。目前已公开 90 篇。
 
 ## 目录
 
@@ -133,7 +133,7 @@
 * 微生物检测
   * [A State-of-the-art Survey of Object Detection Techniques in Microorganism Image Analysis: from Traditional Image Processing and Classical Machine Learning to Current Deep Convolutional Neural Networks and Potential Visual Transformers](https://arxiv.org/abs/2105.03148)<br>[2021-05-10]<br>本篇综述总结了从 1985 年至今的 137 篇相关技术论文。按照时间顺序对现有的微生物检测方法，从传统的图像处理和传统的机器学习到深度学习方法进行了分析。并介绍一些潜在的方法，包括 visual transformers。有助于研究人员对微生物检测领域的发展过程、研究现状和未来趋势有更全面的了解，为其他领域的研究人员提供参考。
 * 显著目标检测
-  * [Salient Objects in Clutter]<br>[2021-05-10]<br>本篇综述涉及 348 个参考文献，201个模型的调研，以及100个基准模型。发现并解决了 SOD 中长期被忽视的数据选择偏差问题。与以前的研究不同，本次目标是在自然环境探索 SOD 任务。
+  * [Salient Objects in Clutter](https://arxiv.org/abs/2105.03053)<br>[2021-05-10]<br>本篇综述涉及 348 个参考文献，201个模型的调研，以及100个基准模型。发现并解决了 SOD 中长期被忽视的数据选择偏差问题。与以前的研究不同，本次目标是在自然环境探索 SOD 任务。
 
 <a name="16"/> 
 
