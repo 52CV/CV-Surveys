@@ -277,19 +277,15 @@
 ## 2.Medical Image 医学影像
 
 - [Diagnostic Captioning: A Survey](https://arxiv.org/abs/2101.07299)<br>[2021-01-20] <br>医学诊断字幕综述
-
 - [Applications of Deep Learning in Fundus Images: A Review](https://arxiv.org/abs/2101.09864)<br>[2021-01-26] <br>[[github](https://github.com/nkicsl/Fundus_Review)]<br>深度学习在眼底图像中应用综述
-
 - [A Survey and Analysis on Automated Glioma Brain Tumor Segmentation and Overall Patient Survival Prediction](https://arxiv.org/abs/2101.10599)<br>[2021-01-27]<br>医学图像分析综述
-
 - [Domain Adaptation for Medical Image Analysis: A Survey](https://arxiv.org/abs/2102.09508)<br>[2021-02-19]<br>旨在调查医学图像分析中域适应方法的最新进展
-
 - [A Comprehensive Review of Computer-aided Whole-slide Image Analysis: from Datasets to Feature Extraction, Segmentation, Classification, and Detection Approaches](https://arxiv.org/abs/2102.10553) <br>[2021-02-23]<br>对基于机器学习的 WSI 分割、分类和检测的综述
-
 - [Deep reinforcement learning in medical imaging: A literature review](https://arxiv.org/abs/2103.05115)<br>[2021-03-10]<br>医学影像中DRL的文献综述
 - [Deep Learning for Chest X-ray Analysis: A Survey](https://arxiv.org/abs/2103.08700)<br>[2021-03-17]<br>本篇综述是对所有在胸部 X 光片上使用深度学习研究的全面调查，包含 2015 年至2021 年所发表的 295 篇论文文献，按照任务对作品进行分类：图像级预测（分类和回归）、分割、定位、图像生成和域适应。在调查中发现有 209 篇论文文献在研究中使用了一个或多个公共数据集。因此作者还提供了一个全面的公共数据集列表，包括图像和标签的数量和类型，以及关于这些数据集各个方面的一些讨论和注意事项。并详细介绍了商业化的应用，以及对目前的技术水平和未来的潜在方向进行了全面的讨论。
 * [Artificial Intelligence in Tumor Subregion Analysis Based on Medical Imaging: A Review](https://arxiv.org/abs/2103.13588)<br>[2021-03-26]<br>本文对医学影像中基于 AI 的 tumor subregion 分析进行调研。
-
+* 医学图像检测
+  * [Applications of Deep Learning Techniques for Automated Multiple Sclerosis Detection Using Magnetic Resonance Imaging: A Review](https://arxiv.org/abs/2105.04881)<br>[2021-05-12]<br>本篇综述讨论了使用 DL 技术和 MRI 神经成像模式进行的 MS 自动诊断方法的完整调研。同时，对每项工作进行了彻底的回顾和讨论。最后，详细介绍了使用 DL 技术结合 MRI 模式进行 MS 自动诊断的最重要的挑战和未来的方向。
 * 医学图像分割
   * [A survey on shape-constraint deep learning for medical image segmentation](https://arxiv.org/abs/2101.07721)<br>[2021-01-20]<br>医学图像分割综述
   * [Medical Image Segmentation with Limited Supervision: A Review of Deep Network Models](https://arxiv.org/abs/2103.00429)<br>[2021-03-02]<br>
