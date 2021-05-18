@@ -6,20 +6,20 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:下载这些综述在【我爱计算机视觉】后台回复“CV综述”，即可收到。目前已公开 92 篇。
+### :green_book::green_book::green_book:下载这些综述在【我爱计算机视觉】后台回复“CV综述”，即可收到。目前已公开 94 篇。
 
 ## 目录
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
-|[31.变化检测](#31)|
-|[30.视线估计](#30)|[29.图像标注](#29)|[27.Sign Language Production手语制作](#27)|[26.图像表征](#26)|[25.多媒体技术](#25)|
-|[24.图像处理](#24)|[23.3D 语义场景完成(SSC)](#23)|[22.图像分割](#22)|[21.小/零样本，域适应，域泛化](#21)|
-|[20.异常检测](#20)|[19.Transformers](#19)|[18.Point Clouds 点云](#18)|[17.Object Detection 目标检测](#17)|
-|[16.Human Action Detection and Recognitionn 人体动作检测与识别](#16)|[15.Re-identification 人员重识别](#15)|[14.:dancers:人体姿态估计](#14)|[13.Image Classification 图像分类](#13)|
-|[12.Image Retrieval 图像检索](#12)|[11.:neutral_face:人脸技术](#11)|[10.Image Super-resolution 图像超分辨率](#10)|[9.模型压缩 & 应用部署](#9)|
-[8.Deep Learning 深度学习](#8)|[7.Remote Image 遥感图像](#7)|[6.GAN 生成对抗网络](#6)|[5.:bus:智能驾驶](5)|
-|[4.Video 视频相关技术（摘要理解/字幕）](#4)|[3.Visual Question Answering 视觉问答](#3)|[2.:hospital:医学影像](#2)|[1.Other](#1)|
+|[32.Adversarial Example Detection(对抗性示例检测)](#32)|[31.Change Detection(变化检测)](#31)|
+|[30.Gaze Estimation(视线估计)](#30)|[29.图像标注](#29)|[Depth Estimation(深度估计)](#28)|[27.Sign Language Production(手语制作)](#27)|[26.Image Representation(图像表征)](#26)|[25.Multimedia Technology(多媒体技术)](#25)|
+|[24.Image Processing(图像处理)](#24)|[23.3D 语义场景完成(SSC)](#23)|[22.Image Segmentation(图像分割)](#22)|[21.Few-Shot/Zero-Shot Learning,Domain Generalization/Adaptation(小/零样本学习，域适应，域泛化)](#21)|
+|[20.Anomaly Detection(异常检测)](#20)|[19.Transformers](#19)|[18.Point Clouds(点云)](#18)|[17.Object Detection(目标检测)](#17)|
+|[16.Human Action Detection and Recognitionn(人体动作检测与识别)](#16)|[15.Person Re-Identification(人员重识别)](#15)|[14.:dancers:Human Pose Estimation(人体姿态估计)](#14)|[13.Image Classification(图像分类)](#13)|
+|[12.Image Retrieval(图像检索)](#12)|[11.:neutral_face:Face(人脸技术)](#11)|[10.Super-Resolution(超分辨率)](#10)|[9.Quantization/Pruning/Knowledge Distillation/Model Compression(量化、剪枝、蒸馏、模型压缩/扩展与优化)](#9)|
+[8.Deep Learning(深度学习)](#8)|[7.Aeria/Drones/Satellite/RS Image(航空影像/无人机)](#7)|[6.GAN 生成对抗网络](#6)|[5.:bus:智能驾驶](5)|
+|[4.Video Processing(视频相关技术)](#4)|[3.Visual Question Answering(视觉问答)](#3)|[2.:hospital:医学影像](#2)|[1.Unkown(未分)](#1)|
 
 详细请看：
 
@@ -27,18 +27,19 @@
 
 - [推荐几篇近期必看的视觉综述，含GAN、Transformer、人脸超分辨、遥感等](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247488123&idx=1&sn=f51f3137a16e625c962705997f0daf0a&chksm=fad13d2dcda6b43b1001b8ff924f317f5fcbdbcbd41894b193823e2fcd1d2412f4c3394ebb8e&scene=21#wechat_redirect) <br>[一月上旬]
 
+<a name="32"/>
 
-## 32.Adversarial Example Detection对抗性示例检测
+## 32.Adversarial Example Detection(对抗性示例检测)
 * [Adversarial Example Detection for DNN Models: A Review](https://arxiv.org/abs/2105.00203)<br>[2021-05-04]<br>本文试图为 AE 检测方法提供一个理论和实验回顾。对这些方法进行了详细的讨论，并在四个数据集的不同场景下介绍了八个最先进的检测器的实验结果。还提供了该研究方向的潜在挑战和未来前景。
 
 <a name="31"/>
 
-## 31.变化检测
+## 31.Change Detection(变化检测)
 * [An Empirical Review of Deep Learning Frameworks for Change Detection: Model Design, Experimental Frameworks, Challenges and Research Needs](https://arxiv.org/abs/2105.01342)<br>[2021-05-05]<br>用于变化检测的深度学习框架的经验性回顾:模型设计、实验框架、挑战和研究需求
 
 <a name="30"/>
 
-## 30.视线估计
+## 30.Gaze Estimation(视线估计)
 * [Appearance-based Gaze Estimation With Deep Learning: A Review and Benchmark](https://arxiv.org/abs/2104.12668)<br>[2021-04-27]<br>:star:[code](http://phi-ai.org/GazeHub/)<br>本片综述是对基于外观的深度学习的视线估计方法进行的全面回顾。并从四个角度讨论这些方法：深度特征提取、深度神经网络架构设计、个人校准以及设备和平台。
 
 <a name="29"/>
@@ -48,50 +49,50 @@
 
 <a name="28"/>
 
-## 28.Depth Estimation 深度估计
+## 28.Depth Estimation(深度估计)
 * [Single Image Depth Estimation: An Overview](https://arxiv.org/abs/2104.06456)<br>[2021-04-15]<br>本文是对场景理解中的重要子任务深度估计的回顾，并重点关注单图像深度估计。从早于深度学习，利用手工制作的特征和假设的非深度学习方法，到大多使用深度学习技术的最新作品；从监督到无监督。以及将深度估计问题与语义分割和表面法线估计等相关任务相结合的多任务方法。最后，还讨论了对当代解决方案的机制、原理和失败案例的调查。
 
 <a name="27"/>
 
-## 27.Sign Language Production手语制作
+## 27.Sign Language Production(手语制作)
 * [Sign Language Production: A Review](https://arxiv.org/abs/2103.15910)<br>[2021-03-31]<br>本文回顾了利用深度学习在手语制作（SLP）和相关领域的最新进展。旨在简要总结SLP 的最新成就，讨论其优势、局限性和未来的研究方向。
 
 <a name="26"/>
 
-## 26.图像表征
+## 26.Image Representation(图像表征)
 
 * [A Survey of Orthogonal Moments for Image Representation: Theory, Implementation, and Evaluation](https://arxiv.org/abs/2103.14799)<br>[2021-03-30]<br>本文是对用于图像表征的正交矩进行的全面调查，涵盖快速/精准计算、鲁棒性/不变性优化和定义扩展方面的最新进展。为各种广泛使用的正交矩创建了一个软件包，并在同一基础上对这些方法进行了评估。作者表示所提出的理论分析、软件实现和评价结果可以为社会提供支持，特别是在开发新技术和推广实际应用方面。
 
 
 <a name="25"/>
 
-## 25.多媒体技术
+## 25.Multimedia Technology(多媒体技术)
 
 * [A Survey of Multimedia Technologies and Robust Algorithms](https://arxiv.org/abs/2103.13477)<br>[2021-03-26]<br>本文是对从日常生活到医学研究的各种多媒体技术和强大算法的调研。
 * [Multimedia Technology Applications and Algorithms: A Survey](https://arxiv.org/abs/2104.01301)<br>[2021-04-06]<br>多媒体技术及用于综述调研
 
 <a name="24"/>
 
-## 24.图像处理
+## 24.Image Processing(图像处理)
 * 图像美学评级
   * [A Survey of Hand Crafted and Deep Learning Methods for Image Aesthetic Assessment](https://arxiv.org/abs/2103.11616)<br>[2021-03-23]<br>文章是对近期图像美学自动评估技术进行的文献调查。回顾大量的传统手工制作和基于深度学习的方法。并对关键的问题进行讨论，如为什么一些特征或模型比其他的表现更好，有什么局限性。最后对不同方法的量化结果进行比较。
 
 <a name="23"/>
 
-## 23.3D 语义场景完成(SSC)
+## 23.Semantic Scene Completion(语义场景完成SSC)
 
 - [3D Semantic Scene Completion: a Survey](https://arxiv.org/abs/2103.07466)<br>[2021-03-15]<br>本文是对当代最先进的 3D 语义场景完成方法进行的全面调查。回顾并严格分析了所提出的方法的主要方面，包括需要考虑的重要设计选择，并比较了它们在流行的 SSC 数据集中的性能。作者希望这项调查将支持该领域的进一步发展，旨在提供新的见解，并帮助没有经验的读者浏览该领域。
 
 <a name="22"/>
 
-## 22.图像分割
+## 22.Image Segmentation(图像分割)
 
 - [Deep Learning based 3D Segmentation: A Survey](https://arxiv.org/abs/2103.05423)<br>[2021-03-10]<br>本篇综述是对基于深度学习的三维分割的最新进展进行了全面的调查，包含150多篇论文文献。总结了最常用的 pipelines，对其亮点和不足进行了讨论，并分析了这些分割方法的竞争结果。还在分析的基础上，提供了未来有前景的研究方向。
 
 
 <a name="21"/> 
 
-## 21.小/零样本，域适应，域泛化
+## 21.Few-Shot/Zero-Shot Learning,Domain Generalization/Adaptation(小/零样本学习，域适应，域泛化)
 
 * 域泛化
   * [Generalizing to Unseen Domains: A Survey on Domain Generalization](https://arxiv.org/abs/2103.03097)<br>[2021-03-05]<br>本篇文章作者从 same-source（同源） 和 cross-source（跨源）域对点云配准进行了全面的回顾
@@ -100,7 +101,7 @@
 
 <a name="20"/> 
 
-## 20.异常检测
+## 20.Anomaly Detection(异常检测)
 
 - [Image/Video Deep Anomaly Detection: A Survey](https://arxiv.org/abs/2103.01739)
 <br>[2021-03-03]<br>基于图像和视频的深度学习 AD 的专业综述的缺失，作者对此进行了深入调查。工作的重点在无监督技术上，并提供 AD 概念的精确定义，同时对最近提出的 AD 方法进行了的分类。以及对当前的挑战和未来的研究方向进行了彻底讨论。
@@ -115,7 +116,7 @@
 
 <a name="18"/> 
 
-## 18.Point Clouds 点云
+## 18.Point Clouds(点云)
 
 
 - [Attention Models for Point Clouds in Deep Learning: A Survey](https://arxiv.org/abs/2102.10788) <br>[2021-02-23]<br>对使用注意力模型的点云特征表示进行全面的概述
@@ -123,7 +124,7 @@
 
 <a name="17"/> 
 
-## 17.Object Detection 目标检测
+## 17.Object Detection(目标检测)
 
 - [Occlusion Handling in Generic Object Detection: A Review](https://arxiv.org/abs/2101.08845)<br>[2021-01-25]
 - [A Survey of Deep Learning Techniques for Weed Detection from Images](https://arxiv.org/abs/2103.01415)<br>[2021-03-03]<br>从图像中检测杂草的深度学习技术调查报告,共梳理了70篇相关文献。
@@ -137,7 +138,7 @@
 
 <a name="16"/> 
 
-## 16.Human Action Detection and Recognitionn 人体动作检测与识别
+## 16.Human Action Detection and Recognitionn(人体动作检测与识别)
 
 - [Human Activity Recognition using Wearable Sensors: Review, Challenges, Evaluation Benchmark](https://arxiv.org/abs/2101.01665)<br>[2021-01-05]<br>对近期基于可穿戴传感器的人类活动识别中的优异表现方法进行了广泛回顾
 
@@ -145,7 +146,7 @@
 
 <a name="15"/> 
 
-## 15.Re-identification 人员重识别
+## 15.Person Re-identification(人员重识别)
 - [Deep Learning for Person Re-identification: A Survey and Outlook](https://arxiv.org/abs/2001.04193v2)<br>[[github](github.com/mangye16/ReI)]<br>[2021-01-06]
 
 - [Deep Gait Recognition: A Survey](https://arxiv.org/abs/2102.09546)<br>[2021-02-19]<br>全面调查深度学习在步态识别方面的突破和最新发展，并涵盖了包括数据集、测试协议、最先进的解决方案、挑战和未来研究方向在内的广泛话题。
@@ -154,13 +155,13 @@
 
 <a name="14"/> 
 
-## 14.Human Pose Estimation 人体姿态估计
+## 14.Human Pose Estimation(人体姿态估计)
 
 - [Gesture Recognition in Robotic Surgery: a Review](https://arxiv.org/abs/2102.00027) <br>[2021-02-02]<br>机器人手术中的手势识别：综述
 
 <a name="13"/> 
 
-## 13.Image Classification 图像分类
+## 13.Image Classification(图像分类)
 
 - [One-Class Classification: A Survey](https://arxiv.org/abs/2101.03064)<br>[2021-01-11] <br>单分类综述<br>
 - [Hyperspectral Image Classification -- Traditional to Deep Models: A Survey for Future Prospects](https://arxiv.org/abs/2101.06116)<br>[2021-01-18] <br>高光谱图像分类综述<br>
@@ -171,7 +172,7 @@
 
 <a name="12"/> 
 
-## 12.Image Retrieval 图像检索
+## 12.Image Retrieval(图像检索)
 
 - [Deep Image Retrieval: A Survey](https://arxiv.org/abs/2101.11282)<br>[2021-01-28] <br>图像检索综述
 - [Survey of Visual-Semantic Embedding Methods for Zero-Shot Image Retrieval](https://arxiv.org/abs/2105.07391)<br>[2021-05-18]
@@ -179,7 +180,7 @@
 
 <a name="11"/> 
 
-## 11.Face 人脸技术
+## 11.Face(人脸技术)
 
 - [Fast Facial Landmark Detection and Applications: A Survey](https://arxiv.org/abs/2101.10808)<br>[2021-01-27]<br>人脸关键点检测综述<br>
 - [Countering Malicious DeepFakes: Survey, Battleground, and Horizon](https://arxiv.org/abs/2103.00218)<br>[[主页](http://www.xujuefei.com/dfsurvey)]<br>[2021-03-02]<br>对抵制恶意的 DeepFakes 综述调查
@@ -194,25 +195,23 @@
 * 面部情感分析FAA
   * [Graph-based Facial Affect Analysis: A Review of Methods, Applications and Challenges](https://arxiv.org/abs/2103.15599)<br>[2021-03-30]<br>本文是对基于 Graph 的面部情感分析的全面调查，包括算法的演变及其应用。首先，介绍情感分析的背景知识，特别是关于 Graph（图）的作用。然后，对文献中广泛用于基于图的情感表示的方法进行讨论，并展示出图构建的趋势。对于基于图的情感分析中的关系推理，作者根据传统方法或深度模型的使用情况对现有研究进行分类，特别强调最新的图神经网络。还总结了标准 FAA 问题上最先进的实验比较。最后，将综述扩展到当前的挑战和潜在的方向。作者称是首次对基于图的 FAA 方法的调查，该研究结果可以作为该领域未来研究的参考点。
 
-
-
 <a name="10"/> 
 
-## 10.Image Super-resolution 图像超分辨率
+## 10.Image Super-resolution(图像超分辨率)
 
 - [A Comprehensive Review of Deep Learning-based Single Image Super-resolution](https://arxiv.org/abs/2102.09351)<br>[2021-02-19] <br>基于深度学习的单图像超分辨调查
 - [Real-World Single Image Super-Resolution: A Brief Review](https://arxiv.org/abs/2103.02368)<br>[2021-03-04]<br>真实单图像超分辨率综述
 
 <a name="9"/> 
 
-## 9.模型压缩 & 应用部署
+## 9.Quantization/Pruning/Knowledge Distillation/Model Compression(量化、剪枝、蒸馏、模型压缩/扩展与优化)
 
 - [Pruning and Quantization for Deep Neural Network Acceleration: A Survey](https://arxiv.org/abs/2101.09671)<br>[2021-01-26]<br>量化剪枝综述
 - [Dynamic Neural Networks: A Survey](https://arxiv.org/abs/2102.04906)<br>[2021-02-09]<br>解读：[【深度】清华黄高等人新作：动态神经网络首篇综述](https://mp.weixin.qq.com/s/aEj1JfkpnsXB4ZRxeWfZAQ)
 
 <a name="8"/> 
 
-## 8.Deep Learning 深度学习
+## 8.Deep Learning(深度学习)
 
 - [Aesthetics, Personalization and Recommendation: A survey on Deep Learning in Fashion](https://arxiv.org/abs/2101.08301)<br>[2021-01-22] <br>基于深度学习、人工智能、机器学习的时尚穿搭技术综述
 * 神经网络
@@ -225,7 +224,7 @@
 
 <a name="7"/> 
 
-## 7.Remote Image 遥感图像
+## 7.Aeria/Drones/Satellite/RS Image(航空影像/无人机)
 
 - [A Review on Deep Learning in UAV Remote Sensing](https://arxiv.org/abs/2101.10861)<br>[2021-01-29] <br>深度学习在无人机遥感中的应用综述
 * 遥感图像分类
@@ -233,7 +232,7 @@
 
 <a name="6"/> 
 
-## 6.GAN 生成对抗网络<br>
+## 6.GAN(生成对抗网络)
 
 - [GAN Inversion: A Survey](https://arxiv.org/abs/2101.05278)<br>[2021-01-15] <br>[[awesome gan-inversion papers](https://github.com/weihaox/awesome-image-translation/blob/master/awesome-gan-inversion.md)]<br>[[Papers on generative modeling](https://github.com/zhoubolei/awesome-generative-modeling)]<br>GAN 逆映射综述<br>
 - [Adversarial Text-to-Image Synthesis: A Review](https://arxiv.org/abs/2101.09983)<br>[2021-01-26]<br>文本到图像生成综述<br>
@@ -252,7 +251,7 @@
 
 <a name="4"/> 
 
-## 4.Video 视频相关技术（摘要理解/字幕）
+## 4.Video视频相关技术（摘要理解/字幕）
 
 * Video Summarization 视频摘要
   * [Video Summarization Using Deep Neural Networks: A Survey](https://arxiv.org/abs/2101.06072)<br>[2021-01-18]
@@ -265,7 +264,7 @@
     * [Person Retrieval in Surveillance Using Textual Query: A Review](https://arxiv.org/abs/2105.02414)<br>[2021-05-07]<br>使用文本查询进行监控中的人员检索调研
 <a name="3"/> 
 
-## 3.Visual Question Answering 视觉问答
+## 3.Visual Question Answering(视觉问答)
 * 视频问答
     * [Recent Advances in Video Question Answering: A Review of Datasets and Methods](https://arxiv.org/abs/2101.05954)<br>[2021-01-18]
     * [A survey on VQA_Datasets and Approaches](https://arxiv.org/abs/2105.00421)<br>[2021-05-04]<br>本篇综述是对2018年以后的 VQA 数据集、指标和模型，尤其是2018年以后的作品的调研
@@ -275,7 +274,7 @@
 
 <a name="2"/> 
 
-## 2.Medical Image 医学影像
+## 2.Medical Image(医学影像)
 
 - [Diagnostic Captioning: A Survey](https://arxiv.org/abs/2101.07299)<br>[2021-01-20] <br>医学诊断字幕综述
 - [Applications of Deep Learning in Fundus Images: A Review](https://arxiv.org/abs/2101.09864)<br>[2021-01-26] <br>[[github](https://github.com/nkicsl/Fundus_Review)]<br>深度学习在眼底图像中应用综述
@@ -298,7 +297,7 @@
  
 <a name="1"/> 
 
-## 1.Other
+## 1.Unkown(未分)
 
 - [Urban land-use analysis using proximate sensing imagery: a survey](https://arxiv.org/abs/2101.04827)<br>[2021-01-14] <br>对 proximate sensing 支持土地利用分析的最先进方法和公开的数据集进行了全面回顾。<br>
 - [Curriculum Learning: A Survey](https://arxiv.org/abs/2101.10382)<br>[2021-01-27] <br>机器学习综述<br>
