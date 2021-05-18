@@ -174,6 +174,7 @@
 ## 12.Image Retrieval 图像检索
 
 - [Deep Image Retrieval: A Survey](https://arxiv.org/abs/2101.11282)<br>[2021-01-28] <br>图像检索综述
+- [Survey of Visual-Semantic Embedding Methods for Zero-Shot Image Retrieval](https://arxiv.org/abs/2105.07391)<br>[2021-05-18]
 
 
 <a name="11"/> 
@@ -308,6 +309,7 @@
 - [Deep Neural Networks for the Assessment of Surgical Skills: A Systematic Review](https://arxiv.org/abs/2103.05113)<br>[2021-03-10]<br>本篇综述是对深度神经网络在手术技能评估中的应用的全面调查，包含530篇论文文献。
 - [Deep Learning and Machine Vision for Food Processing: A Survey](https://arxiv.org/abs/2103.16106)<br>[2021-03-31]<br>本文是对传统的机器学习和深度学习方法，以及可应用于食品加工领域的机器视觉技术进行的调查。总结了近五年来该领域所发表的代表性论文。是根据它们所使用的不同功能和方法来组织的，便于追踪机器视觉系统和图像处理在食品加工领域的最先进方法。
 - [Application of Computer Vision and Machine Learning for Digitized Herbarium Specimens: A Systematic Literature Review](https://arxiv.org/abs/2104.08732)<br>[2021-04-20]<br>计算机视觉和机器学习在数字化标本馆中的应用综述
+- [A Review on Explainability in Multimodal Deep Neural Nets](https://arxiv.org/abs/2105.07878)<br>[2021-05-18]<br>本片综述对多模态深度神经网络的可解释性进行了全面的调查和评论，特别是针对视觉和语言任务。
 
 ## 扫码CV君微信（注明：CV）入微信交流群：
 
