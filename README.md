@@ -169,6 +169,8 @@
 - [Online Continual Learning in Image Classification: An Empirical Survey](https://arxiv.org/abs/2101.10423)<br>[2021-01-27]<br>图像分类中的在线持续学习综述<br>
 * 杂草检测
   * [Deep Learning Techniques for In-Crop Weed Identification: A Review](https://arxiv.org/abs/2103.14872)<br>[2021-03-30]<br>文章是对深度学习技术在基于图像的杂草检测领域最新发展的调查。首先介绍了与杂草检测相关的深度学习基本原理。然后对关于深度杂草检测的进展进行回顾，以及讨论了包括公共杂草数据集在内的研究材料。最后，总结开发可实际部署的杂草检测方法所面临的挑战，以及对未来研究机会的讨论。作者希望这篇综述能对该领域进行及时的调查，并吸引更多的研究者来解决这一跨学科的研究问题。
+* 小样本分类
+  * [Deep Metric Learning for Few-Shot Image Classification: A Selective Review](https://arxiv.org/abs/2105.08149)<br>[2021-05-19]
 
 <a name="12"/> 
 
