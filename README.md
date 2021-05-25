@@ -311,6 +311,8 @@
 - [Deep Learning and Machine Vision for Food Processing: A Survey](https://arxiv.org/abs/2103.16106)<br>[2021-03-31]<br>本文是对传统的机器学习和深度学习方法，以及可应用于食品加工领域的机器视觉技术进行的调查。总结了近五年来该领域所发表的代表性论文。是根据它们所使用的不同功能和方法来组织的，便于追踪机器视觉系统和图像处理在食品加工领域的最先进方法。
 - [Application of Computer Vision and Machine Learning for Digitized Herbarium Specimens: A Systematic Literature Review](https://arxiv.org/abs/2104.08732)<br>[2021-04-20]<br>计算机视觉和机器学习在数字化标本馆中的应用综述
 - [A Review on Explainability in Multimodal Deep Neural Nets](https://arxiv.org/abs/2105.07878)<br>[2021-05-18]<br>本片综述对多模态深度神经网络的可解释性进行了全面的调查和评论，特别是针对视觉和语言任务。
+- [What is the State of the Art of Computer Vision-Assisted Cytology? A Systematic Literature Review](https://arxiv.org/abs/2105.11277)<br>[2021-05-25]<br>得出结论有，许多类型的stains 仍然缺乏高质量的数据集，大多数工作还不够成熟，无法应用于日常的临床诊断。还发现，采用基于深度学习的方法作为首选方法的趋势越来越明显。
+- [Recent Advances and Trends in Multimodal Deep Learning: A Review](https://arxiv.org/abs/2105.11087)<br>[2021-05-25]<br>多模态深度学习的最新进展和趋势调研
 
 ## 扫码CV君微信（注明：CV）入微信交流群：
 
