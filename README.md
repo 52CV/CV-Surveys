@@ -131,6 +131,7 @@
 - [A Survey of Modern Deep Learning based Object Detection Models](https://arxiv.org/abs/2104.11892)<br>[2021-04-27]<br>本片综述是对基于深度学习的目标检测器最新发展的调查。提供了检测中使用的基准数据集和评估指标的简要概述，以及识别任务中使用的一些突出的骨干架构。涵盖了在边缘设备上使用的当代轻量级分类模型。并比较了这些架构在多个指标上的表现。
 * 弱监督目标定位与检测
   * [Weakly Supervised Object Localization and Detection: A Survey](https://arxiv.org/abs/2104.07918)<br>[2021-04-19]<br>本篇综述回顾了弱监督目标定位与检测的经典模型，来自现成深度网络的特征表示方法，完全基于深度学习的方法，以及在该领域广泛使用的公开数据集和标准评估指标。还该领域的主要挑战、发展历史、各类方法的优/劣势、不同类别方法之间的关系、应用以及未来可能的发展方向进行了讨论，以进一步促进该研究领域的发展。
+  * [Deep Learning for Weakly-Supervised Object Detection and Object Localization: A Survey](https://arxiv.org/abs/2105.12694)<br>[2021-05-27]<br>本篇综述总结了大量的深度学习 WSOD 方法，以及对所面临挑战提出了解决方案。
 * 微生物检测
   * [A State-of-the-art Survey of Object Detection Techniques in Microorganism Image Analysis: from Traditional Image Processing and Classical Machine Learning to Current Deep Convolutional Neural Networks and Potential Visual Transformers](https://arxiv.org/abs/2105.03148)<br>[2021-05-10]<br>本篇综述总结了从 1985 年至今的 137 篇相关技术论文。按照时间顺序对现有的微生物检测方法，从传统的图像处理和传统的机器学习到深度学习方法进行了分析。并介绍一些潜在的方法，包括 visual transformers。有助于研究人员对微生物检测领域的发展过程、研究现状和未来趋势有更全面的了解，为其他领域的研究人员提供参考。
 * 显著目标检测
