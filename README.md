@@ -129,6 +129,7 @@
 - [Occlusion Handling in Generic Object Detection: A Review](https://arxiv.org/abs/2101.08845)<br>[2021-01-25]
 - [A Survey of Deep Learning Techniques for Weed Detection from Images](https://arxiv.org/abs/2103.01415)<br>[2021-03-03]<br>从图像中检测杂草的深度学习技术调查报告,共梳理了70篇相关文献。
 - [A Survey of Modern Deep Learning based Object Detection Models](https://arxiv.org/abs/2104.11892)<br>[2021-04-27]<br>本片综述是对基于深度学习的目标检测器最新发展的调查。提供了检测中使用的基准数据集和评估指标的简要概述，以及识别任务中使用的一些突出的骨干架构。涵盖了在边缘设备上使用的当代轻量级分类模型。并比较了这些架构在多个指标上的表现。
+- [Unsupervised Domain Adaption of Object Detectors: A Survey](https://arxiv.org/abs/2105.13502)<br>[2021-05-31]<br>本篇综述对深度目标检测器的无监督域适应性任务的现有方法进行了广泛调查。详细回顾了过去几年中发表的总共五十种方法。
 * 弱监督目标定位与检测
   * [Weakly Supervised Object Localization and Detection: A Survey](https://arxiv.org/abs/2104.07918)<br>[2021-04-19]<br>本篇综述回顾了弱监督目标定位与检测的经典模型，来自现成深度网络的特征表示方法，完全基于深度学习的方法，以及在该领域广泛使用的公开数据集和标准评估指标。还该领域的主要挑战、发展历史、各类方法的优/劣势、不同类别方法之间的关系、应用以及未来可能的发展方向进行了讨论，以进一步促进该研究领域的发展。
   * [Deep Learning for Weakly-Supervised Object Detection and Object Localization: A Survey](https://arxiv.org/abs/2105.12694)<br>[2021-05-27]<br>本篇综述总结了大量的深度学习 WSOD 方法，以及对所面临挑战提出了解决方案。
@@ -297,7 +298,9 @@
   * [A State-of-the-art Survey of Artificial Neural Networks for Whole-slide Image Analysis:from Popular Convolutional Neural Networks to Potential Visual Transformers](https://arxiv.org/abs/2104.06243)<br>[2021-04-14]<br>从流行的 CNN 到具有强大潜力的 Transformers，对用于 Whole-slide Image（病理图像） 分析的人工智能神经网络（ANN）调查。
 * 牙齿矫正
   * [Convolutional Neural Networks in Orthodontics: a review](https://arxiv.org/abs/2104.08886)<br>[2021-04-20]<br>卷积神经网络在矫正牙齿中应用调研
- 
+* 糖尿病视网膜病变检测
+  * [A systematic review of transfer learning based approaches for diabetic retinopathy detection](https://arxiv.org/abs/2105.13793)<br>[2021-05-31]<br>本片综述重点关注基于 DNN 和迁移学习的 DR 检测应用，对 2015 年至 2020 年间的 38 篇出版物进行了调研。其中已发表的论文用 9 个图和 10 个表进行了总结，给出了关于 22 个预训练的 CNN 模型、12 个 DR 数据集和标准性能指标的信息。
+
 <a name="1"/> 
 
 ## 1.Unkown(未分)
