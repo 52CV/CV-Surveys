@@ -266,6 +266,9 @@
 * 视频监控
   * 人员检索
     * [Person Retrieval in Surveillance Using Textual Query: A Review](https://arxiv.org/abs/2105.02414)<br>[2021-05-07]<br>使用文本查询进行监控中的人员检索调研
+* 视频分析
+  * [A Survey of Performance Optimization in Neural Network-Based Video Analytics Systems](https://arxiv.org/abs/2105.14195)<br>[2021-06-01]<>对于以往的文献综述主要在特定应用的视频分析技术，以提高结果的准确性；在本篇综述论文中，作者专注于优化基于神经网络的视频分析系统的性能技术进行了调研。
+
 <a name="3"/> 
 
 ## 3.Visual Question Answering(视觉问答)
