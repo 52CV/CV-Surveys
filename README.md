@@ -303,6 +303,8 @@
   * [Convolutional Neural Networks in Orthodontics: a review](https://arxiv.org/abs/2104.08886)<br>[2021-04-20]<br>卷积神经网络在矫正牙齿中应用调研
 * 糖尿病视网膜病变检测
   * [A systematic review of transfer learning based approaches for diabetic retinopathy detection](https://arxiv.org/abs/2105.13793)<br>[2021-05-31]<br>本片综述重点关注基于 DNN 和迁移学习的 DR 检测应用，对 2015 年至 2020 年间的 38 篇出版物进行了调研。其中已发表的论文用 9 个图和 10 个表进行了总结，给出了关于 22 个预训练的 CNN 模型、12 个 DR 数据集和标准性能指标的信息。
+* X射线诊断
+  * [Tips and Tricks to Improve CNN-based Chest X-ray Diagnosis: A Survey](https://arxiv.org/abs/2106.00997)<br>[2021-06-03]
 
 <a name="1"/> 
 
