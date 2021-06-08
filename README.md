@@ -100,7 +100,7 @@
   * [Generalizing to Unseen Domains: A Survey on Domain Generalization](https://arxiv.org/abs/2103.03097)<br>[2021-03-05]<br>本篇文章作者从 same-source（同源） 和 cross-source（跨源）域对点云配准进行了全面的回顾
   * [Domain Generalization: A Survey](https://arxiv.org/abs/2103.02503)<br>[2021-03-04]<br>本篇文章是首次对 DG（Domain Generalization）的十年发展进行了全面的文献回顾总结<br>
 * 域适应
-  * [A Survey on Deep Domain Adaptation for LiDAR Perception]<br>[2021-06-07]<br>本篇综述是对域适应方法的最新进展的调研，并提出专门针对 LiDAR 感知的有趣研究问题。
+  * [A Survey on Deep Domain Adaptation for LiDAR Perception](https://arxiv.org/abs/2106.02377)<br>[2021-06-07]<br>本篇综述是对域适应方法的最新进展的调研，并提出专门针对 LiDAR 感知的有趣研究问题。
 
 <a name="20"/> 
 
