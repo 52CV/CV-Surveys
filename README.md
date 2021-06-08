@@ -76,6 +76,8 @@
 ## 24.Image Processing(图像处理)
 * 图像美学评级
   * [A Survey of Hand Crafted and Deep Learning Methods for Image Aesthetic Assessment](https://arxiv.org/abs/2103.11616)<br>[2021-03-23]<br>文章是对近期图像美学自动评估技术进行的文献调查。回顾大量的传统手工制作和基于深度学习的方法。并对关键的问题进行讨论，如为什么一些特征或模型比其他的表现更好，有什么局限性。最后对不同方法的量化结果进行比较。
+* 图像去雾
+  * [A Comprehensive Survey on Image Dehazing Based on Deep Learning](https://arxiv.org/abs/2106.03323)<br>[2021-06-08]<br>对基于深度学习的图像去雾算法技术研究调研
 
 <a name="23"/>
 
@@ -97,7 +99,8 @@
 * 域泛化
   * [Generalizing to Unseen Domains: A Survey on Domain Generalization](https://arxiv.org/abs/2103.03097)<br>[2021-03-05]<br>本篇文章作者从 same-source（同源） 和 cross-source（跨源）域对点云配准进行了全面的回顾
   * [Domain Generalization: A Survey](https://arxiv.org/abs/2103.02503)<br>[2021-03-04]<br>本篇文章是首次对 DG（Domain Generalization）的十年发展进行了全面的文献回顾总结<br>
-
+* 域适应
+  * [A Survey on Deep Domain Adaptation for LiDAR Perception]<br>[2021-06-07]<br>本篇综述是对域适应方法的最新进展的调研，并提出专门针对 LiDAR 感知的有趣研究问题。
 
 <a name="20"/> 
 
@@ -322,6 +325,7 @@
 - [A Review on Explainability in Multimodal Deep Neural Nets](https://arxiv.org/abs/2105.07878)<br>[2021-05-18]<br>本片综述对多模态深度神经网络的可解释性进行了全面的调查和评论，特别是针对视觉和语言任务。
 - [What is the State of the Art of Computer Vision-Assisted Cytology? A Systematic Literature Review](https://arxiv.org/abs/2105.11277)<br>[2021-05-25]<br>得出结论有，许多类型的stains 仍然缺乏高质量的数据集，大多数工作还不够成熟，无法应用于日常的临床诊断。还发现，采用基于深度学习的方法作为首选方法的趋势越来越明显。
 - [Recent Advances and Trends in Multimodal Deep Learning: A Review](https://arxiv.org/abs/2105.11087)<br>[2021-05-25]<br>多模态深度学习的最新进展和趋势调研
+- [Deep Neural Network-based Enhancement for Image and Video Streaming Systems: A Survey and Future Directions](https://arxiv.org/abs/2106.03727)<br>[2021-06-08]<br>
 
 ## 扫码CV君微信（注明：CV）入微信交流群：
 
