@@ -12,7 +12,7 @@
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
-|[32.Adversarial Example Detection(对抗性示例检测)](#32)|[31.Change Detection(变化检测)](#31)|
+|[34.Graph Neural Networks(图神经网络)](#34)|[33.Data Augmentation(图像增强)](#33)|[32.Adversarial Example Detection(对抗性示例检测)](#32)|[31.Change Detection(变化检测)](#31)|
 |[30.Gaze Estimation(视线估计)](#30)|[29.图像标注](#29)|[Depth Estimation(深度估计)](#28)|[27.Sign Language Production(手语制作)](#27)|[26.Image Representation(图像表征)](#26)|[25.Multimedia Technology(多媒体技术)](#25)|
 |[24.Image Processing(图像处理)](#24)|[23.3D 语义场景完成(SSC)](#23)|[22.Image Segmentation(图像分割)](#22)|[21.Few-Shot/Zero-Shot Learning,Domain Generalization/Adaptation(小/零样本学习，域适应，域泛化)](#21)|
 |[20.Anomaly Detection(异常检测)](#20)|[19.Transformers](#19)|[18.Point Clouds(点云)](#18)|[17.Object Detection(目标检测)](#17)|
@@ -26,6 +26,16 @@
 - [推荐几篇近期必看的视觉综述，含图像检索、目标检测、人脸关键点检测、医学图像分割、遥感、模型优化等](https://mp.weixin.qq.com/s/rO-0IaDy7cAehryFKYbT_g) <br>[一月中下旬]
 
 - [推荐几篇近期必看的视觉综述，含GAN、Transformer、人脸超分辨、遥感等](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247488123&idx=1&sn=f51f3137a16e625c962705997f0daf0a&chksm=fad13d2dcda6b43b1001b8ff924f317f5fcbdbcbd41894b193823e2fcd1d2412f4c3394ebb8e&scene=21#wechat_redirect) <br>[一月上旬]
+
+<a name="34"/>
+
+## 34.Graph Neural Networks(图神经网络)
+* [Survey of Image Based Graph Neural Networks](https://arxiv.org/abs/2106.06307)<br>[2021-06-14]<br>
+
+<a name="33"/>
+
+## 33.Data Augmentation(图像增强)
+* [Survey: Image Mixing and Deleting for Data Augmentation](https://arxiv.org/abs/2106.07085)<br>[2021-06-15]<br>
 
 <a name="32"/>
 
@@ -226,6 +236,7 @@
   * [Hyperbolic Deep Neural Networks: A Survey](https://arxiv.org/abs/2101.04562)<br>[2021-01-13]<br>
 * 注意力机制
   * [Attention, please! A survey of Neural Attention Models in Deep Learning](https://arxiv.org/abs/2103.16775)<br>[2021-04-01]<br>为了评估注意力在深度神经网络中的应用广度，作者在本次调查中对该领域进行了系统的回顾。包括该领域的数百种架构，确定并讨论一些表现出重大影响的架构。还开发并公开一种自动化的方法，以促进该领域评论的发展。通过对 650 部作品进行批判性分析，描述了注意力在卷积、循环网络和生成模型中的主要用途，并确定共同的用途和应用子群。此外，还描述了注意力在不同应用领域的影响，以及它们对神经网络可解释性的影响。最后，列出可能的趋势和进一步研究的机会，希望这篇综述能对该领域的主要注意力模型进行简洁的概述，并指导研究人员开发未来的方法，以推动进一步的改进。
+  * [Attention mechanisms and deep learning for machine vision: A survey of the state of the art](https://arxiv.org/abs/2106.07550)<br>[2021-06-15]<br>本篇综述是对基于 Attention（注意力）机制和深度学习在各种机器视觉（MV）任务/应用中的合并的研究调研。包含 110 多篇论文作为研究参考。
 * 集成学习
   * [Ensemble deep learning: A review](https://arxiv.org/abs/2104.02395)<br>[2021-04-07]<br>本篇综述是对目前最先进的深度集成模型的调研，为研究学者提供一个广泛的总结。集成模型大致可分为  bagging, boosting 和 stacking，基于 negative correlation 的深度集成模型，显式/隐式合集，同质/异质合集，决策融合策略，无监督、半监督、强化学习和基于在线/增量、多标签的深度集成模型。此外，还深度集成模型在不同领域的应用进行了简要讨论。并在本文的最后提出一些未来的建议和研究方向。
 
