@@ -12,8 +12,9 @@
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
-|[34.Graph Neural Networks(图神经网络)](#34)|[33.Data Augmentation(图像增强)](#33)|[32.Adversarial Example Detection(对抗性示例检测)](#32)|[31.Change Detection(变化检测)](#31)|
-|[30.Gaze Estimation(视线估计)](#30)|[29.图像标注](#29)|[Depth Estimation(深度估计)](#28)|[27.Sign Language Production(手语制作)](#27)|[26.Image Representation(图像表征)](#26)|[25.Multimedia Technology(多媒体技术)](#25)|
+|[35.Interest Point Detection(兴趣点检测)](#35)|[34.Graph Neural Networks(图神经网络)](#34)|[33.Data Augmentation(图像增强)](#33)|
+|[32.Adversarial Example Detection(对抗性示例检测)](#32)|[31.Change Detection(变化检测)](#31)|[30.Gaze Estimation(视线估计)](#30)|[29.图像标注](#29)|
+|[28.Depth Estimation(深度估计)](#28)|[27.Sign Language Production(手语制作)](#27)|[26.Image Representation(图像表征)](#26)|[25.Multimedia Technology(多媒体技术)](#25)|
 |[24.Image Processing(图像处理)](#24)|[23.3D 语义场景完成(SSC)](#23)|[22.Image Segmentation(图像分割)](#22)|[21.Few-Shot/Zero-Shot Learning,Domain Generalization/Adaptation(小/零样本学习，域适应，域泛化)](#21)|
 |[20.Anomaly Detection(异常检测)](#20)|[19.Transformers](#19)|[18.Point Clouds(点云)](#18)|[17.Object Detection(目标检测)](#17)|
 |[16.Human Action Detection and Recognitionn(人体动作检测与识别)](#16)|[15.Person Re-Identification(人员重识别)](#15)|[14.:dancers:Human Pose Estimation(人体姿态估计)](#14)|[13.Image Classification(图像分类)](#13)|
@@ -26,6 +27,12 @@
 - [推荐几篇近期必看的视觉综述，含图像检索、目标检测、人脸关键点检测、医学图像分割、遥感、模型优化等](https://mp.weixin.qq.com/s/rO-0IaDy7cAehryFKYbT_g) <br>[一月中下旬]
 
 - [推荐几篇近期必看的视觉综述，含GAN、Transformer、人脸超分辨、遥感等](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247488123&idx=1&sn=f51f3137a16e625c962705997f0daf0a&chksm=fad13d2dcda6b43b1001b8ff924f317f5fcbdbcbd41894b193823e2fcd1d2412f4c3394ebb8e&scene=21#wechat_redirect) <br>[一月上旬]
+
+<a name="35"/>
+
+## 35.Interest Point Detection(兴趣点检测)
+
+* [Image Feature Information Extraction for Interest Point Detection: A Comprehensive Review](https://arxiv.org/abs/2106.07929)<br>[2021-06-16]<br>本篇综述对用于兴趣点检测的图像特征信息（IFI）提取技术进行了全面调研。
 
 <a name="34"/>
 
