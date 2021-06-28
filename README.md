@@ -8,6 +8,8 @@
 
 ### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月16日已公开 108 篇。
 
+❗❗❗注：6月25日更新3篇。
+
 ## 目录
 
 |:cat:|:dog:|:tiger:|:wolf:|
@@ -227,6 +229,7 @@
 
 - [A Comprehensive Review of Deep Learning-based Single Image Super-resolution](https://arxiv.org/abs/2102.09351)<br>[2021-02-19] <br>基于深度学习的单图像超分辨调查
 - [Real-World Single Image Super-Resolution: A Brief Review](https://arxiv.org/abs/2103.02368)<br>[2021-03-04]<br>真实单图像超分辨率综述
+* [Advancing biological super-resolution microscopy through deep learning: a brief review](https://arxiv.org/abs/2106.13064)<br>[2021-06-25]<br>本篇综述是对近期在使用深度学习来提高超分辨率显微镜性能方面进展的调研。主要关注深度学习如何促进超分辨率图像的重建，以及对相关的关键技术挑战进行讨论。
 
 <a name="9"/> 
 
