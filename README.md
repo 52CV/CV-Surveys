@@ -218,6 +218,8 @@
   * [Weakly Supervised Learning for Facial Behavior Analysis : A Review](https://arxiv.org/abs/2101.09858)<br>[2021-01-26]<br>无监督学习在人脸表情识别的应用综述<br>
 * 面部情感分析FAA
   * [Graph-based Facial Affect Analysis: A Review of Methods, Applications and Challenges](https://arxiv.org/abs/2103.15599)<br>[2021-03-30]<br>本文是对基于 Graph 的面部情感分析的全面调查，包括算法的演变及其应用。首先，介绍情感分析的背景知识，特别是关于 Graph（图）的作用。然后，对文献中广泛用于基于图的情感表示的方法进行讨论，并展示出图构建的趋势。对于基于图的情感分析中的关系推理，作者根据传统方法或深度模型的使用情况对现有研究进行分类，特别强调最新的图神经网络。还总结了标准 FAA 问题上最先进的实验比较。最后，将综述扩展到当前的挑战和潜在的方向。作者称是首次对基于图的 FAA 方法的调查，该研究结果可以作为该领域未来研究的参考点。
+* DeepFake 检测
+  * [Deep Fake Detection: Survey of Facial Manipulation Detection Solutions](https://arxiv.org/abs/2106.12605)<br>[2021-06-25]<br>:star:[code](https://github.com/sagarmandiya/DeepFake-Detection)
 
 <a name="10"/> 
 
@@ -272,7 +274,8 @@
   * [Explainability of vision-based autonomous driving systems: Review and challenges](https://arxiv.org/abs/2101.05307)<br>[2021-01-15] <br>自动驾驶综述<br>
   * [Deep Learning-Based Autonomous Driving Systems: A Survey of Attacks and Defenses](https://arxiv.org/abs/2104.01789)<br>[2021-04-06]<br>本篇综述对各种针对基于深度学习的 ADS pipeline 的攻击进行了详细的回顾和分析。全面阐明了基于深度学习的 ADS 中最先进的攻击和防御方法。并提出未来应用新攻击的研究方向，以及保障和提高基于深度学习的 ADS 的鲁棒性。
   * [Vision-based Driver Assistance Systems: Survey, Taxonomy and Advances](https://arxiv.org/abs/2104.12583)<br>[2021-04-27]<br>基于视觉的驾驶辅助系统：调查、分类学和进展
-
+* 3D目标检测
+  * [Multi-Modal 3D Object Detection in Autonomous Driving: a Survey](https://arxiv.org/abs/2106.12735)<br>[2021-06-25]<br>多模态三维目标检测在自动驾驶应用中的调研。
 
 <a name="4"/> 
 
