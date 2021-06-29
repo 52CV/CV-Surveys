@@ -8,7 +8,7 @@
 
 ### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月16日已公开 108 篇。
 
-❗❗❗注：6月25日更新3篇。
+❗❗❗注：6月25日更新3篇。6月29日更新1篇。
 
 ## 目录
 
@@ -97,6 +97,8 @@
   * [A Survey of Hand Crafted and Deep Learning Methods for Image Aesthetic Assessment](https://arxiv.org/abs/2103.11616)<br>[2021-03-23]<br>文章是对近期图像美学自动评估技术进行的文献调查。回顾大量的传统手工制作和基于深度学习的方法。并对关键的问题进行讨论，如为什么一些特征或模型比其他的表现更好，有什么局限性。最后对不同方法的量化结果进行比较。
 * 图像去雾
   * [A Comprehensive Survey on Image Dehazing Based on Deep Learning](https://arxiv.org/abs/2106.03323)<br>[2021-06-08]<br>对基于深度学习的图像去雾算法技术研究调研
+* Image Composition(图像合成)
+  * [Making Images Real Again: A Comprehensive Survey on Deep Image Composition](https://arxiv.org/abs/2106.14490)<br>[2021-06-29]<br>:star:[code](https://github.com/bcmi/Awesome-Image-Composition)<br>本篇综述对图像合成进行了全面调研。
 
 <a name="23"/>
 
