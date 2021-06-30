@@ -8,7 +8,7 @@
 
 ### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月16日已公开 108 篇。
 
-❗❗❗注：6月25日更新3篇。6月29日更新1篇。
+❗❗❗注：6月25日更新3篇。6月29日更新1篇。6月30日更新1篇。
 
 ## 目录
 
@@ -224,6 +224,9 @@
   * [Graph-based Facial Affect Analysis: A Review of Methods, Applications and Challenges](https://arxiv.org/abs/2103.15599)<br>[2021-03-30]<br>本文是对基于 Graph 的面部情感分析的全面调查，包括算法的演变及其应用。首先，介绍情感分析的背景知识，特别是关于 Graph（图）的作用。然后，对文献中广泛用于基于图的情感表示的方法进行讨论，并展示出图构建的趋势。对于基于图的情感分析中的关系推理，作者根据传统方法或深度模型的使用情况对现有研究进行分类，特别强调最新的图神经网络。还总结了标准 FAA 问题上最先进的实验比较。最后，将综述扩展到当前的挑战和潜在的方向。作者称是首次对基于图的 FAA 方法的调查，该研究结果可以作为该领域未来研究的参考点。
 * DeepFake 检测
   * [Deep Fake Detection: Survey of Facial Manipulation Detection Solutions](https://arxiv.org/abs/2106.12605)<br>[2021-06-25]<br>:star:[code](https://github.com/sagarmandiya/DeepFake-Detection)
+* 人脸活体检测
+  * [Deep Learning for Face Anti-Spoofing: A Survey](https://arxiv.org/abs/2106.14948)<br>[2021-06-30]<br>:star:[code](https://github.com/ZitongYu/DeepFAS)<br>本篇综述对基于深度学习的 FAS 的最新进展进行了全面调研。包含方法、数据集、应用等方面的比较探讨。
+
 
 <a name="10"/> 
 
