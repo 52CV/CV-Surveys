@@ -8,13 +8,13 @@
 
 ### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月16日已公开 108 篇。
 
-❗❗❗注：6月25日更新3篇。6月29日更新1篇。6月30日更新1篇。
+❗❗❗注：6月25日更新3篇。6月29日更新1篇。6月30日更新1篇。7月1日更新2篇
 
 ## 目录
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
-|[35.Interest Point Detection(兴趣点检测)](#35)|[34.Graph Neural Networks(图神经网络)](#34)|[33.Data Augmentation(图像增强)](#33)|
+|[36.Computational Photography(光学、几何、光场成像、计算摄影)](#36)|[35.Interest Point Detection(兴趣点检测)](#35)|[34.Graph Neural Networks(图神经网络)](#34)|[33.Data Augmentation(图像增强)](#33)|
 |[32.Adversarial Example Detection(对抗性示例检测)](#32)|[31.Change Detection(变化检测)](#31)|[30.Gaze Estimation(视线估计)](#30)|[29.图像标注](#29)|
 |[28.Depth Estimation(深度估计)](#28)|[27.Sign Language Production(手语制作)](#27)|[26.Image Representation(图像表征)](#26)|[25.Multimedia Technology(多媒体技术)](#25)|
 |[24.Image Processing(图像处理)](#24)|[23.3D 语义场景完成(SSC)](#23)|[22.Image Segmentation(图像分割)](#22)|[21.Few-Shot/Zero-Shot Learning,Domain Generalization/Adaptation(小/零样本学习，域适应，域泛化)](#21)|
@@ -29,6 +29,12 @@
 - [推荐几篇近期必看的视觉综述，含图像检索、目标检测、人脸关键点检测、医学图像分割、遥感、模型优化等](https://mp.weixin.qq.com/s/rO-0IaDy7cAehryFKYbT_g) <br>[一月中下旬]
 
 - [推荐几篇近期必看的视觉综述，含GAN、Transformer、人脸超分辨、遥感等](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247488123&idx=1&sn=f51f3137a16e625c962705997f0daf0a&chksm=fad13d2dcda6b43b1001b8ff924f317f5fcbdbcbd41894b193823e2fcd1d2412f4c3394ebb8e&scene=21#wechat_redirect) <br>[一月上旬]
+
+<a name="36"/>
+
+## 36.Computational Photography(光学、几何、光场成像、计算摄影)
+* Hyperspectral imaging(高光谱成像)
+  * [Learnable Reconstruction Methods from RGB Images to Hyperspectral Imaging: A Survey](https://arxiv.org/abs/2106.15944)<br>[2021-07-01]<br>本篇综述对这些来自广泛的 RGB 图像的最先进的光谱重建方法进行了深入调查。通过对超过 25 种方法的系统研究和比较，发现大多数数据驱动的深度学习方法尽管速度较低，但在重建精度和质量方面都优于基于先验的方法。作者还称本篇综述可以作为同行研究者的一个富有成效的参考资料，从而进一步激发相关领域的未来发展方向。
 
 <a name="35"/>
 
@@ -273,6 +279,8 @@
 - [Adversarial Text-to-Image Synthesis: A Review](https://arxiv.org/abs/2101.09983)<br>[2021-01-26]<br>文本到图像生成综述<br>
 - [Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy](https://arxiv.org/abs/1906.01529)<br>[2021-03-29]<br>:star:[code](https://github.com/sheqi/GAN_Review):newspaper:[Publication](https://dl.acm.org/doi/fullHtml/10.1145/3439723)
 * [Generative Adversarial Networks (GAN) Powered Fast Magnetic Resonance Imaging -- Mini Review, Comparison and Perspectives](https://arxiv.org/abs/2105.01800)<br>[2021-05-06]<br>本篇综述对基于 GAN 驱动的快速 MRI 方法进行了回顾，并对各种解剖数据集进行了比较研究，以证明这种快速 MRI 的通用性和鲁棒性，同时提供了未来的展望。
+* 图像合成
+  * [A Survey on Adversarial Image Synthesis](https://arxiv.org/abs/2106.16056)<br>[2021-01-01]<br>本篇综述提供一个用于图像合成的方法分类，并对文本到图像合成和图像到图像翻译的不同模型进行了全面回顾，以及对一些评估指标和用 GAN 进行图像合成的未来可能研究方向的讨论。
 
 <a name="5"/> 
 
