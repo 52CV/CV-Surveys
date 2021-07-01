@@ -8,12 +8,13 @@
 
 ### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月16日已公开 108 篇。
 
-❗❗❗注：6月25日更新3篇。6月29日更新1篇。6月30日更新1篇。7月1日更新2篇
+❗❗❗注：6月25日更新3篇。6月29日更新1篇。6月30日更新1篇。7月1日更新4篇
 
 ## 目录
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
+|[37.Affective Image Content Analysis(情感图像内容分析)](#37)|
 |[36.Computational Photography(光学、几何、光场成像、计算摄影)](#36)|[35.Interest Point Detection(兴趣点检测)](#35)|[34.Graph Neural Networks(图神经网络)](#34)|[33.Data Augmentation(图像增强)](#33)|
 |[32.Adversarial Example Detection(对抗性示例检测)](#32)|[31.Change Detection(变化检测)](#31)|[30.Gaze Estimation(视线估计)](#30)|[29.图像标注](#29)|
 |[28.Depth Estimation(深度估计)](#28)|[27.Sign Language Production(手语制作)](#27)|[26.Image Representation(图像表征)](#26)|[25.Multimedia Technology(多媒体技术)](#25)|
@@ -29,6 +30,11 @@
 - [推荐几篇近期必看的视觉综述，含图像检索、目标检测、人脸关键点检测、医学图像分割、遥感、模型优化等](https://mp.weixin.qq.com/s/rO-0IaDy7cAehryFKYbT_g) <br>[一月中下旬]
 
 - [推荐几篇近期必看的视觉综述，含GAN、Transformer、人脸超分辨、遥感等](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247488123&idx=1&sn=f51f3137a16e625c962705997f0daf0a&chksm=fad13d2dcda6b43b1001b8ff924f317f5fcbdbcbd41894b193823e2fcd1d2412f4c3394ebb8e&scene=21#wechat_redirect) <br>[一月上旬]
+
+<a name="37"/>
+
+## 37.Affective Image Content Analysis(情感图像内容分析)
+* [Affective Image Content Analysis: Two Decades Review and New Perspectives](https://arxiv.org/abs/2106.16125)<br>[2021-07-01]<br>本篇综述，作者对近二十年来 AICA 的发展进行了全面调研，特别是针对以下三个主要挑战：the affective gap、perception subjectivity以及标签噪声和缺失，并重点介绍最先进的方法。
 
 <a name="36"/>
 
@@ -337,6 +343,7 @@
   * [A survey on shape-constraint deep learning for medical image segmentation](https://arxiv.org/abs/2101.07721)<br>[2021-01-20]<br>医学图像分割综述
   * [Medical Image Segmentation with Limited Supervision: A Review of Deep Network Models](https://arxiv.org/abs/2103.00429)<br>[2021-03-02]<br>
   * [Automated liver tissues delineation based on machine learning techniques: A survey, current trends and future orientations](https://arxiv.org/abs/2103.06384)<br>[2021-03-12]<br>本篇综述是对2014年至2020年期间所发表的主要研究的调查，包含研究人员用于分割肝脏、肝脏肿瘤和肝脏-血管结构的不同机器学习算法。
+  * [Recent Advances in Fibrosis and Scar Segmentation from Cardiac MRI: A State-of-the-Art Review and Future Perspectives](https://arxiv.org/abs/2106.15707)<br>[2021-07-01]<br>本篇综述对利用不同方式进行准确的 cardiac fibrosis（心脏纤维化）和 scar segmentation（疤痕分割）的传统和当前最先进的方法进行了调研。
 * 病理图像（WSI）分析
   * [A State-of-the-art Survey of Artificial Neural Networks for Whole-slide Image Analysis:from Popular Convolutional Neural Networks to Potential Visual Transformers](https://arxiv.org/abs/2104.06243)<br>[2021-04-14]<br>从流行的 CNN 到具有强大潜力的 Transformers，对用于 Whole-slide Image（病理图像） 分析的人工智能神经网络（ANN）调查。
 * 牙齿矫正
