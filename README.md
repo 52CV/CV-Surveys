@@ -8,7 +8,7 @@
 
 ### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月16日已公开 108 篇。
 
-❗❗❗注：6月25日更新3篇。6月29日更新1篇。6月30日更新1篇。7月1日更新4篇。7月2日更新2篇
+❗❗❗注：6月25日更新3篇。6月29日更新1篇。6月30日更新1篇。7月1日更新4篇。7月2日更新2篇.7月5日更新1篇
 
 ## 目录
 
@@ -123,7 +123,8 @@
 ## 22.Image Segmentation(图像分割)
 
 - [Deep Learning based 3D Segmentation: A Survey](https://arxiv.org/abs/2103.05423)<br>[2021-03-10]<br>本篇综述是对基于深度学习的三维分割的最新进展进行了全面的调查，包含150多篇论文文献。总结了最常用的 pipelines，对其亮点和不足进行了讨论，并分析了这些分割方法的竞争结果。还在分析的基础上，提供了未来有前景的研究方向。
-
+* 视频分割
+  * [A Survey on Deep Learning Technique for Video Segmentation](https://arxiv.org/abs/2107.01153)<br>[2021-07-05]<br>本篇综述是首篇对视频分割领域最新进展的调查报告，包含 AVOS、SVOS、IVOS、LVOS、VSS、VIS 和 VPS 几个子领域。
 
 <a name="21"/> 
 
