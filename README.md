@@ -8,7 +8,7 @@
 
 ### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月16日已公开 108 篇。
 
-❗❗❗注：6月25日更新3篇。6月29日更新1篇。6月30日更新1篇。7月1日更新4篇。7月2日更新2篇.7月5日更新1篇
+❗❗❗注：6月25日更新3篇。6月29日更新1篇。6月30日更新1篇。7月1日更新4篇。7月2日更新2篇。7月5日更新1篇。7月7日更新1篇。
 
 ## 目录
 
@@ -313,6 +313,8 @@
 * 视频监控
   * 人员检索
     * [Person Retrieval in Surveillance Using Textual Query: A Review](https://arxiv.org/abs/2105.02414)<br>[2021-05-07]<br>使用文本查询进行监控中的人员检索调研
+  * 异常检测
+    * [Anomaly Detection using Edge Computing in Video Surveillance System: Review](https://arxiv.org/abs/2107.02778)<br>[2021-07-07]<br>本篇综述对近十年中用于为检测智能视频监控中的异常情况而开发的各种方法进行了全面调研。
 * 视频分析
   * [A Survey of Performance Optimization in Neural Network-Based Video Analytics Systems](https://arxiv.org/abs/2105.14195)<br>[2021-06-01]<>对于以往的文献综述主要在特定应用的视频分析技术，以提高结果的准确性；在本篇综述论文中，作者专注于优化基于神经网络的视频分析系统的性能技术进行了调研。
 
