@@ -8,7 +8,7 @@
 
 ### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月16日已公开 108 篇。
 
-❗❗❗注：6月25日更新3篇。6月29日更新1篇。6月30日更新1篇。7月1日更新4篇。7月2日更新2篇。7月5日更新1篇。7月7日更新1篇。
+❗❗❗注：6月25日更新3篇。6月29日更新1篇。6月30日更新1篇。7月1日更新4篇。7月2日更新2篇。7月5日更新1篇。7月7日更新1篇。7月8日更新2篇。
 
 ## 目录
 
@@ -233,6 +233,8 @@
   * [Performance analysis of facial recognition: A critical review through glass factor](https://arxiv.org/abs/2104.01536)<br>[2021-04-06]<>本篇综述针对 glass factor 对人脸识别影响的全面调研。
 * 人脸表情识别
   * [Weakly Supervised Learning for Facial Behavior Analysis : A Review](https://arxiv.org/abs/2101.09858)<br>[2021-01-26]<br>无监督学习在人脸表情识别的应用综述<br>
+  * 微表情识别
+    * [Deep Learning based Micro-expression Recognition: A Survey](https://arxiv.org/abs/2107.02823)<br>[2021-07-08]<br>本篇综述是对基于深度学习的微表情识别进展的调研，包括数据集、深度MER管道和最有影响力的方法的 bench-marking。为该领域定义了一个新的分类法，包含了基于 DL 的 MER 的所有方面，并对于每个方面，都总结和讨论了基本方法和先进的发展。作者称这是首个对深度 MER 方法的调查，可以作为未来 MER 研究的一个参考点。
 * 面部情感分析FAA
   * [Graph-based Facial Affect Analysis: A Review of Methods, Applications and Challenges](https://arxiv.org/abs/2103.15599)<br>[2021-03-30]<br>本文是对基于 Graph 的面部情感分析的全面调查，包括算法的演变及其应用。首先，介绍情感分析的背景知识，特别是关于 Graph（图）的作用。然后，对文献中广泛用于基于图的情感表示的方法进行讨论，并展示出图构建的趋势。对于基于图的情感分析中的关系推理，作者根据传统方法或深度模型的使用情况对现有研究进行分类，特别强调最新的图神经网络。还总结了标准 FAA 问题上最先进的实验比较。最后，将综述扩展到当前的挑战和潜在的方向。作者称是首次对基于图的 FAA 方法的调查，该研究结果可以作为该领域未来研究的参考点。
 * DeepFake 检测
@@ -248,6 +250,8 @@
 - [A Comprehensive Review of Deep Learning-based Single Image Super-resolution](https://arxiv.org/abs/2102.09351)<br>[2021-02-19] <br>基于深度学习的单图像超分辨调查
 - [Real-World Single Image Super-Resolution: A Brief Review](https://arxiv.org/abs/2103.02368)<br>[2021-03-04]<br>真实单图像超分辨率综述
 * [Advancing biological super-resolution microscopy through deep learning: a brief review](https://arxiv.org/abs/2106.13064)<br>[2021-06-25]<br>本篇综述是对近期在使用深度学习来提高超分辨率显微镜性能方面进展的调研。主要关注深度学习如何促进超分辨率图像的重建，以及对相关的关键技术挑战进行讨论。
+* 盲图像 SR
+  * [Blind Image Super-Resolution: A Survey and Beyond](https://arxiv.org/abs/2107.03055)<br>[2021-07-08]<br>本篇综述是对盲图像 SR 最新进展的系统回顾
 
 <a name="9"/> 
 
