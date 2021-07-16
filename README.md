@@ -6,13 +6,13 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月13日已公开 126 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月13日已公开 127 篇。
 
 ## 目录
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
-|[37.Affective Image Content Analysis(情感图像内容分析)](#37)|
+|[39.Image Captioning(图像字幕)](#39)|[38.Image Synthesis(图像合成)](#38)|[37.Affective Image Content Analysis(情感图像内容分析)](#37)|
 |[36.Computational Photography(光学、几何、光场成像、计算摄影)](#36)|[35.Interest Point Detection(兴趣点检测)](#35)|[34.Graph Neural Networks(图神经网络)](#34)|[33.Data Augmentation(图像增强)](#33)|
 |[32.Adversarial Example Detection(对抗性示例检测)](#32)|[31.Change Detection(变化检测)](#31)|[30.Gaze Estimation(视线估计)](#30)|[29.图像标注](#29)|
 |[28.Depth Estimation(深度估计)](#28)|[27.Sign Language Production(手语制作)](#27)|[26.Image Representation(图像表征)](#26)|[25.Multimedia Technology(多媒体技术)](#25)|
@@ -28,6 +28,11 @@
 - [推荐几篇近期必看的视觉综述，含图像检索、目标检测、人脸关键点检测、医学图像分割、遥感、模型优化等](https://mp.weixin.qq.com/s/rO-0IaDy7cAehryFKYbT_g) <br>[一月中下旬]
 
 - [推荐几篇近期必看的视觉综述，含GAN、Transformer、人脸超分辨、遥感等](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247488123&idx=1&sn=f51f3137a16e625c962705997f0daf0a&chksm=fad13d2dcda6b43b1001b8ff924f317f5fcbdbcbd41894b193823e2fcd1d2412f4c3394ebb8e&scene=21#wechat_redirect) <br>[一月上旬]
+
+<a name="39"/>
+
+## 39.Image Captioning(图像字幕)
+* [From Show to Tell: A Survey on Image Captioning](https://arxiv.org/abs/2107.06912)<br>[2021-07-16]<br>本次工作的目的是提供一个从视觉编码和文本生成到训练策略、使用的数据集和评估指标的图像字幕方法的全面概述和分类。
 
 <a name="38"/>
 
