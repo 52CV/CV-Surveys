@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月16日已公开 127 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月19日已公开 129 篇。
 
 ## 目录
 
@@ -182,6 +182,9 @@
   * [A State-of-the-art Survey of Object Detection Techniques in Microorganism Image Analysis: from Traditional Image Processing and Classical Machine Learning to Current Deep Convolutional Neural Networks and Potential Visual Transformers](https://arxiv.org/abs/2105.03148)<br>[2021-05-10]<br>本篇综述总结了从 1985 年至今的 137 篇相关技术论文。按照时间顺序对现有的微生物检测方法，从传统的图像处理和传统的机器学习到深度学习方法进行了分析。并介绍一些潜在的方法，包括 visual transformers。有助于研究人员对微生物检测领域的发展过程、研究现状和未来趋势有更全面的了解，为其他领域的研究人员提供参考。
 * 显著目标检测
   * [Salient Objects in Clutter](https://arxiv.org/abs/2105.03053)<br>[2021-05-10]<br>本篇综述涉及 348 个参考文献，201个模型的调研，以及100个基准模型。发现并解决了 SOD 中长期被忽视的数据选择偏差问题。与以前的研究不同，本次目标是在自然环境探索 SOD 任务。
+* 小目标检测
+  * [A Survey on Deep Domain Adaptation and Tiny Object Detection Challenges, Techniques and Datasets](https://arxiv.org/abs/2107.07927)<br>[2021-07-19]<br>深度域适应和小目标检测的挑战、技术和数据集调查综述
+
 
 <a name="16"/> 
 
@@ -392,6 +395,7 @@
 - [What is the State of the Art of Computer Vision-Assisted Cytology? A Systematic Literature Review](https://arxiv.org/abs/2105.11277)<br>[2021-05-25]<br>得出结论有，许多类型的stains 仍然缺乏高质量的数据集，大多数工作还不够成熟，无法应用于日常的临床诊断。还发现，采用基于深度学习的方法作为首选方法的趋势越来越明显。
 - [Recent Advances and Trends in Multimodal Deep Learning: A Review](https://arxiv.org/abs/2105.11087)<br>[2021-05-25]<br>多模态深度学习的最新进展和趋势调研
 - [Deep Neural Network-based Enhancement for Image and Video Streaming Systems: A Survey and Future Directions](https://arxiv.org/abs/2106.03727)<br>[2021-06-08]<br>
+- [A Survey on Bias in Visual Datasets](https://arxiv.org/abs/2107.07919)<br>[2021-07-19]<br>视觉数据集中的偏见调查
 
 ## 扫码CV君微信（注明：CV）入微信交流群：
 
