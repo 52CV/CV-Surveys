@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月19日已公开 129 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月21日已公开 132 篇。
 
 ## 目录
 
@@ -359,6 +359,8 @@
 * [Artificial Intelligence in Tumor Subregion Analysis Based on Medical Imaging: A Review](https://arxiv.org/abs/2103.13588)<br>[2021-03-26]<br>本文对医学影像中基于 AI 的 tumor subregion 分析进行调研。
 * [A Survey on Graph-Based Deep Learning for Computational Histopathology](https://arxiv.org/abs/2107.00272)<br>[2021-07-02]<br>本篇综述给出基于图的深度学习 conceptual grounding，并讨论其目前在肿瘤定位和分类、肿瘤侵袭和分期、图像检索和生存预测方面的成功。
 * [A Survey of Applications of Artificial Intelligence for Myocardial Infarction Disease Diagnosis](https://arxiv.org/abs/2107.06179)<br>[2021-07-14]<br>本篇综述是基于人工智能、深度学习、机器学习方法对心电图信号 MID 诊断的全面调研。
+* [Medical Imaging with Deep Learning for COVID- 19 Diagnosis: A Comprehensive Review](https://arxiv.org/abs/2107.09602)<br>[2021-07-21]<br>本篇综述对有关管理 COVID-19 大流行病的最新努力进行了概述，以及 DL 在医学成像方面的几个实施方案的描述。
+* [A Review of Generative Adversarial Networks in Cancer Imaging: New Applications, New Solutions](https://arxiv.org/abs/2107.09543)<br>[2021-07-21]<br>总共分析和讨论了 163 篇在癌症成像方面应用对抗性训练技术的论文，并阐述了其方法、优势和局限性。
 * 医学图像检测
   * [Applications of Deep Learning Techniques for Automated Multiple Sclerosis Detection Using Magnetic Resonance Imaging: A Review](https://arxiv.org/abs/2105.04881)<br>[2021-05-12]<br>本篇综述讨论了使用 DL 技术和 MRI 神经成像模式进行的 MS 自动诊断方法的完整调研。同时，对每项工作进行了彻底的回顾和讨论。最后，详细介绍了使用 DL 技术结合 MRI 模式进行 MS 自动诊断的最重要的挑战和未来的方向。
 * 医学图像分割
@@ -396,6 +398,7 @@
 - [Recent Advances and Trends in Multimodal Deep Learning: A Review](https://arxiv.org/abs/2105.11087)<br>[2021-05-25]<br>多模态深度学习的最新进展和趋势调研
 - [Deep Neural Network-based Enhancement for Image and Video Streaming Systems: A Survey and Future Directions](https://arxiv.org/abs/2106.03727)<br>[2021-06-08]<br>
 - [A Survey on Bias in Visual Datasets](https://arxiv.org/abs/2107.07919)<br>[2021-07-19]<br>视觉数据集中的偏见调查
+- [Data Hiding with Deep Learning: A Survey Unifying Digital Watermarking and Steganography](https://arxiv.org/abs/2107.09287)<br>[2021-07-21]<br>本篇综述概述了用于数据隐藏的深度学习技术，包括水印和隐写术，以及比较了目前最先进的方法在网络结构和模型性能方面的分类。
 
 ## 扫码CV君微信（注明：CV）入微信交流群：
 
