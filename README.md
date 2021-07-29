@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月21日已公开 132 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月29日已公开 133 篇。
 
 ## 目录
 
@@ -33,6 +33,7 @@
 
 ## 39.Image Captioning(图像字幕)
 * [From Show to Tell: A Survey on Image Captioning](https://arxiv.org/abs/2107.06912)<br>[2021-07-16]<br>本次工作的目的是提供一个从视觉编码和文本生成到训练策略、使用的数据集和评估指标的图像字幕方法的全面概述和分类。
+* [A Thorough Review on Recent Deep Learning Methodologies for Image Captioning](https://arxiv.org/abs/2107.13114)<br>[2021-07-29]<br>本篇综述对 UpDown、OSCAR、VIVO、Meta Learning 和一个使用条件生成对抗网的模型等近期方法进行了回顾。得出尽管基于 GAN 的模型取得了最高分，但 UpDown 代表了图像字幕的一个重要基础，而由于使用了新的目标字幕的 OSCAR 和 VIVO 则更有用。
 
 <a name="38"/>
 
