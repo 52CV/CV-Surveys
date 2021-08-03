@@ -6,13 +6,13 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月29日已公开 133 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月3日已公开 135 篇。
 
 ## 目录
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
-|[39.Image Captioning(图像字幕)](#39)|[38.Image Synthesis(图像合成)](#38)|[37.Affective Image Content Analysis(情感图像内容分析)](#37)|
+|[40.Adversarial Learning(对抗学习)](#40)|[39.Image Captioning(图像字幕)](#39)|[38.Image Synthesis(图像合成)](#38)|[37.Affective Image Content Analysis(情感图像内容分析)](#37)|
 |[36.Computational Photography(光学、几何、光场成像、计算摄影)](#36)|[35.Interest Point Detection(兴趣点检测)](#35)|[34.Graph Neural Networks(图神经网络)](#34)|[33.Data Augmentation(图像增强)](#33)|
 |[32.Adversarial Example Detection(对抗性示例检测)](#32)|[31.Change Detection(变化检测)](#31)|[30.Gaze Estimation(视线估计)](#30)|[29.图像标注](#29)|
 |[28.Depth Estimation(深度估计)](#28)|[27.Sign Language Production(手语制作)](#27)|[26.Image Representation(图像表征)](#26)|[25.Multimedia Technology(多媒体技术)](#25)|
@@ -28,6 +28,11 @@
 - [推荐几篇近期必看的视觉综述，含图像检索、目标检测、人脸关键点检测、医学图像分割、遥感、模型优化等](https://mp.weixin.qq.com/s/rO-0IaDy7cAehryFKYbT_g) <br>[一月中下旬]
 
 - [推荐几篇近期必看的视觉综述，含GAN、Transformer、人脸超分辨、遥感等](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247488123&idx=1&sn=f51f3137a16e625c962705997f0daf0a&chksm=fad13d2dcda6b43b1001b8ff924f317f5fcbdbcbd41894b193823e2fcd1d2412f4c3394ebb8e&scene=21#wechat_redirect) <br>[一月上旬]
+
+<a name="40"/>
+
+## 40.Adversarial Learning(对抗学习)
+* [Threat of Adversarial Attacks on Deep Learning in Computer Vision: Survey II](https://arxiv.org/abs/2108.00401)<br>[2021-08-03]<br>本篇综述是《Threat of adversarial attacks on deep learning in computer vision: A survey》的续篇，主要关注 2018 年以来对抗攻击对深度学习影响领域的进展。
 
 <a name="39"/>
 
@@ -400,6 +405,8 @@
 - [Deep Neural Network-based Enhancement for Image and Video Streaming Systems: A Survey and Future Directions](https://arxiv.org/abs/2106.03727)<br>[2021-06-08]<br>
 - [A Survey on Bias in Visual Datasets](https://arxiv.org/abs/2107.07919)<br>[2021-07-19]<br>视觉数据集中的偏见调查
 - [Data Hiding with Deep Learning: A Survey Unifying Digital Watermarking and Steganography](https://arxiv.org/abs/2107.09287)<br>[2021-07-21]<br>本篇综述概述了用于数据隐藏的深度学习技术，包括水印和隐写术，以及比较了目前最先进的方法在网络结构和模型性能方面的分类。
+* 微生物图像分析
+  * [Applications of Artificial Neural Networks in Microorganism Image Analysis: A Comprehensive Review from Conventional Multilayer Perceptron to Popular Convolutional Neural Network and Potential Visual Transformer](https://arxiv.org/abs/2108.00358)<br>[2021-08-03]<br>人工神经网络在微生物图像分析中的应用,从传统的多层感知器到流行的卷积神经网络和潜在的 Visual Transformer 的全面回顾
 
 ## 扫码CV君微信（注明：CV）入微信交流群：
 
