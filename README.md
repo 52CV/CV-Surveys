@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月9日已公开 136 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月10日已公开 137 篇。
 
 ## 目录
 
@@ -313,6 +313,7 @@
 - [Adversarial Text-to-Image Synthesis: A Review](https://arxiv.org/abs/2101.09983)<br>[2021-01-26]<br>文本到图像生成综述<br>
 - [Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy](https://arxiv.org/abs/1906.01529)<br>[2021-03-29]<br>:star:[code](https://github.com/sheqi/GAN_Review):newspaper:[Publication](https://dl.acm.org/doi/fullHtml/10.1145/3439723)
 * [Generative Adversarial Networks (GAN) Powered Fast Magnetic Resonance Imaging -- Mini Review, Comparison and Perspectives](https://arxiv.org/abs/2105.01800)<br>[2021-05-06]<br>本篇综述对基于 GAN 驱动的快速 MRI 方法进行了回顾，并对各种解剖数据集进行了比较研究，以证明这种快速 MRI 的通用性和鲁棒性，同时提供了未来的展望。
+* [GAN Computers Generate Arts? A Survey on Visual Arts, Music, and Literary Text Generation using Generative Adversarial Network](https://arxiv.org/abs/2108.03857)<br>[2021-08-10]<br>使用生成式对抗网络进行视觉艺术、音乐和文学文本生成的调研
 * 图像合成
   * [A Survey on Adversarial Image Synthesis](https://arxiv.org/abs/2106.16056)<br>[2021-01-01]<br>本篇综述提供一个用于图像合成的方法分类，并对文本到图像合成和图像到图像翻译的不同模型进行了全面回顾，以及对一些评估指标和用 GAN 进行图像合成的未来可能研究方向的讨论。
 
