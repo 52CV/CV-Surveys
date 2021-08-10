@@ -204,8 +204,6 @@
 
 - [Human Activity Recognition using Wearable Sensors: Review, Challenges, Evaluation Benchmark](https://arxiv.org/abs/2101.01665)<br>[2021-01-05]<br>对近期基于可穿戴传感器的人类活动识别中的优异表现方法进行了广泛回顾
 
-
-
 <a name="15"/> 
 
 ## 15.Person Re-identification(人员重识别)
