@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月10日已公开 137 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月13日已公开 138 篇。
 
 ## 目录
 
@@ -92,6 +92,7 @@
 
 ## 30.Gaze Estimation(视线估计)
 * [Appearance-based Gaze Estimation With Deep Learning: A Review and Benchmark](https://arxiv.org/abs/2104.12668)<br>[2021-04-27]<br>:star:[code](http://phi-ai.org/GazeHub/)<br>本片综述是对基于外观的深度学习的视线估计方法进行的全面回顾。并从四个角度讨论这些方法：深度特征提取、深度神经网络架构设计、个人校准以及设备和平台。
+* [Automatic Gaze Analysis: A Survey of DeepLearning based Approaches](https://arxiv.org/abs/2108.05479)<br>[2021-08-13]<br>基于深度学习的自动眼动分析方法的调研
 
 <a name="29"/>
 
