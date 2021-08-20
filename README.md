@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月13日已公开 138 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月20日已公开 139 篇。
 
 ## 目录
 
@@ -381,6 +381,7 @@
   * [Automated liver tissues delineation based on machine learning techniques: A survey, current trends and future orientations](https://arxiv.org/abs/2103.06384)<br>[2021-03-12]<br>本篇综述是对2014年至2020年期间所发表的主要研究的调查，包含研究人员用于分割肝脏、肝脏肿瘤和肝脏-血管结构的不同机器学习算法。
   * [Recent Advances in Fibrosis and Scar Segmentation from Cardiac MRI: A State-of-the-Art Review and Future Perspectives](https://arxiv.org/abs/2106.15707)<br>[2021-07-01]<br>本篇综述对利用不同方式进行准确的 cardiac fibrosis（心脏纤维化）和 scar segmentation（疤痕分割）的传统和当前最先进的方法进行了调研。
   * [Modality specific U-Net variants for biomedical image segmentation: A survey](https://arxiv.org/abs/2107.04537)<br>[2021-07-12]用于生物医学图像分割的特定模式 U-Net 变体
+  * [Medical Image Segmentation using 3D Convolutional Neural Networks: A Review](https://arxiv.org/abs/2108.08467)<br>[2021-08-20]使用三维卷积神经网络进行医学图像分割综述调研
 * 病理图像（WSI）分析
   * [A State-of-the-art Survey of Artificial Neural Networks for Whole-slide Image Analysis:from Popular Convolutional Neural Networks to Potential Visual Transformers](https://arxiv.org/abs/2104.06243)<br>[2021-04-14]<br>从流行的 CNN 到具有强大潜力的 Transformers，对用于 Whole-slide Image（病理图像） 分析的人工智能神经网络（ANN）调查。
 * 牙齿矫正
