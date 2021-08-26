@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月20日已公开 139 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月26日已公开 141 篇。
 
 ## 目录
 
@@ -253,6 +253,8 @@
   * [About Face: A Survey of Facial Recognition Evaluation](https://arxiv.org/abs/2102.00813)<br>[2021-02-02]<br>人脸识别综述<br>
   * [Going Deeper Into Face Detection: A Survey](https://arxiv.org/abs/2103.14983)<br>[2021-03-30]<br>本文是对近期基于深度学习的人脸检测方面文献的综述，包括五十多种人脸检测方法。并对这些方法的不同方面进行了全面的评述，包括训练数据、网络结构的选择、损失函数、训练策略以及它们贡献。作者根据对人脸检测的贡献技术将这些方法分为以下几个架构组：1) Cascade-CNN Based Models 2) R-CNN and Faster-RCNN Based Models 3) Single Shot Detector Models 4) Feature Pyramid Network Based Models 5) Other models 。还总结一些流行的人脸检测基准，如 Wider-Face、FDDB 和 PASCAL Face，以及在这些流行基准上的量化性能。最后，对未来几年基于深度学习的人脸检测的一些公开挑战和有前途的方向进行了讨论。
   * [Performance analysis of facial recognition: A critical review through glass factor](https://arxiv.org/abs/2104.01536)<br>[2021-04-06]<>本篇综述针对 glass factor 对人脸识别影响的全面调研。
+  * 3D 人脸识别
+    * [3D Face Recognition: A Survey](https://arxiv.org/abs/2108.11082)<br>[2021-08-26]<br>对近十年基于深度学习的3D人脸识别调研，主要集中在人脸增强、数据预处理和网络架构方面。
 * 人脸表情识别
   * [Weakly Supervised Learning for Facial Behavior Analysis : A Review](https://arxiv.org/abs/2101.09858)<br>[2021-01-26]<br>无监督学习在人脸表情识别的应用综述<br>
   * 微表情识别
@@ -342,6 +344,8 @@
     * [Person Retrieval in Surveillance Using Textual Query: A Review](https://arxiv.org/abs/2105.02414)<br>[2021-05-07]<br>使用文本查询进行监控中的人员检索调研
   * 异常检测
     * [Anomaly Detection using Edge Computing in Video Surveillance System: Review](https://arxiv.org/abs/2107.02778)<br>[2021-07-07]<br>本篇综述对近十年中用于为检测智能视频监控中的异常情况而开发的各种方法进行了全面调研。
+  * 行人属性识别
+    * [Pedestrian attribute recognition: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0031320321004015)<br>[2021-07-31]<br>:star:[code](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List):house:[project](https://sites.google.com/view/ahu-pedestrianattributes/)<br>是首篇关于行人属性识别（PAR）的调研，对现有的行人属性识别算法做一个简单介绍，并给出PAR的各种研究方向。2021年7月31日已被收录于 Pattern Recognition 期刊。
 * 视频分析
   * [A Survey of Performance Optimization in Neural Network-Based Video Analytics Systems](https://arxiv.org/abs/2105.14195)<br>[2021-06-01]<br>对于以往的文献综述主要在特定应用的视频分析技术，以提高结果的准确性；在本篇综述论文中，作者专注于优化基于神经网络的视频分析系统的性能技术进行了调研。
 * 视频预测理解
