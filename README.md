@@ -6,13 +6,13 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月26日已公开 141 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月27日已公开 143 篇。
 
 ## 目录
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
-|[41.Autonomous Driving(自动驾驶)](#41)|
+|[41.Autonomous Driving(自动驾驶)](#41)|[42.Visual-and-Language(视觉语言)](#42)|[43.Reinforcement Learning(强化学习)](#43)|
 |[40.Adversarial Learning(对抗学习)](#40)|[39.Image Captioning(图像字幕)](#39)|[38.Image Synthesis(图像合成)](#38)|[37.Affective Image Content Analysis(情感图像内容分析)](#37)|
 |[36.Computational Photography(光学、几何、光场成像、计算摄影)](#36)|[35.Interest Point Detection(兴趣点检测)](#35)|[34.Graph Neural Networks(图神经网络)](#34)|[33.Data Augmentation(图像增强)](#33)|
 |[32.Adversarial Example Detection(对抗性示例检测)](#32)|[31.Change Detection(变化检测)](#31)|[30.Gaze Estimation(视线估计)](#30)|[29.图像标注](#29)|
@@ -30,7 +30,19 @@
 
 - [推荐几篇近期必看的视觉综述，含GAN、Transformer、人脸超分辨、遥感等](https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247488123&idx=1&sn=f51f3137a16e625c962705997f0daf0a&chksm=fad13d2dcda6b43b1001b8ff924f317f5fcbdbcbd41894b193823e2fcd1d2412f4c3394ebb8e&scene=21#wechat_redirect) <br>[一月上旬]
 
-<a name="40"/>
+<a name="43"/>
+
+## 43.Reinforcement Learning(强化学习)
+* [Deep Reinforcement Learning in Computer Vision: A Comprehensive Survey](https://arxiv.org/abs/2108.11510)<br>[2021-08-27]<br>本篇综述是对计算机视觉中的深度强化学习的最新和最先进的研究进展进行了详细调研。
+
+<a name="42"/>
+
+## 42.Visual-and-Language(视觉语言) 
+* 视觉语言导航
+  * [Visual-and-Language Navigation: A Survey and Taxonomy](https://arxiv.org/abs/2108.11544)<br>[2021-08-27]<br>
+
+
+<a name="41"/>
 
 ## 41.Autonomous Driving(自动驾驶)
 * [MmWave Radar and Vision Fusion based Object Detection for Autonomous Driving: A Survey](https://arxiv.org/abs/2108.03004)<br>[2021-08-09]<br>本篇综述中详细介绍了在自动驾驶任务中的基于毫米波雷达和视觉融合的障碍物检测方法。
