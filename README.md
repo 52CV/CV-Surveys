@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月30日已公开 144 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月30日已公开 145 篇。
 
 ## 目录
 
@@ -144,6 +144,9 @@
   * [A Comprehensive Survey on Image Dehazing Based on Deep Learning](https://arxiv.org/abs/2106.03323)<br>[2021-06-08]<br>对基于深度学习的图像去雾算法技术研究调研
 * Image Composition(图像合成)
   * [Making Images Real Again: A Comprehensive Survey on Deep Image Composition](https://arxiv.org/abs/2106.14490)<br>[2021-06-29]<br>:star:[code](https://github.com/bcmi/Awesome-Image-Composition)<br>本篇综述对图像合成进行了全面调研。
+* Image Representation(图像表示)
+  * [A Survey of Orthogonal Moments for Image Representation: Theory, Implementation, and Evaluation](https://arxiv.org/abs/2103.14799)<br>[2021-08-27]<br>:star:[code](https://github.com/ShurenQi/MomentToolbox)
+
 
 <a name="23"/>
 
