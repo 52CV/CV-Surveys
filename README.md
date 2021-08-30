@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月27日已公开 143 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月30日已公开 144 篇。
 
 ## 目录
 
@@ -407,7 +407,8 @@
   * [Automated Detection and Diagnosis of Diabetic Retinopathy: A Comprehensive Survey](https://arxiv.org/abs/2107.00115)<br>[2021-07-02]<br>本篇综述涵盖了五年内（2016-2021年）在公开文献中发表的涉及 DR 的 AI 方法文献。此外，还报告一份可用的 DR 数据集的综合清单。共总结了 114 篇符合审查范围的已发表文章，以及列出 43 个主要数据集的清单。
 * X射线诊断
   * [Tips and Tricks to Improve CNN-based Chest X-ray Diagnosis: A Survey](https://arxiv.org/abs/2106.00997)<br>[2021-06-03]
-
+* 异常检测
+  * [Anomaly Detection in Medical Imaging -- A Mini Review](https://arxiv.org/abs/2108.11986)<br>[2021-08-30]<br>本篇综述是对使用医学图像数据进行异常检测的研究调研
   
 <a name="1"/> 
 
