@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月3日已公开 146 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月7日已公开 148 篇。
 
 ## 目录
 
@@ -67,6 +67,8 @@
 
 ## 38.Image Synthesis(图像合成)
 * [Deep Image Synthesis from Intuitive User Input: A Review and Perspectives](https://arxiv.org/abs/2107.04240)<br>[2021-07-12]<br>本篇综述是对给定直观用户输入的图像合成方面工作的调研，包括输入通用性、图像生成方法、基准数据集和评价指标方面的进展调研。
+* Person Generation
+  * [Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis](https://arxiv.org/abs/2109.02081)<br>[2021-09-07]<br>本篇综述对 deep person generation 的最新进展、相关的  200 多篇论文进行了回顾，涵盖三个主要任务：talking-head generation (face), pose-guided person generation (pose) and garment-oriented person generation (cloth)，以及对 virtual fitting, digital human, generative data augmentation 一些应用进行研究。
 
 <a name="37"/>
 
@@ -78,6 +80,8 @@
 ## 36.Computational Photography(光学、几何、光场成像、计算摄影)
 * Hyperspectral imaging(高光谱成像)
   * [Learnable Reconstruction Methods from RGB Images to Hyperspectral Imaging: A Survey](https://arxiv.org/abs/2106.15944)<br>[2021-07-01]<br>本篇综述对这些来自广泛的 RGB 图像的最先进的光谱重建方法进行了深入调查。通过对超过 25 种方法的系统研究和比较，发现大多数数据驱动的深度学习方法尽管速度较低，但在重建精度和质量方面都优于基于先验的方法。作者还称本篇综述可以作为同行研究者的一个富有成效的参考资料，从而进一步激发相关领域的未来发展方向。
+* OCT
+  * [Automatic Segmentation of the Optic Nerve Head Region in Optical Coherence Tomography: A Methodological Review](https://arxiv.org/abs/2109.02322)<br>[2021-09-07]<br>本篇综述总结了当前在 OCT 中自动分割 ONH 的先进技术。使用 PubMed 和Scopus 进行了系统的回顾。也包括其他数据库（IEEE、Google Scholar和ARVO IOVS）中的其他作品在内，总共有 27 项审查研究。
 
 <a name="35"/>
 
