@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月7日已公开 148 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月14日已公开 149 篇。
 
 ## 目录
 
@@ -237,6 +237,8 @@
 - [Deep Gait Recognition: A Survey](https://arxiv.org/abs/2102.09546)<br>[2021-02-19]<br>全面调查深度学习在步态识别方面的突破和最新发展，并涵盖了包括数据集、测试协议、最先进的解决方案、挑战和未来研究方向在内的广泛话题。
 * Person Search
   * [Person Search Challenges and Solutions: A Survey](https://arxiv.org/abs/2105.01605)<br>[2021-05-05]<br>IJCAI 2021<br>本篇综述从挑战和解决方案的角度对近期关于基于图像和文本的人物搜索工作进行的调研
+* 无监督人员重识别
+  * [Unsupervised Person Re-Identification: A Systematic Survey of Challenges and Solutions](https://arxiv.org/abs/2109.06057)<br>[2021-09-14]<br>本次综述就从挑战和解决方案的角度对近期关于无监督人员重识别的工作的进行全面调研，解决了数据的可扩展性问题。
 
 <a name="14"/> 
 
