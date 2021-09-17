@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月14日已公开 149 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月17日已公开 150 篇。
 
 ## 目录
 
@@ -376,6 +376,8 @@
   * [A Survey of Performance Optimization in Neural Network-Based Video Analytics Systems](https://arxiv.org/abs/2105.14195)<br>[2021-06-01]<br>对于以往的文献综述主要在特定应用的视频分析技术，以提高结果的准确性；在本篇综述论文中，作者专注于优化基于神经网络的视频分析系统的性能技术进行了调研。
 * 视频预测理解
   * [Review of Video Predictive Understanding: Early ActionRecognition and Future Action Prediction](https://arxiv.org/abs/2107.05140)<br>[2021-07-13]<br>对各种早期动作识别和未来动作预测算法进行了全面调研
+* 视频理解
+  * [A Survey on Temporal Sentence Grounding in Videos](https://arxiv.org/abs/2109.08039)<br>[2021-09-17]<br>本篇综述对 TSGV 任务进行了全面的调研。
 
 <a name="3"/> 
 
