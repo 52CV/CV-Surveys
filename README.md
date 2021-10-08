@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月30日已公开 160 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月8日已公开 161 篇。
 
 ## 目录
 
@@ -18,7 +18,7 @@
 |[36.Computational Photography(光学、几何、光场成像、计算摄影)](#36)|[35.Interest Point Detection(兴趣点检测)](#35)|[34.Graph Neural Networks(图神经网络)](#34)|[33.Data Augmentation(图像增强)](#33)|
 |[32.Adversarial Example Detection(对抗性示例检测)](#32)|[31.Change Detection(变化检测)](#31)|[30.Gaze Estimation(视线估计)](#30)|[29.图像标注](#29)|
 |[28.Depth Estimation(深度估计)](#28)|[27.Sign Language Production(手语制作)](#27)|[26.Image Representation(图像表征)](#26)|[25.Multimedia Technology(多媒体技术)](#25)|
-|[24.Image Processing(图像处理)](#24)|[23.3D 语义场景完成(SSC)](#23)|[22.Image Segmentation(图像分割)](#22)|[21.Few-Shot/Zero-Shot Learning,Domain Generalization/Adaptation(小/零样本学习，域适应，域泛化)](#21)|
+|[24.Image Processing(图像处理)](#24)|[23.3D 语义场景完成(SSC)](#23)|[22.Image Segmentation(图像分割)](#22)|[21.Few/Weak/Zero-Shot Learning,Domain Generalization/Adaptation(小/弱/零样本学习，域适应，域泛化)](#21)|
 |[20.Anomaly Detection(异常检测)](#20)|[19.Transformers](#19)|[18.Point Clouds(点云)](#18)|[17.Object Detection(目标检测)](#17)|
 |[16.Human Action Detection and Recognitionn(人体动作检测与识别)](#16)|[15.Person Re-Identification(人员重识别)](#15)|[14.:dancers:Human Pose Estimation(人体姿态估计)](#14)|[13.Image Classification(图像分类)](#13)|
 |[12.Image Retrieval(图像检索)](#12)|[11.:neutral_face:Face(人脸技术)](#11)|[10.Super-Resolution(超分辨率)](#10)|[9.Quantization/Pruning/Knowledge Distillation/Model Compression(量化、剪枝、蒸馏、模型压缩/扩展与优化)](#9)|
@@ -181,8 +181,10 @@
 
 <a name="21"/> 
 
-## 21.Few-Shot/Zero-Shot Learning,Domain Generalization/Adaptation(小/零样本学习，域适应，域泛化)
+## 21.Few/Weak/Zero-Shot Learning,Domain Generalization/Adaptation(小/弱/零样本学习，域适应，域泛化)
 
+* 弱样本学习
+  * [Weak Novel Categories without Tears: A Survey on Weak-Shot Learning](https://arxiv.org/abs/2110.02651)<br>:star:[code](https://github.com/bcmi/Awesome-Weak-Shot-Learning)[2021-03-05]<br>弱样本学习综述
 * 域泛化
   * [Generalizing to Unseen Domains: A Survey on Domain Generalization](https://arxiv.org/abs/2103.03097)<br>[2021-03-05]<br>本篇文章作者从 same-source（同源） 和 cross-source（跨源）域对点云配准进行了全面的回顾
   * [Domain Generalization: A Survey](https://arxiv.org/abs/2103.02503)<br>[2021-03-04]<br>本篇文章是首次对 DG（Domain Generalization）的十年发展进行了全面的文献回顾总结<br>
