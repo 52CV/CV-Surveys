@@ -6,16 +6,16 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月8日已公开 162 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月9日已公开 166 篇。
 
 ## 目录
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
 |[45.Continual Learning(持续学习)](#45)|[46.Object Tracking(目标跟踪)](#46)|
-|[41.Autonomous Driving(自动驾驶)](#41)|[42.Visual-and-Language(视觉语言)](#42)|[43.Reinforcement Learning(强化学习)](#43)|[44.Open Set Recognition(开集识别)](#44)|
+|[41.SLAM/AR/robotics(机器人)](#41)|[42.Visual-and-Language(视觉语言)](#42)|[43.Reinforcement Learning(强化学习)](#43)|[44.Open Set Recognition(开集识别)](#44)|
 |[40.Adversarial Learning(对抗学习)](#40)|[39.Image Captioning(图像字幕)](#39)|[38.Image Synthesis(图像合成)](#38)|[37.Affective Image Content Analysis(情感图像内容分析)](#37)|
-|[36.Computational Photography(光学、几何、光场成像、计算摄影)](#36)|[35.Interest Point Detection(兴趣点检测)](#35)|[34.Graph Neural Networks(图神经网络)](#34)|[33.Data Augmentation(图像增强)](#33)|
+|[36.Computational Photography(光学、几何、光场成像、计算摄影)](#36)|[35.Interest Point Detection(兴趣点检测)](#35)|[34.Graph Neural Networks(图神经网络)](#34)|[33.Data Augmentation(数据增强)](#33)|
 |[32.Adversarial Example Detection(对抗性示例检测)](#32)|[31.Change Detection(变化检测)](#31)|[30.Gaze Estimation(视线估计)](#30)|[29.图像标注](#29)|
 |[28.Depth Estimation(深度估计)](#28)|[27.Sign Language Production(手语制作)](#27)|[26.Image Representation(图像表征)](#26)|[25.Multimedia Technology(多媒体技术)](#25)|
 |[24.Image Processing(图像处理)](#24)|[23.3D 语义场景完成(SSC)](#23)|[22.Image Segmentation(图像分割)](#22)|[21.Few/Weak/Zero-Shot Learning,Domain Generalization/Adaptation(小/弱/零样本学习，域适应，域泛化)](#21)|
@@ -59,8 +59,9 @@
 
 <a name="41"/>
 
-## 41.Autonomous Driving(自动驾驶)
-* [MmWave Radar and Vision Fusion based Object Detection for Autonomous Driving: A Survey](https://arxiv.org/abs/2108.03004)<br>[2021-08-09]<br>本篇综述中详细介绍了在自动驾驶任务中的基于毫米波雷达和视觉融合的障碍物检测方法。
+## 41.SLAM/AR/robotics(机器人)
+* [From SLAM to Situational Awareness: Challenges and Survey](https://arxiv.org/abs/2110.00273)<br>[2021-10-04]<br>本篇综述是对机器人算法中从 SLAM 到 Situational Awareness（态势感知）进展的全面调研
+
 
 <a name="40"/>
 
@@ -106,7 +107,7 @@
 
 <a name="33"/>
 
-## 33.Data Augmentation(图像增强)
+## 33.Data Augmentation(数据增强)
 * [Survey: Image Mixing and Deleting for Data Augmentation](https://arxiv.org/abs/2106.07085)<br>[2021-06-15]<br>
 
 <a name="32"/>
@@ -245,6 +246,7 @@
 ## 16.Human Action Detection and Recognitionn(人体动作检测与识别)
 
 - [Human Activity Recognition using Wearable Sensors: Review, Challenges, Evaluation Benchmark](https://arxiv.org/abs/2101.01665)<br>[2021-01-05]<br>对近期基于可穿戴传感器的人类活动识别中的优异表现方法进行了广泛回顾
+- [Deep Learning-based Action Detection in Untrimmed Videos: A Survey](https://arxiv.org/abs/2110.00111)<br>[2021-10-04]<br>在未修剪视频中基于深度学习的动作检测调研综述
 
 <a name="15"/> 
 
@@ -360,6 +362,7 @@
 - [Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy](https://arxiv.org/abs/1906.01529)<br>[2021-03-29]<br>:star:[code](https://github.com/sheqi/GAN_Review):newspaper:[Publication](https://dl.acm.org/doi/fullHtml/10.1145/3439723)
 * [Generative Adversarial Networks (GAN) Powered Fast Magnetic Resonance Imaging -- Mini Review, Comparison and Perspectives](https://arxiv.org/abs/2105.01800)<br>[2021-05-06]<br>本篇综述对基于 GAN 驱动的快速 MRI 方法进行了回顾，并对各种解剖数据集进行了比较研究，以证明这种快速 MRI 的通用性和鲁棒性，同时提供了未来的展望。
 * [GAN Computers Generate Arts? A Survey on Visual Arts, Music, and Literary Text Generation using Generative Adversarial Network](https://arxiv.org/abs/2108.03857)<br>[2021-08-10]<br>使用生成式对抗网络进行视觉艺术、音乐和文学文本生成的调研
+* [A review of Generative Adversarial Networks (GANs) and its applications in a wide variety of disciplines -- From Medical to Remote Sensing](https://arxiv.org/abs/2110.01442)<br>[2021-10-05]<br>提供了 GANs 在从天文学和生物学等 STEM 领域，到市场营销和金融等商业领域，再到音乐等艺术领域等等的12个领域应用的最全面的调研。
 * 图像合成
   * [A Survey on Adversarial Image Synthesis](https://arxiv.org/abs/2106.16056)<br>[2021-01-01]<br>本篇综述提供一个用于图像合成的方法分类，并对文本到图像合成和图像到图像翻译的不同模型进行了全面回顾，以及对一些评估指标和用 GAN 进行图像合成的未来可能研究方向的讨论。
 
@@ -371,8 +374,11 @@
   * [Explainability of vision-based autonomous driving systems: Review and challenges](https://arxiv.org/abs/2101.05307)<br>[2021-01-15] <br>自动驾驶综述<br>
   * [Deep Learning-Based Autonomous Driving Systems: A Survey of Attacks and Defenses](https://arxiv.org/abs/2104.01789)<br>[2021-04-06]<br>本篇综述对各种针对基于深度学习的 ADS pipeline 的攻击进行了详细的回顾和分析。全面阐明了基于深度学习的 ADS 中最先进的攻击和防御方法。并提出未来应用新攻击的研究方向，以及保障和提高基于深度学习的 ADS 的鲁棒性。
   * [Vision-based Driver Assistance Systems: Survey, Taxonomy and Advances](https://arxiv.org/abs/2104.12583)<br>[2021-04-27]<br>基于视觉的驾驶辅助系统：调查、分类学和进展
+  * [MmWave Radar and Vision Fusion based Object Detection for Autonomous Driving: A Survey](https://arxiv.org/abs/2108.03004)<br>[2021-08-09]<br>本篇综述中详细介绍了在自动驾驶任务中的基于毫米波雷达和视觉融合的障碍物检测方法。
 * 3D目标检测
   * [Multi-Modal 3D Object Detection in Autonomous Driving: a Survey](https://arxiv.org/abs/2106.12735)<br>[2021-06-25]<br>多模态三维目标检测在自动驾驶应用中的调研。
+* 驾驶状态监控
+  * [Survey and synthesis of state of the art in driver monitoring](https://arxiv.org/abs/2110.00472)<br>[2021-10-04]<br>本篇综述是对驾驶状态监控技术得现状得全面调研。
 
 <a name="4"/> 
 
