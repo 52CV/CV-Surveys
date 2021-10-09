@@ -33,7 +33,7 @@
 
 ## 46.Object Tracking(目标跟踪)
 * 鱼类跟踪
-  * [A Review of Computer Vision Technologies for Fish Tracking](https://arxiv.org/abs/2110.02551)<br>[2021-10-7]<br>本篇综述是对近十年来鱼类追踪技术的发展和应用前景的全面调研。
+  * [A Review of Computer Vision Technologies for Fish Tracking](https://arxiv.org/abs/2110.02551)<br>[2021-10-07]<br>本篇综述是对近十年来鱼类追踪技术的发展和应用前景的全面调研。
 
 <a name="45"/>
 
