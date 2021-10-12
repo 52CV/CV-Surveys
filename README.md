@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月9日已公开 166 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月12日已公开 169 篇。
 
 ## 目录
 
@@ -252,8 +252,8 @@
 
 ## 15.Person Re-identification(人员重识别)
 - [Deep Learning for Person Re-identification: A Survey and Outlook](https://arxiv.org/abs/2001.04193v2)<br>[[github](github.com/mangye16/ReI)]<br>[2021-01-06]
-
 - [Deep Gait Recognition: A Survey](https://arxiv.org/abs/2102.09546)<br>[2021-02-19]<br>全面调查深度学习在步态识别方面的突破和最新发展，并涵盖了包括数据集、测试协议、最先进的解决方案、挑战和未来研究方向在内的广泛话题。
+* [Deep Learning Based Person Re-Identification Methods: A Survey and Outlook of Recent Works](https://arxiv.org/abs/2110.04764)<br>[2021-10-12]<br>本篇综述为了方便研究人员更好地了解人员重识别邻域的最新研究成果和未来发展趋势,对传统的和基于深度学习的人员重识别方法进行了全面调研。
 * Person Search
   * [Person Search Challenges and Solutions: A Survey](https://arxiv.org/abs/2105.01605)<br>[2021-05-05]<br>IJCAI 2021<br>本篇综述从挑战和解决方案的角度对近期关于基于图像和文本的人物搜索工作进行的调研
 * 无监督人员重识别
@@ -278,6 +278,8 @@
   * [Deep Learning Techniques for In-Crop Weed Identification: A Review](https://arxiv.org/abs/2103.14872)<br>[2021-03-30]<br>文章是对深度学习技术在基于图像的杂草检测领域最新发展的调查。首先介绍了与杂草检测相关的深度学习基本原理。然后对关于深度杂草检测的进展进行回顾，以及讨论了包括公共杂草数据集在内的研究材料。最后，总结开发可实际部署的杂草检测方法所面临的挑战，以及对未来研究机会的讨论。作者希望这篇综述能对该领域进行及时的调查，并吸引更多的研究者来解决这一跨学科的研究问题。
 * 小样本分类
   * [Deep Metric Learning for Few-Shot Image Classification: A Selective Review](https://arxiv.org/abs/2105.08149)<br>[2021-05-19]
+* 长尾学习
+  * [Deep Long-Tailed Learning: A Survey](https://arxiv.org/abs/2110.04596)<br>[2021-10-12]<br>本篇综述是对 2021 年中期之前所提出的经典深度长尾学习方法，根据分类法，即类的再平衡、信息增强和模块改进进行的全面回顾。
 
 <a name="12"/> 
 
@@ -298,7 +300,8 @@
 * 人脸识别检测
   * [About Face: A Survey of Facial Recognition Evaluation](https://arxiv.org/abs/2102.00813)<br>[2021-02-02]<br>人脸识别综述<br>
   * [Going Deeper Into Face Detection: A Survey](https://arxiv.org/abs/2103.14983)<br>[2021-03-30]<br>本文是对近期基于深度学习的人脸检测方面文献的综述，包括五十多种人脸检测方法。并对这些方法的不同方面进行了全面的评述，包括训练数据、网络结构的选择、损失函数、训练策略以及它们贡献。作者根据对人脸检测的贡献技术将这些方法分为以下几个架构组：1) Cascade-CNN Based Models 2) R-CNN and Faster-RCNN Based Models 3) Single Shot Detector Models 4) Feature Pyramid Network Based Models 5) Other models 。还总结一些流行的人脸检测基准，如 Wider-Face、FDDB 和 PASCAL Face，以及在这些流行基准上的量化性能。最后，对未来几年基于深度学习的人脸检测的一些公开挑战和有前途的方向进行了讨论。
-  * [Performance analysis of facial recognition: A critical review through glass factor](https://arxiv.org/abs/2104.01536)<br>[2021-04-06]<>本篇综述针对 glass factor 对人脸识别影响的全面调研。
+  * [Performance analysis of facial recognition: A critical review through glass factor](https://arxiv.org/abs/2104.01536)<br>[2021-04-06]<br>本篇综述针对 glass factor 对人脸识别影响的全面调研。
+  * [Biometric Template Protection for Neural-Network-based Face Recognition Systems: A Survey of Methods and Evaluation Techniques](https://arxiv.org/abs/2110.05044)<br>[2021-10-12]<br>本文介绍了在基于神经网络的人脸识别系统中保护人脸模板的生物识别模板保护（BTP）方法的调查。
   * 3D 人脸识别
     * [3D Face Recognition: A Survey](https://arxiv.org/abs/2108.11082)<br>[2021-08-26]<br>对近十年基于深度学习的3D人脸识别调研，主要集中在人脸增强、数据预处理和网络架构方面。
 * 人脸表情识别
