@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月12日已公开 169 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月28日已公开 172 篇。
 
 ## 目录
 
@@ -203,7 +203,9 @@
 - [Image/Video Deep Anomaly Detection: A Survey](https://arxiv.org/abs/2103.01739)
 <br>[2021-03-03]<br>基于图像和视频的深度学习 AD 的专业综述的缺失，作者对此进行了深入调查。工作的重点在无监督技术上，并提供 AD 概念的精确定义，同时对最近提出的 AD 方法进行了的分类。以及对当前的挑战和未来的研究方向进行了彻底讨论。
 * [Visual Anomaly Detection for Images: A Survey](https://arxiv.org/abs/2109.13157)<br>[2021-09-28]<br>本篇综述对文献中经典的和基于深度学习的视觉异常检测方法进行了全面调研。根据相关方法的基本原理对其进行分组，并仔细讨论其假设、优势和劣势。旨在帮助研究人员了解视觉异常检测方法的共同原理，并确定该领域有前途的研究方向。
-
+* [A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges](https://arxiv.org/abs/2110.14051)<br>[2021-10-28]<br>OOD检测、OSR、ND（单类学习）和AD综述调研
+* OOD
+  * [Generalized Out-of-Distribution Detection: A Survey](https://arxiv.org/abs/2110.11334)<br>[2021-10-22]<br>:star:[code](https://github.com/Jingkang50/OODSurvey)<br>提出一个通用框架，generalized OOD detection，包含AD、ND、OSR、OD检测和OD，并进行调研。
 
 <a name="19"/> 
 
@@ -211,8 +213,7 @@
 
 - [Transformers in Vision: A Survey](https://arxiv.org/abs/2101.01169)<br>[2021-01-01]<br>旨在为计算机视觉学科中的 Transformer 模型提供一个全面的概述
 * VL
-  * [Survey: Transformer based Video-Language Pre-training](https://arxiv.org/abs/2109.09920)<br>[2021-09-22]<br>
-
+  * [Survey: Transformer based Video-Language Pre-training](https://arxiv.org/abs/2109.09920)<br>[2021-09-22]
 
 <a name="18"/> 
 
@@ -352,9 +353,11 @@
 
 ## 7.Aeria/Drones/Satellite/RS Image(航空影像/无人机)
 
-- [A Review on Deep Learning in UAV Remote Sensing](https://arxiv.org/abs/2101.10861)<br>[2021-01-29] <br>深度学习在无人机遥感中的应用综述
+- [A Review on Deep Learning in UAV Remote Sensing](https://arxiv.org/abs/2101.10861)<br>[2021-01-29]<br>深度学习在无人机遥感中的应用综述
 * 遥感图像分类
   * [A survey of active learning algorithms for supervised remote sensing image classification](https://arxiv.org/abs/2104.07784)<br>[2021-04-19] <br>主动学习算法在监督式遥感图像分类中的应用研究.本篇综述回顾并测试了主动学习算法的主要系列：committee, large margin 和 posterior probability-based。并对每一种算法，都讨论了遥感界的最新进展，以及详细介绍和测试了一些启发式算法。考虑了几个具有挑战性的遥感场景，包括非常高的空间分辨率和高光谱图像分类。最后，为新用户和/或没有经验的用户提供了选择良好架构的指南。
+* 检测与跟踪
+  * [Deep Learning for UAV-based Object Detection and Tracking: A Survey](https://arxiv.org/abs/2110.12638)<br>[2021-10-26]<br>本文是对基于 DL 的无人机目标检测和跟踪方法的研究进展和前景进行了全面调查。
 
 <a name="6"/> 
 
