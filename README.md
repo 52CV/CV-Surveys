@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月28日已公开 172 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月29日已公开 173 篇。
 
 ## 目录
 
@@ -240,7 +240,8 @@
   * [Salient Objects in Clutter](https://arxiv.org/abs/2105.03053)<br>[2021-05-10]<br>本篇综述涉及 348 个参考文献，201个模型的调研，以及100个基准模型。发现并解决了 SOD 中长期被忽视的数据选择偏差问题。与以前的研究不同，本次目标是在自然环境探索 SOD 任务。
 * 小目标检测
   * [A Survey on Deep Domain Adaptation and Tiny Object Detection Challenges, Techniques and Datasets](https://arxiv.org/abs/2107.07927)<br>[2021-07-19]<br>深度域适应和小目标检测的挑战、技术和数据集调查综述
-
+* 小样本自监督目标检测
+  * [A Survey of Self-Supervised and Few-Shot Object Detection](https://arxiv.org/abs/2110.14711)<br>[2021-10-29]<br>本篇综述对近期关于小样本和自监督的目标检测方法进行了全面回顾。
 
 <a name="16"/> 
 
