@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月29日已公开 173 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月01日已公开 174 篇。
 
 ## 目录
 
@@ -34,6 +34,8 @@
 ## 46.Object Tracking(目标跟踪)
 * 鱼类跟踪
   * [A Review of Computer Vision Technologies for Fish Tracking](https://arxiv.org/abs/2110.02551)<br>[2021-10-07]<br>本篇综述是对近十年来鱼类追踪技术的发展和应用前景的全面调研。
+* 多目标跟踪
+  * [Multi-target tracking for video surveillance using deep affinity network: a brief review](https://arxiv.org/abs/2110.15674)<br>[2021-11-01]<br>视频监控中的多目标跟踪（MTT）算法综述
 
 <a name="45"/>
 
