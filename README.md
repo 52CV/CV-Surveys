@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月01日已公开 174 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月02日已公开 176 篇。
 
 ## 目录
 
@@ -63,7 +63,8 @@
 
 ## 41.SLAM/AR/robotics(机器人)
 * [From SLAM to Situational Awareness: Challenges and Survey](https://arxiv.org/abs/2110.00273)<br>[2021-10-04]<br>本篇综述是对机器人算法中从 SLAM 到 Situational Awareness（态势感知）进展的全面调研
-
+* try-on
+  * [Smart Fashion: A Review of AI Applications in the Fashion & Apparel Industry](https://arxiv.org/abs/2111.00905)<br>[2021-11-02]<br>本篇综述对机器学习、计算机视觉和人工智能（AI）在时尚中的应用进行全面回顾。将 580 多篇相关文章归类为 22 个定义明确的时尚相关任务，以及一份 86 个公共时尚数据集的清单。
 
 <a name="40"/>
 
@@ -244,6 +245,8 @@
   * [A Survey on Deep Domain Adaptation and Tiny Object Detection Challenges, Techniques and Datasets](https://arxiv.org/abs/2107.07927)<br>[2021-07-19]<br>深度域适应和小目标检测的挑战、技术和数据集调查综述
 * 小样本自监督目标检测
   * [A Survey of Self-Supervised and Few-Shot Object Detection](https://arxiv.org/abs/2110.14711)<br>[2021-10-29]<br>本篇综述对近期关于小样本和自监督的目标检测方法进行了全面回顾。
+* 小样本目标检测
+  * [A Comparative Review of Recent Few-Shot Object Detection Algorithms](https://arxiv.org/abs/2111.00201)<br>[2021-11-02]<br>本篇综述从多方面的角度全面介绍了当前在小样本目标检测方面的经典和最新成果以及未来的研究预期。
 
 <a name="16"/> 
 
