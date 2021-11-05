@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月02日已公开 176 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月05日已公开 177 篇。
 
 ## 目录
 
@@ -464,6 +464,7 @@
   * [Anomaly Detection in Medical Imaging -- A Mini Review](https://arxiv.org/abs/2108.11986)<br>[2021-08-30]<br>本篇综述是对使用医学图像数据进行异常检测的研究调研
 * 医学图像分析
   * [Self-supervised learning methods and applications in medical imaging analysis: A survey](https://arxiv.org/abs/2109.08685)<br>[2021-09-21]<br>
+  * [Transparency of Deep Neural Networks for Medical Image Analysis: A Review of Interpretability Methods](https://arxiv.org/abs/2111.02398)<br>[2021-11-05]<br>
 * 癌症诊断
   * [A survey on deep learning approaches for breast cancer diagnosis](https://arxiv.org/abs/2109.08853)<br>[2021-09-21]<br> 
 * AF
