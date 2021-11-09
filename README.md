@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月05日已公开 177 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月09日已公开 178 篇。
 
 ## 目录
 
@@ -493,6 +493,8 @@
 - [Data Hiding with Deep Learning: A Survey Unifying Digital Watermarking and Steganography](https://arxiv.org/abs/2107.09287)<br>[2021-07-21]<br>本篇综述概述了用于数据隐藏的深度学习技术，包括水印和隐写术，以及比较了目前最先进的方法在网络结构和模型性能方面的分类。
 * 微生物图像分析
   * [Applications of Artificial Neural Networks in Microorganism Image Analysis: A Comprehensive Review from Conventional Multilayer Perceptron to Popular Convolutional Neural Network and Potential Visual Transformer](https://arxiv.org/abs/2108.00358)<br>[2021-08-03]<br>人工神经网络在微生物图像分析中的应用,从传统的多层感知器到流行的卷积神经网络和潜在的 Visual Transformer 的全面回顾
+* MLP
+* [Are we ready for a new paradigm shift? A Survey on Visual Deep MLP](https://arxiv.org/abs/2111.04060)<br>[2021-11-09]<br>本篇综述旨在全面介绍视觉深度 MLP 模型的最新发展。探究MLP，这个具有全局感受野但没有注意力的最简单结构，会不会成为一个新的计算机视觉范式？
 
 ## 扫码CV君微信（注明：CV）入微信交流群：
 
