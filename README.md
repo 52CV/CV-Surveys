@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月09日已公开 178 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月12日已公开 180 篇。
 
 ## 目录
 
@@ -215,6 +215,7 @@
 ## 19.Transformers<br>
 
 - [Transformers in Vision: A Survey](https://arxiv.org/abs/2101.01169)<br>[2021-01-01]<br>旨在为计算机视觉学科中的 Transformer 模型提供一个全面的概述
+* [A Survey of Visual Transformers](https://arxiv.org/abs/2111.06091)<br>[2021-11-12]<br>本篇综述对应用于各种视觉任务，包括分类、检测和分割的一百多个Transformer模型进行全面回顾。
 * VL
   * [Survey: Transformer based Video-Language Pre-training](https://arxiv.org/abs/2109.09920)<br>[2021-09-22]
 
@@ -287,6 +288,9 @@
   * [Deep Metric Learning for Few-Shot Image Classification: A Selective Review](https://arxiv.org/abs/2105.08149)<br>[2021-05-19]
 * 长尾学习
   * [Deep Long-Tailed Learning: A Survey](https://arxiv.org/abs/2110.04596)<br>[2021-10-12]<br>本篇综述是对 2021 年中期之前所提出的经典深度长尾学习方法，根据分类法，即类的再平衡、信息增强和模块改进进行的全面回顾。
+* 细粒度
+  * [Fine-Grained Image Analysis with Deep Learning: A Survey](https://arxiv.org/abs/2111.06119)<br>[2021-11-12]<br>对基于深度学习的细粒度图像分析（FGIA）的最新进展进行了全面调查。
+
 
 <a name="12"/> 
 
