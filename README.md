@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月12日已公开 180 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月16日已公开 181 篇。
 
 ## 目录
 
@@ -353,9 +353,10 @@
 * 神经网络
   * [A Survey of Quantization Methods for Efficient Neural Network Inference](https://arxiv.org/abs/2103.13630)<br>[2021-03-26]<br>用于高效神经网络推理的量化方法研究
   * [Hyperbolic Deep Neural Networks: A Survey](https://arxiv.org/abs/2101.04562)<br>[2021-01-13]<br>
-* 注意力机制
+* Attention(注意力机制)
   * [Attention, please! A survey of Neural Attention Models in Deep Learning](https://arxiv.org/abs/2103.16775)<br>[2021-04-01]<br>为了评估注意力在深度神经网络中的应用广度，作者在本次调查中对该领域进行了系统的回顾。包括该领域的数百种架构，确定并讨论一些表现出重大影响的架构。还开发并公开一种自动化的方法，以促进该领域评论的发展。通过对 650 部作品进行批判性分析，描述了注意力在卷积、循环网络和生成模型中的主要用途，并确定共同的用途和应用子群。此外，还描述了注意力在不同应用领域的影响，以及它们对神经网络可解释性的影响。最后，列出可能的趋势和进一步研究的机会，希望这篇综述能对该领域的主要注意力模型进行简洁的概述，并指导研究人员开发未来的方法，以推动进一步的改进。
   * [Attention mechanisms and deep learning for machine vision: A survey of the state of the art](https://arxiv.org/abs/2106.07550)<br>[2021-06-15]<br>本篇综述是对基于 Attention（注意力）机制和深度学习在各种机器视觉（MV）任务/应用中的合并的研究调研。包含 110 多篇论文作为研究参考。
+  * [Attention Mechanisms in Computer Vision: A Survey](https://arxiv.org/abs/2111.07624)<br>[2021-11-16]<br>本篇综述系统地回顾和总结了计算机视觉中深度神经网络的注意机制。
 * 集成学习
   * [Ensemble deep learning: A review](https://arxiv.org/abs/2104.02395)<br>[2021-04-07]<br>本篇综述是对目前最先进的深度集成模型的调研，为研究学者提供一个广泛的总结。集成模型大致可分为  bagging, boosting 和 stacking，基于 negative correlation 的深度集成模型，显式/隐式合集，同质/异质合集，决策融合策略，无监督、半监督、强化学习和基于在线/增量、多标签的深度集成模型。此外，还深度集成模型在不同领域的应用进行了简要讨论。并在本文的最后提出一些未来的建议和研究方向。
 
