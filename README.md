@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月17日已公开 182 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月22日已公开 184 篇。
 
 ## 目录
 
@@ -186,6 +186,8 @@
 - [Deep Learning based 3D Segmentation: A Survey](https://arxiv.org/abs/2103.05423)<br>[2021-03-10]<br>本篇综述是对基于深度学习的三维分割的最新进展进行了全面的调查，包含150多篇论文文献。总结了最常用的 pipelines，对其亮点和不足进行了讨论，并分析了这些分割方法的竞争结果。还在分析的基础上，提供了未来有前景的研究方向。
 * 视频分割
   * [A Survey on Deep Learning Technique for Video Segmentation](https://arxiv.org/abs/2107.01153)<br>[2021-07-05]<br>本篇综述是首篇对视频分割领域最新进展的调查报告，包含 AVOS、SVOS、IVOS、LVOS、VSS、VIS 和 VPS 几个子领域。
+* 全景分割
+  * [Panoptic Segmentation: A Review](https://arxiv.org/abs/2111.10250)<br>[2021-11-22]<br>:star:[code](https://github.com/elharroussomar/Awesome-Panoptic-Segmentation)<br>本次调研是对现有全景分割方法的第一次全面回顾。
 
 <a name="21"/> 
 
@@ -477,6 +479,8 @@
   * [Atrial Fibrillation: A Medical and Technological Review](https://arxiv.org/abs/2109.08974)<br>[2021-09-21]<br> 
 * MRI重建
   * [A review of deep learning methods for MRI reconstruction](https://arxiv.org/abs/2109.08618)<br>[2021-09-20]<br>  
+* VQA
+  * [Medical Visual Question Answering: A Survey](https://arxiv.org/abs/2111.10056)<br>[2021-11-22]<br>本次调研任务是医学人工智能和流行的 VQA 任务的结合，即对医学视觉问答任务的全面回顾。  
  
 <a name="1"/> 
 
