@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月22日已公开 184 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月6日已公开 186 篇。
 
 ## 目录
 
@@ -292,7 +292,8 @@
   * [Deep Long-Tailed Learning: A Survey](https://arxiv.org/abs/2110.04596)<br>[2021-10-12]<br>本篇综述是对 2021 年中期之前所提出的经典深度长尾学习方法，根据分类法，即类的再平衡、信息增强和模块改进进行的全面回顾。
 * 细粒度
   * [Fine-Grained Image Analysis with Deep Learning: A Survey](https://arxiv.org/abs/2111.06119)<br>[2021-11-12]<br>对基于深度学习的细粒度图像分析（FGIA）的最新进展进行了全面调查。
-
+* 高光谱图像分类
+  * [A Survey: Deep Learning for Hyperspectral Image Classification with Few Labeled Samples](https://arxiv.org/abs/2112.01800)<br>:star:[code](https://github.com/ShuGuoJ/HSI-Classification)<br>[2021-12-06]<br>深度学习用于少数标注样本的高光谱图像分类综述
 
 <a name="12"/> 
 
@@ -315,6 +316,7 @@
   * [Going Deeper Into Face Detection: A Survey](https://arxiv.org/abs/2103.14983)<br>[2021-03-30]<br>本文是对近期基于深度学习的人脸检测方面文献的综述，包括五十多种人脸检测方法。并对这些方法的不同方面进行了全面的评述，包括训练数据、网络结构的选择、损失函数、训练策略以及它们贡献。作者根据对人脸检测的贡献技术将这些方法分为以下几个架构组：1) Cascade-CNN Based Models 2) R-CNN and Faster-RCNN Based Models 3) Single Shot Detector Models 4) Feature Pyramid Network Based Models 5) Other models 。还总结一些流行的人脸检测基准，如 Wider-Face、FDDB 和 PASCAL Face，以及在这些流行基准上的量化性能。最后，对未来几年基于深度学习的人脸检测的一些公开挑战和有前途的方向进行了讨论。
   * [Performance analysis of facial recognition: A critical review through glass factor](https://arxiv.org/abs/2104.01536)<br>[2021-04-06]<br>本篇综述针对 glass factor 对人脸识别影响的全面调研。
   * [Biometric Template Protection for Neural-Network-based Face Recognition Systems: A Survey of Methods and Evaluation Techniques](https://arxiv.org/abs/2110.05044)<br>[2021-10-12]<br>本文介绍了在基于神经网络的人脸识别系统中保护人脸模板的生物识别模板保护（BTP）方法的调查。
+  * [Detect Faces Efficiently: A Survey and Evaluations](https://arxiv.org/abs/2112.01787)<br>[2021-12-06]<br>
   * 3D 人脸识别
     * [3D Face Recognition: A Survey](https://arxiv.org/abs/2108.11082)<br>[2021-08-26]<br>对近十年基于深度学习的3D人脸识别调研，主要集中在人脸增强、数据预处理和网络架构方面。
 * 人脸表情识别
