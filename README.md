@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月6日已公开 186 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月7日已公开 190 篇。
 
 ## 目录
 
@@ -36,6 +36,8 @@
   * [A Review of Computer Vision Technologies for Fish Tracking](https://arxiv.org/abs/2110.02551)<br>[2021-10-07]<br>本篇综述是对近十年来鱼类追踪技术的发展和应用前景的全面调研。
 * 多目标跟踪
   * [Multi-target tracking for video surveillance using deep affinity network: a brief review](https://arxiv.org/abs/2110.15674)<br>[2021-11-01]<br>视频监控中的多目标跟踪（MTT）算法综述
+* 视觉目标跟踪
+  * [Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook](https://arxiv.org/abs/2112.02838)<br>[2021-12-07]<br>本调研报告基于九个跟踪基准的结果，对 90 多个 DCF 和 Siamese 跟踪器进行了系统而全面的回顾。
 
 <a name="45"/>
 
@@ -171,7 +173,8 @@
   * [Making Images Real Again: A Comprehensive Survey on Deep Image Composition](https://arxiv.org/abs/2106.14490)<br>[2021-06-29]<br>:star:[code](https://github.com/bcmi/Awesome-Image-Composition)<br>本篇综述对图像合成进行了全面调研。
 * Image Representation(图像表示)
   * [A Survey of Orthogonal Moments for Image Representation: Theory, Implementation, and Evaluation](https://arxiv.org/abs/2103.14799)<br>[2021-08-27]<br>:star:[code](https://github.com/ShurenQi/MomentToolbox)
-
+* 图像增强
+  * [A Survey on Deep learning based Document Image Enhancement](https://arxiv.org/abs/2112.02719)<br>[2021-12-07]<br>基于深度学习的文档图像增强综述调研
 
 <a name="23"/>
 
@@ -188,6 +191,8 @@
   * [A Survey on Deep Learning Technique for Video Segmentation](https://arxiv.org/abs/2107.01153)<br>[2021-07-05]<br>本篇综述是首篇对视频分割领域最新进展的调查报告，包含 AVOS、SVOS、IVOS、LVOS、VSS、VIS 和 VPS 几个子领域。
 * 全景分割
   * [Panoptic Segmentation: A Review](https://arxiv.org/abs/2111.10250)<br>[2021-11-22]<br>:star:[code](https://github.com/elharroussomar/Awesome-Panoptic-Segmentation)<br>本次调研是对现有全景分割方法的第一次全面回顾。
+* 语义分割
+  * [Unsupervised Domain Adaptation for Semantic Image Segmentation: a Comprehensive Survey](https://arxiv.org/abs/2112.03241)<br>[2021-12-07]<br>本调查报告是对无监督域适应在语义分割任务中快速发展的五年来的努力总结，包含了语义分割本身的重要性以及使分割模型适应新环境的关键需求。
 
 <a name="21"/> 
 
@@ -250,6 +255,8 @@
   * [A Survey of Self-Supervised and Few-Shot Object Detection](https://arxiv.org/abs/2110.14711)<br>[2021-10-29]<br>本篇综述对近期关于小样本和自监督的目标检测方法进行了全面回顾。
 * 小样本目标检测
   * [A Comparative Review of Recent Few-Shot Object Detection Algorithms](https://arxiv.org/abs/2111.00201)<br>[2021-11-02]<br>本篇综述从多方面的角度全面介绍了当前在小样本目标检测方面的经典和最新成果以及未来的研究预期。
+* Low-Shot 目标检测
+  * [A Survey of Deep Learning for Low-Shot Object Detection](https://arxiv.org/abs/2112.02814)<br>[2021-12-07]<br>
 
 <a name="16"/> 
 
