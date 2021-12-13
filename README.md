@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月7日已公开 190 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月13日已公开 191 篇。
 
 ## 目录
 
@@ -216,6 +216,8 @@
 * [A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges](https://arxiv.org/abs/2110.14051)<br>[2021-10-28]<br>OOD检测、OSR、ND（单类学习）和AD综述调研
 * OOD
   * [Generalized Out-of-Distribution Detection: A Survey](https://arxiv.org/abs/2110.11334)<br>[2021-10-22]<br>:star:[code](https://github.com/Jingkang50/OODSurvey)<br>提出一个通用框架，generalized OOD detection，包含AD、ND、OSR、OD检测和OD，并进行调研。
+* 视频异常检测
+  * [Multimedia Datasets for Anomaly Detection: A Survey](https://arxiv.org/abs/2112.05410)<br>[2021-12-13]<br>本文基于异常检测的应用，对各种视频、音频以及视听数据集进行了全面调查。旨在解决缺乏基于异常检测的多媒体公共数据集的综合比较和分析的问题。
 
 <a name="19"/> 
 
