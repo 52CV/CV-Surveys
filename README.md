@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月13日已公开 191 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月14日已公开 192 篇。
 
 ## 目录
 
@@ -205,6 +205,7 @@
   * [Domain Generalization: A Survey](https://arxiv.org/abs/2103.02503)<br>[2021-03-04]<br>本篇文章是首次对 DG（Domain Generalization）的十年发展进行了全面的文献回顾总结<br>
 * 域适应
   * [A Survey on Deep Domain Adaptation for LiDAR Perception](https://arxiv.org/abs/2106.02377)<br>[2021-06-07]<br>本篇综述是对域适应方法的最新进展的调研，并提出专门针对 LiDAR 感知的有趣研究问题。
+  * [A Survey of Unsupervised Domain Adaptation for Visual Recognition](https://arxiv.org/abs/2112.06745)<br>[2021-12-14]<br>无监督域适应在视觉识别应用综述
 
 <a name="20"/> 
 
