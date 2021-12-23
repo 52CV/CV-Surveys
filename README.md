@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月14日已公开 192 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月23日已公开 194 篇。
 
 ## 目录
 
@@ -258,6 +258,7 @@
   * [A Survey of Self-Supervised and Few-Shot Object Detection](https://arxiv.org/abs/2110.14711)<br>[2021-10-29]<br>本篇综述对近期关于小样本和自监督的目标检测方法进行了全面回顾。
 * 小样本目标检测
   * [A Comparative Review of Recent Few-Shot Object Detection Algorithms](https://arxiv.org/abs/2111.00201)<br>[2021-11-02]<br>本篇综述从多方面的角度全面介绍了当前在小样本目标检测方面的经典和最新成果以及未来的研究预期。
+  * [Few-Shot Object Detection: A Survey](https://arxiv.org/abs/2112.11699)<br>[2021-12-23]<br>
 * Low-Shot 目标检测
   * [A Survey of Deep Learning for Low-Shot Object Detection](https://arxiv.org/abs/2112.02814)<br>[2021-12-07]<br>
 
@@ -285,6 +286,8 @@
 
 - [Gesture Recognition in Robotic Surgery: a Review](https://arxiv.org/abs/2102.00027)<br>[2021-02-02]<br>机器人手术中的手势识别：综述
 - [Single Person Pose Estimation: A Survey](https://arxiv.org/abs/2109.10056)<br>[2021-09-22]<br>
+* 多人人体姿态估计
+  * [Bottom-up approaches for multi-person pose estimation and it's applications: A brief review](https://arxiv.org/abs/2112.11834)<br>[2021-12-23]<br>HPE自下而上方法的最新进展
 
 <a name="13"/> 
 
