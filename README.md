@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月23日已公开 194 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月24日已公开 195 篇。
 
 ## 目录
 
@@ -399,6 +399,8 @@
 * [A review of Generative Adversarial Networks (GANs) and its applications in a wide variety of disciplines -- From Medical to Remote Sensing](https://arxiv.org/abs/2110.01442)<br>[2021-10-05]<br>提供了 GANs 在从天文学和生物学等 STEM 领域，到市场营销和金融等商业领域，再到音乐等艺术领域等等的12个领域应用的最全面的调研。
 * 图像合成
   * [A Survey on Adversarial Image Synthesis](https://arxiv.org/abs/2106.16056)<br>[2021-01-01]<br>本篇综述提供一个用于图像合成的方法分类，并对文本到图像合成和图像到图像翻译的不同模型进行了全面回顾，以及对一些评估指标和用 GAN 进行图像合成的未来可能研究方向的讨论。
+* 图像到图像翻译
+  * [Comparison and Analysis of Image-to-Image Generative Adversarial Networks: A Survey](https://arxiv.org/abs/2112.12625)<br>[2021-12-24]
 
 <a name="5"/> 
 
