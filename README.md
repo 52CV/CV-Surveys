@@ -6,7 +6,7 @@
 
 2021 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月24日已公开 195 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月27日已公开 196 篇。
 
 ## 目录
 
@@ -83,6 +83,7 @@
 
 ## 38.Image Synthesis(图像合成)
 * [Deep Image Synthesis from Intuitive User Input: A Review and Perspectives](https://arxiv.org/abs/2107.04240)<br>[2021-07-12]<br>本篇综述是对给定直观用户输入的图像合成方面工作的调研，包括输入通用性、图像生成方法、基准数据集和评价指标方面的进展调研。
+* [Multimodal Image Synthesis and Editing: A Survey](https://arxiv.org/abs/2112.13592)<br>:star:[code](https://github.com/fnzhan/MISE)<br>[2021-12-27]<br>多模态图像合成编辑综述
 * Person Generation
   * [Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis](https://arxiv.org/abs/2109.02081)<br>[2021-09-07]<br>本篇综述对 deep person generation 的最新进展、相关的  200 多篇论文进行了回顾，涵盖三个主要任务：talking-head generation (face), pose-guided person generation (pose) and garment-oriented person generation (cloth)，以及对 virtual fitting, digital human, generative data augmentation 一些应用进行研究。
 
