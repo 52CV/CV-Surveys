@@ -33,7 +33,7 @@
 
 ## 4.Person ReID
 * 步态识别
-  * [Gait Recognition Based on Deep Learning: A Survey](https://arxiv.org/abs/2201.03323)<br>[2022-01-11]<br>本篇综述提供一个关于通过步态识别进行生物识别的最新工作的调查汇编，重点是深度学习方法，强调其优点，并揭露其缺点。此外，它、还对数据集、方法和架构进行分类和描述，以解决相关的限制。
+  * [Gait Recognition Based on Deep Learning: A Survey](https://arxiv.org/abs/2201.03323)<br>[2022-01-11]<br>本篇综述提供一个关于通过步态识别进行生物识别的最新工作的调查汇编，重点是深度学习方法，强调其优点，并揭露其缺点。此外，它还对数据集、方法和架构进行分类和描述，以解决相关的限制。
 
 <a name="3"/>
 
