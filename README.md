@@ -2,7 +2,7 @@
   <img src="image/52CV1.png" width="600"/>
 </div>
 
-## [2021-CV-Surveys](https://github.com/52CV/CV-Surveys/blob/main/2021-CV-Surveys.md)
+## 查看2021年综述文献点这里↘️[2021-CV-Surveys](https://github.com/52CV/CV-Surveys/blob/main/2021-CV-Surveys.md)
 
 # 2022-CV-Surveys
 
