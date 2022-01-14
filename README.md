@@ -13,7 +13,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月13日已公开 9 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月14日已公开 10 篇。
 
 ## 目录
 
@@ -28,6 +28,8 @@
 * [A Survey on Face Recognition Systems](https://arxiv.org/abs/2201.02991)<br>[2022-01-11]<br>
 * 跨光谱人脸识别
   * [Beyond the Visible: A Survey on CFace Recognition](https://arxiv.org/abs/2201.04435)<br>[2022-01-13]<br>
+* 口罩人脸检测
+  * [A Survey on Masked Facial Detection Methods and Datasets for Fighting Against COVID-19](https://arxiv.org/abs/2201.04777)<br>[2022-01-14]
 
 <a name="5"/>
 
