@@ -13,15 +13,23 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月20日已公开 13 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月21日已公开 15 篇。
 
 ## 目录
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
+|[9.Video](#9)|
 |[5.UAV\Remote Sensing\Satellite Image(无人机\遥感\卫星图像)](#5)|[6.Face(人脸)](#6)|[7.3D](#7)|[8.Transformer](#8)|
 |[1.Unkown(未分)](#1)|[2.Scene Graph Generation(场景图生成)](#2)|[3.🏥Medical Image(医学影像)](#3)|[4.ReID(重识别)](#4)|
 
+<a name="9"/>
+
+## 9.Video
+* 视频理解
+  * [The Elements of Temporal Sentence Grounding in Videos: A Survey and Future Directions](https://arxiv.org/abs/2201.08071)<br>[2022-01-21]<br>
+
+<a name="8"/>
 
 ## 8.Transformer
 * [Video Transformers: A Survey](https://arxiv.org/abs/2201.05991)<br>[2022-01-19]<br>
@@ -60,6 +68,9 @@
 * 自动检测
   * [Deep Learning Applications for Lung Cancer Diagnosis: A systematic review](https://arxiv.org/abs/2201.00227)<br>[2022-01-04]<br>本篇综述是对深度学习在肺癌自动检测领域应用的全面调研，其中回顾文献是 2016 年至 2021 年该领域的 32 篇会议和期刊文章。
   * [AI-based Carcinoma Detection and Classification Using Histopathological Images: A Systematic Review](https://arxiv.org/abs/2201.07231)<br>[2022-01-20]
+* 胎儿生长监测
+  * [Towards deep observation: A systematic survey on artificial intelligence techniques to monitor fetus via Ultrasound Images](https://arxiv.org/abs/2201.07935)<br>[2022-01-21]<br>本次调研研究了2010年到2021年之间发表的文献，旨在探索人工智能（AI）如何通过超声（US）图像协助胎儿生长监测。
+
 
 <a name="2"/>
 
