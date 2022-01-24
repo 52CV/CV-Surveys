@@ -13,7 +13,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月21日已公开 15 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月24日已公开 16 篇。
 
 ## 目录
 
@@ -70,7 +70,8 @@
   * [AI-based Carcinoma Detection and Classification Using Histopathological Images: A Systematic Review](https://arxiv.org/abs/2201.07231)<br>[2022-01-20]
 * 胎儿生长监测
   * [Towards deep observation: A systematic survey on artificial intelligence techniques to monitor fetus via Ultrasound Images](https://arxiv.org/abs/2201.07935)<br>[2022-01-21]<br>本次调研研究了2010年到2021年之间发表的文献，旨在探索人工智能（AI）如何通过超声（US）图像协助胎儿生长监测。
-
+* 组织病理学分析
+  * [What Can Machine Vision Do for Lymphatic Histopathology Image Analysis: A Comprehensive Review](https://arxiv.org/abs/2201.08550)<br>[2022-01-24]<br>本篇综述对近年来基于 MV 的图像处理技术在淋巴瘤组织病理学图像中的应用，包括分割、分类和检测进行了全面回顾。
 
 <a name="2"/>
 
