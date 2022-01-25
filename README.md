@@ -13,7 +13,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月24日已公开 16 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月25日已公开 26 篇。
 
 ## 目录
 
@@ -22,6 +22,26 @@
 |[9.Video](#9)|
 |[5.UAV\Remote Sensing\Satellite Image(无人机\遥感\卫星图像)](#5)|[6.Face(人脸)](#6)|[7.3D](#7)|[8.Transformer](#8)|
 |[1.Unkown(未分)](#1)|[2.Scene Graph Generation(场景图生成)](#2)|[3.🏥Medical Image(医学影像)](#3)|[4.ReID(重识别)](#4)|
+
+## .Metric Learning(度量学习)
+* [Spectral, Probabilistic, and Deep Metric Learning: Tutorial and Survey](https://arxiv.org/abs/2201.09267)<br>[2022-01-25]<br>从spectral（谱系）、概率、深度学习三个方法中对度量学习进行调研回顾。                                                               
+
+## Transfer Learning(迁移学习)
+* [A Review of Deep Transfer Learning and Recent Advancements](https://arxiv.org/abs/2201.09679)<br>[2022-01-25]<br>
+
+## Image Processing(图像处理)
+* Image Compression(图像压缩)
+  * [Learning-Driven Lossy Image Compression; A Comprehensive Survey](https://arxiv.org/abs/2201.09240)<br>[2022-01-25]<br>本篇综述是对过去五年的利用ML架构进行有损图像压缩技术的调研。
+
+## Object Tracking(目标跟踪)
+* RGBT Tracking
+  * [A Survey for Deep RGBT Tracking](https://arxiv.org/abs/2201.09296)<br>[2022-01-25]<br>本篇综述是对近期基于深度神经网络的RGBT追踪器的全面调研，得出MDNet和Siamese架构在RGBT任务中的两个主流框架，前者取得了更高的性能，而后者则满足了实时性要求。以及应对更大数据集应用时，应进一步考虑整合端到端框架，如Siamese和Transformer，以满足实时性以及更强的性能。
+* 视觉目标跟踪
+  * [Visual Object Tracking on Multi-modal RGB-D Videos: A Review](https://arxiv.org/abs/2201.09207)<br>[2022-01-25]<br>本篇综述的目的是总结RGB-D跟踪研究中的相关知识。
+
+## Object Detection(目标检测)
+* 3D Object Detection
+  * [Survey and Systematization of 3D Object Detection Models and Methods](https://arxiv.org/abs/2201.09354)<br>[2022-01-25]<br>本篇综述是对过去10年中大量不同的3D目标检测方法的全面调研。
 
 <a name="9"/>
 
@@ -72,6 +92,11 @@
   * [Towards deep observation: A systematic survey on artificial intelligence techniques to monitor fetus via Ultrasound Images](https://arxiv.org/abs/2201.07935)<br>[2022-01-21]<br>本次调研研究了2010年到2021年之间发表的文献，旨在探索人工智能（AI）如何通过超声（US）图像协助胎儿生长监测。
 * 组织病理学分析
   * [What Can Machine Vision Do for Lymphatic Histopathology Image Analysis: A Comprehensive Review](https://arxiv.org/abs/2201.08550)<br>[2022-01-24]<br>本篇综述对近年来基于 MV 的图像处理技术在淋巴瘤组织病理学图像中的应用，包括分割、分类和检测进行了全面回顾。
+* Transformer
+  * [Transformers in Medical Imaging: A Survey](https://arxiv.org/abs/2201.09873)<br>[2022-01-25]<br>:star:[code](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)<br>本篇综述试图对 Transformer 在医学影像中的应用(分割、检测、分类、重建、合成、配准、临床报告生成等)进行全面回顾，涵盖从近期所提出的架构设计到未解决的问题等各个方面。
+* 加密医疗图像
+  * [A Survey on Patients Privacy Protection with Stganography and Visual Encryption](https://arxiv.org/abs/2201.09388)<br>[2022-01-25]<br>
+  * [A Comprehensive Survey on Federated Learning: Concept and Application](https://arxiv.org/abs/2201.09384)<br>[2022-01-25]<br>
 
 <a name="2"/>
 
@@ -81,6 +106,7 @@
 <a name="n"/>
 
 ## 1.Unkown(未分)
+* [Artificial Intelligence for Suicide Assessment using Audiovisual Cues: A Review](https://arxiv.org/abs/2201.09130)<br>[2022-01-25]<br>本篇综述对通过视听特征分析研究自杀意念和自杀行为检测的工作进行了全面调研回顾，主要是自杀性声音/语音声学特征分析和自杀性视觉线索。
 * 城市规划
   * [Visual and Object Geo-localization: A Comprehensive Survey](https://arxiv.org/abs/2112.15202)<br>[2022-01-03]<br>本篇综述对涉及图像的地理定位进行了全面的调查，其中包括确定图像的拍摄地点（图像地理定位）或图像中物体的地理定位（物体地理定位）。
 * [Data-Free Knowledge Transfer: A Survey](https://arxiv.org/abs/2112.15278)<br>[2022-01-03]<br>本篇综述对 Data-Free 知识迁移进行了全面和结构化的调研。
