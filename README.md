@@ -13,41 +13,64 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月27日已公开 29 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月9日已公开 33 篇。
 
 ## 目录
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
-|[9.Video](#9)|
+|[13.Human Pose Estimation(人体姿态估计)](#13)|[14.Auto Driving(自动驾驶)](#14)|[15.Image Super-resolution(超分辨率)](#15)|
+|[9.Video](#9)|[10.Object Detection(目标检测)](#10)|[11.Object Tracking(目标跟踪)](#11)|[12.Image Processing(图像处理)](#12)|
 |[5.UAV\Remote Sensing\Satellite Image(无人机\遥感\卫星图像)](#5)|[6.Face(人脸)](#6)|[7.3D](#7)|[8.Transformer](#8)|
 |[1.Unkown(未分)](#1)|[2.Scene Graph Generation(场景图生成)](#2)|[3.🏥Medical Image(医学影像)](#3)|[4.ReID(重识别)](#4)|
 
 ## .Metric Learning(度量学习)
 * [Spectral, Probabilistic, and Deep Metric Learning: Tutorial and Survey](https://arxiv.org/abs/2201.09267)<br>[2022-01-25]<br>从spectral（谱系）、概率、深度学习三个方法中对度量学习进行调研回顾。                                                               
 
+
 ## Transfer Learning(迁移学习)
 * [A Review of Deep Transfer Learning and Recent Advancements](https://arxiv.org/abs/2201.09679)<br>[2022-01-25]<br>
 
-## Image Super-resolution(超分辨率)
+<a name="15"/>
+
+## 15.Image Super-resolution(超分辨率)
 * [A Review of Deep Learning Based Image Super-resolution Techniques](https://arxiv.org/abs/2201.10521)<br>[2022-01-26]<br>
 
-## Image Processing(图像处理)
+<a name="14"/>
+
+## 14.Auto Driving(自动驾驶)
+* [Multi-modal Sensor Fusion for Auto Driving Perception: A Survey](https://arxiv.org/abs/2202.02703)<br>[2022-02-08]<br>本篇综述对现有的基于多模态的自主驾驶感知任务的方法进行了文献调研。其中包含 50 多篇利用感知传感器（包括LiDAR和相机）试图解决目标检测和语义分割任务的论文。期望为自主驾驶感知任务提出一个新的多模态融合方法分类法，并引发对未来基于融合技术的思考。
+
+<a name="13"/>
+
+## 13.Human Pose Estimation(人体姿态估计)
+* [A survey of top-down approaches for human pose estimation](https://arxiv.org/abs/2202.02656)<br>[2022-02-08]<br>本篇论文的目的是为研究人员提供基于深度学习方法的二维图像的人体姿态估计的广泛回顾，自2016年以来，这些方法只专注于自上而下的方法。
+
+<a name="12"/>
+
+## 12.Image Processing(图像处理)
 * Image Compression(图像压缩)
   * [Learning-Driven Lossy Image Compression; A Comprehensive Survey](https://arxiv.org/abs/2201.09240)<br>[2022-01-25]<br>本篇综述是对过去五年的利用ML架构进行有损图像压缩技术的调研。
 * 去模糊
   * [Blind Image Deblurring: a Review](https://arxiv.org/abs/2201.10522)<br>[2022-01-26]<br>
   * [Deep Image Deblurring: A Survey](https://arxiv.org/abs/2201.10700)<br>[2022-01-27]<br>
 
-## Object Tracking(目标跟踪)
+<a name="11"/>
+
+## 11.Object Tracking(目标跟踪)
 * RGBT Tracking
   * [A Survey for Deep RGBT Tracking](https://arxiv.org/abs/2201.09296)<br>[2022-01-25]<br>本篇综述是对近期基于深度神经网络的RGBT追踪器的全面调研，得出MDNet和Siamese架构在RGBT任务中的两个主流框架，前者取得了更高的性能，而后者则满足了实时性要求。以及应对更大数据集应用时，应进一步考虑整合端到端框架，如Siamese和Transformer，以满足实时性以及更强的性能。
 * 视觉目标跟踪
   * [Visual Object Tracking on Multi-modal RGB-D Videos: A Review](https://arxiv.org/abs/2201.09207)<br>[2022-01-25]<br>本篇综述的目的是总结RGB-D跟踪研究中的相关知识。
 
-## Object Detection(目标检测)
+<a name="10"/>
+
+## 10.Object Detection(目标检测)
 * 3D Object Detection
   * [Survey and Systematization of 3D Object Detection Models and Methods](https://arxiv.org/abs/2201.09354)<br>[2022-01-25]<br>本篇综述是对过去10年中大量不同的3D目标检测方法的全面调研。
+  * [3D Object Detection from Images for Autonomous Driving: A Survey](https://arxiv.org/abs/2202.02980)<br>[2022-02-08]<br>:star:[code](https://github.com/xinzhuma/3dodi-survey)<br>本篇论文是第一项调查基于图像的自主驾驶 3D 检测方法的工作。其中包含 80 多个基于图像的 3D 检测方法和从 2015 年到 2021 年间的 200 多个相关研究工作。
+* 结构裂缝检测
+  * [What's Cracking? A Review and Analysis of Deep Learning Methods for Structural Crack Segmentation, Detection and Quantification](https://arxiv.org/abs/2202.03714)<br>[2022-02-09]<br>本篇综述旨在让研究人员对裂缝分析算法领域内已发表的利用深度学习的工作有一个概览。
 
 <a name="9"/>
 
