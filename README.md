@@ -13,7 +13,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月9日已公开 33 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月14日已公开 34 篇。
 
 ## 目录
 
@@ -114,6 +114,7 @@
 <a name="3"/>
 
 ## 3.🏥Medical Image(医学影像)
+* [Deep Learning for Computational Cytology: A Survey](https://arxiv.org/abs/2202.05126)<br>[2022-02-14]<br>本篇综述调研了 120 多篇基于深度学习的方法在计算细胞学中的进展。
 * 自动检测
   * [Deep Learning Applications for Lung Cancer Diagnosis: A systematic review](https://arxiv.org/abs/2201.00227)<br>[2022-01-04]<br>本篇综述是对深度学习在肺癌自动检测领域应用的全面调研，其中回顾文献是 2016 年至 2021 年该领域的 32 篇会议和期刊文章。
   * [AI-based Carcinoma Detection and Classification Using Histopathological Images: A Systematic Review](https://arxiv.org/abs/2201.07231)<br>[2022-01-20]
