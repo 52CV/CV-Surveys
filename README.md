@@ -114,7 +114,7 @@
 <a name="3"/>
 
 ## 3.🏥Medical Image(医学影像)
-* [Deep Learning for Computational Cytology: A Survey](https://arxiv.org/abs/2202.05126)<br>[2022-02-14]<br>本篇综述调研了 120 多篇基于深度学习的方法在计算细胞学中的进展。
+* [Deep Learning for Computational Cytology: A Survey](https://arxiv.org/abs/2202.05126)<br>[2022-02-13]<br>本篇综述调研了 120 多篇基于深度学习的方法在计算细胞学中的进展。
 * 自动检测
   * [Deep Learning Applications for Lung Cancer Diagnosis: A systematic review](https://arxiv.org/abs/2201.00227)<br>[2022-01-04]<br>本篇综述是对深度学习在肺癌自动检测领域应用的全面调研，其中回顾文献是 2016 年至 2021 年该领域的 32 篇会议和期刊文章。
   * [AI-based Carcinoma Detection and Classification Using Histopathological Images: A Systematic Review](https://arxiv.org/abs/2201.07231)<br>[2022-01-20]
