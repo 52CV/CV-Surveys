@@ -13,7 +13,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月14日已公开 34 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月17日已公开 40 篇。
 
 ## 目录
 
@@ -27,6 +27,16 @@
 ## .Metric Learning(度量学习)
 * [Spectral, Probabilistic, and Deep Metric Learning: Tutorial and Survey](https://arxiv.org/abs/2201.09267)<br>[2022-01-25]<br>从spectral（谱系）、概率、深度学习三个方法中对度量学习进行调研回顾。                                                               
 
+## Deepfake Detection(虚假内容检测)
+* [A Review of Deep Learning-based Approaches for Deepfake Content Detection](https://arxiv.org/abs/2202.06095)<br>[2022-02-15]<br>
+
+## Anomaly Detection(异常检测)
+* 视觉感官异常检测
+  * [A Survey of Visual Sensory Anomaly Detection](https://arxiv.org/abs/2202.07006)<br>[2022-02-16]<br>:star:[code](https://github.com/M-3LAB/awesome-visual-sensory-anomaly-detection)<br>首个视觉感官AD的全面调研工作
+
+## Fingerprint Detection(指纹检测)
+* 指纹活性检测
+  * [Review of the Fingerprint Liveness Detection (LivDet) competition series: from 2009 to 2021](https://arxiv.org/abs/2202.07259)<br>[2022-02-16]<br>对2009年至2021年的LivDet版本的指纹演示攻击检测（FPAD）算法的性能评估，并指出它们多年来的演变。
 
 ## Transfer Learning(迁移学习)
 * [A Review of Deep Transfer Learning and Recent Advancements](https://arxiv.org/abs/2201.09679)<br>[2022-01-25]<br>
@@ -54,6 +64,7 @@
 * 去模糊
   * [Blind Image Deblurring: a Review](https://arxiv.org/abs/2201.10522)<br>[2022-01-26]<br>
   * [Deep Image Deblurring: A Survey](https://arxiv.org/abs/2201.10700)<br>[2022-01-27]<br>
+  * [A Survey on Image Deblurring](https://arxiv.org/abs/2202.07456)<br>[2022-02-16]<br>本篇图像去模糊综述分别对传统的图像去模糊方法和深度表示的图像去模糊方法进行了全面调研。
 
 <a name="11"/>
 
@@ -97,6 +108,8 @@
   * [Beyond the Visible: A Survey on CFace Recognition](https://arxiv.org/abs/2201.04435)<br>[2022-01-13]<br>
 * 口罩人脸检测
   * [A Survey on Masked Facial Detection Methods and Datasets for Fighting Against COVID-19](https://arxiv.org/abs/2201.04777)<br>[2022-01-14]
+* GAN-face检测
+  * [GAN-generated Faces Detection: A Survey and New Perspectives](https://arxiv.org/abs/2202.07145)<br>[2022-02-16]<br>本次综述旨在对 GAN-face 检测的最新进展进行全面回顾。并着重研究能够检测由 GAN 模型生成或合成的人脸图像的方法。
 
 <a name="5"/>
 
@@ -127,6 +140,9 @@
 * 加密医疗图像
   * [A Survey on Patients Privacy Protection with Stganography and Visual Encryption](https://arxiv.org/abs/2201.09388)<br>[2022-01-25]<br>
   * [A Comprehensive Survey on Federated Learning: Concept and Application](https://arxiv.org/abs/2201.09384)<br>[2022-01-25]<br>
+* 跨模态脑图像合成
+  * [A Survey of Cross-Modality Brain Image Synthesis](https://arxiv.org/abs/2202.06997)<br>[2022-02-16]<br>:star:[code](https://github.com/M-3LAB/awesome-multimodal-brain-image-systhesis)<br>首个通过考虑监督水平来深入审查跨模态脑图像合成任务的工作，特别是对于无监督和半监督的跨模态合成。
+
 
 <a name="2"/>
 
