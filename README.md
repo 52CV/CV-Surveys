@@ -13,7 +13,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月21日已公开 42 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月22日已公开 43 篇。
 
 ## 目录
 
@@ -159,6 +159,7 @@
 
 ## 1.Unkown(未分)
 * [Artificial Intelligence for Suicide Assessment using Audiovisual Cues: A Review](https://arxiv.org/abs/2201.09130)<br>[2022-01-25]<br>本篇综述对通过视听特征分析研究自杀意念和自杀行为检测的工作进行了全面调研回顾，主要是自杀性声音/语音声学特征分析和自杀性视觉线索。
+* [A Review of Emerging Research Directions in Abstract Visual Reasoning](https://arxiv.org/abs/2202.10284)<br>[2022-02-22]<br>
 * 城市规划
   * [Visual and Object Geo-localization: A Comprehensive Survey](https://arxiv.org/abs/2112.15202)<br>[2022-01-03]<br>本篇综述对涉及图像的地理定位进行了全面的调查，其中包括确定图像的拍摄地点（图像地理定位）或图像中物体的地理定位（物体地理定位）。
 * [Data-Free Knowledge Transfer: A Survey](https://arxiv.org/abs/2112.15278)<br>[2022-01-03]<br>本篇综述对 Data-Free 知识迁移进行了全面和结构化的调研。
