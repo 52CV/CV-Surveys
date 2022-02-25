@@ -13,7 +13,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月23日已公开 44 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月25日已公开 46 篇。
 
 ## 目录
 
@@ -51,6 +51,8 @@
 
 ## 15.Image Super-resolution(超分辨率)
 * [A Review of Deep Learning Based Image Super-resolution Techniques](https://arxiv.org/abs/2201.10521)<br>[2022-01-26]<br>
+* 单图像分辨率
+  * [Single Image Super-Resolution Methods: A Survey](https://arxiv.org/abs/2202.11763)<br>[2022-02-25]<br>
 
 <a name="14"/>
 
@@ -143,6 +145,7 @@
   * [What Can Machine Vision Do for Lymphatic Histopathology Image Analysis: A Comprehensive Review](https://arxiv.org/abs/2201.08550)<br>[2022-01-24]<br>本篇综述对近年来基于 MV 的图像处理技术在淋巴瘤组织病理学图像中的应用，包括分割、分类和检测进行了全面回顾。
 * Transformer
   * [Transformers in Medical Imaging: A Survey](https://arxiv.org/abs/2201.09873)<br>[2022-01-25]<br>:star:[code](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)<br>本篇综述试图对 Transformer 在医学影像中的应用(分割、检测、分类、重建、合成、配准、临床报告生成等)进行全面回顾，涵盖从近期所提出的架构设计到未解决的问题等各个方面。
+  * [Transformers in Medical Image Analysis: A Review](https://arxiv.org/abs/2202.12165)<br>[2022-02-25]<br>本文围绕 Transformer 在不同学习范式中的使用、提高模型效率以及与其他技术的耦合等方面的关键挑战进行了全面研究。
 * 加密医疗图像
   * [A Survey on Patients Privacy Protection with Stganography and Visual Encryption](https://arxiv.org/abs/2201.09388)<br>[2022-01-25]<br>
   * [A Comprehensive Survey on Federated Learning: Concept and Application](https://arxiv.org/abs/2201.09384)<br>[2022-01-25]<br>
