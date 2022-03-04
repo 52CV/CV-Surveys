@@ -13,7 +13,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月1日已公开 48 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月5日已公开 51 篇。
 
 ## 目录
 
@@ -68,11 +68,15 @@
 
 ## 14.Auto Driving(自动驾驶)
 * [Multi-modal Sensor Fusion for Auto Driving Perception: A Survey](https://arxiv.org/abs/2202.02703)<br>[2022-02-08]<br>本篇综述对现有的基于多模态的自主驾驶感知任务的方法进行了文献调研。其中包含 50 多篇利用感知传感器（包括LiDAR和相机）试图解决目标检测和语义分割任务的论文。期望为自主驾驶感知任务提出一个新的多模态融合方法分类法，并引发对未来基于融合技术的思考。
+* 三维人体运动预测
+  * [3D Human Motion Prediction: A Survey](https://arxiv.org/abs/2203.01593)<br>[2022-03-04]<br>本篇综述系统地回顾了 2015 年以来人类运动预测领域的所有相关期刊和会议论文，并对相关方法、数据集、基准、性能进行了讨论分析。
 
 <a name="13"/>
 
 ## 13.Human Pose Estimation(人体姿态估计)
 * [A survey of top-down approaches for human pose estimation](https://arxiv.org/abs/2202.02656)<br>[2022-02-08]<br>本篇论文的目的是为研究人员提供基于深度学习方法的二维图像的人体姿态估计的广泛回顾，自2016年以来，这些方法只专注于自上而下的方法。
+* 3D人体网格结构恢复
+  * [Recovering 3D Human Mesh from Monocular Images: A Survey](https://arxiv.org/abs/2203.01923)<br>[2022-03-04]<br>:star:[code](https://github.com/tinatiansjz/hmr-survey)<br>本篇报告对过去十年中的三维人体网状结构恢复方法进行了全面的概述,是第一篇专注于单目三维人体网状结构恢复任务的调查报告。
 
 <a name="12"/>
 
@@ -111,6 +115,7 @@
 
 ## 8.Transformer
 * [Video Transformers: A Survey](https://arxiv.org/abs/2201.05991)<br>[2022-01-19]<br>
+* [Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work](https://arxiv.org/abs/2203.01536)<br>[2022-03-04]<br>:star:[code](https://github.com/khawar512/ViT-Survey)
 
 <a name="7"/>
 
