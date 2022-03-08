@@ -13,7 +13,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月7日已公开 53 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月8日已公开 55 篇。
 
 ## 目录
 
@@ -41,6 +41,8 @@
 ## Transfer Learning(迁移学习)
 * [A Review of Deep Transfer Learning and Recent Advancements](https://arxiv.org/abs/2201.09679)<br>[2022-01-25]<br>
 
+## Augmented Reality/Virtual Reality/Robotics(增强/虚拟现实/机器人)
+* [Augmented Reality and Robotics: A Survey and Taxonomy for AR-enhanced Human-Robot Interaction and Robotic Interfaces](https://arxiv.org/abs/2203.03254)<br>[2022-03-08]<br>对AR增强型人机交互和机器人界面的调查和分类综述，共调研460篇相关文献。
 
 ## Vision-Language(视觉语言)
 * 视觉语言预训练
@@ -51,6 +53,8 @@
 
 ## 17.Point Clouds(点云)
 * [Unsupervised Representation Learning for Point Clouds: A Survey](https://arxiv.org/abs/2202.13589)<br>[2022-03-01]<br>:star:[code](https://github.com/xiaoaoran/3d_url_survey)<br>本篇综述对使用 DNN 的无监督点云表征学习进行了全面回顾。
+* 点云补全
+  * [Comprehensive Review of Deep Learning-Based 3D Point Clouds Completion Processing and Analysis](https://arxiv.org/abs/2203.03311)<br>[2022-03-08]<br>
 
 <a name="16"/>
 
