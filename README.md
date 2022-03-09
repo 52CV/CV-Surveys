@@ -13,7 +13,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月8日已公开 55 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月9日已公开 56 篇。
 
 ## 目录
 
@@ -176,6 +176,8 @@
   * [A Survey of Cross-Modality Brain Image Synthesis](https://arxiv.org/abs/2202.06997)<br>[2022-02-16]<br>:star:[code](https://github.com/M-3LAB/awesome-multimodal-brain-image-systhesis)<br>首个通过考虑监督水平来深入审查跨模态脑图像合成任务的工作，特别是对于无监督和半监督的跨模态合成。
 * 微生物
   * [A Comprehensive Survey with Quantitative Comparison of Image Analysis Methods for Microorganism Biovolume Measurements](https://arxiv.org/abs/2202.09020)<br>[2022-02-21]<br>本篇文章通过 60 多篇文献对基于 DIP 的微生物生物量测量进行全面回顾。
+* 医学图像分类
+  * [Mammograms Classification: A Review](https://arxiv.org/abs/2203.03618)<br>[2022-03-09]<br>
 
 <a name="2"/>
 
