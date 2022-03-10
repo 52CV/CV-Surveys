@@ -13,7 +13,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月9日已公开 56 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月10日已公开 57 篇。
 
 ## 目录
 
@@ -178,6 +178,8 @@
   * [A Comprehensive Survey with Quantitative Comparison of Image Analysis Methods for Microorganism Biovolume Measurements](https://arxiv.org/abs/2202.09020)<br>[2022-02-21]<br>本篇文章通过 60 多篇文献对基于 DIP 的微生物生物量测量进行全面回顾。
 * 医学图像分类
   * [Mammograms Classification: A Review](https://arxiv.org/abs/2203.03618)<br>[2022-03-09]<br>
+* 乳腺癌检测
+  * [Breast cancer detection using artificial intelligence techniques: A systematic literature review](https://arxiv.org/abs/2203.04308)<br>[2022-03-10]<br>
 
 <a name="2"/>
 
