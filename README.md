@@ -141,6 +141,8 @@
   * [A Survey on Masked Facial Detection Methods and Datasets for Fighting Against COVID-19](https://arxiv.org/abs/2201.04777)<br>[2022-01-14]
 * GAN-face检测
   * [GAN-generated Faces Detection: A Survey and New Perspectives](https://arxiv.org/abs/2202.07145)<br>[2022-02-16]<br>本次综述旨在对 GAN-face 检测的最新进展进行全面回顾。并着重研究能够检测由 GAN 模型生成或合成的人脸图像的方法。
+* 眼周生物识别技术
+  * [Periocular Biometrics and its Relevance to Partially Masked Faces: A Survey](https://arxiv.org/abs/2203.15203)<br>[2022-03-30]
 
 <a name="5"/>
 
@@ -159,6 +161,7 @@
 
 ## 3.🏥Medical Image(医学影像)
 * [Deep Learning for Computational Cytology: A Survey](https://arxiv.org/abs/2202.05126)<br>[2022-02-13]<br>本篇综述调研了 120 多篇基于深度学习的方法在计算细胞学中的进展。
+* [Deep Multi-modal Fusion of Image and Non-image Data in Disease Diagnosis and Prognosis: A Review](https://arxiv.org/abs/2203.15588)<br>[2022-03-30]
 * 自动检测
   * [Deep Learning Applications for Lung Cancer Diagnosis: A systematic review](https://arxiv.org/abs/2201.00227)<br>[2022-01-04]<br>本篇综述是对深度学习在肺癌自动检测领域应用的全面调研，其中回顾文献是 2016 年至 2021 年该领域的 32 篇会议和期刊文章。
   * [AI-based Carcinoma Detection and Classification Using Histopathological Images: A Systematic Review](https://arxiv.org/abs/2201.07231)<br>[2022-01-20]
@@ -191,6 +194,7 @@
 ## 1.Unkown(未分)
 * [Artificial Intelligence for Suicide Assessment using Audiovisual Cues: A Review](https://arxiv.org/abs/2201.09130)<br>[2022-01-25]<br>本篇综述对通过视听特征分析研究自杀意念和自杀行为检测的工作进行了全面调研回顾，主要是自杀性声音/语音声学特征分析和自杀性视觉线索。
 * [A Review of Emerging Research Directions in Abstract Visual Reasoning](https://arxiv.org/abs/2202.10284)<br>[2022-02-22]<br>
+* [A systematic review and meta-analysis of Digital Elevation Model (DEM) fusion: pre-processing, methods and applications](https://arxiv.org/abs/2203.15026)
 * 城市规划
   * [Visual and Object Geo-localization: A Comprehensive Survey](https://arxiv.org/abs/2112.15202)<br>[2022-01-03]<br>本篇综述对涉及图像的地理定位进行了全面的调查，其中包括确定图像的拍摄地点（图像地理定位）或图像中物体的地理定位（物体地理定位）。
 * [Data-Free Knowledge Transfer: A Survey](https://arxiv.org/abs/2112.15278)<br>[2022-01-03]<br>本篇综述对 Data-Free 知识迁移进行了全面和结构化的调研。
