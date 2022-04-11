@@ -13,7 +13,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月31日已公开 60 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月11日已公开 62 篇。
 
 ## 目录
 
@@ -53,7 +53,11 @@
   * [VLP: A Survey on Vision-Language Pre-training](https://arxiv.org/abs/2202.09061)<br>[2022-02-21]<br>本篇文章对视觉语言预训练（VLP）的最新进展和新领域进行了调研，包括图像-文本和视频-文本预训练。并表示这是第一份关于VLP的调研。希望它能对VLP领域的未来研究有所启示。
   * [A Survey of Vision-Language Pre-Trained Models](https://arxiv.org/abs/2202.10936)<br>[2022-02-23]<br>本篇综述对 VL-PTMs 进行了回顾。其中说明了常用的架构，并对它们的优点和缺点进行了讨论。还介绍了几种预训练VL-PTM并使其适应下游任务的主流方法。
 
-<a name="16"/>
+## 18.NAS(神经架构搜索)
+* [SuperNet in Neural Architecture Search: A Taxonomic Survey](https://arxiv.org/abs/2204.03916)<br>[2022-04-11]<br>神经架构搜索的 SuperNet 分类法调研
+
+
+<a name="17"/>
 
 ## 17.Point Clouds(点云)
 * [Unsupervised Representation Learning for Point Clouds: A Survey](https://arxiv.org/abs/2202.13589)<br>[2022-03-01]<br>:star:[code](https://github.com/xiaoaoran/3d_url_survey)<br>本篇综述对使用 DNN 的无监督点云表征学习进行了全面回顾。
@@ -122,6 +126,8 @@
   * [The Elements of Temporal Sentence Grounding in Videos: A Survey and Future Directions](https://arxiv.org/abs/2201.08071)<br>[2022-01-21]<br>
 * 视频分析
   * [A Comprehensive Review of Computer Vision in Sports: Open Issues, Future Trends and Research Directions](https://arxiv.org/abs/2203.02281)<br>[2022-03-07]<br>本文对体育视频分析的各种应用进行了全面的回顾，如球员的检测和分类，跟踪体育运动中的球员或球，预测球员或球的轨迹，识别球队的策略，对体育中的各种事件进行分类。
+* 视频监控
+  * [Drivers' attention detection: a systematic literature review](https://arxiv.org/abs/2204.03741)<br>[2022-04-11]<br>驾驶员注意力检测综述
 
 <a name="8"/>
 
