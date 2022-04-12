@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月11日已公开 62 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月12日已公开 63 篇。
 
 ## 目录
 
@@ -59,6 +59,10 @@
 * 视觉语言预训练
   * [VLP: A Survey on Vision-Language Pre-training](https://arxiv.org/abs/2202.09061)<br>[2022-02-21]<br>本篇文章对视觉语言预训练（VLP）的最新进展和新领域进行了调研，包括图像-文本和视频-文本预训练。并表示这是第一份关于VLP的调研。希望它能对VLP领域的未来研究有所启示。
   * [A Survey of Vision-Language Pre-Trained Models](https://arxiv.org/abs/2202.10936)<br>[2022-02-23]<br>本篇综述对 VL-PTMs 进行了回顾。其中说明了常用的架构，并对它们的优点和缺点进行了讨论。还介绍了几种预训练VL-PTM并使其适应下游任务的主流方法。
+
+
+## 19.GAN
+* [Generative Adversarial Networks for Image Augmentation in Agriculture: A Systematic Review](https://arxiv.org/abs/2204.0470)<br>[2022-04-12]<br>GAN在农业中的图像增强作用综述
 
 ## 18.NAS(神经架构搜索)
 * [SuperNet in Neural Architecture Search: A Taxonomic Survey](https://arxiv.org/abs/2204.03916)<br>[2022-04-11]<br>神经架构搜索的 SuperNet 分类法调研
