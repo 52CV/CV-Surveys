@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月12日已公开 63 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月12日已公开 64 篇。
 
 ## 目录
 
@@ -53,7 +53,9 @@
 * [A Review of Deep Transfer Learning and Recent Advancements](https://arxiv.org/abs/2201.09679)<br>[2022-01-25]<br>
 
 ## Augmented Reality/Virtual Reality/Robotics(增强/虚拟现实/机器人)
-* [Augmented Reality and Robotics: A Survey and Taxonomy for AR-enhanced Human-Robot Interaction and Robotic Interfaces](https://arxiv.org/abs/2203.03254)<br>[2022-03-08]<br>对AR增强型人机交互和机器人界面的调查和分类综述，共调研460篇相关文献。
+* AR
+  * [Augmented Reality and Robotics: A Survey and Taxonomy for AR-enhanced Human-Robot Interaction and Robotic Interfaces](https://arxiv.org/abs/2203.03254)<br>[2022-03-08]<br>对AR增强型人机交互和机器人界面的调查和分类综述，共调研460篇相关文献。
+  * [Modern Augmented Reality: Applications, Trends, and Future Directions](https://arxiv.org/abs/2202.09450)<br>[2022-02-24]<br>
 
 ## Vision-Language(视觉语言)
 * 视觉语言预训练
