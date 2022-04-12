@@ -62,7 +62,7 @@
 
 
 ## 19.GAN
-* [Generative Adversarial Networks for Image Augmentation in Agriculture: A Systematic Review](https://arxiv.org/abs/2204.0470)<br>[2022-04-12]<br>GAN在农业中的图像增强作用综述
+* [Generative Adversarial Networks for Image Augmentation in Agriculture: A Systematic Review](https://arxiv.org/abs/2204.04707)<br>[2022-04-12]<br>GAN在农业中的图像增强作用综述
 
 ## 18.NAS(神经架构搜索)
 * [SuperNet in Neural Architecture Search: A Taxonomic Survey](https://arxiv.org/abs/2204.03916)<br>[2022-04-11]<br>神经架构搜索的 SuperNet 分类法调研
