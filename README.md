@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月12日已公开 64 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月13日已公开 65 篇。
 
 ## 目录
 
@@ -206,6 +206,8 @@
   * [Mammograms Classification: A Review](https://arxiv.org/abs/2203.03618)<br>[2022-03-09]<br>
 * 乳腺癌检测
   * [Breast cancer detection using artificial intelligence techniques: A systematic literature review](https://arxiv.org/abs/2203.04308)<br>[2022-03-10]<br>
+* 青光眼自动检测
+  * [Automatic detection of glaucoma via fundus imaging and artificial intelligence: A review](https://arxiv.org/abs/2204.05591)<br>[2022-04-13]<br>通过对 28 篇相关论文，对产生和使用分割眼底图像的人工智能青光眼检测框架进行了审查。
 
 <a name="2"/>
 
