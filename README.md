@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月13日已公开 66 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月14日已公开 67 篇。
 
 ## 目录
 
@@ -225,6 +225,8 @@
 * [Data-Free Knowledge Transfer: A Survey](https://arxiv.org/abs/2112.15278)<br>[2022-01-03]<br>本篇综述对 Data-Free 知识迁移进行了全面和结构化的调研。
 * 正则化
   * [Avoiding Overfitting: A Survey on Regularization Methods for Convolutional Neural Networks](https://arxiv.org/abs/2201.03299)<br>[2022-01-11]<br>本次调研工作就对过去几年开发的几种正则化方法进行分析，并将调研文献分为“input regularization”、“internal regularization”、“label regularization”三类，且相关文献不超过五年以及所有文献代码都可以在公共资源库中找到。
+* 可视化
+  * [DL4SciVis: A State-of-the-Art Survey on Deep Learning for Scientific Visualization](https://arxiv.org/abs/2204.06504)<br>[2022-04-14]<br>本篇文章是关于 DL4SciVis 的最先进的调研，涵盖了自 2017 年以来沿着六个维度发表的 59 篇论文，对其相似性和差异性进行了深入讨论，确定其趋势和差距，并概述了研究机会和公开挑战。
 
 ## 扫码CV君微信（注明：CV）入微信交流群：
 
