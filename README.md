@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月14日已公开 67 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月18日已公开 69 篇。
 
 ## 目录
 
@@ -61,6 +61,7 @@
 * 视觉语言预训练
   * [VLP: A Survey on Vision-Language Pre-training](https://arxiv.org/abs/2202.09061)<br>[2022-02-21]<br>本篇文章对视觉语言预训练（VLP）的最新进展和新领域进行了调研，包括图像-文本和视频-文本预训练。并表示这是第一份关于VLP的调研。希望它能对VLP领域的未来研究有所启示。
   * [A Survey of Vision-Language Pre-Trained Models](https://arxiv.org/abs/2202.10936)<br>[2022-02-23]<br>本篇综述对 VL-PTMs 进行了回顾。其中说明了常用的架构，并对它们的优点和缺点进行了讨论。还介绍了几种预训练VL-PTM并使其适应下游任务的主流方法。
+  * [Vision-and-Language Pretrained Models: A Survey](https://arxiv.org/abs/2204.07356)<br>[2022-04-18]<br>
 
 
 ## 19.GAN
@@ -104,6 +105,8 @@
 * [A survey of top-down approaches for human pose estimation](https://arxiv.org/abs/2202.02656)<br>[2022-02-08]<br>本篇论文的目的是为研究人员提供基于深度学习方法的二维图像的人体姿态估计的广泛回顾，自2016年以来，这些方法只专注于自上而下的方法。
 * 3D人体网格结构恢复
   * [Recovering 3D Human Mesh from Monocular Images: A Survey](https://arxiv.org/abs/2203.01923)<br>[2022-03-04]<br>:star:[code](https://github.com/tinatiansjz/hmr-survey)<br>本篇报告对过去十年中的三维人体网状结构恢复方法进行了全面的概述,是第一篇专注于单目三维人体网状结构恢复任务的调查报告。
+* 2D人体姿态估计
+  * [2D Human Pose Estimation: A Survey](https://arxiv.org/abs/2204.07370)<br>[2022-04-18]<br>对 200 多项研究贡献，从 network architecture design（网络架构设计）、network training refinement（网络训练细化）和 post processing（后处理）三个方向对二维人体姿态估计进行了全面调研。
 
 <a name="12"/>
 
