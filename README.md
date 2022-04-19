@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月18日已公开 69 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月19日已公开 72 篇。
 
 ## 目录
 
@@ -63,9 +63,12 @@
   * [A Survey of Vision-Language Pre-Trained Models](https://arxiv.org/abs/2202.10936)<br>[2022-02-23]<br>本篇综述对 VL-PTMs 进行了回顾。其中说明了常用的架构，并对它们的优点和缺点进行了讨论。还介绍了几种预训练VL-PTM并使其适应下游任务的主流方法。
   * [Vision-and-Language Pretrained Models: A Survey](https://arxiv.org/abs/2204.07356)<br>[2022-04-18]<br>
 
+## Attention
+* [Visual Attention Methods in Deep Learning: An In-Depth Survey](https://arxiv.org/abs/2204.07756)<br>[2022-04-19]<br>本篇综述回顾了 70 多篇与视觉应用中使用的各种注意力机制有关的文章。并对注意力技术以及它们的优点和局限性进行了全面的讨论。
 
 ## 19.GAN
 * [Generative Adversarial Networks for Image Augmentation in Agriculture: A Systematic Review](https://arxiv.org/abs/2204.04707)<br>[2022-04-12]<br>GAN在农业中的图像增强作用综述
+* [A Comprehensive Survey on Data-Efficient GANs in Image Generation](https://arxiv.org/abs/2204.08329)<br>[2022-04-19]<br>对更全面跟系统的 DE-GANs 的调研。
 
 ## 18.NAS(神经架构搜索)
 * [SuperNet in Neural Architecture Search: A Taxonomic Survey](https://arxiv.org/abs/2204.03916)<br>[2022-04-11]<br>神经架构搜索的 SuperNet 分类法调研
@@ -226,6 +229,7 @@
 * 城市规划
   * [Visual and Object Geo-localization: A Comprehensive Survey](https://arxiv.org/abs/2112.15202)<br>[2022-01-03]<br>本篇综述对涉及图像的地理定位进行了全面的调查，其中包括确定图像的拍摄地点（图像地理定位）或图像中物体的地理定位（物体地理定位）。
 * [Data-Free Knowledge Transfer: A Survey](https://arxiv.org/abs/2112.15278)<br>[2022-01-03]<br>本篇综述对 Data-Free 知识迁移进行了全面和结构化的调研。
+* [Empirical Evaluation and Theoretical Analysis for Representation Learning: A Survey](https://arxiv.org/abs/2204.08226)<br>[2022-04-19]<br>
 * 正则化
   * [Avoiding Overfitting: A Survey on Regularization Methods for Convolutional Neural Networks](https://arxiv.org/abs/2201.03299)<br>[2022-01-11]<br>本次调研工作就对过去几年开发的几种正则化方法进行分析，并将调研文献分为“input regularization”、“internal regularization”、“label regularization”三类，且相关文献不超过五年以及所有文献代码都可以在公共资源库中找到。
 * 可视化
