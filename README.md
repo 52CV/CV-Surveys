@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月19日已公开 72 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月20日已公开 75 篇。
 
 ## 目录
 
@@ -210,6 +210,8 @@
   * [A Comprehensive Survey with Quantitative Comparison of Image Analysis Methods for Microorganism Biovolume Measurements](https://arxiv.org/abs/2202.09020)<br>[2022-02-21]<br>本篇文章通过 60 多篇文献对基于 DIP 的微生物生物量测量进行全面回顾。
 * 医学图像分类
   * [Mammograms Classification: A Review](https://arxiv.org/abs/2203.03618)<br>[2022-03-09]<br>
+* 医学图像分割
+  * [U-Net and its variants for Medical Image Segmentation : A short review](https://arxiv.org/abs/2204.08470)<br>[2022-04-20]<br>
 * 乳腺癌检测
   * [Breast cancer detection using artificial intelligence techniques: A systematic literature review](https://arxiv.org/abs/2203.04308)<br>[2022-03-10]<br>
 * 青光眼自动检测
@@ -230,6 +232,7 @@
   * [Visual and Object Geo-localization: A Comprehensive Survey](https://arxiv.org/abs/2112.15202)<br>[2022-01-03]<br>本篇综述对涉及图像的地理定位进行了全面的调查，其中包括确定图像的拍摄地点（图像地理定位）或图像中物体的地理定位（物体地理定位）。
 * [Data-Free Knowledge Transfer: A Survey](https://arxiv.org/abs/2112.15278)<br>[2022-01-03]<br>本篇综述对 Data-Free 知识迁移进行了全面和结构化的调研。
 * [Empirical Evaluation and Theoretical Analysis for Representation Learning: A Survey](https://arxiv.org/abs/2204.08226)<br>[2022-04-19]<br>
+* [Image Data Augmentation for Deep Learning: A Survey](https://arxiv.org/abs/2204.08610)<br>[2022-04-20]<br>
 * 正则化
   * [Avoiding Overfitting: A Survey on Regularization Methods for Convolutional Neural Networks](https://arxiv.org/abs/2201.03299)<br>[2022-01-11]<br>本次调研工作就对过去几年开发的几种正则化方法进行分析，并将调研文献分为“input regularization”、“internal regularization”、“label regularization”三类，且相关文献不超过五年以及所有文献代码都可以在公共资源库中找到。
 * 可视化
