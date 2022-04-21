@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月20日已公开 75 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月21日已公开 77 篇。
 
 ## 目录
 
@@ -78,6 +78,7 @@
 
 ## 17.Point Clouds(点云)
 * [Unsupervised Representation Learning for Point Clouds: A Survey](https://arxiv.org/abs/2202.13589)<br>[2022-03-01]<br>:star:[code](https://github.com/xiaoaoran/3d_url_survey)<br>本篇综述对使用 DNN 的无监督点云表征学习进行了全面回顾。
+* [Sequential Point Clouds: A Survey](https://arxiv.org/abs/2204.09337)<br>[2022-04-21]<br>
 * 点云补全
   * [Comprehensive Review of Deep Learning-Based 3D Point Clouds Completion Processing and Analysis](https://arxiv.org/abs/2203.03311)<br>[2022-03-08]<br>
 
@@ -85,6 +86,9 @@
 
 ## 16.Human Action Recognition and Detection(人体动作识别与检测)
 * [Continuous Human Action Recognition for Human-Machine Interaction: A Review](https://arxiv.org/abs/2202.13096)<br>[2022-03-01]<br>
+* 动作质量评估
+  * [A Survey of Video-based Action Quality Assessment](https://arxiv.org/abs/2204.09271)<br>[2022-04-21]<br>对基于视频的动作质量评估的现有论文进行了全面的调查。
+
 
 <a name="15"/>
 
