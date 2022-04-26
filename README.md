@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月21日已公开 77 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月26日已公开 80 篇。
 
 ## 目录
 
@@ -42,6 +42,8 @@
 * [A Review of Deep Learning-based Approaches for Deepfake Content Detection](https://arxiv.org/abs/2202.06095)<br>[2022-02-15]<br>
 
 ## Anomaly Detection(异常检测)
+* 工业异常检测
+  * [A Survey on Unsupervised Industrial Anomaly Detection Algorithms](https://arxiv.org/abs/2204.11161)<br>[2022-04-26]
 * 视觉感官异常检测
   * [A Survey of Visual Sensory Anomaly Detection](https://arxiv.org/abs/2202.07006)<br>[2022-02-16]<br>:star:[code](https://github.com/M-3LAB/awesome-visual-sensory-anomaly-detection)<br>首个视觉感官AD的全面调研工作
 
@@ -128,6 +130,7 @@
 <a name="11"/>
 
 ## 11.Object Tracking(目标跟踪)
+* [Single Object Tracking Research: A Survey](https://arxiv.org/abs/2204.11410)<br>[2022-04-26]<br>本文介绍了近十年来视频目标跟踪领域两大主流算法框架（基于相关滤波和孪生网络的目标跟踪算法）的基本原理、改进策略和代表性工作，之后按照网络结构分类介绍了其他基于深度学习的目标跟踪算法，还从解决目标跟踪所面临挑战的角度介绍了应对各类问题的典型解决方案，并总结了视频目标跟踪的历史发展脉络和未来发展趋势。
 * RGBT Tracking
   * [A Survey for Deep RGBT Tracking](https://arxiv.org/abs/2201.09296)<br>[2022-01-25]<br>本篇综述是对近期基于深度神经网络的RGBT追踪器的全面调研，得出MDNet和Siamese架构在RGBT任务中的两个主流框架，前者取得了更高的性能，而后者则满足了实时性要求。以及应对更大数据集应用时，应进一步考虑整合端到端框架，如Siamese和Transformer，以满足实时性以及更强的性能。
 * 视觉目标跟踪
