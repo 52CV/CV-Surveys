@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月26日已公开 80 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月27日已公开 81 篇。
 
 ## 目录
 
@@ -67,6 +67,7 @@
 
 ## Attention
 * [Visual Attention Methods in Deep Learning: An In-Depth Survey](https://arxiv.org/abs/2204.07756)<br>[2022-04-19]<br>本篇综述回顾了 70 多篇与视觉应用中使用的各种注意力机制有关的文章。并对注意力技术以及它们的优点和局限性进行了全面的讨论。
+* [A survey on attention mechanisms for medical applications: are we moving towards better algorithms?](https://arxiv.org/abs/2204.12406)<br>[2022-04-27]<br>
 
 ## 19.GAN
 * [Generative Adversarial Networks for Image Augmentation in Agriculture: A Systematic Review](https://arxiv.org/abs/2204.04707)<br>[2022-04-12]<br>GAN在农业中的图像增强作用综述
