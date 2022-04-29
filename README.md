@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月27日已公开 81 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月29日已公开 83 篇。
 
 ## 目录
 
@@ -99,6 +99,7 @@
 * [A Review of Deep Learning Based Image Super-resolution Techniques](https://arxiv.org/abs/2201.10521)<br>[2022-01-26]<br>
 * 单图像分辨率
   * [Single Image Super-Resolution Methods: A Survey](https://arxiv.org/abs/2202.11763)<br>[2022-02-25]<br>
+  * [Generative Adversarial Networks for Image Super-Resolution: A Survey](https://arxiv.org/abs/2204.13620)<br>[2022-04-29]<br>
 
 <a name="14"/>
 
@@ -145,6 +146,8 @@
   * [3D Object Detection from Images for Autonomous Driving: A Survey](https://arxiv.org/abs/2202.02980)<br>[2022-02-08]<br>:star:[code](https://github.com/xinzhuma/3dodi-survey)<br>本篇论文是第一项调查基于图像的自主驾驶 3D 检测方法的工作。其中包含 80 多个基于图像的 3D 检测方法和从 2015 年到 2021 年间的 200 多个相关研究工作。
 * 结构裂缝检测
   * [What's Cracking? A Review and Analysis of Deep Learning Methods for Structural Crack Segmentation, Detection and Quantification](https://arxiv.org/abs/2202.03714)<br>[2022-02-09]<br>本篇综述旨在让研究人员对裂缝分析算法领域内已发表的利用深度学习的工作有一个概览。
+* 坑洞检测
+  * [Computer Vision for Road Imaging and Pothole Detection: A State-of-the-Art Review of Systems and Algorithms](https://arxiv.org/abs/2204.13590)<br>[2022-04-29]<br>
 
 <a name="9"/>
 
