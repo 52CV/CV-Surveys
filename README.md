@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月29日已公开 83 篇。
+### :green_book::green_book::green_book:在【我爱计算机视觉】微信公众号后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月29日已公开 84 篇。
 
 ## 目录
 
@@ -53,6 +53,9 @@
 
 ## Transfer Learning(迁移学习)
 * [A Review of Deep Transfer Learning and Recent Advancements](https://arxiv.org/abs/2201.09679)<br>[2022-01-25]<br>
+
+## Style Transfer(风格迁移)
+* [An Overview of Color Transfer and Style Transfer for Images and Videos](https://arxiv.org/abs/2204.13339)<br>[2022-04-29]<br>
 
 ## Augmented Reality/Virtual Reality/Robotics(增强/虚拟现实/机器人)
 * AR
