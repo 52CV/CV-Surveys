@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月29日已公开 84 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月5日已公开 88 篇。
 
 ## 目录
 
@@ -71,6 +71,10 @@
 ## Attention
 * [Visual Attention Methods in Deep Learning: An In-Depth Survey](https://arxiv.org/abs/2204.07756)<br>[2022-04-19]<br>本篇综述回顾了 70 多篇与视觉应用中使用的各种注意力机制有关的文章。并对注意力技术以及它们的优点和局限性进行了全面的讨论。
 * [A survey on attention mechanisms for medical applications: are we moving towards better algorithms?](https://arxiv.org/abs/2204.12406)<br>[2022-04-27]<br>
+
+## 20.3D
+* 深度估计
+  * [Outdoor Monocular Depth Estimation: A Research Review](https://arxiv.org/abs/2205.01399)<br>[2022-05-04]<br>
 
 ## 19.GAN
 * [Generative Adversarial Networks for Image Augmentation in Agriculture: A Systematic Review](https://arxiv.org/abs/2204.04707)<br>[2022-04-12]<br>GAN在农业中的图像增强作用综述
@@ -131,6 +135,8 @@
   * [Blind Image Deblurring: a Review](https://arxiv.org/abs/2201.10522)<br>[2022-01-26]<br>
   * [Deep Image Deblurring: A Survey](https://arxiv.org/abs/2201.10700)<br>[2022-01-27]<br>
   * [A Survey on Image Deblurring](https://arxiv.org/abs/2202.07456)<br>[2022-02-16]<br>本篇图像去模糊综述分别对传统的图像去模糊方法和深度表示的图像去模糊方法进行了全面调研。
+* 图像增强
+  * [A Comprehensive Survey of Image Augmentation Techniques for Deep Learning](https://arxiv.org/abs/2205.01491)<br>[2022-05-04]<br>
 
 <a name="11"/>
 
@@ -193,6 +199,8 @@
 * 无人机
   * 空中监测
     * [The State of Aerial Surveillance: A Survey](https://arxiv.org/abs/2201.03080)<br>[2022-01-11]<br>从计算机视觉和模式识别的角度对以人为中心的空中监视任务进行全面调研。
+* 遥感
+  * [Deep Learning in Multimodal Remote Sensing Data Fusion: A Comprehensive Review](https://arxiv.org/abs/2205.01380)<br>[2022-05-04]<br>基于 DL 的多模态RS数据融合的系统概况
 
 <a name="4"/>
 
@@ -226,6 +234,7 @@
   * [Mammograms Classification: A Review](https://arxiv.org/abs/2203.03618)<br>[2022-03-09]<br>
 * 医学图像分割
   * [U-Net and its variants for Medical Image Segmentation : A short review](https://arxiv.org/abs/2204.08470)<br>[2022-04-20]<br>
+  * [Application of belief functions to medical image segmentation: A review](https://arxiv.org/abs/2205.01733)<br>[2022-05-05]<br>对使用信任函数理论的医学图像分割方法进行了回顾。
 * 乳腺癌检测
   * [Breast cancer detection using artificial intelligence techniques: A systematic literature review](https://arxiv.org/abs/2203.04308)<br>[2022-03-10]<br>
 * 青光眼自动检测
