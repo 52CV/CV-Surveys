@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月10日已公开 92 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月11日已公开 93 篇。
 
 ## 目录
 
@@ -248,6 +248,8 @@
   * [Breast cancer detection using artificial intelligence techniques: A systematic literature review](https://arxiv.org/abs/2203.04308)<br>[2022-03-10]<br>
 * 青光眼自动检测
   * [Automatic detection of glaucoma via fundus imaging and artificial intelligence: A review](https://arxiv.org/abs/2204.05591)<br>[2022-04-13]<br>通过对 28 篇相关论文，对产生和使用分割眼底图像的人工智能青光眼检测框架进行了审查。
+* 可解释性
+  * [Explainable Deep Learning Methods in Medical Diagnosis: A Survey](https://arxiv.org/abs/2205.04766)<br>[2022-05-11]<br>
 
 <a name="2"/>
 
