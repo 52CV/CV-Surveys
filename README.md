@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月12日已公开 96 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月16日已公开 98 篇。
 
 ## 目录
 
@@ -215,7 +215,10 @@
     * [The State of Aerial Surveillance: A Survey](https://arxiv.org/abs/2201.03080)<br>[2022-01-11]<br>从计算机视觉和模式识别的角度对以人为中心的空中监视任务进行全面调研。
 * 遥感
   * [Deep Learning in Multimodal Remote Sensing Data Fusion: A Comprehensive Review](https://arxiv.org/abs/2205.01380)<br>[2022-05-04]<br>基于 DL 的多模态RS数据融合的系统概况
+* 张量分解
+  * [Tensor Decompositions for Hyperspectral Data Processing in Remote Sensing: A Comprehensive Review](https://arxiv.org/abs/2205.06407)<br>[2022-05-16]<br>遥感中高光谱数据处理的张量分解
 
+ 
 <a name="4"/>
 
 ## 4.Person ReID
@@ -249,6 +252,7 @@
 * 医学图像分割
   * [U-Net and its variants for Medical Image Segmentation : A short review](https://arxiv.org/abs/2204.08470)<br>[2022-04-20]<br>
   * [Application of belief functions to medical image segmentation: A review](https://arxiv.org/abs/2205.01733)<br>[2022-05-05]<br>对使用信任函数理论的医学图像分割方法进行了回顾。
+  * [A Survey of Left Atrial Appendage Segmentation and Analysis in 3D and 4D Medical Images](https://arxiv.org/abs/2205.06486)<br>[2022-05-16]<br>对三维和四维医学图像（包括CT、MRI和超声心动图图像）上的自动LAA分割方法进行了回顾。
 * 乳腺癌检测
   * [Breast cancer detection using artificial intelligence techniques: A systematic literature review](https://arxiv.org/abs/2203.04308)<br>[2022-03-10]<br>
 * 青光眼自动检测
