@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月18日已公开 101 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月23日已公开 104 篇。
 
 ## 目录
 
@@ -54,9 +54,11 @@
 * 视觉感官异常检测
   * [A Survey of Visual Sensory Anomaly Detection](https://arxiv.org/abs/2202.07006)<br>[2022-02-16]<br>:star:[code](https://github.com/M-3LAB/awesome-visual-sensory-anomaly-detection)<br>首个视觉感官AD的全面调研工作
 
-## Fingerprint Detection(指纹检测)
+## 生物特征识别
 * 指纹活性检测
   * [Review of the Fingerprint Liveness Detection (LivDet) competition series: from 2009 to 2021](https://arxiv.org/abs/2202.07259)<br>[2022-02-16]<br>对2009年至2021年的LivDet版本的指纹演示攻击检测（FPAD）算法的性能评估，并指出它们多年来的演变。
+* 手掌静脉识别
+  * [Towards the Generation of Synthetic Images of Palm Vein Patterns: A Review](https://arxiv.org/abs/2205.10179)[2022-05-23]<br>
 
 ## Transfer Learning(迁移学习)
 * [A Review of Deep Transfer Learning and Recent Advancements](https://arxiv.org/abs/2201.09679)<br>[2022-01-25]<br>
@@ -152,7 +154,9 @@
   * [Deep Image Deblurring: A Survey](https://arxiv.org/abs/2201.10700)<br>[2022-01-27]<br>
   * [A Survey on Image Deblurring](https://arxiv.org/abs/2202.07456)<br>[2022-02-16]<br>本篇图像去模糊综述分别对传统的图像去模糊方法和深度表示的图像去模糊方法进行了全面调研。
 * 图像增强
-  * [A Comprehensive Survey of Image Augmentation Techniques for Deep Learning](https://arxiv.org/abs/2205.01491)<br>[2022-05-04]<br>
+  * [A Comprehensive Survey of Image Augmentation Techniques for Deep Learning](https://arxiv.org/abs/2205.01491)<br>[2022-05-04]<br> 
+* Hyperspectral Unmixing
+  * [Hyperspectral Unmixing Based on Nonnegative Matrix Factorization: A Comprehensive Review](https://arxiv.org/abs/2205.09933)<br>[2022-05-23]<br>本篇文章作者对为高光谱解混提出的基于NMF的方法进行了全面调研。 
 
 <a name="11"/>
 
