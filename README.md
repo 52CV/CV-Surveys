@@ -34,6 +34,7 @@
 
 * 全景成像
   * [Review on Panoramic Imaging and Its Applications in Scene Understanding](https://arxiv.org/abs/2205.05570)<br>[2022-05-12]<br>
+  * [Deep Learning for Omnidirectional Vision: A Survey and New Perspectives](https://arxiv.org/pdf/2205.10468.pdf)<br>[2022-05-24]<br>
 
 ## harmful meme detection
 * [Detecting and Understanding Harmful Memes: A Survey](https://arxiv.org/abs/2205.04274)<br>[2022-05-10]<br>有害 meme 检测综述
