@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月24日已公开 108 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月27日已公开 110 篇。
 
 ## 目录
 
@@ -85,6 +85,9 @@
 * [Visual Attention Methods in Deep Learning: An In-Depth Survey](https://arxiv.org/abs/2204.07756)<br>[2022-04-19]<br>本篇综述回顾了 70 多篇与视觉应用中使用的各种注意力机制有关的文章。并对注意力技术以及它们的优点和局限性进行了全面的讨论。
 * [A survey on attention mechanisms for medical applications: are we moving towards better algorithms?](https://arxiv.org/abs/2204.12406)<br>[2022-04-27]<br>
 
+## Image Segmentation(图像分割)
+* [Semantic Segmentation for Thermal Images: A Comparative Survey](https://arxiv.org/abs/2205.13278)<br>[2022-05-27]<br>热图像语义分割综述调研
+
 ## 21.Model Compression/Knowledge Distillation/Pruning(模型压缩/知识蒸馏/剪枝)
 * 剪枝
   * [Dimensionality Reduced Training by Pruning and Freezing Parts of a Deep Neural Network, a Survey](https://arxiv.org/abs/2205.08099)<br>[2022-05-18]<br>通过 Pruning 和 Freezing 深层神经网络的部分内容进行降维训练调研
@@ -138,6 +141,8 @@
   * [3D Human Motion Prediction: A Survey](https://arxiv.org/abs/2203.01593)<br>[2022-03-04]<br>本篇综述系统地回顾了 2015 年以来人类运动预测领域的所有相关期刊和会议论文，并对相关方法、数据集、基准、性能进行了讨论分析。
 * 行为预测
   * [Didn't see that coming: a survey on non-verbal social human behavior forecasting](https://arxiv.org/abs/2203.02480)<br>[2022-03-07]<br>
+* 鱼眼相机
+  * [Surround-view Fisheye Camera Perception for Automated Driving: Overview, Survey and Challenges](https://arxiv.org/abs/2205.13281)<br>[2022-05-27]<br>用于自动驾驶的环视鱼眼相机感知综述调研
 
 <a name="13"/>
 
