@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月27日已公开 110 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月1日已公开 113 篇。
 
 ## 目录
 
@@ -166,6 +166,8 @@
   * [A Comprehensive Survey of Image Augmentation Techniques for Deep Learning](https://arxiv.org/abs/2205.01491)<br>[2022-05-04]<br> 
 * Hyperspectral Unmixing
   * [Hyperspectral Unmixing Based on Nonnegative Matrix Factorization: A Comprehensive Review](https://arxiv.org/abs/2205.09933)<br>[2022-05-23]<br>本篇文章作者对为高光谱解混提出的基于NMF的方法进行了全面调研。 
+* Fake Detection
+  * [A Survey of Deep Fake Detection for Trial Courts](https://arxiv.org/abs/2205.15792)<br>[2022-06-01]<br> 
 
 <a name="11"/>
 
@@ -189,6 +191,8 @@
   * [What's Cracking? A Review and Analysis of Deep Learning Methods for Structural Crack Segmentation, Detection and Quantification](https://arxiv.org/abs/2202.03714)<br>[2022-02-09]<br>本篇综述旨在让研究人员对裂缝分析算法领域内已发表的利用深度学习的工作有一个概览。
 * 坑洞检测
   * [Computer Vision for Road Imaging and Pothole Detection: A State-of-the-Art Review of Systems and Algorithms](https://arxiv.org/abs/2204.13590)<br>[2022-04-29]<br>
+* 持续目标检测
+  * [Continual Object Detection: A review of definitions, strategies, and challenges](https://arxiv.org/abs/2205.15445)<br>[2022-06-01]<br>
 
 <a name="9"/>
 
@@ -296,6 +300,7 @@
 * [Artificial Intelligence for Suicide Assessment using Audiovisual Cues: A Review](https://arxiv.org/abs/2201.09130)<br>[2022-01-25]<br>本篇综述对通过视听特征分析研究自杀意念和自杀行为检测的工作进行了全面调研回顾，主要是自杀性声音/语音声学特征分析和自杀性视觉线索。
 * [A Review of Emerging Research Directions in Abstract Visual Reasoning](https://arxiv.org/abs/2202.10284)<br>[2022-02-22]<br>
 * [A systematic review and meta-analysis of Digital Elevation Model (DEM) fusion: pre-processing, methods and applications](https://arxiv.org/abs/2203.15026)
+* [A Review of Mobile Mapping Systems: From Sensors to Applications](https://arxiv.org/ftp/arxiv/papers/2205/2205.15865.pdf)<br>[2022-06-01]<br>
 * 城市规划
   * [Visual and Object Geo-localization: A Comprehensive Survey](https://arxiv.org/abs/2112.15202)<br>[2022-01-03]<br>本篇综述对涉及图像的地理定位进行了全面的调查，其中包括确定图像的拍摄地点（图像地理定位）或图像中物体的地理定位（物体地理定位）。
 * [Data-Free Knowledge Transfer: A Survey](https://arxiv.org/abs/2112.15278)<br>[2022-01-03]<br>本篇综述对 Data-Free 知识迁移进行了全面和结构化的调研。
