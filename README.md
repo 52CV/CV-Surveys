@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月1日已公开 113 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月2日已公开 114 篇。
 
 ## 目录
 
@@ -280,6 +280,8 @@
   * [U-Net and its variants for Medical Image Segmentation : A short review](https://arxiv.org/abs/2204.08470)<br>[2022-04-20]<br>
   * [Application of belief functions to medical image segmentation: A review](https://arxiv.org/abs/2205.01733)<br>[2022-05-05]<br>对使用信任函数理论的医学图像分割方法进行了回顾。
   * [A Survey of Left Atrial Appendage Segmentation and Analysis in 3D and 4D Medical Images](https://arxiv.org/abs/2205.06486)<br>[2022-05-16]<br>对三维和四维医学图像（包括CT、MRI和超声心动图图像）上的自动LAA分割方法进行了回顾。
+  * 皮损分割
+    * [A Survey on Deep Learning for Skin Lesion Segmentation](https://arxiv.org/abs/2206.00356)<br>[2022-06-02]<br>对134篇涉及基于深度学习的皮损分割的研究论文调研
 * 乳腺癌检测
   * [Breast cancer detection using artificial intelligence techniques: A systematic literature review](https://arxiv.org/abs/2203.04308)<br>[2022-03-10]<br>
 * 青光眼自动检测
