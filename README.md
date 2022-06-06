@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月2日已公开 114 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月6日已公开 116 篇。
 
 ## 目录
 
@@ -121,6 +121,7 @@
 
 ## 16.Human Action Recognition and Detection(人体动作识别与检测)
 * [Continuous Human Action Recognition for Human-Machine Interaction: A Review](https://arxiv.org/abs/2202.13096)<br>[2022-03-01]<br>
+* [A Survey on Video Action Recognition in Sports: Datasets, Methods and Applications](https://arxiv.org/abs/2206.01038)<br>[2022-06-03]<br>
 * 动作质量评估
   * [A Survey of Video-based Action Quality Assessment](https://arxiv.org/abs/2204.09271)<br>[2022-04-21]<br>对基于视频的动作质量评估的现有论文进行了全面的调查。
 
@@ -257,6 +258,7 @@
 ## 3.🏥Medical Image(医学影像)
 * [Deep Learning for Computational Cytology: A Survey](https://arxiv.org/abs/2202.05126)<br>[2022-02-13]<br>本篇综述调研了 120 多篇基于深度学习的方法在计算细胞学中的进展。
 * [Deep Multi-modal Fusion of Image and Non-image Data in Disease Diagnosis and Prognosis: A Review](https://arxiv.org/abs/2203.15588)<br>[2022-03-30]
+* [Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives](https://arxiv.org/abs/2206.01136)<br>[2022-06-03]
 * 自动检测
   * [Deep Learning Applications for Lung Cancer Diagnosis: A systematic review](https://arxiv.org/abs/2201.00227)<br>[2022-01-04]<br>本篇综述是对深度学习在肺癌自动检测领域应用的全面调研，其中回顾文献是 2016 年至 2021 年该领域的 32 篇会议和期刊文章。
   * [AI-based Carcinoma Detection and Classification Using Histopathological Images: A Systematic Review](https://arxiv.org/abs/2201.07231)<br>[2022-01-20]
