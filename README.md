@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月6日已公开 116 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月7日已公开 120 篇。
 
 ## 目录
 
@@ -61,6 +61,10 @@
 * 手掌静脉识别
   * [Towards the Generation of Synthetic Images of Palm Vein Patterns: A Review](https://arxiv.org/abs/2205.10179)[2022-05-23]<br>
 
+## Self-Supervised Learning
+* 自监督
+  * [Beyond Just Vision: A Review on Self-Supervised Representation Learning on Multimodal and Temporal Data](https://arxiv.org/abs/2206.02353)<br>[2022-06-07]<br>
+
 ## Transfer Learning(迁移学习)
 * [A Review of Deep Transfer Learning and Recent Advancements](https://arxiv.org/abs/2201.09679)<br>[2022-01-25]<br>
 
@@ -70,10 +74,17 @@
 ## Visual Speech(视觉语音)
 * [Deep Learning for Visual Speech Analysis: A Survey](https://arxiv.org/abs/2205.10839)<br>[2022-05-24]<br>是对基于深度学习的VSA进行的全面回顾。其中专注于两个基本问题：视觉语音识别和视觉语音生成，并对现实的挑战和当前的发展，包括数据集、评估协议、代表方法、SOTA性能、实际问题等进行总结。
 
+## OCR
+* 手写数字识别
+  * [Two Decades of Bengali Handwritten Digit Recognition: A Survey](https://arxiv.org/abs/2206.02234)<br>[2022-06-07]<br>本文分析了孟加拉语手写数字的特点和固有的模糊性，以及对二十年来最先进的数据集和离线BHDR方法的全面了解。
+
 ## Augmented Reality/Virtual Reality/Robotics(增强/虚拟现实/机器人)
 * AR
   * [Augmented Reality and Robotics: A Survey and Taxonomy for AR-enhanced Human-Robot Interaction and Robotic Interfaces](https://arxiv.org/abs/2203.03254)<br>[2022-03-08]<br>对AR增强型人机交互和机器人界面的调查和分类综述，共调研460篇相关文献。
   * [Modern Augmented Reality: Applications, Trends, and Future Directions](https://arxiv.org/abs/2202.09450)<br>[2022-02-24]<br>
+
+## Capsule networks(胶囊网络)
+* [Learning with Capsules: A Survey](https://arxiv.org/abs/2206.02664)<br>[2022-06-07]
 
 ## Vision-Language(视觉语言)
 * 视觉语言预训练
@@ -153,6 +164,8 @@
   * [Recovering 3D Human Mesh from Monocular Images: A Survey](https://arxiv.org/abs/2203.01923)<br>[2022-03-04]<br>:star:[code](https://github.com/tinatiansjz/hmr-survey)<br>本篇报告对过去十年中的三维人体网状结构恢复方法进行了全面的概述,是第一篇专注于单目三维人体网状结构恢复任务的调查报告。
 * 2D人体姿态估计
   * [2D Human Pose Estimation: A Survey](https://arxiv.org/abs/2204.07370)<br>[2022-04-18]<br>对 200 多项研究贡献，从 network architecture design（网络架构设计）、network training refinement（网络训练细化）和 post processing（后处理）三个方向对二维人体姿态估计进行了全面调研。
+* 3D手部姿势估计
+  * [Efficient Annotation and Learning for 3D Hand Pose Estimation: A Survey](https://arxiv.org/abs/2206.02257)<br>[2022-06-07]<br>
 
 <a name="12"/>
 
@@ -163,6 +176,8 @@
   * [Blind Image Deblurring: a Review](https://arxiv.org/abs/2201.10522)<br>[2022-01-26]<br>
   * [Deep Image Deblurring: A Survey](https://arxiv.org/abs/2201.10700)<br>[2022-01-27]<br>
   * [A Survey on Image Deblurring](https://arxiv.org/abs/2202.07456)<br>[2022-02-16]<br>本篇图像去模糊综述分别对传统的图像去模糊方法和深度表示的图像去模糊方法进行了全面调研。
+* 图像修复
+  * [All One Needs to Know about Priors for Deep Image Restoration and Enhancement: A Survey](https://arxiv.org/abs/2206.02070)<br>[2022-06-07]<br>:star:[code](https://github.com/yunfanLu/Awesome-Image-Prior)
 * 图像增强
   * [A Comprehensive Survey of Image Augmentation Techniques for Deep Learning](https://arxiv.org/abs/2205.01491)<br>[2022-05-04]<br> 
 * Hyperspectral Unmixing
