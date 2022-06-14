@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月10日已公开 122 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月14日已公开 127 篇。
 
 ## 目录
 
@@ -35,6 +35,9 @@
 * 全景成像
   * [Review on Panoramic Imaging and Its Applications in Scene Understanding](https://arxiv.org/abs/2205.05570)<br>[2022-05-12]<br>
   * [Deep Learning for Omnidirectional Vision: A Survey and New Perspectives](https://arxiv.org/pdf/2205.10468.pdf)<br>[2022-05-24]<br>
+
+## Fish Habitat Monitoring
+* [Applications of Deep Learning in Fish Habitat Monitoring: A Tutorial and Survey](https://arxiv.org/abs/2206.05394)<br>[2022-06-14]<br>
 
 ## harmful meme detection
 * [Detecting and Understanding Harmful Memes: A Survey](https://arxiv.org/abs/2205.04274)<br>[2022-05-10]<br>有害 meme 检测综述
@@ -102,6 +105,8 @@
 ## 21.Model Compression/Knowledge Distillation/Pruning(模型压缩/知识蒸馏/剪枝)
 * 剪枝
   * [Dimensionality Reduced Training by Pruning and Freezing Parts of a Deep Neural Network, a Survey](https://arxiv.org/abs/2205.08099)<br>[2022-05-18]<br>通过 Pruning 和 Freezing 深层神经网络的部分内容进行降维训练调研
+* ANN
+  * [A Review on Plastic Artificial Neural Networks: Exploring the Intersection between Neural Architecture Search and Continual Learning](https://arxiv.org/abs/2206.05625)<br>[2022-06-14]<br>
 
 ## 20.3D
 * 深度估计
@@ -155,6 +160,8 @@
   * [Didn't see that coming: a survey on non-verbal social human behavior forecasting](https://arxiv.org/abs/2203.02480)<br>[2022-03-07]<br>
 * 鱼眼相机
   * [Surround-view Fisheye Camera Perception for Automated Driving: Overview, Survey and Challenges](https://arxiv.org/abs/2205.13281)<br>[2022-05-27]<br>用于自动驾驶的环视鱼眼相机感知综述调研
+* 地图
+  * [High-Definition Map Generation Technologies For Autonomous Driving: A Review](https://arxiv.org/abs/2206.05400)<br>[2022-06-14]<br>
 
 <a name="13"/>
 
@@ -275,6 +282,8 @@
 * [Deep Multi-modal Fusion of Image and Non-image Data in Disease Diagnosis and Prognosis: A Review](https://arxiv.org/abs/2203.15588)<br>[2022-03-30]
 * [Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives](https://arxiv.org/abs/2206.01136)<br>[2022-06-03]
 * [Multiple Instance Learning for Digital Pathology: A Review on the State-of-the-Art, Limitations & Future Potential](https://arxiv.org/abs/2206.04425)<br>[2022-06-10]<br>
+* [A Review of Causality for Learning Algorithms in Medical Image Analysis](https://arxiv.org/abs/2206.05498)<br>[2022-06-14]<br>
+* [Machine learning approaches for COVID-19 detection from chest X-ray imaging: A Systematic Review](https://arxiv.org/abs/2206.05615)<br>[2022-06-14]<br>本文对应用于利用胸部X光图像进行COVID-19检测的ML进行了系统回顾，目的是在方法、架构、数据库和目前的局限性方面为研究人员提供一个基线。
 * 自动检测
   * [Deep Learning Applications for Lung Cancer Diagnosis: A systematic review](https://arxiv.org/abs/2201.00227)<br>[2022-01-04]<br>本篇综述是对深度学习在肺癌自动检测领域应用的全面调研，其中回顾文献是 2016 年至 2021 年该领域的 32 篇会议和期刊文章。
   * [AI-based Carcinoma Detection and Classification Using Histopathological Images: A Systematic Review](https://arxiv.org/abs/2201.07231)<br>[2022-01-20]
