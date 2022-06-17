@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月15日已公开 129 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月17日已公开 131 篇。
 
 ## 目录
 
@@ -36,8 +36,16 @@
   * [Review on Panoramic Imaging and Its Applications in Scene Understanding](https://arxiv.org/abs/2205.05570)<br>[2022-05-12]<br>
   * [Deep Learning for Omnidirectional Vision: A Survey and New Perspectives](https://arxiv.org/pdf/2205.10468.pdf)<br>[2022-05-24]<br>
 
+## 工业检测
+* [A Survey of Detection Methods for Die Attachment and Wire Bonding Defects in Integrated Circuit Manufacturing](https://arxiv.org/abs/2206.07481)<br>[2022-06-16]<br>本文对用于检测这些缺陷的方法进行了调查或文献回顾，这些方法是基于所使用的不同传感方式，包括光学、放射学、声学和红外热成像。在这项调查中，对所使用的检测方法进行了讨论。传统的和深度学习的方法都被认为是检测芯片连接和电线连接缺陷的方法，同时也考虑了挑战和未来的研究方向。
+
+## Adversarial attacks
+* [Adversarial Patch Attacks and Defences in Vision-Based Tasks: A Survey](https://arxiv.org/abs/2206.08304)<br>[2022-06-17]<br>
 ## Data Augmentation(数据增强)
 * [A Survey of Automated Data Augmentation Algorithms for Deep Learning-based Image Classication Tasks](https://arxiv.org/abs/2206.06544)<br>[2022-06-15]<br>本篇综述从图像分类的角度讨论了AutoDA技术出现的根本原因。确定了标准AutoDA模型的三个关键组成部分：搜索空间、搜索算法和评估功能。基于它们的结构，对现有的图像AutoDA方法进行了系统的分类。本文介绍了AutoDA领域的主要工作，讨论了它们的优点和缺点，并提出了几个潜在的未来改进方向。
+
+## Deep Reinforcement Learning
+* [Backbones-Review: Feature Extraction Networks for Deep Learning and Deep Reinforcement Learning Approaches](https://arxiv.org/abs/2206.08016)<br>[2022-06-17]<br>
 
 ## Fish Habitat Monitoring
 * [Applications of Deep Learning in Fish Habitat Monitoring: A Tutorial and Survey](https://arxiv.org/abs/2206.05394)<br>[2022-06-14]<br>
@@ -292,6 +300,7 @@
 * 自动检测
   * [Deep Learning Applications for Lung Cancer Diagnosis: A systematic review](https://arxiv.org/abs/2201.00227)<br>[2022-01-04]<br>本篇综述是对深度学习在肺癌自动检测领域应用的全面调研，其中回顾文献是 2016 年至 2021 年该领域的 32 篇会议和期刊文章。
   * [AI-based Carcinoma Detection and Classification Using Histopathological Images: A Systematic Review](https://arxiv.org/abs/2201.07231)<br>[2022-01-20]
+  * [Automated image analysis in large-scale cellular electron microscopy: A literature survey](https://arxiv.org/abs/2206.07171)<br>[2022-06-16]<br>本篇综述回顾了当前自动化计算机技术的最先进水平和细胞EM结构分析的主要挑战。讨论了过去五年中为自动生物医学图像分析而开发的先进的计算机视觉、深度学习和软件工具，涉及到EM数据的标注、分割和可扩展性。自动图像采集和分析的整合将允许对具有纳米级分辨率的毫米级数据集进行高通量分析。
 * 胎儿生长监测
   * [Towards deep observation: A systematic survey on artificial intelligence techniques to monitor fetus via Ultrasound Images](https://arxiv.org/abs/2201.07935)<br>[2022-01-21]<br>本次调研研究了2010年到2021年之间发表的文献，旨在探索人工智能（AI）如何通过超声（US）图像协助胎儿生长监测。
 * 组织病理学分析
