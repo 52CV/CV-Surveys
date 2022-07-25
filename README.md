@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月17日已公开 131 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月25日已公开 134 篇。
 
 ## 目录
 
@@ -131,6 +131,7 @@
 * [Generative Adversarial Networks for Image Augmentation in Agriculture: A Systematic Review](https://arxiv.org/abs/2204.04707)<br>[2022-04-12]<br>GAN在农业中的图像增强作用综述
 * [A Comprehensive Survey on Data-Efficient GANs in Image Generation](https://arxiv.org/abs/2204.08329)<br>[2022-04-19]<br>对更全面跟系统的 DE-GANs 的调研。
 * [Combating COVID-19 using Generative Adversarial Networks and Artificial Intelligence for Medical Images: A Scoping Review](https://arxiv.org/abs/2205.07236)<br>[2022-05-17]<br>本篇论文全面研究了 GANs 在解决 COVID-19 数据稀缺和诊断相关挑战方面的作用。
+* [Face editing with GAN -- A Review](https://arxiv.org/abs/2207.11227)<br>[2022-07-25]<br>GANs 有两个相互竞争的神经网络：一个生成器和一个鉴别器。生成器用于产生新的样本或内容片段，而鉴别器则用于识别内容片段是真实的还是生成的。它与其他生成式模型的不同之处在于它能够学习未标记的样本。本篇文章回顾了 GANs 如何应用于一系列的应用，包括逼真的图像、文本生成，甚至人类姿势的合成。以及对 GANs 的演变、所提出的几项改进以及不同模型之间进行简要比较。
 
 ## 18.NAS(神经架构搜索)
 * [SuperNet in Neural Architecture Search: A Taxonomic Survey](https://arxiv.org/abs/2204.03916)<br>[2022-04-11]<br>神经架构搜索的 SuperNet 分类法调研
@@ -184,6 +185,8 @@
   * [2D Human Pose Estimation: A Survey](https://arxiv.org/abs/2204.07370)<br>[2022-04-18]<br>对 200 多项研究贡献，从 network architecture design（网络架构设计）、network training refinement（网络训练细化）和 post processing（后处理）三个方向对二维人体姿态估计进行了全面调研。
 * 3D手部姿势估计
   * [Efficient Annotation and Learning for 3D Hand Pose Estimation: A Survey](https://arxiv.org/abs/2206.02257)<br>[2022-06-07]<br>
+* 人体坠落/跌倒检测
+  * [Vision-based Human Fall Detection Systems using Deep Learning: A Review](https://arxiv.org/abs/2207.10952)<br>[2022-07-25]<br>人的跌倒是非常关键的健康问题之一，特别是对于独居的老人和残疾人。全世界老年人口的数量正在稳步增加。因此，人体跌倒检测正在成为这些人辅助生活的有效技术。对于辅助生活，深度学习和计算机视觉已被大量使用。在这篇综述中，讨论了基于深度学习（DL）的最先进的非侵入式（基于视觉）跌倒检测技术。提出一项关于跌倒检测基准数据集的调查。为了清楚地了解，简要地讨论了用于评估跌倒检测系统性能的不同指标。另外还给出基于视觉的人类跌倒检测技术的未来方向。
 
 <a name="12"/>
 
@@ -323,6 +326,8 @@
   * [A Survey of Left Atrial Appendage Segmentation and Analysis in 3D and 4D Medical Images](https://arxiv.org/abs/2205.06486)<br>[2022-05-16]<br>对三维和四维医学图像（包括CT、MRI和超声心动图图像）上的自动LAA分割方法进行了回顾。
   * 皮损分割
     * [A Survey on Deep Learning for Skin Lesion Segmentation](https://arxiv.org/abs/2206.00356)<br>[2022-06-02]<br>对134篇涉及基于深度学习的皮损分割的研究论文调研
+  * 树状管结构分割
+    * [Human Treelike Tubular Structure Segmentation: A Comprehensive Review and Future Perspectives](https://arxiv.org/abs/2207.11203)<br>[2022-07-25]<br>本篇综述总结了文献中人体树状结构分割方法的算法、数据集和评价指标。对不同的算法进行了系统的分类，并以表格的形式报告了感兴趣的解剖区域、使用的数据集和性能指标，帮助研究人员更好地了解可用的选择和方法。通过对文献的分析，基于深度学习的分割方法以其捕捉复杂结构中隐藏信息的优势而成为主流。为此，文章中还提出基于深度学习算法、评价指标和损失函数的可行研究方向，以加速人体树状管结构分割方法的发展和完善。
 * 乳腺癌检测
   * [Breast cancer detection using artificial intelligence techniques: A systematic literature review](https://arxiv.org/abs/2203.04308)<br>[2022-03-10]<br>
 * 青光眼自动检测
