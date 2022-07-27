@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月25日已公开 134 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月25日已公开 135 篇。
 
 ## 目录
 
@@ -158,7 +158,7 @@
 
 ## 15.Image Super-resolution(超分辨率)
 * [A Review of Deep Learning Based Image Super-resolution Techniques](https://arxiv.org/abs/2201.10521)<br>[2022-01-26]<br>
-* 单图像分辨率
+* 单图像超分辨率
   * [Single Image Super-Resolution Methods: A Survey](https://arxiv.org/abs/2202.11763)<br>[2022-02-25]<br>
   * [Generative Adversarial Networks for Image Super-Resolution: A Survey](https://arxiv.org/abs/2204.13620)<br>[2022-04-29]<br>
 
@@ -205,6 +205,8 @@
   * [Hyperspectral Unmixing Based on Nonnegative Matrix Factorization: A Comprehensive Review](https://arxiv.org/abs/2205.09933)<br>[2022-05-23]<br>本篇文章作者对为高光谱解混提出的基于NMF的方法进行了全面调研。 
 * Fake Detection
   * [A Survey of Deep Fake Detection for Trial Courts](https://arxiv.org/abs/2205.15792)<br>[2022-06-01]<br> 
+* 高分辨率图像视频处理
+  * [Efficient High-Resolution Deep Learning: A Survey](https://arxiv.org/abs/2207.13050)<br>[2022-07-26]<br> 
 
 <a name="11"/>
 
