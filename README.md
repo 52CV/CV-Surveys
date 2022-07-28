@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月25日已公开 135 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月28日已公开 136 篇。
 
 ## 目录
 
@@ -35,6 +35,9 @@
 * 全景成像
   * [Review on Panoramic Imaging and Its Applications in Scene Understanding](https://arxiv.org/abs/2205.05570)<br>[2022-05-12]<br>
   * [Deep Learning for Omnidirectional Vision: A Survey and New Perspectives](https://arxiv.org/pdf/2205.10468.pdf)<br>[2022-05-24]<br>
+
+## Machine Learning(机器学习)
+* [Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks](https://arxiv.org/abs/2207.13243)
 
 ## 工业检测
 * [A Survey of Detection Methods for Die Attachment and Wire Bonding Defects in Integrated Circuit Manufacturing](https://arxiv.org/abs/2206.07481)<br>[2022-06-16]<br>本文对用于检测这些缺陷的方法进行了调查或文献回顾，这些方法是基于所使用的不同传感方式，包括光学、放射学、声学和红外热成像。在这项调查中，对所使用的检测方法进行了讨论。传统的和深度学习的方法都被认为是检测芯片连接和电线连接缺陷的方法，同时也考虑了挑战和未来的研究方向。
