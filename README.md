@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月28日已公开 136 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月29日已公开 138 篇。
 
 ## 目录
 
@@ -235,6 +235,8 @@
   * [Computer Vision for Road Imaging and Pothole Detection: A State-of-the-Art Review of Systems and Algorithms](https://arxiv.org/abs/2204.13590)<br>[2022-04-29]<br>
 * 持续目标检测
   * [Continual Object Detection: A review of definitions, strategies, and challenges](https://arxiv.org/abs/2205.15445)<br>[2022-06-01]<br>
+* 小目标检测
+  * [Towards Large-Scale Small Object Detection: Survey and Benchmarks](https://arxiv.org/abs/2207.14096)<br>[2022-07-29]<br>:star:[code](https://github.com/shaunyuan22/SODA)
 
 <a name="9"/>
 
@@ -329,6 +331,7 @@
   * [U-Net and its variants for Medical Image Segmentation : A short review](https://arxiv.org/abs/2204.08470)<br>[2022-04-20]<br>
   * [Application of belief functions to medical image segmentation: A review](https://arxiv.org/abs/2205.01733)<br>[2022-05-05]<br>对使用信任函数理论的医学图像分割方法进行了回顾。
   * [A Survey of Left Atrial Appendage Segmentation and Analysis in 3D and 4D Medical Images](https://arxiv.org/abs/2205.06486)<br>[2022-05-16]<br>对三维和四维医学图像（包括CT、MRI和超声心动图图像）上的自动LAA分割方法进行了回顾。
+  * [Learning with Limited Annotations: A Survey on Deep Semi-Supervised Learning for Medical Image Segmentation](https://arxiv.org/abs/2207.14191)<br>[2022-07-29]<br>医学图像分割的深度半监督学习综述
   * 皮损分割
     * [A Survey on Deep Learning for Skin Lesion Segmentation](https://arxiv.org/abs/2206.00356)<br>[2022-06-02]<br>对134篇涉及基于深度学习的皮损分割的研究论文调研
   * 树状管结构分割
