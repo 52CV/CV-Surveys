@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月1日已公开 139 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月2日已公开 143 篇。
 
 ## 目录
 
@@ -35,6 +35,10 @@
 * 全景成像
   * [Review on Panoramic Imaging and Its Applications in Scene Understanding](https://arxiv.org/abs/2205.05570)<br>[2022-05-12]<br>
   * [Deep Learning for Omnidirectional Vision: A Survey and New Perspectives](https://arxiv.org/pdf/2205.10468.pdf)<br>[2022-05-24]<br>
+
+## 建筑设计
+* [Computer vision-based analysis of buildings and built environments: A systematic review of current approaches](https://arxiv.org/abs/2208.00881)<br>[2022-08-02]<br>基于计算机视觉的建筑和建筑环境分析综述
+
 
 ## Machine Learning(机器学习)
 * [Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks](https://arxiv.org/abs/2207.13243)<br>[2022-07-28]<br>
@@ -81,6 +85,7 @@
 ## Self-Supervised Learning
 * 自监督
   * [Beyond Just Vision: A Review on Self-Supervised Representation Learning on Multimodal and Temporal Data](https://arxiv.org/abs/2206.02353)<br>[2022-06-07]<br>
+  * [A Survey on Masked Autoencoder for Self-supervised Learning in Vision and Beyond](https://arxiv.org/abs/2208.00173)<br>[2022-08-02]<br>
 
 ## Transfer Learning(迁移学习)
 * [A Review of Deep Transfer Learning and Recent Advancements](https://arxiv.org/abs/2201.09679)<br>[2022-01-25]<br>
@@ -226,6 +231,8 @@
 <a name="10"/>
 
 ## 10.Object Detection(目标检测)
+* YOLO
+  * [Real Time Object Detection System with YOLO and CNN Models: A Review](https://arxiv.org/abs/2208.00773)<br>[2022-08-02]<br>使用YOLO和CNN模型的实时目标体检测系统综述
 * 3D Object Detection
   * [Survey and Systematization of 3D Object Detection Models and Methods](https://arxiv.org/abs/2201.09354)<br>[2022-01-25]<br>本篇综述是对过去10年中大量不同的3D目标检测方法的全面调研。
   * [3D Object Detection from Images for Autonomous Driving: A Survey](https://arxiv.org/abs/2202.02980)<br>[2022-02-08]<br>:star:[code](https://github.com/xinzhuma/3dodi-survey)<br>本篇论文是第一项调查基于图像的自主驾驶 3D 检测方法的工作。其中包含 80 多个基于图像的 3D 检测方法和从 2015 年到 2021 年间的 200 多个相关研究工作。
@@ -346,6 +353,8 @@
   * [Explainable Deep Learning Methods in Medical Diagnosis: A Survey](https://arxiv.org/abs/2205.04766)<br>[2022-05-11]<br>
 * 微循环图像
   * [p Learning and Computer Vision Techniques for Microcirculation Analysis: A Revi](https://arxiv.org/abs/2205.05493)<br>[2022-05-12]<br>本篇文章对50多篇研究论文进行了调查，并提出最相关和最有前途的计算机视觉算法，以实现微循环图像的自动化分析。
+* CT
+  * [A review of Deep learning Techniques for COVID-19 identification on Chest CT images](https://arxiv.org/abs/2208.00032)<br>[2022-08-02]<br>
 
 <a name="2"/>
 
