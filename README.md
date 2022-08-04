@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月2日已公开 143 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月4日已公开 146 篇。
 
 ## 目录
 
@@ -316,6 +316,7 @@
 * [Multiple Instance Learning for Digital Pathology: A Review on the State-of-the-Art, Limitations & Future Potential](https://arxiv.org/abs/2206.04425)<br>[2022-06-10]<br>
 * [A Review of Causality for Learning Algorithms in Medical Image Analysis](https://arxiv.org/abs/2206.05498)<br>[2022-06-14]<br>
 * [Machine learning approaches for COVID-19 detection from chest X-ray imaging: A Systematic Review](https://arxiv.org/abs/2206.05615)<br>[2022-06-14]<br>本文对应用于利用胸部X光图像进行COVID-19检测的ML进行了系统回顾，目的是在方法、架构、数据库和目前的局限性方面为研究人员提供一个基线。
+* [Texture features in medical image analysis: a survey](https://arxiv.org/abs/2208.02046)<br>[2022-08-04]<br>
 * 自动检测
   * [Deep Learning Applications for Lung Cancer Diagnosis: A systematic review](https://arxiv.org/abs/2201.00227)<br>[2022-01-04]<br>本篇综述是对深度学习在肺癌自动检测领域应用的全面调研，其中回顾文献是 2016 年至 2021 年该领域的 32 篇会议和期刊文章。
   * [AI-based Carcinoma Detection and Classification Using Histopathological Images: A Systematic Review](https://arxiv.org/abs/2201.07231)<br>[2022-01-20]
@@ -355,6 +356,8 @@
   * [p Learning and Computer Vision Techniques for Microcirculation Analysis: A Revi](https://arxiv.org/abs/2205.05493)<br>[2022-05-12]<br>本篇文章对50多篇研究论文进行了调查，并提出最相关和最有前途的计算机视觉算法，以实现微循环图像的自动化分析。
 * CT
   * [A review of Deep learning Techniques for COVID-19 identification on Chest CT images](https://arxiv.org/abs/2208.00032)<br>[2022-08-02]<br>
+* 糖尿病视网膜病变筛查
+  * [A comprehensive survey on computer-aided diagnostic systems in diabetic retinopathy screening](https://arxiv.org/abs/2208.01810)<br>[2022-08-04]<br>
 
 <a name="2"/>
 
