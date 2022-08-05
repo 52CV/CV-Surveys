@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月4日已公开 146 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月5日已公开 147 篇。
 
 ## 目录
 
@@ -174,6 +174,7 @@
 
 ## 14.Auto Driving(自动驾驶)
 * [Multi-modal Sensor Fusion for Auto Driving Perception: A Survey](https://arxiv.org/abs/2202.02703)<br>[2022-02-08]<br>本篇综述对现有的基于多模态的自主驾驶感知任务的方法进行了文献调研。其中包含 50 多篇利用感知传感器（包括LiDAR和相机）试图解决目标检测和语义分割任务的论文。期望为自主驾驶感知任务提出一个新的多模态融合方法分类法，并引发对未来基于融合技术的思考。
+* [Vision-Centric BEV Perception: A Survey](https://arxiv.org/abs/2208.02797)<br>[2022-08-05]<br>:star:[code](https://github.com/4DVLab/Vision-Centric-BEV-Perception)
 * 三维人体运动预测
   * [3D Human Motion Prediction: A Survey](https://arxiv.org/abs/2203.01593)<br>[2022-03-04]<br>本篇综述系统地回顾了 2015 年以来人类运动预测领域的所有相关期刊和会议论文，并对相关方法、数据集、基准、性能进行了讨论分析。
 * 行为预测
