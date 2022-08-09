@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月5日已公开 147 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月9日已公开 150 篇。
 
 ## 目录
 
@@ -158,6 +158,8 @@
 ## 16.Human Action Recognition and Detection(人体动作识别与检测)
 * [Continuous Human Action Recognition for Human-Machine Interaction: A Review](https://arxiv.org/abs/2202.13096)<br>[2022-03-01]<br>
 * [A Survey on Video Action Recognition in Sports: Datasets, Methods and Applications](https://arxiv.org/abs/2206.01038)<br>[2022-06-03]<br>
+* 基于视频的动作识别
+  * [Video-based Human Action Recognition using Deep Learning: A Review](https://arxiv.org/abs/2208.03775)<br>[2022-08-09]<br>
 * 动作质量评估
   * [A Survey of Video-based Action Quality Assessment](https://arxiv.org/abs/2204.09271)<br>[2022-04-21]<br>对基于视频的动作质量评估的现有论文进行了全面的调查。
 
@@ -183,7 +185,9 @@
   * [Surround-view Fisheye Camera Perception for Automated Driving: Overview, Survey and Challenges](https://arxiv.org/abs/2205.13281)<br>[2022-05-27]<br>用于自动驾驶的环视鱼眼相机感知综述调研
 * 地图
   * [High-Definition Map Generation Technologies For Autonomous Driving: A Review](https://arxiv.org/abs/2206.05400)<br>[2022-06-14]<br>
-
+* Visual Map Localization
+  * [A Survey on Visual Map Localization Using LiDARs and Cameras](https://arxiv.org/abs/2208.03376)<br>[2022-08-09]<br>
+ 
 <a name="13"/>
 
 ## 13.Human Pose Estimation(人体姿态估计)
@@ -272,6 +276,8 @@
   * [A Review on Viewpoints and Path-planning for UAV-based 3D Reconstruction](https://arxiv.org/abs/2205.03716)<br>[2022-05-10]<br>
 * 深度估计
   * [A Survey on RGB-D Datasets](https://arxiv.org/abs/2201.05761)<br>[2022-01-19]<br>
+* 三维视觉
+  * [3D Vision with Transformers: A Survey](https://arxiv.org/abs/2208.04309)<br>[2022-08-09]<br>:star:[code](https://github.com/lahoud/3d-vision-transformers)
 
 <a name="6"/>
 
