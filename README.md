@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月10日已公开 151 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月16日已公开 153 篇。
 
 ## 目录
 
@@ -259,6 +259,8 @@
   * [A Comprehensive Review of Computer Vision in Sports: Open Issues, Future Trends and Research Directions](https://arxiv.org/abs/2203.02281)<br>[2022-03-07]<br>本文对体育视频分析的各种应用进行了全面的回顾，如球员的检测和分类，跟踪体育运动中的球员或球，预测球员或球的轨迹，识别球队的策略，对体育中的各种事件进行分类。
 * 视频监控
   * [Drivers' attention detection: a systematic literature review](https://arxiv.org/abs/2204.03741)<br>[2022-04-11]<br>驾驶员注意力检测综述
+* 视频编码
+  * [Task Oriented Video Coding: A Survey](https://arxiv.org/abs/2208.07313)<br>[2022-08-16]<br>
 
 <a name="8"/>
 
@@ -367,7 +369,9 @@
   * [A review of Deep learning Techniques for COVID-19 identification on Chest CT images](https://arxiv.org/abs/2208.00032)<br>[2022-08-02]<br>
 * 糖尿病视网膜病变筛查
   * [A comprehensive survey on computer-aided diagnostic systems in diabetic retinopathy screening](https://arxiv.org/abs/2208.01810)<br>[2022-08-04]<br>
-
+* transformer
+  * [Medical image analysis based on transformer: A Review](https://arxiv.org/abs/2208.06643)<br>[2022-08-16]<br>transformer在医学影像分析中的应用综述
+  
 <a name="2"/>
 
 ## 2.Scene Graph Generation(场景图生成)
