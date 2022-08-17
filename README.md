@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月16日已公开 153 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月17日已公开 154 篇。
 
 ## 目录
 
@@ -95,6 +95,10 @@
 
 ## Visual Speech(视觉语音)
 * [Deep Learning for Visual Speech Analysis: A Survey](https://arxiv.org/abs/2205.10839)<br>[2022-05-24]<br>是对基于深度学习的VSA进行的全面回顾。其中专注于两个基本问题：视觉语音识别和视觉语音生成，并对现实的挑战和当前的发展，包括数据集、评估协议、代表方法、SOTA性能、实际问题等进行总结。
+
+## Domain Adaptation(域适应)
+* 域适应
+  * [Deep Unsupervised Domain Adaptation: A Review of Recent Advances and Perspectives](https://arxiv.org/abs/2208.07422)<br>[2022-08-17]<br>深度无监督域适应综述
 
 ## OCR
 * 手写数字识别
