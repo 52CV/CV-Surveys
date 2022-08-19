@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月17日已公开 154 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月19日已公开 155 篇。
 
 ## 目录
 
@@ -338,6 +338,7 @@
   * [Towards deep observation: A systematic survey on artificial intelligence techniques to monitor fetus via Ultrasound Images](https://arxiv.org/abs/2201.07935)<br>[2022-01-21]<br>本次调研研究了2010年到2021年之间发表的文献，旨在探索人工智能（AI）如何通过超声（US）图像协助胎儿生长监测。
 * 组织病理学分析
   * [What Can Machine Vision Do for Lymphatic Histopathology Image Analysis: A Comprehensive Review](https://arxiv.org/abs/2201.08550)<br>[2022-01-24]<br>本篇综述对近年来基于 MV 的图像处理技术在淋巴瘤组织病理学图像中的应用，包括分割、分类和检测进行了全面回顾。
+  * [Towards Label-efficient Automatic Diagnosis and Analysis: A Comprehensive Survey of Advanced Deep Learning-based Weakly-supervised, Semi-supervised and Self-supervised Techniques in Histopathological Image Analysis](https://arxiv.org/abs/2208.08789)<br>[2022-08-19]<br>基于高级深度学习的弱监督、半监督和自监督技术在组织病理学图像分析中的综述
 * Transformer
   * [Transformers in Medical Imaging: A Survey](https://arxiv.org/abs/2201.09873)<br>[2022-01-25]<br>:star:[code](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)<br>本篇综述试图对 Transformer 在医学影像中的应用(分割、检测、分类、重建、合成、配准、临床报告生成等)进行全面回顾，涵盖从近期所提出的架构设计到未解决的问题等各个方面。
   * [Transformers in Medical Image Analysis: A Review](https://arxiv.org/abs/2202.12165)<br>[2022-02-25]<br>本文围绕 Transformer 在不同学习范式中的使用、提高模型效率以及与其他技术的耦合等方面的关键挑战进行了全面研究。
