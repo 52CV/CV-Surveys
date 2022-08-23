@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月22日已公开 156 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月23日已公开 158 篇。
 
 ## 目录
 
@@ -98,6 +98,7 @@
 
 ## Visual Speech(视觉语音)
 * [Deep Learning for Visual Speech Analysis: A Survey](https://arxiv.org/abs/2205.10839)<br>[2022-05-24]<br>是对基于深度学习的VSA进行的全面回顾。其中专注于两个基本问题：视觉语音识别和视觉语音生成，并对现实的挑战和当前的发展，包括数据集、评估协议、代表方法、SOTA性能、实际问题等进行总结。
+* [Learning in Audio-visual Context: A Review, Analysis, and New Perspective](https://arxiv.org/abs/2208.09579)<br>[2022-08-23]<br>从不同方面回顾和展望了当前视听学习领域的情况
 
 ## Domain Adaptation(域适应)
 * 域适应
@@ -194,6 +195,8 @@
   * [High-Definition Map Generation Technologies For Autonomous Driving: A Review](https://arxiv.org/abs/2206.05400)<br>[2022-06-14]<br>
 * Visual Map Localization
   * [A Survey on Visual Map Localization Using LiDARs and Cameras](https://arxiv.org/abs/2208.03376)<br>[2022-08-09]<br>
+* 智能交通
+  * [Review on Action Recognition for Accident Detection in Smart City Transportation Systems](https://arxiv.org/abs/2208.09588)<br>[2022-08-23]<br>本文对智能城市的事故检测和自主交通系统中的动作识别进行了深入的回顾。
  
 <a name="13"/>
 
