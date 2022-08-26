@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月25日已公开 161 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月26日已公开 162 篇。
 
 ## 目录
 
@@ -370,6 +370,7 @@
   * [Learning with Limited Annotations: A Survey on Deep Semi-Supervised Learning for Medical Image Segmentation](https://arxiv.org/abs/2207.14191)<br>[2022-07-29]<br>医学图像分割的深度半监督学习综述
   * 皮损分割
     * [A Survey on Deep Learning for Skin Lesion Segmentation](https://arxiv.org/abs/2206.00356)<br>[2022-06-02]<br>对134篇涉及基于深度学习的皮损分割的研究论文调研
+    * [Skin Lesion Analysis: A State-of-the-Art Survey, Systematic Review, and Future Trends](https://arxiv.org/abs/2208.12232)<br>[2022-08-26]<br>本篇综述对2011年至2020年间发表的尖端CAD技术进行完整的文献回顾，共包 含365 篇出版物，其中221篇用于皮肤病变分割，144篇用于皮肤病变分类。
   * 树状管结构分割
     * [Human Treelike Tubular Structure Segmentation: A Comprehensive Review and Future Perspectives](https://arxiv.org/abs/2207.11203)<br>[2022-07-25]<br>本篇综述总结了文献中人体树状结构分割方法的算法、数据集和评价指标。对不同的算法进行了系统的分类，并以表格的形式报告了感兴趣的解剖区域、使用的数据集和性能指标，帮助研究人员更好地了解可用的选择和方法。通过对文献的分析，基于深度学习的分割方法以其捕捉复杂结构中隐藏信息的优势而成为主流。为此，文章中还提出基于深度学习算法、评价指标和损失函数的可行研究方向，以加速人体树状管结构分割方法的发展和完善。
 * 乳腺癌检测
