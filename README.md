@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月29日已公开 163 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月30日已公开 165 篇。
 
 ## 目录
 
@@ -83,7 +83,9 @@
 * 指纹活性检测
   * [Review of the Fingerprint Liveness Detection (LivDet) competition series: from 2009 to 2021](https://arxiv.org/abs/2202.07259)<br>[2022-02-16]<br>对2009年至2021年的LivDet版本的指纹演示攻击检测（FPAD）算法的性能评估，并指出它们多年来的演变。
 * 手掌静脉识别
-  * [Towards the Generation of Synthetic Images of Palm Vein Patterns: A Review](https://arxiv.org/abs/2205.10179)[2022-05-23]<br>
+  * [Towards the Generation of Synthetic Images of Palm Vein Patterns: A Review](https://arxiv.org/abs/2205.10179)<br>[2022-05-23]<br>
+* 手指静脉识别
+  * [Artificial Neural Networks for Finger Vein Recognition: A Survey](https://arxiv.org/abs/2208.13341)<br>[2022-08-30]<br>收集了149篇相关论文,总结基于人工神经网络的指静脉识别的发展。
 
 ## Self-Supervised Learning
 * 自监督
@@ -388,6 +390,8 @@
   * [A comprehensive survey on computer-aided diagnostic systems in diabetic retinopathy screening](https://arxiv.org/abs/2208.01810)<br>[2022-08-04]<br>
 * transformer
   * [Medical image analysis based on transformer: A Review](https://arxiv.org/abs/2208.06643)<br>[2022-08-16]<br>transformer在医学影像分析中的应用综述
+* 图像计算
+  * [Multi-Modality Cardiac Image Computing: A Survey](https://arxiv.org/abs/2208.12881)<br>[2022-08-30]<br>本文旨在对心脏病学中的多模态成像、计算方法、验证策略、相关的临床工作流程和未来前景进行全面回顾。
   
 <a name="2"/>
 
