@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月30日已公开 165 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月2日已公开 166 篇。
 
 ## 目录
 
@@ -411,6 +411,7 @@
 * [Data-Free Knowledge Transfer: A Survey](https://arxiv.org/abs/2112.15278)<br>[2022-01-03]<br>本篇综述对 Data-Free 知识迁移进行了全面和结构化的调研。
 * [Empirical Evaluation and Theoretical Analysis for Representation Learning: A Survey](https://arxiv.org/abs/2204.08226)<br>[2022-04-19]<br>
 * [Image Data Augmentation for Deep Learning: A Survey](https://arxiv.org/abs/2204.08610)<br>[2022-04-20]<br>
+* [The Neural Process Family: Survey, Applications and Perspectives](https://arxiv.org/abs/2209.00517)<br>[2022-09-02]<br>:star:[code](https://github.com/srvCodes/neural-processes-survey)
 * 正则化
   * [Avoiding Overfitting: A Survey on Regularization Methods for Convolutional Neural Networks](https://arxiv.org/abs/2201.03299)<br>[2022-01-11]<br>本次调研工作就对过去几年开发的几种正则化方法进行分析，并将调研文献分为“input regularization”、“internal regularization”、“label regularization”三类，且相关文献不超过五年以及所有文献代码都可以在公共资源库中找到。
 * 可视化
