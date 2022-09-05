@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月2日已公开 166 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月5日已公开 168 篇。
 
 ## 目录
 
@@ -235,6 +235,8 @@
   * [A Survey of Deep Fake Detection for Trial Courts](https://arxiv.org/abs/2205.15792)<br>[2022-06-01]<br> 
 * 高分辨率图像视频处理
   * [Efficient High-Resolution Deep Learning: A Survey](https://arxiv.org/abs/2207.13050)<br>[2022-07-26]<br> 
+* 网格去噪
+  * [Geometric and Learning-based Mesh Denoising: A Comprehensive Survey](https://arxiv.org/abs/2209.00841)<br>[2022-09-05]<br> 
 
 <a name="11"/>
 
@@ -320,6 +322,7 @@
     * [The State of Aerial Surveillance: A Survey](https://arxiv.org/abs/2201.03080)<br>[2022-01-11]<br>从计算机视觉和模式识别的角度对以人为中心的空中监视任务进行全面调研。
 * 遥感
   * [Deep Learning in Multimodal Remote Sensing Data Fusion: A Comprehensive Review](https://arxiv.org/abs/2205.01380)<br>[2022-05-04]<br>基于 DL 的多模态RS数据融合的系统概况
+  * [Transformers in Remote Sensing: A Survey](https://arxiv.org/abs/2209.01206)<br>[2022-09-05]<br>:star:[code](https://github.com/VIROBO-15/Transformer-in-Remote-Sensing)<br>本篇综述是第一次对遥感中 transformers 的最新进展进行系统的回顾,其中涵盖了60多个最新的基于 transformers 的方法，用于遥感子领域的不同遥感问题：very high-resolution（VHR）、高光谱（HSI）和合成孔径雷达（SAR）图像。
 * 张量分解
   * [Tensor Decompositions for Hyperspectral Data Processing in Remote Sensing: A Comprehensive Review](https://arxiv.org/abs/2205.06407)<br>[2022-05-16]<br>遥感中高光谱数据处理的张量分解
 
