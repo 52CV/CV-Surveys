@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月5日已公开 168 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月7日已公开 169 篇。
 
 ## 目录
 
@@ -395,6 +395,8 @@
   * [Medical image analysis based on transformer: A Review](https://arxiv.org/abs/2208.06643)<br>[2022-08-16]<br>transformer在医学影像分析中的应用综述
 * 图像计算
   * [Multi-Modality Cardiac Image Computing: A Survey](https://arxiv.org/abs/2208.12881)<br>[2022-08-30]<br>本文旨在对心脏病学中的多模态成像、计算方法、验证策略、相关的临床工作流程和未来前景进行全面回顾。
+* 微创手术
+  * [A comprehensive survey on recent deep learning-based methods applied to surgical data](https://arxiv.org/abs/2209.01435)<br>[2022-09-07]<br> 
   
 <a name="2"/>
 
