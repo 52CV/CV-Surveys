@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月7日已公开 169 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月8日已公开 171 篇。
 
 ## 目录
 
@@ -397,6 +397,8 @@
   * [Multi-Modality Cardiac Image Computing: A Survey](https://arxiv.org/abs/2208.12881)<br>[2022-08-30]<br>本文旨在对心脏病学中的多模态成像、计算方法、验证策略、相关的临床工作流程和未来前景进行全面回顾。
 * 微创手术
   * [A comprehensive survey on recent deep learning-based methods applied to surgical data](https://arxiv.org/abs/2209.01435)<br>[2022-09-07]<br> 
+* 医学增强现实
+  * [The HoloLens in Medicine: A systematic Review and Taxonomy](https://arxiv.org/abs/2209.03245)<br>[2022-09-08]<br> 
   
 <a name="2"/>
 
@@ -417,6 +419,7 @@
 * [Empirical Evaluation and Theoretical Analysis for Representation Learning: A Survey](https://arxiv.org/abs/2204.08226)<br>[2022-04-19]<br>
 * [Image Data Augmentation for Deep Learning: A Survey](https://arxiv.org/abs/2204.08610)<br>[2022-04-20]<br>
 * [The Neural Process Family: Survey, Applications and Perspectives](https://arxiv.org/abs/2209.00517)<br>[2022-09-02]<br>:star:[code](https://github.com/srvCodes/neural-processes-survey)
+* [Handcrafted Feature Selection Techniques for Pattern Recognition: A Survey](https://arxiv.org/abs/2209.02746)<br>[2022-09-08]<br>
 * 正则化
   * [Avoiding Overfitting: A Survey on Regularization Methods for Convolutional Neural Networks](https://arxiv.org/abs/2201.03299)<br>[2022-01-11]<br>本次调研工作就对过去几年开发的几种正则化方法进行分析，并将调研文献分为“input regularization”、“internal regularization”、“label regularization”三类，且相关文献不超过五年以及所有文献代码都可以在公共资源库中找到。
 * 可视化
