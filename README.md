@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月9日已公开 173 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月13日已公开 177 篇。
 
 ## 目录
 
@@ -116,6 +116,8 @@
 * AR
   * [Augmented Reality and Robotics: A Survey and Taxonomy for AR-enhanced Human-Robot Interaction and Robotic Interfaces](https://arxiv.org/abs/2203.03254)<br>[2022-03-08]<br>对AR增强型人机交互和机器人界面的调查和分类综述，共调研460篇相关文献。
   * [Modern Augmented Reality: Applications, Trends, and Future Directions](https://arxiv.org/abs/2202.09450)<br>[2022-02-24]<br>
+* SLAM
+  * [General Place Recognition Survey: Towards the Real-world Autonomy Age](https://arxiv.org/abs/2209.04497)<br>[2022-09-13]<br>:star:[code](https://github.com/MetaSLAM/GPRS)
 
 ## Capsule networks(胶囊网络)
 * [Learning with Capsules: A Survey](https://arxiv.org/abs/2206.02664)<br>[2022-06-07]
@@ -190,6 +192,7 @@
 * [Multi-modal Sensor Fusion for Auto Driving Perception: A Survey](https://arxiv.org/abs/2202.02703)<br>[2022-02-08]<br>本篇综述对现有的基于多模态的自主驾驶感知任务的方法进行了文献调研。其中包含 50 多篇利用感知传感器（包括LiDAR和相机）试图解决目标检测和语义分割任务的论文。期望为自主驾驶感知任务提出一个新的多模态融合方法分类法，并引发对未来基于融合技术的思考。
 * [Vision-Centric BEV Perception: A Survey](https://arxiv.org/abs/2208.02797)<br>[2022-08-05]<br>:star:[code](https://github.com/4DVLab/Vision-Centric-BEV-Perception)
 * [A Survey and Framework of Cooperative Perception: From Heterogeneous Singleton to Hierarchical Cooperation](https://arxiv.org/abs/2208.10590)<br>[2022-08-24]<br>
+* [Delving into the Devils of Bird's-eye-view Perception: A Review, Evaluation and Recipe](https://arxiv.org/abs/2209.05324)<br>[2022-09-13]<br>:star:[code](https://github.com/OpenPerceptionX/BEVPerception-Survey-Recipe)
 * 三维人体运动预测
   * [3D Human Motion Prediction: A Survey](https://arxiv.org/abs/2203.01593)<br>[2022-03-04]<br>本篇综述系统地回顾了 2015 年以来人类运动预测领域的所有相关期刊和会议论文，并对相关方法、数据集、基准、性能进行了讨论分析。
 * 行为预测
@@ -249,6 +252,7 @@
   * [Visual Object Tracking on Multi-modal RGB-D Videos: A Review](https://arxiv.org/abs/2201.09207)<br>[2022-01-25]<br>本篇综述的目的是总结RGB-D跟踪研究中的相关知识。
 * 多目标跟踪
   * [Recent Advances in Embedding Methods for Multi-Object Tracking: A Survey](https://arxiv.org/abs/2205.10766)<br>[2022-05-24]<br>对多目标跟踪（MOT）中的嵌入方法进行了全面调查和深入分析。
+  * [Multiple Object Tracking in Recent Times: A Literature Review](https://arxiv.org/abs/2209.04796)<br>[2022-09-13]
 
 <a name="10"/>
 
@@ -420,6 +424,7 @@
 * [Image Data Augmentation for Deep Learning: A Survey](https://arxiv.org/abs/2204.08610)<br>[2022-04-20]<br>
 * [The Neural Process Family: Survey, Applications and Perspectives](https://arxiv.org/abs/2209.00517)<br>[2022-09-02]<br>:star:[code](https://github.com/srvCodes/neural-processes-survey)
 * [Handcrafted Feature Selection Techniques for Pattern Recognition: A Survey](https://arxiv.org/abs/2209.02746)<br>[2022-09-08]<br>
+* [Diffusion Models in Vision: A Survey](https://arxiv.org/abs/2209.04747)<br>[2022-09-13]<br>
 * 城市规划
   * [Visual and Object Geo-localization: A Comprehensive Survey](https://arxiv.org/abs/2112.15202)<br>[2022-01-03]<br>本篇综述对涉及图像的地理定位进行了全面的调查，其中包括确定图像的拍摄地点（图像地理定位）或图像中物体的地理定位（物体地理定位）。
 * 正则化
