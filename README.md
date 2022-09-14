@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月13日已公开 177 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月14日已公开 179 篇。
 
 ## 目录
 
@@ -176,8 +176,9 @@
   * [Video-based Human Action Recognition using Deep Learning: A Review](https://arxiv.org/abs/2208.03775)<br>[2022-08-09]<br>
 * 动作质量评估
   * [A Survey of Video-based Action Quality Assessment](https://arxiv.org/abs/2204.09271)<br>[2022-04-21]<br>对基于视频的动作质量评估的现有论文进行了全面的调查。
-
-
+* Transformer
+  * [Vision Transformers for Action Recognition: A Survey](https://arxiv.org/abs/2209.05700)<br>[2022-09-14]<br>
+ 
 <a name="15"/>
 
 ## 15.Image Super-resolution(超分辨率)
@@ -240,7 +241,9 @@
   * [Efficient High-Resolution Deep Learning: A Survey](https://arxiv.org/abs/2207.13050)<br>[2022-07-26]<br> 
 * 网格去噪
   * [Geometric and Learning-based Mesh Denoising: A Comprehensive Survey](https://arxiv.org/abs/2209.00841)<br>[2022-09-05]<br> 
-
+* 高光谱影像
+  * [A Guide to Employ Hyperspectral Imaging for Assessing Wheat Quality at Different Stages of Supply Chain in Australia: A Review](https://arxiv.org/abs/2209.05727)<br>[2022-09-14]<br> 
+  
 <a name="11"/>
 
 ## 11.Object Tracking(目标跟踪)
