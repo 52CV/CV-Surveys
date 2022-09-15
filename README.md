@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月14日已公开 179 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月15日已公开 181 篇。
 
 ## 目录
 
@@ -118,6 +118,7 @@
   * [Modern Augmented Reality: Applications, Trends, and Future Directions](https://arxiv.org/abs/2202.09450)<br>[2022-02-24]<br>
 * SLAM
   * [General Place Recognition Survey: Towards the Real-world Autonomy Age](https://arxiv.org/abs/2209.04497)<br>[2022-09-13]<br>:star:[code](https://github.com/MetaSLAM/GPRS)
+  * [Semantic Visual Simultaneous Localization and Mapping: A Survey](https://arxiv.org/abs/2209.06428)<br>[2022-09-15]
 
 ## Capsule networks(胶囊网络)
 * [Learning with Capsules: A Survey](https://arxiv.org/abs/2206.02664)<br>[2022-06-07]
@@ -416,6 +417,7 @@
 <a name="n"/>
 
 ## 1.Unkown(未分)
+* [A Survey on Evolutionary Computation for Computer Vision and Image Analysis: Past, Present, and Future Trends](https://arxiv.org/abs/2209.06399)<br>[2022-09-15]<br>
 * [Artificial Intelligence for Suicide Assessment using Audiovisual Cues: A Review](https://arxiv.org/abs/2201.09130)<br>[2022-01-25]<br>本篇综述对通过视听特征分析研究自杀意念和自杀行为检测的工作进行了全面调研回顾，主要是自杀性声音/语音声学特征分析和自杀性视觉线索。
 * [A Review of Emerging Research Directions in Abstract Visual Reasoning](https://arxiv.org/abs/2202.10284)<br>[2022-02-22]<br>
 * [A systematic review and meta-analysis of Digital Elevation Model (DEM) fusion: pre-processing, methods and applications](https://arxiv.org/abs/2203.15026)
