@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月21日已公开 183 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月22日已公开 184 篇。
 
 ## 目录
 
@@ -276,6 +276,8 @@
   * [Continual Object Detection: A review of definitions, strategies, and challenges](https://arxiv.org/abs/2205.15445)<br>[2022-06-01]<br>
 * 小目标检测
   * [Towards Large-Scale Small Object Detection: Survey and Benchmarks](https://arxiv.org/abs/2207.14096)<br>[2022-07-29]<br>:star:[code](https://github.com/shaunyuan22/SODA)
+* 水下目标检测
+  * [Review On Deep Learning Technique For Underwater Object Detection](https://arxiv.org/abs/2209.10151)<br>[2022-09-22]<br>
 
 <a name="9"/>
 
