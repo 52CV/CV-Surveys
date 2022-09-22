@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月22日已公开 184 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月22日已公开 185 篇。
 
 ## 目录
 
@@ -387,6 +387,7 @@
   * [A Survey of Left Atrial Appendage Segmentation and Analysis in 3D and 4D Medical Images](https://arxiv.org/abs/2205.06486)<br>[2022-05-16]<br>对三维和四维医学图像（包括CT、MRI和超声心动图图像）上的自动LAA分割方法进行了回顾。
   * [Learning with Limited Annotations: A Survey on Deep Semi-Supervised Learning for Medical Image Segmentation](https://arxiv.org/abs/2207.14191)<br>[2022-07-29]<br>医学图像分割的深度半监督学习综述
   * [Nuclei & Glands Instance Segmentation in Histology Images: A Narrative Review](https://arxiv.org/abs/2208.12460)<br>[2022-08-29]<br>本篇综述深入分析了过去五年（2017-2022年）发表的126篇基于人工智能的细胞核和腺体实例分割方法的论文，讨论了当前方法的局限性和公开挑战。
+  * [Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future Directions](https://arxiv.org/abs/2209.10307)<br>[2022-09-22]<br>:star:[code](https://github.com/hust-linyi/MedISeg)
   * 皮损分割
     * [A Survey on Deep Learning for Skin Lesion Segmentation](https://arxiv.org/abs/2206.00356)<br>[2022-06-02]<br>对134篇涉及基于深度学习的皮损分割的研究论文调研
     * [Skin Lesion Analysis: A State-of-the-Art Survey, Systematic Review, and Future Trends](https://arxiv.org/abs/2208.12232)<br>[2022-08-26]<br>本篇综述对2011年至2020年间发表的尖端CAD技术进行完整的文献回顾，共包 含365 篇出版物，其中221篇用于皮肤病变分割，144篇用于皮肤病变分类。
