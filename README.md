@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月28日已公开 189 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月28日已公开 190 篇。
 
 ## 目录
 
@@ -257,6 +257,7 @@
   * [A Survey for Deep RGBT Tracking](https://arxiv.org/abs/2201.09296)<br>[2022-01-25]<br>本篇综述是对近期基于深度神经网络的RGBT追踪器的全面调研，得出MDNet和Siamese架构在RGBT任务中的两个主流框架，前者取得了更高的性能，而后者则满足了实时性要求。以及应对更大数据集应用时，应进一步考虑整合端到端框架，如Siamese和Transformer，以满足实时性以及更强的性能。
 * 视觉目标跟踪
   * [Visual Object Tracking on Multi-modal RGB-D Videos: A Review](https://arxiv.org/abs/2201.09207)<br>[2022-01-25]<br>本篇综述的目的是总结RGB-D跟踪研究中的相关知识。
+  * [Visual Object Tracking in First Person Vision](https://arxiv.org/abs/2209.13502)<br>[2022-09-28]<br>:star:[code](https://machinelearning.uniud.it/datasets/trek150/)
 * 多目标跟踪
   * [Recent Advances in Embedding Methods for Multi-Object Tracking: A Survey](https://arxiv.org/abs/2205.10766)<br>[2022-05-24]<br>对多目标跟踪（MOT）中的嵌入方法进行了全面调查和深入分析。
   * [Multiple Object Tracking in Recent Times: A Literature Review](https://arxiv.org/abs/2209.04796)<br>[2022-09-13]
