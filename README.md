@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月26日已公开 187 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月28日已公开 189 篇。
 
 ## 目录
 
@@ -122,6 +122,9 @@
 
 ## Capsule networks(胶囊网络)
 * [Learning with Capsules: A Survey](https://arxiv.org/abs/2206.02664)<br>[2022-06-07]
+
+## Graph Neural Networks(图神经网络)
+* [A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective](https://arxiv.org/abs/2209.13232)<br>[2022-09-28]
 
 ## Vision-Language(视觉语言)
 * 视觉语言预训练
@@ -378,6 +381,8 @@
   * [A Comprehensive Survey with Quantitative Comparison of Image Analysis Methods for Microorganism Biovolume Measurements](https://arxiv.org/abs/2202.09020)<br>[2022-02-21]<br>本篇文章通过 60 多篇文献对基于 DIP 的微生物生物量测量进行全面回顾。
 * 医学数据分析
   * [Non-Imaging Medical Data Synthesis for Trustworthy AI: A Comprehensive Survey](https://arxiv.org/abs/2209.09239)<br>[2022-09-21]<br>
+* 医学图像分析
+  * [A Survey of Fairness in Medical Image Analysis: Concepts, Algorithms, Evaluations, and Challenges](https://arxiv.org/abs/2209.13177)<br>[2022-09-28]<br>
 * 医学图像配准
   * [Medical image registration using unsupervised deep neural network: A scoping literature review](https://arxiv.org/abs/2208.01825)<br>[2022-08-04]<br>
 * 医学图像分类
