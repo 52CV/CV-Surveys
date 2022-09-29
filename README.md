@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月28日已公开 190 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月29日已公开 192 篇。
 
 ## 目录
 
@@ -48,6 +48,7 @@
 
 ## Adversarial attacks
 * [Adversarial Patch Attacks and Defences in Vision-Based Tasks: A Survey](https://arxiv.org/abs/2206.08304)<br>[2022-06-17]<br>
+* [A Survey on Physical Adversarial Attack in Computer Vision](https://arxiv.org/abs/2209.14262)<br>[2022-06-29]<br>
 ## Data Augmentation(数据增强)
 * [A Survey of Automated Data Augmentation Algorithms for Deep Learning-based Image Classication Tasks](https://arxiv.org/abs/2206.06544)<br>[2022-06-15]<br>本篇综述从图像分类的角度讨论了AutoDA技术出现的根本原因。确定了标准AutoDA模型的三个关键组成部分：搜索空间、搜索算法和评估功能。基于它们的结构，对现有的图像AutoDA方法进行了系统的分类。本文介绍了AutoDA领域的主要工作，讨论了它们的优点和缺点，并提出了几个潜在的未来改进方向。
 
@@ -424,7 +425,8 @@
   * [Review of data types and model dimensionality for cardiac DTI SMS-related artefact removal](https://arxiv.org/abs/2209.09522)<br>[2022-09-21]<br>
  * 阿尔兹海默症自动检测
    * [Automated detection of Alzheimer disease using MRI images and deep neural networks- A review](https://arxiv.org/abs/2209.11449)<br>[2022-09-26]<br>
- 
+ * 冠心病检测
+   * [A Review of Modern Approaches for Coronary Angiography Imaging Analysis](https://arxiv.org/abs/2209.13997)<br>[2022-09-29]<br>
  
 <a name="2"/>
 
