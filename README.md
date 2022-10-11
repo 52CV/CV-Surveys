@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月29日已公开 192 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月10日已公开 196 篇。
 
 ## 目录
 
@@ -49,11 +49,9 @@
 ## Adversarial attacks
 * [Adversarial Patch Attacks and Defences in Vision-Based Tasks: A Survey](https://arxiv.org/abs/2206.08304)<br>[2022-06-17]<br>
 * [A Survey on Physical Adversarial Attack in Computer Vision](https://arxiv.org/abs/2209.14262)<br>[2022-06-29]<br>
+
 ## Data Augmentation(数据增强)
 * [A Survey of Automated Data Augmentation Algorithms for Deep Learning-based Image Classication Tasks](https://arxiv.org/abs/2206.06544)<br>[2022-06-15]<br>本篇综述从图像分类的角度讨论了AutoDA技术出现的根本原因。确定了标准AutoDA模型的三个关键组成部分：搜索空间、搜索算法和评估功能。基于它们的结构，对现有的图像AutoDA方法进行了系统的分类。本文介绍了AutoDA领域的主要工作，讨论了它们的优点和缺点，并提出了几个潜在的未来改进方向。
-
-## Deep Reinforcement Learning
-* [Backbones-Review: Feature Extraction Networks for Deep Learning and Deep Reinforcement Learning Approaches](https://arxiv.org/abs/2206.08016)<br>[2022-06-17]<br>
 
 ## Fish Habitat Monitoring
 * [Applications of Deep Learning in Fish Habitat Monitoring: A Tutorial and Survey](https://arxiv.org/abs/2206.05394)<br>[2022-06-14]<br>
@@ -88,7 +86,7 @@
 * 手指静脉识别
   * [Artificial Neural Networks for Finger Vein Recognition: A Survey](https://arxiv.org/abs/2208.13341)<br>[2022-08-30]<br>收集了149篇相关论文,总结基于人工神经网络的指静脉识别的发展。
 
-## Self-Supervised Learning
+## Semi/Self-Supervised Learning
 * 自监督
   * [Beyond Just Vision: A Review on Self-Supervised Representation Learning on Multimodal and Temporal Data](https://arxiv.org/abs/2206.02353)<br>[2022-06-07]<br>
   * [A Survey on Masked Autoencoder for Self-supervised Learning in Vision and Beyond](https://arxiv.org/abs/2208.00173)<br>[2022-08-02]<br>
@@ -98,8 +96,14 @@
 ## Transfer Learning(迁移学习)
 * [A Review of Deep Transfer Learning and Recent Advancements](https://arxiv.org/abs/2201.09679)<br>[2022-01-25]<br>
 
+## Reinforcement Learning(强化学习)
+* [Backbones-Review: Feature Extraction Networks for Deep Learning and Deep Reinforcement Learning Approaches](https://arxiv.org/abs/2206.08016)<br>[2022-06-17]<br>
+* [A Comprehensive Survey of Data Augmentation in Visual Reinforcement Learning](https://arxiv.org/abs/2210.04561)<br>[2022-10-10]<br>:star:[code](https://github.com/Guozheng-Ma/DA-in-visualRL)
+
+
 ## Style Transfer(风格迁移)
 * [An Overview of Color Transfer and Style Transfer for Images and Videos](https://arxiv.org/abs/2204.13339)<br>[2022-04-29]<br>
+
 
 ## Visual Speech(视觉语音)
 * [Deep Learning for Visual Speech Analysis: A Survey](https://arxiv.org/abs/2205.10839)<br>[2022-05-24]<br>是对基于深度学习的VSA进行的全面回顾。其中专注于两个基本问题：视觉语音识别和视觉语音生成，并对现实的挑战和当前的发展，包括数据集、评估协议、代表方法、SOTA性能、实际问题等进行总结。
@@ -112,6 +116,8 @@
 ## OCR
 * 手写数字识别
   * [Two Decades of Bengali Handwritten Digit Recognition: A Survey](https://arxiv.org/abs/2206.02234)<br>[2022-06-07]<br>本文分析了孟加拉语手写数字的特点和固有的模糊性，以及对二十年来最先进的数据集和离线BHDR方法的全面了解。
+* Logo Detection
+  * [Deep Learning for Logo Detection: A Survey](https://arxiv.org/abs/2210.04399)<br>[2022-10-10]<br>
 
 ## Augmented Reality/Virtual Reality/Robotics(增强/虚拟现实/机器人)
 * AR
@@ -342,7 +348,8 @@
   * [Transformers in Remote Sensing: A Survey](https://arxiv.org/abs/2209.01206)<br>[2022-09-05]<br>:star:[code](https://github.com/VIROBO-15/Transformer-in-Remote-Sensing)<br>本篇综述是第一次对遥感中 transformers 的最新进展进行系统的回顾,其中涵盖了60多个最新的基于 transformers 的方法，用于遥感子领域的不同遥感问题：very high-resolution（VHR）、高光谱（HSI）和合成孔径雷达（SAR）图像。
 * 张量分解
   * [Tensor Decompositions for Hyperspectral Data Processing in Remote Sensing: A Comprehensive Review](https://arxiv.org/abs/2205.06407)<br>[2022-05-16]<br>遥感中高光谱数据处理的张量分解
-
+* 树皮甲虫攻击检测
+  * [Early Detection of Bark Beetle Attack Using Remote Sensing and Machine Learning: A Review](https://arxiv.org/abs/2210.03829)<br>[2022-10-10]<br>
  
 <a name="4"/>
 
@@ -385,6 +392,7 @@
   * [Non-Imaging Medical Data Synthesis for Trustworthy AI: A Comprehensive Survey](https://arxiv.org/abs/2209.09239)<br>[2022-09-21]<br>
 * 医学图像分析
   * [A Survey of Fairness in Medical Image Analysis: Concepts, Algorithms, Evaluations, and Challenges](https://arxiv.org/abs/2209.13177)<br>[2022-09-28]<br>
+  * [Trustworthy clinical AI solutions: a unified review of uncertainty quantification in deep learning models for medical image analysis](https://arxiv.org/abs/2210.03736)<br>[2022-10-10]<br>
 * 医学图像配准
   * [Medical image registration using unsupervised deep neural network: A scoping literature review](https://arxiv.org/abs/2208.01825)<br>[2022-08-04]<br>
 * 医学图像分类
