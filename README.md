@@ -432,7 +432,7 @@
 * MRI
   * [Review of data types and model dimensionality for cardiac DTI SMS-related artefact removal](https://arxiv.org/abs/2209.09522)<br>[2022-09-21]<br>
  * 阿尔兹海默症自动检测
-   * [Automated detection of Alzheimer disease using MRI images and deep neural networks- A review](https://arxiv.org/abs/2209.11449)<br>[2022-09-26]<br>
+   * [Automated detection of Alzheimer disease using MRI images and deep neural networks- A review](https://arxiv.org/abs/2209.11282)<br>[2022-09-26]<br>
  * 冠心病检测
    * [A Review of Modern Approaches for Coronary Angiography Imaging Analysis](https://arxiv.org/abs/2209.13997)<br>[2022-09-29]<br>
  
