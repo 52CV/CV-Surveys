@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月10日已公开 196 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月13日已公开 198 篇。
 
 ## 目录
 
@@ -85,6 +85,9 @@
   * [Towards the Generation of Synthetic Images of Palm Vein Patterns: A Review](https://arxiv.org/abs/2205.10179)<br>[2022-05-23]<br>
 * 手指静脉识别
   * [Artificial Neural Networks for Finger Vein Recognition: A Survey](https://arxiv.org/abs/2208.13341)<br>[2022-08-30]<br>收集了149篇相关论文,总结基于人工神经网络的指静脉识别的发展。
+* 虹膜识别
+  * [Deep Learning for Iris Recognition: A Survey](https://arxiv.org/abs/2210.05866)<br>[2022-10-13]<br>本篇综述是对过去10年中发表的 200 多篇关于虹膜识别深度学习技术最新发展的论文、技术报告和 GitHub 资源库进行的全面回顾，涵盖了算法设计、开源工具、公开挑战和新兴研究等广泛的主题。
+
 
 ## Semi/Self-Supervised Learning
 * 自监督
@@ -369,6 +372,7 @@
 * [A Review of Causality for Learning Algorithms in Medical Image Analysis](https://arxiv.org/abs/2206.05498)<br>[2022-06-14]<br>
 * [Machine learning approaches for COVID-19 detection from chest X-ray imaging: A Systematic Review](https://arxiv.org/abs/2206.05615)<br>[2022-06-14]<br>本文对应用于利用胸部X光图像进行COVID-19检测的ML进行了系统回顾，目的是在方法、架构、数据库和目前的局限性方面为研究人员提供一个基线。
 * [Texture features in medical image analysis: a survey](https://arxiv.org/abs/2208.02046)<br>[2022-08-04]<br>
+* [3D Brain and Heart Volume Generative Models: A Survey](https://arxiv.org/abs/2210.05952)<br>[2022-10-13]<br>:star:[code](https://github.com/csyanbin/3D-Medical-Generative-Survey)
 * 自动检测
   * [Deep Learning Applications for Lung Cancer Diagnosis: A systematic review](https://arxiv.org/abs/2201.00227)<br>[2022-01-04]<br>本篇综述是对深度学习在肺癌自动检测领域应用的全面调研，其中回顾文献是 2016 年至 2021 年该领域的 32 篇会议和期刊文章。
   * [AI-based Carcinoma Detection and Classification Using Histopathological Images: A Systematic Review](https://arxiv.org/abs/2201.07231)<br>[2022-01-20]
