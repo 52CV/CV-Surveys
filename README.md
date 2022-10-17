@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月13日已公开 198 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月17日已公开 199 篇。
 
 ## 目录
 
@@ -39,6 +39,8 @@
 ## 建筑设计
 * [Computer vision-based analysis of buildings and built environments: A systematic review of current approaches](https://arxiv.org/abs/2208.00881)<br>[2022-08-02]<br>基于计算机视觉的建筑和建筑环境分析综述
 
+## NLP
+* [A Survey of Parameters Associated with the Quality of Benchmarks in NLP](https://arxiv.org/abs/2210.07566)
 
 ## Machine Learning(机器学习)
 * [Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks](https://arxiv.org/abs/2207.13243)<br>[2022-07-28]<br>
