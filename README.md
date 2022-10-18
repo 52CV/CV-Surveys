@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月17日已公开 199 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月17日已公开 202 篇。
 
 ## 目录
 
@@ -143,6 +143,7 @@
   * [VLP: A Survey on Vision-Language Pre-training](https://arxiv.org/abs/2202.09061)<br>[2022-02-21]<br>本篇文章对视觉语言预训练（VLP）的最新进展和新领域进行了调研，包括图像-文本和视频-文本预训练。并表示这是第一份关于VLP的调研。希望它能对VLP领域的未来研究有所启示。
   * [A Survey of Vision-Language Pre-Trained Models](https://arxiv.org/abs/2202.10936)<br>[2022-02-23]<br>本篇综述对 VL-PTMs 进行了回顾。其中说明了常用的架构，并对它们的优点和缺点进行了讨论。还介绍了几种预训练VL-PTM并使其适应下游任务的主流方法。
   * [Vision-and-Language Pretrained Models: A Survey](https://arxiv.org/abs/2204.07356)<br>[2022-04-18]<br>
+  * [Vision-Language Pre-training: Basics, Recent Advances, and Future Trends](https://arxiv.org/abs/2210.09263)<br>[2022-10-18]<br>
 
 ## Attention
 * [Visual Attention Methods in Deep Learning: An In-Depth Survey](https://arxiv.org/abs/2204.07756)<br>[2022-04-19]<br>本篇综述回顾了 70 多篇与视觉应用中使用的各种注意力机制有关的文章。并对注意力技术以及它们的优点和局限性进行了全面的讨论。
@@ -294,6 +295,8 @@
   * [Towards Large-Scale Small Object Detection: Survey and Benchmarks](https://arxiv.org/abs/2207.14096)<br>[2022-07-29]<br>:star:[code](https://github.com/shaunyuan22/SODA)
 * 水下目标检测
   * [Review On Deep Learning Technique For Underwater Object Detection](https://arxiv.org/abs/2209.10151)<br>[2022-09-22]<br>
+* 牛识别
+  * [A Systematic Review of Machine Learning Techniques for Cattle Identification: Datasets, Methods and Future Directions](https://arxiv.org/abs/2210.09215)<br>[2022-10-18]<br>:star:[code]
 
 <a name="9"/>
 
@@ -469,6 +472,8 @@
   * [Avoiding Overfitting: A Survey on Regularization Methods for Convolutional Neural Networks](https://arxiv.org/abs/2201.03299)<br>[2022-01-11]<br>本次调研工作就对过去几年开发的几种正则化方法进行分析，并将调研文献分为“input regularization”、“internal regularization”、“label regularization”三类，且相关文献不超过五年以及所有文献代码都可以在公共资源库中找到。
 * 可视化
   * [DL4SciVis: A State-of-the-Art Survey on Deep Learning for Scientific Visualization](https://arxiv.org/abs/2204.06504)<br>[2022-04-14]<br>本篇文章是关于 DL4SciVis 的最先进的调研，涵盖了自 2017 年以来沿着六个维度发表的 59 篇论文，对其相似性和差异性进行了深入讨论，确定其趋势和差距，并概述了研究机会和公开挑战。
+* 扩散模型
+  * [Efficient Diffusion Models for Vision: A Survey](https://arxiv.org/abs/2210.09292)<br>[2022-10-18]<br>
 
 ## 扫码CV君微信（注明：CV）入微信交流群：
 
