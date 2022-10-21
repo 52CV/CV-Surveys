@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月20日已公开 203 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月21日已公开 205 篇。
 
 ## 目录
 
@@ -44,6 +44,9 @@
 
 ## Machine Learning(机器学习)
 * [Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks](https://arxiv.org/abs/2207.13243)<br>[2022-07-28]<br>
+
+## 农业
+* [A Survey of Computer Vision Technologies In Urban and Controlled-environment Agriculture](https://arxiv.org/abs/2210.11318)<br>[2022-10-21]<br>
 
 ## 工业检测
 * [A Survey of Detection Methods for Die Attachment and Wire Bonding Defects in Integrated Circuit Manufacturing](https://arxiv.org/abs/2206.07481)<br>[2022-06-16]<br>本文对用于检测这些缺陷的方法进行了调查或文献回顾，这些方法是基于所使用的不同传感方式，包括光学、放射学、声学和红外热成像。在这项调查中，对所使用的检测方法进行了讨论。传统的和深度学习的方法都被认为是检测芯片连接和电线连接缺陷的方法，同时也考虑了挑战和未来的研究方向。
@@ -95,6 +98,7 @@
 * 自监督
   * [Beyond Just Vision: A Review on Self-Supervised Representation Learning on Multimodal and Temporal Data](https://arxiv.org/abs/2206.02353)<br>[2022-06-07]<br>
   * [A Survey on Masked Autoencoder for Self-supervised Learning in Vision and Beyond](https://arxiv.org/abs/2208.00173)<br>[2022-08-02]<br>
+  * [A survey on Self Supervised learning approaches for improving Multimodal representation learning](https://arxiv.org/abs/2210.11024)<br>[2022-10-21]<br>
 * 半监督
   * [Semi-Supervised and Unsupervised Deep Visual Learning: A Survey](https://arxiv.org/abs/2208.11296)<br>[2022-08-25]<br>
 
