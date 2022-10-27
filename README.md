@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月24日已公开 207 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月27日已公开 208 篇。
 
 ## 目录
 
@@ -138,6 +138,9 @@
 
 ## Capsule networks(胶囊网络)
 * [Learning with Capsules: A Survey](https://arxiv.org/abs/2206.02664)<br>[2022-06-07]
+
+## Image Synthesis
+* [A Survey on 3D-aware Image Synthesis](https://arxiv.org/abs/2210.14267)<br>[2022-10-27]<br>:star:[code](https://weihaox.github.io/projects/awesome-3d-aware/)
 
 ## Graph Neural Networks(图神经网络)
 * [A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective](https://arxiv.org/abs/2209.13232)<br>[2022-09-28]
