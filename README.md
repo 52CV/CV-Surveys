@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月28日已公开 209 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月31日已公开 212 篇。
 
 ## 目录
 
@@ -360,6 +360,7 @@
 <a name="5"/>
 
 ## 5.UAV\Remote Sensing\Satellite Image(无人机\遥感\卫星图像)
+* [A Survey on Fundamental Concepts and Practical Challenges of Hyperspectral images](https://arxiv.org/abs/2210.16237)<br>[2022-10-31]<br>
 * 无人机
   * 空中监测
     * [The State of Aerial Surveillance: A Survey](https://arxiv.org/abs/2201.03080)<br>[2022-01-11]<br>从计算机视觉和模式识别的角度对以人为中心的空中监视任务进行全面调研。
@@ -414,6 +415,7 @@
 * 医学图像分析
   * [A Survey of Fairness in Medical Image Analysis: Concepts, Algorithms, Evaluations, and Challenges](https://arxiv.org/abs/2209.13177)<br>[2022-09-28]<br>
   * [Trustworthy clinical AI solutions: a unified review of uncertainty quantification in deep learning models for medical image analysis](https://arxiv.org/abs/2210.03736)<br>[2022-10-10]<br>
+  * [A Survey on Causal Representation Learning and Future Work for Medical Image Analysis](https://arxiv.org/abs/2210.16034)<br>[2022-10-31]<br>
 * 医学图像配准
   * [Medical image registration using unsupervised deep neural network: A scoping literature review](https://arxiv.org/abs/2208.01825)<br>[2022-08-04]<br>
 * 医学图像分类
@@ -479,6 +481,7 @@
 * [Handcrafted Feature Selection Techniques for Pattern Recognition: A Survey](https://arxiv.org/abs/2209.02746)<br>[2022-09-08]<br>
 * [Diffusion Models in Vision: A Survey](https://arxiv.org/abs/2209.04747)<br>[2022-09-13]<br>
 * [A Survey of Data Optimization for Problems in Computer Vision Datasets](https://arxiv.org/abs/2210.11717)<br>[2022-10-24]<br>:star:[code](https://github.com/Vivian-wzj/DataOptimization-CV)
+* [Towards Data-and Knowledge-Driven Artificial Intelligence: A Survey on Neuro-Symbolic Computing](https://arxiv.org/abs/2210.15889)<br>[2022-10-31]<br>
 * 城市规划
   * [Visual and Object Geo-localization: A Comprehensive Survey](https://arxiv.org/abs/2112.15202)<br>[2022-01-03]<br>本篇综述对涉及图像的地理定位进行了全面的调查，其中包括确定图像的拍摄地点（图像地理定位）或图像中物体的地理定位（物体地理定位）。
 * 正则化
