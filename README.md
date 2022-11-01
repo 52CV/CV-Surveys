@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月31日已公开 212 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月1日已公开 213 篇。
 
 ## 目录
 
@@ -164,6 +164,8 @@
   * [Dimensionality Reduced Training by Pruning and Freezing Parts of a Deep Neural Network, a Survey](https://arxiv.org/abs/2205.08099)<br>[2022-05-18]<br>通过 Pruning 和 Freezing 深层神经网络的部分内容进行降维训练调研
 * ANN
   * [A Review on Plastic Artificial Neural Networks: Exploring the Intersection between Neural Architecture Search and Continual Learning](https://arxiv.org/abs/2206.05625)<br>[2022-06-14]<br>
+* KD
+  * [Teacher-Student Architecture for Knowledge Learning: A Survey](https://arxiv.org/abs/2210.17332)<br>[2022-11-01]<br>
 
 ## 20.3D
 * 深度估计
