@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月1日已公开 213 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月2日已公开 214 篇。
 
 ## 目录
 
@@ -232,6 +232,8 @@
   * [A Survey on Visual Map Localization Using LiDARs and Cameras](https://arxiv.org/abs/2208.03376)<br>[2022-08-09]<br>
 * 智能交通
   * [Review on Action Recognition for Accident Detection in Smart City Transportation Systems](https://arxiv.org/abs/2208.09588)<br>[2022-08-23]<br>本文对智能城市的事故检测和自主交通系统中的动作识别进行了深入的回顾。
+* 行为意图预测
+  * [Behavioral Intention Prediction in Driving Scenes: A Survey](https://arxiv.org/abs/2211.00385)<br>[2022-11-02]<br>
  
 <a name="13"/>
 
