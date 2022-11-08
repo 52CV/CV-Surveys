@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月4日已公开 215 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月8日已公开 217 篇。
 
 ## 目录
 
@@ -355,12 +355,15 @@
   * [Beyond the Visible: A Survey on CFace Recognition](https://arxiv.org/abs/2201.04435)<br>[2022-01-13]<br>
 * 口罩人脸检测
   * [A Survey on Masked Facial Detection Methods and Datasets for Fighting Against COVID-19](https://arxiv.org/abs/2201.04777)<br>[2022-01-14]
+  * [A Survey on Computer Vision based Human Analysis in the COVID-19 Era](https://arxiv.org/abs/2211.03705)<br>[2022-11-08]
 * GAN-face检测
   * [GAN-generated Faces Detection: A Survey and New Perspectives](https://arxiv.org/abs/2202.07145)<br>[2022-02-16]<br>本次综述旨在对 GAN-face 检测的最新进展进行全面回顾。并着重研究能够检测由 GAN 模型生成或合成的人脸图像的方法。
 * 眼周生物识别技术
   * [Periocular Biometrics and its Relevance to Partially Masked Faces: A Survey](https://arxiv.org/abs/2203.15203)<br>[2022-03-30]
 * 人脸属性编辑
   * [A comprehensive survey on semantic facial attribute editing using generative adversarial networks](https://arxiv.org/abs/2205.10587)<br>[2022-05-24]<br>使用生成式对抗网络进行人脸属性语义编辑的全面调查
+* 人脸修复
+  * [A Survey of Deep Face Restoration: Denoise, Super-Resolution, Deblur, Artifact Removal](https://arxiv.org/abs/2211.02831)<br>[2022-11-08]<br>:star:[code](https://github.com/TaoWangzj/Awesome-Face-Restoration)
 
 <a name="5"/>
 
