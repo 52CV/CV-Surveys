@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月8日已公开 217 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月9日已公开 218 篇。
 
 ## 目录
 
@@ -370,6 +370,7 @@
 ## 5.UAV\Remote Sensing\Satellite Image(无人机\遥感\卫星图像)
 * [A Survey on Fundamental Concepts and Practical Challenges of Hyperspectral images](https://arxiv.org/abs/2210.16237)<br>[2022-10-31]<br>
 * 无人机
+  * [Machine Learning-Aided Operations and Communications of Unmanned Aerial Vehicles: A Contemporary Survey](https://arxiv.org/abs/2211.04324)<br>[2022-11-09]<br>
   * 空中监测
     * [The State of Aerial Surveillance: A Survey](https://arxiv.org/abs/2201.03080)<br>[2022-01-11]<br>从计算机视觉和模式识别的角度对以人为中心的空中监视任务进行全面调研。
 * 遥感
