@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月10日已公开 219 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月11日已公开 221 篇。
 
 ## 目录
 
@@ -147,6 +147,7 @@
 * [A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective](https://arxiv.org/abs/2209.13232)<br>[2022-09-28]
 
 ## Vision-Language(视觉语言)
+* [Debiasing Methods for Fairer Neural Models in Vision and Language ](https://arxiv.org/abs/2211.05617)<br>[2022-11-11]<br>
 * 视觉语言预训练
   * [VLP: A Survey on Vision-Language Pre-training](https://arxiv.org/abs/2202.09061)<br>[2022-02-21]<br>本篇文章对视觉语言预训练（VLP）的最新进展和新领域进行了调研，包括图像-文本和视频-文本预训练。并表示这是第一份关于VLP的调研。希望它能对VLP领域的未来研究有所启示。
   * [A Survey of Vision-Language Pre-Trained Models](https://arxiv.org/abs/2202.10936)<br>[2022-02-23]<br>本篇综述对 VL-PTMs 进行了回顾。其中说明了常用的架构，并对它们的优点和缺点进行了讨论。还介绍了几种预训练VL-PTM并使其适应下游任务的主流方法。
@@ -467,6 +468,8 @@
    * [Automated detection of Alzheimer disease using MRI images and deep neural networks- A review](https://arxiv.org/abs/2209.11282)<br>[2022-09-26]<br>
  * 冠心病检测
    * [A Review of Modern Approaches for Coronary Angiography Imaging Analysis](https://arxiv.org/abs/2209.13997)<br>[2022-09-29]<br>
+ * X-ray
+   * [Computer Vision on X-ray Data in Industrial Production and Security Applications: A survey](https://arxiv.org/abs/2211.05565)<br>[2022-11-11]<br>
  
 <a name="2"/>
 
