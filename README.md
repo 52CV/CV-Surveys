@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月11日已公开 222 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月14日已公开 223 篇。
 
 ## 目录
 
@@ -335,6 +335,7 @@
 * [Video Transformers: A Survey](https://arxiv.org/abs/2201.05991)<br>[2022-01-19]<br>
 * [Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work](https://arxiv.org/abs/2203.01536)<br>[2022-03-04]<br>:star:[code](https://github.com/khawar512/ViT-Survey)
 * [Transformers in 3D Point Clouds: A Survey](https://arxiv.org/abs/2205.07417)<br>[2022-05-17]<br>旨在全面介绍为各种任务（如点云分类、分割、目标检测等）设计的 3D Transformers。
+* [A Comprehensive Survey of Transformers for Computer Vision](https://arxiv.org/abs/2211.06004)<br>[2022-11-14]<br>
 * 多模态学习
   * [Multimodal Learning with Transformers: A Survey](https://arxiv.org/abs/2206.06488)<br>[2022-06-15]<br>本文对面向多模态数据的Transformer技术进行了全面调查。该调查的主要内容包括 (1)多模态学习、Transformer生态系统和多模态大数据时代的背景，(2)从几何拓扑学的角度对Vanilla Transformer、Vision Transformer和多模态Transformer进行了理论回顾，(3)通过两个重要范式对多模态Transformer的应用进行回顾，即。(4)总结多模态变换器模型和应用的共同挑战和设计，(5)讨论社区的开放问题和潜在研究方向。
 
