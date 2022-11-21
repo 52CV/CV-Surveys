@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月18日已公开 228 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月21日已公开 230 篇。
 
 ## 目录
 
@@ -324,6 +324,7 @@
   * [The Elements of Temporal Sentence Grounding in Videos: A Survey and Future Directions](https://arxiv.org/abs/2201.08071)<br>[2022-01-21]<br>
 * 视频分析
   * [A Comprehensive Review of Computer Vision in Sports: Open Issues, Future Trends and Research Directions](https://arxiv.org/abs/2203.02281)<br>[2022-03-07]<br>本文对体育视频分析的各种应用进行了全面的回顾，如球员的检测和分类，跟踪体育运动中的球员或球，预测球员或球的轨迹，识别球队的策略，对体育中的各种事件进行分类。
+  [Video Unsupervised Domain Adaptation with Deep Learning: A Comprehensive Survey](https://arxiv.org/abs/2211.10412)<br>[2022-11-21]<br>
 * 视频监控
   * [Drivers' attention detection: a systematic literature review](https://arxiv.org/abs/2204.03741)<br>[2022-04-11]<br>驾驶员注意力检测综述
   * [An Overview of Violence Detection Techniques: Current Challenges and Future Directions](https://arxiv.org/abs/2209.11680)<br>[2022-09-26]<br>
@@ -418,6 +419,7 @@
 * Transformer
   * [Transformers in Medical Imaging: A Survey](https://arxiv.org/abs/2201.09873)<br>[2022-01-25]<br>:star:[code](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)<br>本篇综述试图对 Transformer 在医学影像中的应用(分割、检测、分类、重建、合成、配准、临床报告生成等)进行全面回顾，涵盖从近期所提出的架构设计到未解决的问题等各个方面。
   * [Transformers in Medical Image Analysis: A Review](https://arxiv.org/abs/2202.12165)<br>[2022-02-25]<br>本文围绕 Transformer 在不同学习范式中的使用、提高模型效率以及与其他技术的耦合等方面的关键挑战进行了全面研究。
+  * [Vision Transformers in Medical Imaging: A Review](https://arxiv.org/abs/2211.10043)<br>[2022-11-21]<br>
 * 加密医疗图像
   * [A Survey on Patients Privacy Protection with Stganography and Visual Encryption](https://arxiv.org/abs/2201.09388)<br>[2022-01-25]<br>
   * [A Comprehensive Survey on Federated Learning: Concept and Application](https://arxiv.org/abs/2201.09384)<br>[2022-01-25]<br>
