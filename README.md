@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月29日已公开 234 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月29日已公开 237 篇。
 
 ## 目录
 
@@ -448,6 +448,7 @@
   * [Learning with Limited Annotations: A Survey on Deep Semi-Supervised Learning for Medical Image Segmentation](https://arxiv.org/abs/2207.14191)<br>[2022-07-29]<br>医学图像分割的深度半监督学习综述
   * [Nuclei & Glands Instance Segmentation in Histology Images: A Narrative Review](https://arxiv.org/abs/2208.12460)<br>[2022-08-29]<br>本篇综述深入分析了过去五年（2017-2022年）发表的126篇基于人工智能的细胞核和腺体实例分割方法的论文，讨论了当前方法的局限性和公开挑战。
   * [Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future Directions](https://arxiv.org/abs/2209.10307)<br>[2022-09-22]<br>:star:[code](https://github.com/hust-linyi/MedISeg)
+  * [Medical Image Segmentation Review: The success of U-Net](https://arxiv.org/abs/2211.14830)<br>[2022-11-29]<br>:star:[code](https://github.com/NITR098/Awesome-U-Net)
   * 皮损分割
     * [A Survey on Deep Learning for Skin Lesion Segmentation](https://arxiv.org/abs/2206.00356)<br>[2022-06-02]<br>对134篇涉及基于深度学习的皮损分割的研究论文调研
     * [Skin Lesion Analysis: A State-of-the-Art Survey, Systematic Review, and Future Trends](https://arxiv.org/abs/2208.12232)<br>[2022-08-26]<br>本篇综述对2011年至2020年间发表的尖端CAD技术进行完整的文献回顾，共包 含365 篇出版物，其中221篇用于皮肤病变分割，144篇用于皮肤病变分类。
@@ -481,6 +482,8 @@
    * [A Review of Modern Approaches for Coronary Angiography Imaging Analysis](https://arxiv.org/abs/2209.13997)<br>[2022-09-29]<br>
  * X-ray
    * [Computer Vision on X-ray Data in Industrial Production and Security Applications: A survey](https://arxiv.org/abs/2211.05565)<br>[2022-11-11]<br>
+ * 肿瘤生物标志物预测
+   * [Deep Learning-Based Prediction of Molecular Tumor Biomarkers from H&E: A Practical Review](https://arxiv.org/abs/2211.14847)<br>[2022-11-29]<br>
  
 <a name="2"/>
 
@@ -510,6 +513,7 @@
 * [A Survey on Evaluation Metrics for Synthetic Material Micro-Structure Images from Generative Models](https://arxiv.org/abs/2211.09727)<br>[2022-11-18]<br>
 * [A review of laser scanning for geological and geotechnical applications in underground mining](https://arxiv.org/abs/2211.11181)<br>[2022-11-22]<br>
 * [Open-Source Ground-based Sky Image Datasets for Very Short-term Solar Forecasting, Cloud Analysis and Modeling: A Comprehensive Survey](https://arxiv.org/abs/2211.14709)<br>[2022-11-29]<br>
+* [Attribution-based XAI Methods in Computer Vision: A Review](https://arxiv.org/abs/2211.14736)<br>[2022-11-29]<br>
 * 城市规划
   * [Visual and Object Geo-localization: A Comprehensive Survey](https://arxiv.org/abs/2112.15202)<br>[2022-01-03]<br>本篇综述对涉及图像的地理定位进行了全面的调查，其中包括确定图像的拍摄地点（图像地理定位）或图像中物体的地理定位（物体地理定位）。
 * 正则化
