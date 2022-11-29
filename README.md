@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月22日已公开 231 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月29日已公开 234 篇。
 
 ## 目录
 
@@ -85,6 +85,8 @@
   * [A Survey of Visual Sensory Anomaly Detection](https://arxiv.org/abs/2202.07006)<br>[2022-02-16]<br>:star:[code](https://github.com/M-3LAB/awesome-visual-sensory-anomaly-detection)<br>首个视觉感官AD的全面调研工作
 
 ## 生物特征识别
+* 指纹孔隙检测
+  * [Fingerprint Pore Detection: A Survey](https://arxiv.org/abs/2211.14716)<br>[2022-11-29]<br>:star:[code](https://github.com/azimIbragimov/Fingerprint-Pore-Detection-A-Survey)
 * 指纹活性检测
   * [Review of the Fingerprint Liveness Detection (LivDet) competition series: from 2009 to 2021](https://arxiv.org/abs/2202.07259)<br>[2022-02-16]<br>对2009年至2021年的LivDet版本的指纹演示攻击检测（FPAD）算法的性能评估，并指出它们多年来的演变。
 * 手掌静脉识别
@@ -165,6 +167,7 @@
 * [Visual Semantic Segmentation Based on Few/Zero-Shot Learning: An Overview](https://arxiv.org/abs/2211.08352)<br>[2022-11-16]<br>
 
 ## 21.Model Compression/Knowledge Distillation/Pruning(模型压缩/知识蒸馏/剪枝)
+* [A survey of deep learning optimizers-first and second order methods](https://arxiv.org/abs/2211.15596)<br>[2022-11-29]<br>
 * 剪枝
   * [Dimensionality Reduced Training by Pruning and Freezing Parts of a Deep Neural Network, a Survey](https://arxiv.org/abs/2205.08099)<br>[2022-05-18]<br>通过 Pruning 和 Freezing 深层神经网络的部分内容进行降维训练调研
 * ANN
@@ -506,6 +509,7 @@
 * [Physics-Informed Machine Learning: A Survey on Problems, Methods and Applications](https://arxiv.org/abs/2211.08064)<br>[2022-11-16]<br>
 * [A Survey on Evaluation Metrics for Synthetic Material Micro-Structure Images from Generative Models](https://arxiv.org/abs/2211.09727)<br>[2022-11-18]<br>
 * [A review of laser scanning for geological and geotechnical applications in underground mining](https://arxiv.org/abs/2211.11181)<br>[2022-11-22]<br>
+* [Open-Source Ground-based Sky Image Datasets for Very Short-term Solar Forecasting, Cloud Analysis and Modeling: A Comprehensive Survey](https://arxiv.org/abs/2211.14709)<br>[2022-11-29]<br>
 * 城市规划
   * [Visual and Object Geo-localization: A Comprehensive Survey](https://arxiv.org/abs/2112.15202)<br>[2022-01-03]<br>本篇综述对涉及图像的地理定位进行了全面的调查，其中包括确定图像的拍摄地点（图像地理定位）或图像中物体的地理定位（物体地理定位）。
 * 正则化
