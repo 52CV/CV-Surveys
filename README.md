@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月30日已公开 239 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月06日已公开 241 篇。
 
 ## 目录
 
@@ -84,6 +84,10 @@
 * 视觉感官异常检测
   * [A Survey of Visual Sensory Anomaly Detection](https://arxiv.org/abs/2202.07006)<br>[2022-02-16]<br>:star:[code](https://github.com/M-3LAB/awesome-visual-sensory-anomaly-detection)<br>首个视觉感官AD的全面调研工作
 
+## Object Pose Estimation(物体姿势估计) 
+* 6D
+  * [Review on 6D Object Pose Estimation with the focus on Indoor Scene Understanding](https://arxiv.org/abs/2212.01920)<br>[2022-12-06]
+  
 ## 生物特征识别
 * 指纹孔隙检测
   * [Fingerprint Pore Detection: A Survey](https://arxiv.org/abs/2211.14716)<br>[2022-11-29]<br>:star:[code](https://github.com/azimIbragimov/Fingerprint-Pore-Detection-A-Survey)
@@ -376,6 +380,8 @@
   * [A comprehensive survey on semantic facial attribute editing using generative adversarial networks](https://arxiv.org/abs/2205.10587)<br>[2022-05-24]<br>使用生成式对抗网络进行人脸属性语义编辑的全面调查
 * 人脸修复
   * [A Survey of Deep Face Restoration: Denoise, Super-Resolution, Deblur, Artifact Removal](https://arxiv.org/abs/2211.02831)<br>[2022-11-08]<br>:star:[code](https://github.com/TaoWangzj/Awesome-Face-Restoration)
+* 面部情绪识别
+  * [A survey of smart classroom: Concept, technologies and facial emotions recognition application](https://arxiv.org/abs/2212.01675)<br>[2022-12-06]
 
 <a name="5"/>
 
