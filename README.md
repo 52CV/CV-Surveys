@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月06日已公开 241 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月07日已公开 242 篇。
 
 ## 目录
 
@@ -129,6 +129,7 @@
 ## Domain Adaptation(域适应)
 * 域适应
   * [Deep Unsupervised Domain Adaptation: A Review of Recent Advances and Perspectives](https://arxiv.org/abs/2208.07422)<br>[2022-08-17]<br>深度无监督域适应综述
+  * [Domain Adaptation and Generalization on Functional Medical Images: A Systematic Survey](https://arxiv.org/abs/2212.03176)<br>[2022-12-07]<br>
 
 ## OCR
 * 手写数字识别
