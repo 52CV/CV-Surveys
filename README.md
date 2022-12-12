@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月09日已公开 244 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月12日已公开 245 篇。
 
 ## 目录
 
@@ -167,6 +167,9 @@
 ## Attention
 * [Visual Attention Methods in Deep Learning: An In-Depth Survey](https://arxiv.org/abs/2204.07756)<br>[2022-04-19]<br>本篇综述回顾了 70 多篇与视觉应用中使用的各种注意力机制有关的文章。并对注意力技术以及它们的优点和局限性进行了全面的讨论。
 * [A survey on attention mechanisms for medical applications: are we moving towards better algorithms?](https://arxiv.org/abs/2204.12406)<br>[2022-04-27]<br>
+
+## SLAM
+* [SLAM for Visually Impaired People: A Survey](https://arxiv.org/abs/2212.04745)<br>[2022-12-12]<br>
 
 ## Image Segmentation(图像分割)
 * [Semantic Segmentation for Thermal Images: A Comparative Survey](https://arxiv.org/abs/2205.13278)<br>[2022-05-27]<br>热图像语义分割综述调研
