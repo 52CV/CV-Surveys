@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月13日已公开 246 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月19日已公开 247 篇。
 
 ## 目录
 
@@ -531,6 +531,7 @@
 * [Open-Source Ground-based Sky Image Datasets for Very Short-term Solar Forecasting, Cloud Analysis and Modeling: A Comprehensive Survey](https://arxiv.org/abs/2211.14709)<br>[2022-11-29]<br>
 * [Attribution-based XAI Methods in Computer Vision: A Review](https://arxiv.org/abs/2211.14736)<br>[2022-11-29]<br>
 * [Going Beyond XAI: A Systematic Survey for Explanation-Guided Learning](https://arxiv.org/abs/2212.03954)<br>[2022-12-09]<br>
+* [Deep Learning Methods for Calibrated Photometric Stereo and Beyond: A Survey](https://arxiv.org/abs/2212.08414)<br>[2022-12-19]<br>
 * 城市规划
   * [Visual and Object Geo-localization: A Comprehensive Survey](https://arxiv.org/abs/2112.15202)<br>[2022-01-03]<br>本篇综述对涉及图像的地理定位进行了全面的调查，其中包括确定图像的拍摄地点（图像地理定位）或图像中物体的地理定位（物体地理定位）。
 * 正则化
