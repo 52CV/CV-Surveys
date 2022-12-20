@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月19日已公开 247 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月20日已公开 251 篇。
 
 ## 目录
 
@@ -152,6 +152,9 @@
 
 ## Image Synthesis
 * [A Survey on 3D-aware Image Synthesis](https://arxiv.org/abs/2210.14267)<br>[2022-10-27]<br>:star:[code](https://weihaox.github.io/projects/awesome-3d-aware/)
+* 图像合成
+  * [Human Image Generation: A Comprehensive Survey](https://arxiv.org/abs/2212.08896)<br>[2022-12-20]
+
 
 ## Graph Neural Networks(图神经网络)
 * [A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective](https://arxiv.org/abs/2209.13232)<br>[2022-09-28]
@@ -388,6 +391,8 @@
   * [A survey of smart classroom: Concept, technologies and facial emotions recognition application](https://arxiv.org/abs/2212.01675)<br>[2022-12-06]
 * 篡改检测
   * [Fighting Malicious Media Data: A Survey on Tampering Detection and Deepfake Detection](https://arxiv.org/abs/2212.05667)<br>[2022-12-13]
+* 人脸合成
+  * [Face Generation and Editing with StyleGAN: A Survey](https://arxiv.org/abs/2212.09102)<br>[2022-12-20]
 
 <a name="5"/>
 
@@ -412,7 +417,9 @@
   * [Deep Learning-based Occluded Person Re-identification: A Survey](https://arxiv.org/abs/2207.14452)<br>[2022-08-01]<br>
 * 步态识别
   * [Gait Recognition Based on Deep Learning: A Survey](https://arxiv.org/abs/2201.03323)<br>[2022-01-11]<br>本篇综述提供一个关于通过步态识别进行生物识别的最新工作的调查汇编，重点是深度学习方法，强调其优点，并揭露其缺点。此外，它还对数据集、方法和架构进行分类和描述，以解决相关的限制。
-
+* 行人识别
+  * [A Brief Survey on Person Recognition at a Distance](https://arxiv.org/abs/2212.08969)<br>[2022-12-20]<br>
+  
 <a name="3"/>
 
 ## 3.🏥Medical Image(医学影像)
@@ -532,6 +539,7 @@
 * [Attribution-based XAI Methods in Computer Vision: A Review](https://arxiv.org/abs/2211.14736)<br>[2022-11-29]<br>
 * [Going Beyond XAI: A Systematic Survey for Explanation-Guided Learning](https://arxiv.org/abs/2212.03954)<br>[2022-12-09]<br>
 * [Deep Learning Methods for Calibrated Photometric Stereo and Beyond: A Survey](https://arxiv.org/abs/2212.08414)<br>[2022-12-19]<br>
+* [Reasoning with Language Model Prompting: A Survey](https://arxiv.org/abs/2212.09597)<br>[2022-12-20]<br>:star:[code](https://github.com/zjunlp/Prompt4ReasoningPapers)
 * 城市规划
   * [Visual and Object Geo-localization: A Comprehensive Survey](https://arxiv.org/abs/2112.15202)<br>[2022-01-03]<br>本篇综述对涉及图像的地理定位进行了全面的调查，其中包括确定图像的拍摄地点（图像地理定位）或图像中物体的地理定位（物体地理定位）。
 * 正则化
