@@ -20,7 +20,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月21日已公开 252 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月22日已公开 254 篇。
 
 ## 目录
 
@@ -58,6 +58,7 @@
 
 ## Data Augmentation(数据增强)
 * [A Survey of Automated Data Augmentation Algorithms for Deep Learning-based Image Classication Tasks](https://arxiv.org/abs/2206.06544)<br>[2022-06-15]<br>本篇综述从图像分类的角度讨论了AutoDA技术出现的根本原因。确定了标准AutoDA模型的三个关键组成部分：搜索空间、搜索算法和评估功能。基于它们的结构，对现有的图像AutoDA方法进行了系统的分类。本文介绍了AutoDA领域的主要工作，讨论了它们的优点和缺点，并提出了几个潜在的未来改进方向。
+* [A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability](https://arxiv.org/abs/2212.10888)<br>[2022-12-22]<br>:star:[code](https://github.com/ChengtaiCao/Awesome-Mix)
 
 ## Fish Habitat Monitoring
 * [Applications of Deep Learning in Fish Habitat Monitoring: A Tutorial and Survey](https://arxiv.org/abs/2206.05394)<br>[2022-06-14]<br>
@@ -284,6 +285,7 @@
   * [A Comprehensive Survey of Image Augmentation Techniques for Deep Learning](https://arxiv.org/abs/2205.01491)<br>[2022-05-04]<br> 
 * Hyperspectral Unmixing
   * [Hyperspectral Unmixing Based on Nonnegative Matrix Factorization: A Comprehensive Review](https://arxiv.org/abs/2205.09933)<br>[2022-05-23]<br>本篇文章作者对为高光谱解混提出的基于NMF的方法进行了全面调研。 
+  * [Low-Light Image and Video Enhancement: A Comprehensive Survey and Beyond](https://arxiv.org/abs/2212.10772)<br>[2022-12-22]<br> 
 * Fake Detection
   * [A Survey of Deep Fake Detection for Trial Courts](https://arxiv.org/abs/2205.15792)<br>[2022-06-01]<br> 
 * 高分辨率图像视频处理
