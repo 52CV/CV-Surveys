@@ -404,7 +404,7 @@
 * 水下目标检测
   * [Review On Deep Learning Technique For Underwater Object Detection](https://arxiv.org/abs/2209.10151)<br>[2022-09-22]<br>
 * 牛识别
-  * [A Systematic Review of Machine Learning Techniques for Cattle Identification: Datasets, Methods and Future Directions](https://arxiv.org/abs/2210.09215)<br>[2022-10-18]<br>:star:[code]
+  * [A Systematic Review of Machine Learning Techniques for Cattle Identification: Datasets, Methods and Future Directions](https://arxiv.org/abs/2210.09215)<br>[2022-10-18]
 
 <a name="9"/>
 
