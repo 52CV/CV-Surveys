@@ -6,6 +6,7 @@
 ## 2022 年论文分类汇总戳这里
 ↘️[CVPR-2022-Papers](https://github.com/52CV/CVPR-2022-Papers/blob/main/README.md)
 ↘️[WACV-2022-Papers](https://github.com/52CV/WACV-2022-Papers)
+↘️[ECCV-2022-Papers](https://github.com/52CV/ECCV-2022-Papers/blob/main/README.md)
 
 ## 2021 年论文分类汇总戳这里
 ↘️[ICCV-2021-Papers](https://github.com/52CV/ICCV-2021-Papers)
@@ -26,70 +27,112 @@
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
+|[50.NLP](#50)|[51.建筑设计](#51)|[52.全景成像](#52)|
+|[46.Adversarial attacks(对抗攻击)](#46)|[47.工业检测](#47)|[48.农业](#48)|[49.Machine Learning(机器学习)](#49)|
+|[42.Human Analysis](#42)|[43.harmful meme detection](#43)|[44.Fish Habitat Monitoring](#44)|[45.Data Augmentation(数据增强)](#45)|
+|[38.Anomaly Detection(异常检测)](#38)|[39.Deepfake Detection(虚假内容检测)](#39)|[40.Metric Learning(度量学习)](340)|[41.Clustering(聚类)](#41)|
+|[34.Transfer Learning(迁移学习)](#34)|[35.Semi/Self-Supervised Learning(自/半监督)](#35)|[36.生物特征识别](#36)|[37.Object Pose Estimation(物体姿势估计)](#37)| 
+|[30.Domain Adaptation(域适应)](#30)|[31.Visual Speech(视觉语音)](#31)|[32.Style Transfer(风格迁移)](#32)|[33.Reinforcement Learning(强化学习)](#33)|
+|[26.Graph Neural Networks(图神经网络)](#26)|[27.Image Synthesis](#27)|[28.Capsule networks(胶囊网络)](#28)|[29.Augmented Reality/Virtual Reality/Robotics(增强/虚拟现实/机器人)](#29)|
+|[22.Image Segmentation(图像分割)](#22)|[23.OCR](#23)|[24.Attention](#24)|[25.Vision-Language(视觉语言)](#25)|
+|[18.NAS(神经架构搜索)](#18)|[19.GAN](#19)|[20.3D](#20)|[21.Model Compression/Knowledge Distillation/Pruning(模型压缩/知识蒸馏/剪枝)](#21)|
 |[13.Human Pose Estimation(人体姿态估计)](#13)|[14.Auto Driving(自动驾驶)](#14)|[15.Image Super-resolution(超分辨率)](#15)|
 |[9.Video](#9)|[10.Object Detection(目标检测)](#10)|[11.Object Tracking(目标跟踪)](#11)|[12.Image Processing(图像处理)](#12)|
 |[5.UAV\Remote Sensing\Satellite Image(无人机\遥感\卫星图像)](#5)|[6.Face(人脸)](#6)|[7.3D](#7)|[8.Transformer](#8)|
 |[1.Unkown(未分)](#1)|[2.Scene Graph Generation(场景图生成)](#2)|[3.🏥Medical Image(医学影像)](#3)|[4.ReID(重识别)](#4)|
 
+<a name="52"/>
 
-* 全景成像
-  * [Review on Panoramic Imaging and Its Applications in Scene Understanding](https://arxiv.org/abs/2205.05570)<br>[2022-05-12]<br>
-  * [Deep Learning for Omnidirectional Vision: A Survey and New Perspectives](https://arxiv.org/pdf/2205.10468.pdf)<br>[2022-05-24]<br>
+## 52.全景成像
+* [Review on Panoramic Imaging and Its Applications in Scene Understanding](https://arxiv.org/abs/2205.05570)<br>[2022-05-12]<br>
+* [Deep Learning for Omnidirectional Vision: A Survey and New Perspectives](https://arxiv.org/pdf/2205.10468.pdf)<br>[2022-05-24]<br>
 
-## 建筑设计
+<a name="51"/>
+
+## 51.建筑设计
 * [Computer vision-based analysis of buildings and built environments: A systematic review of current approaches](https://arxiv.org/abs/2208.00881)<br>[2022-08-02]<br>基于计算机视觉的建筑和建筑环境分析综述
 
-## NLP
+<a name="50"/>
+
+## 50.NLP
 * [A Survey of Parameters Associated with the Quality of Benchmarks in NLP](https://arxiv.org/abs/2210.07566)
 
-## Machine Learning(机器学习)
+<a name="49"/>
+
+## 49.Machine Learning(机器学习)
 * [Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks](https://arxiv.org/abs/2207.13243)<br>[2022-07-28]<br>
 
-## 农业
+<a name="48"/>
+
+## 48.农业
 * [A Survey of Computer Vision Technologies In Urban and Controlled-environment Agriculture](https://arxiv.org/abs/2210.11318)<br>[2022-10-21]<br>
 
-## 工业检测
+<a name="47"/>
+
+## 47.工业检测
 * [A Survey of Detection Methods for Die Attachment and Wire Bonding Defects in Integrated Circuit Manufacturing](https://arxiv.org/abs/2206.07481)<br>[2022-06-16]<br>本文对用于检测这些缺陷的方法进行了调查或文献回顾，这些方法是基于所使用的不同传感方式，包括光学、放射学、声学和红外热成像。在这项调查中，对所使用的检测方法进行了讨论。传统的和深度学习的方法都被认为是检测芯片连接和电线连接缺陷的方法，同时也考虑了挑战和未来的研究方向。
 
-## Adversarial attacks
+<a name="46"/>
+
+## 46.Adversarial attacks(对抗攻击)
 * [Adversarial Patch Attacks and Defences in Vision-Based Tasks: A Survey](https://arxiv.org/abs/2206.08304)<br>[2022-06-17]<br>
 * [A Survey on Physical Adversarial Attack in Computer Vision](https://arxiv.org/abs/2209.14262)<br>[2022-06-29]<br>
 * [Physically Adversarial Attacks and Defenses in Computer Vision: A Survey](https://arxiv.org/abs/2211.01671)<br>[2022-11-04]<br>
 
-## Data Augmentation(数据增强)
+<a name="45"/>
+
+## 45.Data Augmentation(数据增强)
 * [A Survey of Automated Data Augmentation Algorithms for Deep Learning-based Image Classication Tasks](https://arxiv.org/abs/2206.06544)<br>[2022-06-15]<br>本篇综述从图像分类的角度讨论了AutoDA技术出现的根本原因。确定了标准AutoDA模型的三个关键组成部分：搜索空间、搜索算法和评估功能。基于它们的结构，对现有的图像AutoDA方法进行了系统的分类。本文介绍了AutoDA领域的主要工作，讨论了它们的优点和缺点，并提出了几个潜在的未来改进方向。
 * [A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability](https://arxiv.org/abs/2212.10888)<br>[2022-12-22]<br>:star:[code](https://github.com/ChengtaiCao/Awesome-Mix)
 
-## Fish Habitat Monitoring
+<a name="44"/>
+
+## 44.Fish Habitat Monitoring
 * [Applications of Deep Learning in Fish Habitat Monitoring: A Tutorial and Survey](https://arxiv.org/abs/2206.05394)<br>[2022-06-14]<br>
 
-## harmful meme detection
+<a name="43"/>
+
+## 43.harmful meme detection
 * [Detecting and Understanding Harmful Memes: A Survey](https://arxiv.org/abs/2205.04274)<br>[2022-05-10]<br>有害 meme 检测综述
 
-## Human Analysis
+<a name="42"/>
+
+## 42.Human Analysis
 * [Synthetic Data in Human Analysis: A Survey](https://arxiv.org/abs/2208.09191)<br>[2022-08-22]<br>
 
-## Clustering
+<a name="41"/>
+
+## 41.Clustering(聚类)
 * 双聚类算法
   * [Biclustering Algorithms Based on Metaheuristics: A Review](https://arxiv.org/abs/2203.16241)<br>[2022-03-31]
 
-## .Metric Learning(度量学习)
+<a name="40"/>
+
+## 40.Metric Learning(度量学习)
 * [Spectral, Probabilistic, and Deep Metric Learning: Tutorial and Survey](https://arxiv.org/abs/2201.09267)<br>[2022-01-25]<br>从spectral（谱系）、概率、深度学习三个方法中对度量学习进行调研回顾。                                                               
 
-## Deepfake Detection(虚假内容检测)
+<a name="39"/>
+
+## 39.Deepfake Detection(虚假内容检测)
 * [A Review of Deep Learning-based Approaches for Deepfake Content Detection](https://arxiv.org/abs/2202.06095)<br>[2022-02-15]<br>
 
-## Anomaly Detection(异常检测)
+<a name="38"/>
+
+## 38.Anomaly Detection(异常检测)
 * 工业异常检测
   * [A Survey on Unsupervised Industrial Anomaly Detection Algorithms](https://arxiv.org/abs/2204.11161)<br>[2022-04-26]
 * 视觉感官异常检测
   * [A Survey of Visual Sensory Anomaly Detection](https://arxiv.org/abs/2202.07006)<br>[2022-02-16]<br>:star:[code](https://github.com/M-3LAB/awesome-visual-sensory-anomaly-detection)<br>首个视觉感官AD的全面调研工作
 
-## Object Pose Estimation(物体姿势估计) 
+<a name="37"/>
+
+## 37.Object Pose Estimation(物体姿势估计) 
 * 6D
   * [Review on 6D Object Pose Estimation with the focus on Indoor Scene Understanding](https://arxiv.org/abs/2212.01920)<br>[2022-12-06]
   
-## 生物特征识别
+<a name="36"/>
+
+## 36.生物特征识别
 * 指纹孔隙检测
   * [Fingerprint Pore Detection: A Survey](https://arxiv.org/abs/2211.14716)<br>[2022-11-29]<br>:star:[code](https://github.com/azimIbragimov/Fingerprint-Pore-Detection-A-Survey)
 * 指纹活性检测
@@ -101,8 +144,9 @@
 * 虹膜识别
   * [Deep Learning for Iris Recognition: A Survey](https://arxiv.org/abs/2210.05866)<br>[2022-10-13]<br>本篇综述是对过去10年中发表的 200 多篇关于虹膜识别深度学习技术最新发展的论文、技术报告和 GitHub 资源库进行的全面回顾，涵盖了算法设计、开源工具、公开挑战和新兴研究等广泛的主题。
 
+<a name="35"/>
 
-## Semi/Self-Supervised Learning
+## 35.Semi/Self-Supervised Learning(自/半监督)
 * 自监督
   * [Beyond Just Vision: A Review on Self-Supervised Representation Learning on Multimodal and Temporal Data](https://arxiv.org/abs/2206.02353)<br>[2022-06-07]<br>
   * [A Survey on Masked Autoencoder for Self-supervised Learning in Vision and Beyond](https://arxiv.org/abs/2208.00173)<br>[2022-08-02]<br>
@@ -111,56 +155,66 @@
 * 半监督
   * [Semi-Supervised and Unsupervised Deep Visual Learning: A Survey](https://arxiv.org/abs/2208.11296)<br>[2022-08-25]<br>
 
-## Transfer Learning(迁移学习)
+<a name="34"/>
+
+## 34.Transfer Learning(迁移学习)
 * [A Review of Deep Transfer Learning and Recent Advancements](https://arxiv.org/abs/2201.09679)<br>[2022-01-25]<br>
 
-## Reinforcement Learning(强化学习)
+<a name="33"/>
+
+## 33.Reinforcement Learning(强化学习)
 * [Backbones-Review: Feature Extraction Networks for Deep Learning and Deep Reinforcement Learning Approaches](https://arxiv.org/abs/2206.08016)<br>[2022-06-17]<br>
 * [A Comprehensive Survey of Data Augmentation in Visual Reinforcement Learning](https://arxiv.org/abs/2210.04561)<br>[2022-10-10]<br>:star:[code](https://github.com/Guozheng-Ma/DA-in-visualRL)
 
+<a name="32"/>
 
-## Style Transfer(风格迁移)
+## 32.Style Transfer(风格迁移)
 * [An Overview of Color Transfer and Style Transfer for Images and Videos](https://arxiv.org/abs/2204.13339)<br>[2022-04-29]<br>
 
+<a name="31"/>
 
-## Visual Speech(视觉语音)
+## 31.Visual Speech(视觉语音)
 * [Deep Learning for Visual Speech Analysis: A Survey](https://arxiv.org/abs/2205.10839)<br>[2022-05-24]<br>是对基于深度学习的VSA进行的全面回顾。其中专注于两个基本问题：视觉语音识别和视觉语音生成，并对现实的挑战和当前的发展，包括数据集、评估协议、代表方法、SOTA性能、实际问题等进行总结。
 * [Learning in Audio-visual Context: A Review, Analysis, and New Perspective](https://arxiv.org/abs/2208.09579)<br>[2022-08-23]<br>从不同方面回顾和展望了当前视听学习领域的情况
 
-## Domain Adaptation(域适应)
+<a name="30"/>
+
+## 30.Domain Adaptation(域适应)
 * 域适应
   * [Deep Unsupervised Domain Adaptation: A Review of Recent Advances and Perspectives](https://arxiv.org/abs/2208.07422)<br>[2022-08-17]<br>深度无监督域适应综述
   * [Domain Adaptation and Generalization on Functional Medical Images: A Systematic Survey](https://arxiv.org/abs/2212.03176)<br>[2022-12-07]<br>
 
-## OCR
-* 手写数字识别
-  * [Two Decades of Bengali Handwritten Digit Recognition: A Survey](https://arxiv.org/abs/2206.02234)<br>[2022-06-07]<br>本文分析了孟加拉语手写数字的特点和固有的模糊性，以及对二十年来最先进的数据集和离线BHDR方法的全面了解。
-* Logo Detection
-  * [Deep Learning for Logo Detection: A Survey](https://arxiv.org/abs/2210.04399)<br>[2022-10-10]<br>
-* 表格检测
-  * [Deep learning for table detection and structure recognition: A survey](https://arxiv.org/abs/2211.08469)<br>[2022-11-17]<br>:star:[code](https://github.com/abdoelsayed2016/table-detection-structure-recognition)
+<a name="29"/>
 
-## Augmented Reality/Virtual Reality/Robotics(增强/虚拟现实/机器人)
+## 29.Augmented Reality/Virtual Reality/Robotics(增强/虚拟现实/机器人)
 * AR
   * [Augmented Reality and Robotics: A Survey and Taxonomy for AR-enhanced Human-Robot Interaction and Robotic Interfaces](https://arxiv.org/abs/2203.03254)<br>[2022-03-08]<br>对AR增强型人机交互和机器人界面的调查和分类综述，共调研460篇相关文献。
   * [Modern Augmented Reality: Applications, Trends, and Future Directions](https://arxiv.org/abs/2202.09450)<br>[2022-02-24]<br>
 * SLAM
   * [General Place Recognition Survey: Towards the Real-world Autonomy Age](https://arxiv.org/abs/2209.04497)<br>[2022-09-13]<br>:star:[code](https://github.com/MetaSLAM/GPRS)
   * [Semantic Visual Simultaneous Localization and Mapping: A Survey](https://arxiv.org/abs/2209.06428)<br>[2022-09-15]
+  * [SLAM for Visually Impaired People: A Survey](https://arxiv.org/abs/2212.04745)<br>[2022-12-12]<br>
 
-## Capsule networks(胶囊网络)
+<a name="28"/>
+
+## 28.Capsule networks(胶囊网络)
 * [Learning with Capsules: A Survey](https://arxiv.org/abs/2206.02664)<br>[2022-06-07]
 
-## Image Synthesis
+<a name="27"/>
+
+## 27.Image Synthesis
 * [A Survey on 3D-aware Image Synthesis](https://arxiv.org/abs/2210.14267)<br>[2022-10-27]<br>:star:[code](https://weihaox.github.io/projects/awesome-3d-aware/)
 * 图像合成
   * [Human Image Generation: A Comprehensive Survey](https://arxiv.org/abs/2212.08896)<br>[2022-12-20]
 
+<a name="26"/>
 
-## Graph Neural Networks(图神经网络)
+## 26.Graph Neural Networks(图神经网络)
 * [A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective](https://arxiv.org/abs/2209.13232)<br>[2022-09-28]
 
-## Vision-Language(视觉语言)
+<a name="25"/>
+
+## 25.Vision-Language(视觉语言)
 * [Debiasing Methods for Fairer Neural Models in Vision and Language ](https://arxiv.org/abs/2211.05617)<br>[2022-11-11]<br>
 * 视觉语言预训练
   * [VLP: A Survey on Vision-Language Pre-training](https://arxiv.org/abs/2202.09061)<br>[2022-02-21]<br>本篇文章对视觉语言预训练（VLP）的最新进展和新领域进行了调研，包括图像-文本和视频-文本预训练。并表示这是第一份关于VLP的调研。希望它能对VLP领域的未来研究有所启示。
@@ -168,16 +222,30 @@
   * [Vision-and-Language Pretrained Models: A Survey](https://arxiv.org/abs/2204.07356)<br>[2022-04-18]<br>
   * [Vision-Language Pre-training: Basics, Recent Advances, and Future Trends](https://arxiv.org/abs/2210.09263)<br>[2022-10-18]<br>
 
-## Attention
+<a name="24"/>
+
+## 24.Attention
 * [Visual Attention Methods in Deep Learning: An In-Depth Survey](https://arxiv.org/abs/2204.07756)<br>[2022-04-19]<br>本篇综述回顾了 70 多篇与视觉应用中使用的各种注意力机制有关的文章。并对注意力技术以及它们的优点和局限性进行了全面的讨论。
 * [A survey on attention mechanisms for medical applications: are we moving towards better algorithms?](https://arxiv.org/abs/2204.12406)<br>[2022-04-27]<br>
 
-## SLAM
-* [SLAM for Visually Impaired People: A Survey](https://arxiv.org/abs/2212.04745)<br>[2022-12-12]<br>
+<a name="23"/>
 
-## Image Segmentation(图像分割)
+## 23.OCR
+* 手写数字识别
+  * [Two Decades of Bengali Handwritten Digit Recognition: A Survey](https://arxiv.org/abs/2206.02234)<br>[2022-06-07]<br>本文分析了孟加拉语手写数字的特点和固有的模糊性，以及对二十年来最先进的数据集和离线BHDR方法的全面了解。
+* Logo Detection
+  * [Deep Learning for Logo Detection: A Survey](https://arxiv.org/abs/2210.04399)<br>[2022-10-10]<br>
+* 表格检测
+  * [Deep learning for table detection and structure recognition: A survey](https://arxiv.org/abs/2211.08469)<br>[2022-11-17]<br>:star:[code](https://github.com/abdoelsayed2016/table-detection-structure-recognition)
+
+
+<a name="22"/>
+
+## 22.Image Segmentation(图像分割)
 * [Semantic Segmentation for Thermal Images: A Comparative Survey](https://arxiv.org/abs/2205.13278)<br>[2022-05-27]<br>热图像语义分割综述调研
 * [Visual Semantic Segmentation Based on Few/Zero-Shot Learning: An Overview](https://arxiv.org/abs/2211.08352)<br>[2022-11-16]<br>
+
+<a name="21"/>
 
 ## 21.Model Compression/Knowledge Distillation/Pruning(模型压缩/知识蒸馏/剪枝)
 * [A survey of deep learning optimizers-first and second order methods](https://arxiv.org/abs/2211.15596)<br>[2022-11-29]<br>
@@ -188,6 +256,8 @@
 * KD
   * [Teacher-Student Architecture for Knowledge Learning: A Survey](https://arxiv.org/abs/2210.17332)<br>[2022-11-01]<br>
 
+<a name="20"/>
+
 ## 20.3D
 * 深度估计
   * [Outdoor Monocular Depth Estimation: A Research Review](https://arxiv.org/abs/2205.01399)<br>[2022-05-04]<br>
@@ -196,11 +266,15 @@
 * 深度补全
   * [Deep Depth Completion: A Survey](https://arxiv.org/abs/2205.05335)<br>[2022-05-12]<br>
 
+<a name="19"/>
+
 ## 19.GAN
 * [Generative Adversarial Networks for Image Augmentation in Agriculture: A Systematic Review](https://arxiv.org/abs/2204.04707)<br>[2022-04-12]<br>GAN在农业中的图像增强作用综述
 * [A Comprehensive Survey on Data-Efficient GANs in Image Generation](https://arxiv.org/abs/2204.08329)<br>[2022-04-19]<br>对更全面跟系统的 DE-GANs 的调研。
 * [Combating COVID-19 using Generative Adversarial Networks and Artificial Intelligence for Medical Images: A Scoping Review](https://arxiv.org/abs/2205.07236)<br>[2022-05-17]<br>本篇论文全面研究了 GANs 在解决 COVID-19 数据稀缺和诊断相关挑战方面的作用。
 * [Face editing with GAN -- A Review](https://arxiv.org/abs/2207.11227)<br>[2022-07-25]<br>GANs 有两个相互竞争的神经网络：一个生成器和一个鉴别器。生成器用于产生新的样本或内容片段，而鉴别器则用于识别内容片段是真实的还是生成的。它与其他生成式模型的不同之处在于它能够学习未标记的样本。本篇文章回顾了 GANs 如何应用于一系列的应用，包括逼真的图像、文本生成，甚至人类姿势的合成。以及对 GANs 的演变、所提出的几项改进以及不同模型之间进行简要比较。
+
+<a name="18"/>
 
 ## 18.NAS(神经架构搜索)
 * [SuperNet in Neural Architecture Search: A Taxonomic Survey](https://arxiv.org/abs/2204.03916)<br>[2022-04-11]<br>神经架构搜索的 SuperNet 分类法调研
