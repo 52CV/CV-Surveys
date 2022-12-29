@@ -22,7 +22,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月27日已公开 256 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月29日已公开 257 篇。
 
 ## 目录
 
@@ -245,6 +245,8 @@
 ## 22.Image Segmentation(图像分割)
 * [Semantic Segmentation for Thermal Images: A Comparative Survey](https://arxiv.org/abs/2205.13278)<br>[2022-05-27]<br>热图像语义分割综述调研
 * [Visual Semantic Segmentation Based on Few/Zero-Shot Learning: An Overview](https://arxiv.org/abs/2211.08352)<br>[2022-11-16]<br>
+* 细粒度零件分割
+  * [Parsing Objects at a Finer Granularity: A Survey](https://arxiv.org/abs/2212.13693)<br>[2022-12-29]<br>
 
 <a name="21"/>
 
