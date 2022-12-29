@@ -22,7 +22,7 @@
 
 2022 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月29日已公开 257 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月29日已公开 258 篇。
 
 ## 目录
 
@@ -41,6 +41,9 @@
 |[9.Video](#9)|[10.Object Detection(目标检测)](#10)|[11.Object Tracking(目标跟踪)](#11)|[12.Image Processing(图像处理)](#12)|
 |[5.UAV\Remote Sensing\Satellite Image(无人机\遥感\卫星图像)](#5)|[6.Face(人脸)](#6)|[7.3D](#7)|[8.Transformer](#8)|
 |[1.Unkown(未分)](#1)|[2.Scene Graph Generation(场景图生成)](#2)|[3.🏥Medical Image(医学影像)](#3)|[4.ReID(重识别)](#4)|
+
+## VQA
+* [VQA and Visual Reasoning: An Overview of Recent Datasets, Methods and Challenges](https://arxiv.org/abs/2212.13296)
 
 <a name="52"/>
 
