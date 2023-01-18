@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月16日已公开 10 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月18日已公开 14 篇。
 
 ## 目录
 
@@ -34,10 +34,29 @@
 |------|------|------|------|
 |[1.Unkown(未分)](#1)|[2.Human Pose Estimation(人体姿态估计)](#2)|[3.Domain Adaptation(域适应)](#3)|[4.Video(视频相关)](#4)|
 |[5.Image Processing(图像处理)](#6)|[6.Image Classification(图像分类)](#6)|[7.Medical Image Processing(医学影像处理)](#7)|
+|[8.Face(人脸)](#8)|[9.GAN(生成对抗网络)](#9)|[10.HAR(人体动作识别)](#10)|
+
+
 
 ## Data Augmentation(数据增强)
 * [Advanced Data Augmentation Approaches: A Comprehensive Survey and Future directions](https://arxiv.org/abs/2301.02830)<br>[2023-01-10]<br>:star:[code](https://github.com/kmr2017/Advanced-Data-augmentation-codes)
 * [Data Distillation: A Survey](https://arxiv.org/abs/2301.04272)
+
+<a name="10"/>
+
+## 10.Human Action Recognition(人体动作识别)
+* [A Survey on Human Action Recognition](https://arxiv.org/abs/2301.06082)<br>[2023-01-18]
+
+<a name="9"/>
+
+## 9.Generative Adversarial Network(生成对抗网络)
+* [Comprehensive Literature Survey on Deep Learning used in Image Memorability Prediction and Modification](https://arxiv.org/abs/2301.06080)<br>[2023-01-18]
+
+<a name="8"/>
+
+## 8.Face(人脸)
+* Deepfake检测
+  * [Deepfake Detection using Biological Features: A Survey](https://arxiv.org/abs/2301.05819)<br>[2023-01-18]
 
 <a name="7"/>
 
@@ -76,6 +95,8 @@
   * [Deep Learning Technique for Human Parsing: A Survey and Outlook](https://arxiv.org/abs/2301.00394)<br>[2023-01-03]<br>:star:[code](https://github.com/soeaver/awesome-human-parsing)
 * 手势合成
   * [A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2301.05339)<br>[2023-01-16]
+* 动作识别与姿势估计
+  * [CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey](https://arxiv.org/abs/2301.06187)<br>[2023-01-18]
 
 <a name="n"/>
 
