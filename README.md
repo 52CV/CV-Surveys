@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月18日已公开 14 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月19日已公开 16 篇。
 
 ## 目录
 
@@ -41,6 +41,9 @@
 ## Data Augmentation(数据增强)
 * [Advanced Data Augmentation Approaches: A Comprehensive Survey and Future directions](https://arxiv.org/abs/2301.02830)<br>[2023-01-10]<br>:star:[code](https://github.com/kmr2017/Advanced-Data-augmentation-codes)
 * [Data Distillation: A Survey](https://arxiv.org/abs/2301.04272)
+
+## Image segmentation()
+* [A Comprehensive Review of Modern Object Segmentation Approaches](https://arxiv.org/abs/2301.07499)<br>[2023-01-19]
 
 <a name="10"/>
 
@@ -97,6 +100,8 @@
   * [A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2301.05339)<br>[2023-01-16]
 * 动作识别与姿势估计
   * [CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey](https://arxiv.org/abs/2301.06187)<br>[2023-01-18]
+* 体育
+  * [A Survey of Advanced Computer Vision Techniques for Sports](https://arxiv.org/abs/2301.07583)<br>[2023-01-19]<br>
 
 <a name="n"/>
 
