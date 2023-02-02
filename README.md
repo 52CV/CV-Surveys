@@ -26,7 +26,8 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月1日已公开 23 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月1日已公开 25 篇。
+1月份20篇。
 
 ## 目录
 
@@ -41,6 +42,12 @@
 ## Data Augmentation(数据增强)
 * [Advanced Data Augmentation Approaches: A Comprehensive Survey and Future directions](https://arxiv.org/abs/2301.02830)<br>[2023-01-10]<br>:star:[code](https://github.com/kmr2017/Advanced-Data-augmentation-codes)
 * [Data Distillation: A Survey](https://arxiv.org/abs/2301.04272)
+## Continual Learning(持续学习)
+* [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://arxiv.org/abs/2302.00487)<br>[2023-02-02]<br>
+
+## Incremental Learning(增量学习)
+* [Towards Label-Efficient Incremental Learning: A Survey](https://arxiv.org/abs/2302.00353)<br>[2023-02-02]<br>:star:[code](https://github.com/kilickaya/label-efficient-il)
+
 ## Robot
 * 机器人
   * [A Review of Scene Representations for Robot Manipulators](https://arxiv.org/abs/2301.11275)<br>[2023-01-27]
