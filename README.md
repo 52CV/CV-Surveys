@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月19日已公开 16 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月1日已公开 23 篇。
 
 ## 目录
 
@@ -41,9 +41,20 @@
 ## Data Augmentation(数据增强)
 * [Advanced Data Augmentation Approaches: A Comprehensive Survey and Future directions](https://arxiv.org/abs/2301.02830)<br>[2023-01-10]<br>:star:[code](https://github.com/kmr2017/Advanced-Data-augmentation-codes)
 * [Data Distillation: A Survey](https://arxiv.org/abs/2301.04272)
+## Robot
+* 机器人
+  * [A Review of Scene Representations for Robot Manipulators](https://arxiv.org/abs/2301.11275)<br>[2023-01-27]
+## Anomaly Detection
+* [Deep Industrial Image Anomaly Detection: A Survey](https://arxiv.org/abs/2301.11514)<br>[2023-01-30]<br>:star:[code](https://github.com/M-3LAB/awesome-industrial-anomaly-detection)
 
-## Image segmentation()
+## Image segmentation(图像分割)
 * [A Comprehensive Review of Modern Object Segmentation Approaches](https://arxiv.org/abs/2301.07499)<br>[2023-01-19]
+* 人体解析
+  * [Deep Learning for Human Parsing: A Survey](https://arxiv.org/abs/2301.12416)<br>[2023-01-31]
+
+## 11.三维视觉&三维重建
+* 表面重建
+  * [A Survey and Benchmark of Automatic Surface Reconstruction from Point Clouds](https://arxiv.org/abs/2301.13656)<br>[2023-02-01]<br>:star:[code](https://github.com/raphaelsulzer/dsr-benchmark)
 
 <a name="10"/>
 
@@ -66,7 +77,11 @@
 ## 7.Medical Image Processing(医学影像处理)
 * 医学影像分析
   * [Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review](https://arxiv.org/abs/2301.03505)<br>[2023-01-10]<br>:star:[code](https://github.com/mindflow-institue/Awesome-Transformer)
-
+* 脑微出血检测
+  * [Review of methods for automatic cerebral microbleeds detection](https://arxiv.org/pdf/2301.13549.pdf)<br>[2023-02-01]<br>
+* 生物医学重建
+  * [Biomedical Image Reconstruction: A Survey](https://arxiv.org/abs/2301.11813)<br>[2023-01-30]<br>
+ 
 <a name="6"/>
 
 ## 6.Image Classification(图像分类)
@@ -107,6 +122,7 @@
 
 ## 1.Unkown(未分)
 * [A survey on Organoid Image Analysis Platforms](https://arxiv.org/abs/2301.02341)<br>[2023-01-09]<br>
+* [A Survey of Explainable AI in Deep Visual Modeling: Methods and Metrics](https://arxiv.org/abs/2301.13445)<br>[2023-02-01]<br>
 
 ## 扫码CV君微信（注明：CV）入微信交流群：
 
