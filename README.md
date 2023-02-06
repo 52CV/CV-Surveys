@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月3日已公开 26 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月6日已公开 28 篇。
 1月份20篇。
 
 ## 目录
@@ -70,6 +70,8 @@
 
 ## 10.Human Action Recognition(人体动作识别)
 * [A Survey on Human Action Recognition](https://arxiv.org/abs/2301.06082)<br>[2023-01-18]
+* [Transformers in Action Recognition: A Review on Temporal Modeling](https://export.arxiv.org/abs/2302.01921)<br>[2023-02-06]<br>
+
 
 <a name="9"/>
 
@@ -95,6 +97,8 @@
 <a name="6"/>
 
 ## 6.Image Classification(图像分类)
+* 
+  * [Revisiting Long-tailed Image Classification: Survey and Benchmarks with New Evaluation Metrics](https://export.arxiv.org/abs/2302.01507)<br>[2023-02-06]<br>
 * 果实成熟度分类
   * [Fruit Ripeness Classification: a Survey](https://arxiv.org/abs/2212.14441)<br>[2023-01-02]<br>
 
