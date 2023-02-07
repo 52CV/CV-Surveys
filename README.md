@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月6日已公开 28 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月7日已公开 31 篇。
 1月份20篇。
 
 ## 目录
@@ -54,6 +54,14 @@
 ## Anomaly Detection
 * [Deep Industrial Image Anomaly Detection: A Survey](https://arxiv.org/abs/2301.11514)<br>[2023-01-30]<br>:star:[code](https://github.com/M-3LAB/awesome-industrial-anomaly-detection)
 
+## KD(知识蒸馏)
+* 知识蒸馏
+  * [Knowledge Distillation in Vision Transformers: A Critical Review](https://arxiv.org/ftp/arxiv/papers/2302/2302.02108.pdf)<br>[2023-02-07]<br>
+  
+## Autonomous Driving(自动驾驶)
+* 异常检测
+  * [Perception Datasets for Anomaly Detection in Autonomous Driving: A Survey](https://arxiv.org/pdf/2302.02790.pdf)<br>[2023-02-07]<br>
+  
 ## Transformer
 * [A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)<br>[2023-02-03]<br>
 
@@ -137,6 +145,7 @@
 ## 1.Unkown(未分)
 * [A survey on Organoid Image Analysis Platforms](https://arxiv.org/abs/2301.02341)<br>[2023-01-09]<br>
 * [A Survey of Explainable AI in Deep Visual Modeling: Methods and Metrics](https://arxiv.org/abs/2301.13445)<br>[2023-02-01]<br>
+* [Deep Learning for Time Series Classification and Extrinsic Regression: A Current Survey](https://arxiv.org/pdf/2302.02515.pdf)<br>[2023-02-07]<br>
 
 ## 扫码CV君微信（注明：CV）入微信交流群：
 
