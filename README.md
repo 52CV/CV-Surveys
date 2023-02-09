@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月8日已公开 33 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月9日已公开 34 篇。
 1月份20篇。
 
 ## 目录
@@ -97,6 +97,7 @@
 <a name="7"/>
 
 ## 7.Medical Image Processing(医学影像处理)
+* [A Survey of Feature detection methods for localisation of plain sections of Axial Brain Magnetic Resonance Imaging](https://arxiv.org/pdf/2302.04173.pdf)<br>[2023-02-09]<br>
 * 医学影像分析
   * [Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review](https://arxiv.org/abs/2301.03505)<br>[2023-01-10]<br>:star:[code](https://github.com/mindflow-institue/Awesome-Transformer)
 * 脑微出血检测
