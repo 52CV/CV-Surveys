@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月10日已公开 35 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月13日已公开 39 篇。
 1月份20篇。
 
 ## 目录
@@ -102,6 +102,7 @@
 * [A Survey of Feature detection methods for localisation of plain sections of Axial Brain Magnetic Resonance Imaging](https://arxiv.org/pdf/2302.04173.pdf)<br>[2023-02-09]<br>
 * 医学影像分析
   * [Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review](https://arxiv.org/abs/2301.03505)<br>[2023-01-10]<br>:star:[code](https://github.com/mindflow-institue/Awesome-Transformer)
+  * [A Review of Predictive and Contrastive Self-supervised Learning for Medical Images](https://arxiv.org/ftp/arxiv/papers/2302/2302.05043.pdf)<br>[2023-02-13]<br> 
 * 脑微出血检测
   * [Review of methods for automatic cerebral microbleeds detection](https://arxiv.org/pdf/2301.13549.pdf)<br>[2023-02-01]<br>
 * 生物医学重建
@@ -120,12 +121,15 @@
 ## 5.Image Processing(图像处理)
 * 去噪
   * [Image Denoising: The Deep Learning Revolution and Beyond -- A Survey Paper ](https://arxiv.org/abs/2301.03362)<br>[2023-01-10]<br> 
+* 去模糊
+  * [A survey on facial image deblurring](https://arxiv.org/pdf/2302.05017.pdf)<br>[2023-02-13]<br> 
 
 <a name="4"/>
 
 ## 4.Video(视频相关)
 * VAD
   * [Skeletal Video Anomaly Detection using Deep Learning: Survey, Challenges and Future Directions](https://arxiv.org/abs/2301.00114)<br>[2023-01-03]<br>对使用从视频中提取的骨架的隐私保护型深度学习异常检测方法进行了调查
+  * [Generalized Video Anomaly Event Detection: Systematic Taxonomy and Comparison of Deep Models](https://arxiv.org/pdf/2302.05087.pdf)<br>[2023-02-13]<br>
 * 视频错误信息检测
   * [Online Misinformation Video Detection: A Survey](https://arxiv.org/abs/2302.03242)<br>[2023-02-08]<br>:star:[code](https://github.com/ICTMCG/Awesome-Misinfo-Video-Detection)
 
@@ -153,6 +157,8 @@
 * [A survey on Organoid Image Analysis Platforms](https://arxiv.org/abs/2301.02341)<br>[2023-01-09]<br>
 * [A Survey of Explainable AI in Deep Visual Modeling: Methods and Metrics](https://arxiv.org/abs/2301.13445)<br>[2023-02-01]<br>
 * [Deep Learning for Time Series Classification and Extrinsic Regression: A Current Survey](https://arxiv.org/pdf/2302.02515.pdf)<br>[2023-02-07]<br>
+* 上下文理解
+  * [Context Understanding in Computer Vision: A Survey](https://arxiv.org/pdf/2302.05011.pdf)<br>[2023-02-13]<br>:star:[code]
 
 ## 扫码CV君微信（注明：CV）入微信交流群：
 
