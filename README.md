@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月15日已公开 42 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月20日已公开 44 篇。
 1月份20篇。
 
 ## 目录
@@ -38,7 +38,8 @@
 |[8.Face(人脸)](#8)|[9.GAN(生成对抗网络)](#9)|[10.HAR(人体动作识别)](#10)|
 
 
-
+* 事件信息
+  * [Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks](https://arxiv.org/abs/2302.08890)<br>[2023-02-20]<br>
 ## Data Augmentation(数据增强)
 * [Advanced Data Augmentation Approaches: A Comprehensive Survey and Future directions](https://arxiv.org/abs/2301.02830)<br>[2023-01-10]<br>:star:[code](https://github.com/kmr2017/Advanced-Data-augmentation-codes)
 * [Data Distillation: A Survey](https://arxiv.org/abs/2301.04272)
@@ -93,6 +94,7 @@
 
 ## 9.Generative Adversarial Network(生成对抗网络)
 * [Comprehensive Literature Survey on Deep Learning used in Image Memorability Prediction and Modification](https://arxiv.org/abs/2301.06080)<br>[2023-01-18]
+* [Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey](https://arxiv.org/abs/2302.08641)<br>[2023-02-20]
 
 <a name="8"/>
 
