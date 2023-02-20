@@ -117,7 +117,7 @@
 <a name="6"/>
 
 ## 6.Image Classification(图像分类)
-* 
+* 长尾
   * [Revisiting Long-tailed Image Classification: Survey and Benchmarks with New Evaluation Metrics](https://export.arxiv.org/abs/2302.01507)<br>[2023-02-06]<br>
 * 果实成熟度分类
   * [Fruit Ripeness Classification: a Survey](https://arxiv.org/abs/2212.14441)<br>[2023-01-02]<br>
