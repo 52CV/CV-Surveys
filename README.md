@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月20日已公开 45 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月21日已公开 49 篇。
 1月份20篇。
 
 ## 目录
@@ -62,7 +62,10 @@
 ## KD(知识蒸馏)
 * 知识蒸馏
   * [Knowledge Distillation in Vision Transformers: A Critical Review](https://arxiv.org/ftp/arxiv/papers/2302/2302.02108.pdf)<br>[2023-02-07]<br>
-  
+
+## Person Re-Identification 
+* [A Review on Generative Adversarial Networks for Data Augmentation in Person Re-Identification Systems](https://arxiv.org/abs/2302.09119)<br>[2023-02-21]<br>
+
 ## Autonomous Driving(自动驾驶)
 * 目标检测
   * [Surround-View Vision-based 3D Detection for Autonomous Driving: A Survey](https://arxiv.org/abs/2302.06650)<br>[2023-02-15]<br>:star:[code](https://github.com/ApoorvRoboticist/VisionBEVDetectionSurvey)
@@ -73,11 +76,17 @@
 ## Transformer
 * [A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)<br>[2023-02-03]<br>
 
+## Super-resolution
+* [Guided Depth Map Super-resolution: A Survey](https://arxiv.org/abs/2302.09598)<br>[2023-02-21]<br>:star:[code](https://github.com/zhwzhong/Guided-Depth-Map-Super-resolution-A-Survey)
+
 ## Image segmentation(图像分割)
 * [A Comprehensive Review of Modern Object Segmentation Approaches](https://arxiv.org/abs/2301.07499)<br>[2023-01-19]
 * [Semantic Image Segmentation: Two Decades of Research](https://arxiv.org/abs/2302.06378)<br>[2023-02-15]<br>
 * 人体解析
   * [Deep Learning for Human Parsing: A Survey](https://arxiv.org/abs/2301.12416)<br>[2023-01-31]
+* 语义分割
+  * [A Survey on Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2302.09899)<br>[2023-02-21]<br>
+
 
 ## 11.三维视觉&三维重建
 * 三维重建
@@ -167,6 +176,8 @@
 * [Deep Learning for Time Series Classification and Extrinsic Regression: A Current Survey](https://arxiv.org/pdf/2302.02515.pdf)<br>[2023-02-07]<br>
 * 上下文理解
   * [Context Understanding in Computer Vision: A Survey](https://arxiv.org/pdf/2302.05011.pdf)<br>[2023-02-13]<br>:star:[code]
+* 多模态
+  * [Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey](https://arxiv.org/abs/2302.10035)<br>[2023-02-21]<br>:star:[code](https://github.com/wangxiao5791509/MultiModal_BigModels_Survey)
 
 ## 扫码CV君微信（注明：CV）入微信交流群：
 
