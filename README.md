@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月21日已公开 49 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月22日已公开 52 篇。
 1月份20篇。
 
 ## 目录
@@ -50,6 +50,12 @@
 * [Towards Label-Efficient Incremental Learning: A Survey](https://arxiv.org/abs/2302.00353)<br>[2023-02-02]<br>:star:[code](https://github.com/kilickaya/label-efficient-il)
 * 类增量学习
   * [Deep Class-Incremental Learning: A Survey](https://arxiv.org/abs/2302.03648)<br>[2023-02-08]<br>:star:[code](https://github.com/zhoudw-zdw/CIL_Survey/)
+
+## Trajectory Prediction
+* [Multimodal Trajectory Prediction: A Survey](https://arxiv.org/abs/2302.10463)<br>[2023-02-22]<br>
+
+## Biometric Recognition(生物特征识别)
+* [Combining Blockchain and Biometrics: A Survey on Technical Aspects and a First Legal Analysis](https://arxiv.org/abs/2302.10883)<br>[2023-02-22]<br>
 
 ## NLP
 * [Foundation Models for Natural Language Processing -- Pre-trained Language Models Integrating Media](https://arxiv.org/pdf/2302.08575.pdf)<br>[2023-02-20]
@@ -75,6 +81,10 @@
   
 ## Transformer
 * [A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)<br>[2023-02-03]<br>
+
+## Remote Sensing
+* 遥感图像检测
+  * [Oriented Object Detection in Optical Remote Sensing Images: A Survey](https://arxiv.org/abs/2302.10473)<br>[2023-02-22]<br>
 
 ## Super-resolution
 * [Guided Depth Map Super-resolution: A Survey](https://arxiv.org/abs/2302.09598)<br>[2023-02-21]<br>:star:[code](https://github.com/zhwzhong/Guided-Depth-Map-Super-resolution-A-Survey)
