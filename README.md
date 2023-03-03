@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月27日已公开 56 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月3日已公开 59 篇。
 1月份20篇。
 
 ## 目录
@@ -69,15 +69,18 @@
 * DA
   * [A Comprehensive Survey on Source-free Domain Adaptation](https://arxiv.org/abs/2302.11803)<br>[2023-02-24]<br>
 
-## KD(知识蒸馏)
+## KD/Pruning(知识蒸馏)
 * 知识蒸馏
   * [Knowledge Distillation in Vision Transformers: A Critical Review](https://arxiv.org/ftp/arxiv/papers/2302/2302.02108.pdf)<br>[2023-02-07]<br>
+* 剪枝
+  * [Structured Pruning for Deep Convolutional Neural Networks: A survey](https://arxiv.org/abs/2303.00566)<br>[2023-03-02]<br>
 
 ## Person Re-Identification 
 * [A Review on Generative Adversarial Networks for Data Augmentation in Person Re-Identification Systems](https://arxiv.org/abs/2302.09119)<br>[2023-02-21]<br>
 
 ## Autonomous Driving(自动驾驶)
 * [Transformer-Based Sensor Fusion for Autonomous Driving: A Survey](https://arxiv.org/abs/2302.11481)<br>[2023-02-15]<br>:star:[code](https://github.com/ApoorvRoboticist/Transformers-Sensor-Fusion)
+* [Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2303.01212)<br>[2023-03-03]<br>
 * 目标检测
   * [Surround-View Vision-based 3D Detection for Autonomous Driving: A Survey](https://arxiv.org/abs/2302.06650)<br>[2023-02-15]<br>:star:[code](https://github.com/ApoorvRoboticist/VisionBEVDetectionSurvey)
   * [Vision-RADAR fusion for Robotics BEV Detections: A Survey](https://arxiv.org/pdf/2302.06643.pdf)<br>[2023-02-15]<br>:star:[code](https://github.com/ApoorvRoboticist/Vision-RADAR-Fusion-BEV-Survey)
@@ -139,6 +142,8 @@
 
 ## 7.Medical Image Processing(医学影像处理)
 * [A Survey of Feature detection methods for localisation of plain sections of Axial Brain Magnetic Resonance Imaging](https://arxiv.org/pdf/2302.04173.pdf)<br>[2023-02-09]<br>
+* 医学影像分割
+  * [Towards more precise automatic analysis: a comprehensive survey of deep learning-based multi-organ segmentation](https://arxiv.org/abs/2303.00232)<br>[2023-03-02]<br>
 * 医学影像分析
   * [Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review](https://arxiv.org/abs/2301.03505)<br>[2023-01-10]<br>:star:[code](https://github.com/mindflow-institue/Awesome-Transformer)
   * [A Review of Predictive and Contrastive Self-supervised Learning for Medical Images](https://arxiv.org/ftp/arxiv/papers/2302/2302.05043.pdf)<br>[2023-02-13]<br> 
