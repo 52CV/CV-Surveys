@@ -26,8 +26,9 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月3日已公开 59 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月7日已公开 64 篇。
 1月份20篇。
+2月份36篇。
 
 ## 目录
 
@@ -40,6 +41,9 @@
 
 * 事件信息
   * [Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks](https://arxiv.org/abs/2302.08890)<br>[2023-02-20]<br>
+## object counting
+* [Deep-Learning-based Counting Methods, Datasets, and Applications in Agriculture -- A Review](https://arxiv.org/abs/2303.02632)<br>[2023-03-07]<br>
+
 ## Data Augmentation(数据增强)
 * [Advanced Data Augmentation Approaches: A Comprehensive Survey and Future directions](https://arxiv.org/abs/2301.02830)<br>[2023-01-10]<br>:star:[code](https://github.com/kmr2017/Advanced-Data-augmentation-codes)
 * [Data Distillation: A Survey](https://arxiv.org/abs/2301.04272)
@@ -59,9 +63,14 @@
 
 ## NLP
 * [Foundation Models for Natural Language Processing -- Pre-trained Language Models Integrating Media](https://arxiv.org/pdf/2302.08575.pdf)<br>[2023-02-20]
+* [The Contribution of Knowledge in Visiolinguistic Learning: A Survey on Tasks and Challenges](https://arxiv.org/abs/2303.02411)<br>[2023-03-07]<br>
+
 ## Robot
 * 机器人
   * [A Review of Scene Representations for Robot Manipulators](https://arxiv.org/abs/2301.11275)<br>[2023-01-27]
+  * VPR
+    * [Visual Place Recognition: A Tutorial](https://arxiv.org/abs/2303.03281)<br>[2023-03-07]<br>:star:[code](https://github.com/stschubert/VPR_Tutorial)
+
 ## Anomaly Detection
 * [Deep Industrial Image Anomaly Detection: A Survey](https://arxiv.org/abs/2301.11514)<br>[2023-01-30]<br>:star:[code](https://github.com/M-3LAB/awesome-industrial-anomaly-detection)
 
@@ -94,6 +103,7 @@
 * [Transformers in Single Object Tracking: An Experimental Survey](https://arxiv.org/abs/2302.11867)<br>[2023-02-24]<br>
 
 ## Remote Sensing
+* [Automatic detection of aerial survey ground control points based on Yolov5-OBB](https://arxiv.org/abs/2303.03041)<br>[2023-03-07]<br>
 * 遥感图像检测
   * [Oriented Object Detection in Optical Remote Sensing Images: A Survey](https://arxiv.org/abs/2302.10473)<br>[2023-02-22]<br>
 
@@ -116,6 +126,7 @@
 ## 11.三维视觉&三维重建
 * 三维重建
   * [3D reconstruction of spherical images: A review of techniques, applications, and prospects](https://arxiv.org/abs/2302.04495)<br>[2023-02-10]<br>
+  * [A Review of Deep Learning-Powered Mesh Reconstruction Methods](https://arxiv.org/abs/2303.02879)<br>[2023-03-07]<br>
 * 表面重建
   * [A Survey and Benchmark of Automatic Surface Reconstruction from Point Clouds](https://arxiv.org/abs/2301.13656)<br>[2023-02-01]<br>:star:[code](https://github.com/raphaelsulzer/dsr-benchmark)
 
