@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月7日已公开 64 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月8日已公开 67 篇。
 1月份20篇。
 2月份36篇。
 
@@ -109,6 +109,8 @@
 
 ## Super-resolution
 * [Guided Depth Map Super-resolution: A Survey](https://arxiv.org/abs/2302.09598)<br>[2023-02-21]<br>:star:[code](https://github.com/zhwzhong/Guided-Depth-Map-Super-resolution-A-Survey)
+## Image Captioning
+* [Graph Neural Networks in Vision-Language Image Understanding: A Survey](https://arxiv.org/abs/2303.03761)<br>[2023-03-08]<br>
 
 ## Image Retrieval
 * 视频-文本检索
@@ -162,6 +164,8 @@
   * [Review of methods for automatic cerebral microbleeds detection](https://arxiv.org/pdf/2301.13549.pdf)<br>[2023-02-01]<br>
 * 生物医学重建
   * [Biomedical Image Reconstruction: A Survey](https://arxiv.org/abs/2301.11813)<br>[2023-01-30]<br>
+* 急性白血病和白细胞的自动检测和分类
+  * [A survey on automated detection and classification of acute leukemia and WBCs in microscopic blood cells](https://arxiv.org/abs/2303.03916)<br>[2023-03-08]<br>
  
 <a name="6"/>
 
@@ -212,6 +216,7 @@
 * [A survey on Organoid Image Analysis Platforms](https://arxiv.org/abs/2301.02341)<br>[2023-01-09]<br>
 * [A Survey of Explainable AI in Deep Visual Modeling: Methods and Metrics](https://arxiv.org/abs/2301.13445)<br>[2023-02-01]<br>
 * [Deep Learning for Time Series Classification and Extrinsic Regression: A Current Survey](https://arxiv.org/pdf/2302.02515.pdf)<br>[2023-02-07]<br>
+* [Deep Learning for Inertial Positioning: A Survey](https://arxiv.org/abs/2303.03757)<br>[2023-03-08]<br>
 * 上下文理解
   * [Context Understanding in Computer Vision: A Survey](https://arxiv.org/pdf/2302.05011.pdf)<br>[2023-02-13]<br>:star:[code]
 * 多模态
