@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月8日已公开 67 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月8日已公开 68 篇。
 1月份20篇。
 2月份36篇。
 
@@ -123,6 +123,7 @@
   * [Deep Learning for Human Parsing: A Survey](https://arxiv.org/abs/2301.12416)<br>[2023-01-31]
 * 语义分割
   * [A Survey on Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2302.09899)<br>[2023-02-21]<br>
+  * [A Threefold Review on Deep Semantic Segmentation: Efficiency-oriented, Temporal and Depth-aware design](https://arxiv.org/abs/2303.04315)<br>[2023-03-09]<br>
 
 
 ## 11.三维视觉&三维重建
