@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月8日已公开 68 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月15日已公开 69 篇。
 1月份20篇。
 2月份36篇。
 
@@ -60,6 +60,9 @@
 
 ## Biometric Recognition(生物特征识别)
 * [Combining Blockchain and Biometrics: A Survey on Technical Aspects and a First Legal Analysis](https://arxiv.org/abs/2302.10883)<br>[2023-02-22]<br>
+
+## GAN/生成
+* [Text-to-image Diffusion Model in Generative AI: A Survey](https://arxiv.org/abs/2303.07909)<br>[2023-03-15]<br>
 
 ## NLP
 * [Foundation Models for Natural Language Processing -- Pre-trained Language Models Integrating Media](https://arxiv.org/pdf/2302.08575.pdf)<br>[2023-02-20]
