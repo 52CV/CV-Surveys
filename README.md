@@ -26,9 +26,10 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月30日已公开 83 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月4日已公开 86 篇。
 1月份20篇。
 2月份36篇。
+3月份27篇
 
 ## 目录
 
@@ -96,9 +97,11 @@
   * [Knowledge Distillation in Vision Transformers: A Critical Review](https://arxiv.org/ftp/arxiv/papers/2302/2302.02108.pdf)<br>[2023-02-07]<br>
 * 剪枝
   * [Structured Pruning for Deep Convolutional Neural Networks: A survey](https://arxiv.org/abs/2303.00566)<br>[2023-03-02]<br>
+## HOI
+* [A Survey on Personalized Affective Computing in Human-Machine Interaction](https://arxiv.org/abs/2304.00377)<br>[2023-04-04]<br>
 
-## Person Re-Identification 
-* [A Review on Generative Adversarial Networks for Data Augmentation in Person Re-Identification Systems](https://arxiv.org/abs/2302.09119)<br>[2023-02-21]<br>
+## Vision-Language
+* [Vision-Language Models for Vision Tasks: A Survey](https://arxiv.org/abs/2304.00685)<br>[2023-04-04]<br>:star:[code](https://github.com/jingyi0000/VLM_survey)
 
 ## Autonomous Driving(自动驾驶)
 * [Transformer-Based Sensor Fusion for Autonomous Driving: A Survey](https://arxiv.org/abs/2302.11481)<br>[2023-02-15]<br>:star:[code](https://github.com/ApoorvRoboticist/Transformers-Sensor-Fusion)
@@ -117,6 +120,7 @@
 ## Person Re-Identification
 * Reid
   * [Deep Learning for Video-based Person Re-Identification: A Survey](https://arxiv.org/abs/2303.11332)<br>[2023-03-22]<br>
+  * [A Review on Generative Adversarial Networks for Data Augmentation in Person Re-Identification Systems](https://arxiv.org/abs/2302.09119)<br>[2023-02-21]<br>
 
 ## Object Tracking
 * [Transformers in Single Object Tracking: An Experimental Survey](https://arxiv.org/abs/2302.11867)<br>[2023-02-24]<br>
@@ -145,6 +149,7 @@
   * [A Threefold Review on Deep Semantic Segmentation: Efficiency-oriented, Temporal and Depth-aware design](https://arxiv.org/abs/2303.04315)<br>[2023-03-09]<br>
 
 ## Object Detection(目标检测)
+* [A Comprehensive Review of YOLO: From YOLOv1 to YOLOv8 and Beyond](https://arxiv.org/abs/2304.00501)<br>[2023-04-04]<br>
 * 犯罪预测
   * [Crime Prediction Using Machine Learning and Deep Learning: A Systematic Review and Future Directions](https://arxiv.org/abs/2303.16310)<br>[2023-03-30]<br>
 
