@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月6日已公开 87 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月11日已公开 89 篇。
 1月份20篇。
 2月份36篇。
 3月份27篇
@@ -78,6 +78,7 @@
 
 ## GAN/生成
 * [Text-to-image Diffusion Model in Generative AI: A Survey](https://arxiv.org/abs/2303.07909)<br>[2023-03-15]<br>
+* [3D GANs and Latent Space: A comprehensive survey](https://arxiv.org/abs/2304.03932)<br>[2023-04-11]<br>
 
 ## NLP
 * [Foundation Models for Natural Language Processing -- Pre-trained Language Models Integrating Media](https://arxiv.org/pdf/2302.08575.pdf)<br>[2023-02-20]
@@ -151,6 +152,9 @@
 * 语义分割
   * [A Survey on Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2302.09899)<br>[2023-02-21]<br>
   * [A Threefold Review on Deep Semantic Segmentation: Efficiency-oriented, Temporal and Depth-aware design](https://arxiv.org/abs/2303.04315)<br>[2023-03-09]<br>
+* 图形抠图
+  * [Deep Image Matting: A Comprehensive Survey](https://arxiv.org/abs/2304.04672)<br>[2023-04-11]<br>:star:[code](https://github.com/JizhiziLi/matting-survey)
+
 
 ## Object Detection(目标检测)
 * [A Comprehensive Review of YOLO: From YOLOv1 to YOLOv8 and Beyond](https://arxiv.org/abs/2304.00501)<br>[2023-04-04]<br>
