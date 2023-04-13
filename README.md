@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月12日已公开 91 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月13日已公开 95 篇。
 1月份20篇。
 2月份36篇。
 3月份27篇
@@ -121,7 +121,10 @@
   * [Perception Datasets for Anomaly Detection in Autonomous Driving: A Survey](https://arxiv.org/pdf/2302.02790.pdf)<br>[2023-02-07]<br>
 * 轨迹预测
   * [Trajectory-Prediction with Vision: A Survey](https://arxiv.org/abs/2303.13354)<br>[2023-03-24]<br>  
-  
+
+## Neural Architecture Search(神经架构搜索)
+* [Efficient Automation of Neural Network Design: A Survey on Differentiable Neural Architecture Search](https://arxiv.org/abs/2304.05405)<br>[2023-04-13]<br> 
+
 ## Transformer
 * [A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)<br>[2023-02-03]<br>
 
@@ -157,7 +160,8 @@
   * [A Threefold Review on Deep Semantic Segmentation: Efficiency-oriented, Temporal and Depth-aware design](https://arxiv.org/abs/2303.04315)<br>[2023-03-09]<br>
 * 图形抠图
   * [Deep Image Matting: A Comprehensive Survey](https://arxiv.org/abs/2304.04672)<br>[2023-04-11]<br>:star:[code](https://github.com/JizhiziLi/matting-survey)
-
+* 语义分割
+  * [Few Shot Semantic Segmentation: a review of methodologies and open challenges](https://arxiv.org/abs/2304.05832)<br>[2023-04-13]<br>
 
 ## Object Detection(目标检测)
 * [A Comprehensive Review of YOLO: From YOLOv1 to YOLOv8 and Beyond](https://arxiv.org/abs/2304.00501)<br>[2023-04-04]<br>
@@ -194,6 +198,7 @@
 
 ## 7.Medical Image Processing(医学影像处理)
 * [A Survey of Feature detection methods for localisation of plain sections of Axial Brain Magnetic Resonance Imaging](https://arxiv.org/pdf/2302.04173.pdf)<br>[2023-02-09]<br>
+[Computational Pathology: A Survey Review and The Way Forward](https://arxiv.org/abs/2304.05482)<br>[2023-04-13]
 * 医学影像分割
   * [Towards more precise automatic analysis: a comprehensive survey of deep learning-based multi-organ segmentation](https://arxiv.org/abs/2303.00232)<br>[2023-03-02]<br>
 * 医学影像分析
@@ -265,9 +270,11 @@
 * DNN
   * [Survey on Leveraging Uncertainty Estimation Towards Trustworthy Deep Neural Networks: The Case of Reject Option and Post-training Processing](https://arxiv.org/abs/2304.04906)<br>[2023-04-12]<br>:star:[code](https://github.com/MehediHasanTutul/Reject_option)
 * 上下文理解
-  * [Context Understanding in Computer Vision: A Survey](https://arxiv.org/pdf/2302.05011.pdf)<br>[2023-02-13]<br>:star:[code]
+  * [Context Understanding in Computer Vision: A Survey](https://arxiv.org/pdf/2302.05011.pdf)<br>[2023-02-13]<br>
 * 多模态
   * [Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey](https://arxiv.org/abs/2302.10035)<br>[2023-02-21]<br>:star:[code](https://github.com/wangxiao5791509/MultiModal_BigModels_Survey)
+* 运输物流与仓储
+  * [Literature Review: Computer Vision Applications in Transportation Logistics and Warehousing](https://arxiv.org/abs/2304.06009)<br>[2023-04-13]<br>:star:[code](https://a-nau.github.io/cv-in-logistics)  
 
 ## 扫码CV君微信（注明：CV）入微信交流群：
 
