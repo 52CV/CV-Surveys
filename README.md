@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月14日已公开 97 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月18日已公开 99 篇。
 1月份20篇。
 2月份36篇。
 3月份27篇
@@ -46,6 +46,9 @@
 * 事件信息
   * [Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks](https://arxiv.org/abs/2302.08890)<br>[2023-02-20]<br>
 
+## 计算成像
+* [Applications of Deep Learning for Top-View Omnidirectional Imaging: A Survey](https://arxiv.org/abs/2304.08193)<br>[2023-04-18]<br>
+
 ## Diffusion Models
 * [A Survey on Graph Diffusion Models: Generative AI in Science for Molecule, Protein and Material](https://arxiv.org/abs/2304.01565)<br>[2023-04-05]<br>
 
@@ -62,6 +65,7 @@
 * [Towards Label-Efficient Incremental Learning: A Survey](https://arxiv.org/abs/2302.00353)<br>[2023-02-02]<br>:star:[code](https://github.com/kilickaya/label-efficient-il)
 * 类增量学习
   * [Deep Class-Incremental Learning: A Survey](https://arxiv.org/abs/2302.03648)<br>[2023-02-08]<br>:star:[code](https://github.com/zhoudw-zdw/CIL_Survey/)
+  * [A Survey on Few-Shot Class-Incremental Learning](https://arxiv.org/abs/2304.08130)<br>[2023-04-18]<br>
 
 ## Image Generation
 * [A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need?](https://arxiv.org/abs/2303.11717)<br>[2023-03-22]<br>
