@@ -26,10 +26,10 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月18日已公开 99 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月20日已公开 104 篇。
 1月份20篇。
 2月份36篇。
-3月份27篇
+3月份27篇。计83篇。
 
 ## 目录
 
@@ -86,16 +86,23 @@
 ## GAN/生成
 * [Text-to-image Diffusion Model in Generative AI: A Survey](https://arxiv.org/abs/2303.07909)<br>[2023-03-15]<br>
 * [3D GANs and Latent Space: A comprehensive survey](https://arxiv.org/abs/2304.03932)<br>[2023-04-11]<br>
+* 图像编辑
+  * [Text-guided Image-and-Shape Editing and Generation: A Short Survey](https://arxiv.org/abs/2304.09244)<br>[2023-04-20]<br>
 
 ## NLP
 * [Foundation Models for Natural Language Processing -- Pre-trained Language Models Integrating Media](https://arxiv.org/pdf/2302.08575.pdf)<br>[2023-02-20]
 * [The Contribution of Knowledge in Visiolinguistic Learning: A Survey on Tasks and Challenges](https://arxiv.org/abs/2303.02411)<br>[2023-03-07]<br>
+
+## SLAM
+* [Event-based Simultaneous Localization and Mapping: A Comprehensive Survey](https://arxiv.org/abs/2304.09793)<br>[2023-04-20]<br>:star:[code](https://github.com/kun150kun/ESLAM-survey)
 
 ## Robot
 * 机器人
   * [A Review of Scene Representations for Robot Manipulators](https://arxiv.org/abs/2301.11275)<br>[2023-01-27]
   * VPR
     * [Visual Place Recognition: A Tutorial](https://arxiv.org/abs/2303.03281)<br>[2023-03-07]<br>:star:[code](https://github.com/stschubert/VPR_Tutorial)
+* AR/VR
+  * [The Metaverse: Survey, Trends, Novel Pipeline Ecosystem & Future Directions](https://arxiv.org/abs/2304.09240)<br>[2023-04-20]<br>
 
 ## Anomaly Detection
 * [Deep Industrial Image Anomaly Detection: A Survey](https://arxiv.org/abs/2301.11514)<br>[2023-01-30]<br>:star:[code](https://github.com/M-3LAB/awesome-industrial-anomaly-detection)
@@ -157,6 +164,7 @@
 ## Image segmentation(图像分割)
 * [A Comprehensive Review of Modern Object Segmentation Approaches](https://arxiv.org/abs/2301.07499)<br>[2023-01-19]
 * [Semantic Image Segmentation: Two Decades of Research](https://arxiv.org/abs/2302.06378)<br>[2023-02-15]<br>
+* [Transformer-Based Visual Segmentation: A Survey](https://arxiv.org/abs/2304.09854)<br>[2023-04-20]<br>:star:[code](https://github.com/lxtGH/Awesome-Segmenation-With-Transformer)
 * 人体解析
   * [Deep Learning for Human Parsing: A Survey](https://arxiv.org/abs/2301.12416)<br>[2023-01-31]
 * 语义分割
@@ -176,6 +184,7 @@
 * 三维重建
   * [3D reconstruction of spherical images: A review of techniques, applications, and prospects](https://arxiv.org/abs/2302.04495)<br>[2023-02-10]<br>
   * [A Review of Deep Learning-Powered Mesh Reconstruction Methods](https://arxiv.org/abs/2303.02879)<br>[2023-03-07]<br>
+  * [3 Dimensional Dense Reconstruction: A Review of Algorithms and Dataset](https://arxiv.org/abs/2304.09371)<br>[2023-04-20]<br>
 * 表面重建
   * [A Survey and Benchmark of Automatic Surface Reconstruction from Point Clouds](https://arxiv.org/abs/2301.13656)<br>[2023-02-01]<br>:star:[code](https://github.com/raphaelsulzer/dsr-benchmark)
 
