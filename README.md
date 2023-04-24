@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月21日已公开 106 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月24日已公开 108 篇。
 1月份20篇。
 2月份36篇。
 3月份27篇。计83篇。
@@ -130,6 +130,7 @@
 * [Transformer-Based Sensor Fusion for Autonomous Driving: A Survey](https://arxiv.org/abs/2302.11481)<br>[2023-02-15]<br>:star:[code](https://github.com/ApoorvRoboticist/Transformers-Sensor-Fusion)
 * [Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2303.01212)<br>[2023-03-03]<br>
 * [Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2304.10410)<br>[2023-04-21]<br>:star:[code](https://xjtlu-vec.github.io/Radar-Camera-Fusion)
+* [Transformer-based models and hardware acceleration analysis in autonomous driving: A survey](https://arxiv.org/abs/2304.10891)<br>[2023-04-24]
 * 目标检测
   * [Surround-View Vision-based 3D Detection for Autonomous Driving: A Survey](https://arxiv.org/abs/2302.06650)<br>[2023-02-15]<br>:star:[code](https://github.com/ApoorvRoboticist/VisionBEVDetectionSurvey)
   * [Vision-RADAR fusion for Robotics BEV Detections: A Survey](https://arxiv.org/pdf/2302.06643.pdf)<br>[2023-02-15]<br>:star:[code](https://github.com/ApoorvRoboticist/Vision-RADAR-Fusion-BEV-Survey)
@@ -287,6 +288,7 @@
 * [A Comprehensive Survey on Test-Time Adaptation under Distribution Shifts](https://arxiv.org/abs/2303.15361)<br>[2023-03-28]<br>:star:[code](https://github.com/tim-learn/awesome-test-time-adaptation)
 * [One Small Step for Generative AI, One Giant Leap for AGI: A Complete Survey on ChatGPT in AIGC Era](https://arxiv.org/abs/2304.06488)<br>[2023-04-14]<br>
 * [Survey on LiDAR Perception in Adverse Weather Conditions](https://arxiv.org/abs/2304.06312)<br>[2023-04-14]<br>
+* [Hyperbolic Geometry in Computer Vision: A Survey](https://arxiv.org/abs/2304.10764)<br>[2023-04-24]<br>
 * DNN
   * [Survey on Leveraging Uncertainty Estimation Towards Trustworthy Deep Neural Networks: The Case of Reject Option and Post-training Processing](https://arxiv.org/abs/2304.04906)<br>[2023-04-12]<br>:star:[code](https://github.com/MehediHasanTutul/Reject_option)
 * 上下文理解
