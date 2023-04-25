@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月24日已公开 108 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月25日已公开 111 篇。
 1月份20篇。
 2月份36篇。
 3月份27篇。计83篇。
@@ -130,6 +130,7 @@
 * [Transformer-Based Sensor Fusion for Autonomous Driving: A Survey](https://arxiv.org/abs/2302.11481)<br>[2023-02-15]<br>:star:[code](https://github.com/ApoorvRoboticist/Transformers-Sensor-Fusion)
 * [Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2303.01212)<br>[2023-03-03]<br>
 * [Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2304.10410)<br>[2023-04-21]<br>:star:[code](https://xjtlu-vec.github.io/Radar-Camera-Fusion)
+* [Synthetic Datasets for Autonomous Driving: A Survey](https://arxiv.org/abs/2304.12205)<br>[2023-04-25]<br>
 * [Transformer-based models and hardware acceleration analysis in autonomous driving: A survey](https://arxiv.org/abs/2304.10891)<br>[2023-04-24]
 * 目标检测
   * [Surround-View Vision-based 3D Detection for Autonomous Driving: A Survey](https://arxiv.org/abs/2302.06650)<br>[2023-02-15]<br>:star:[code](https://github.com/ApoorvRoboticist/VisionBEVDetectionSurvey)
@@ -160,8 +161,10 @@
 
 ## Super-resolution
 * [Guided Depth Map Super-resolution: A Survey](https://arxiv.org/abs/2302.09598)<br>[2023-02-21]<br>:star:[code](https://github.com/zhwzhong/Guided-Depth-Map-Super-resolution-A-Survey)
-## Image Captioning
+
+## Image Captioning(图像字幕)
 * [Graph Neural Networks in Vision-Language Image Understanding: A Survey](https://arxiv.org/abs/2303.03761)<br>[2023-03-08]<br>
+* [A Review of Deep Learning for Video Captioning](https://arxiv.org/abs/2304.11431)<br>[2023-04-25]<br>
 
 ## Image Retrieval
 * 视频-文本检索
@@ -176,6 +179,7 @@
 * 语义分割
   * [A Survey on Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2302.09899)<br>[2023-02-21]<br>
   * [A Threefold Review on Deep Semantic Segmentation: Efficiency-oriented, Temporal and Depth-aware design](https://arxiv.org/abs/2303.04315)<br>[2023-03-09]<br>
+  * [Survey on Unsupervised Domain Adaptation for Semantic Segmentation for Visual Perception in Automated Driving](https://arxiv.org/abs/2304.11928)<br>[2023-04-25]<br>:star:[code](https://uda-survey.github.io/survey/)
 * 图形抠图
   * [Deep Image Matting: A Comprehensive Survey](https://arxiv.org/abs/2304.04672)<br>[2023-04-11]<br>:star:[code](https://github.com/JizhiziLi/matting-survey)
 * 语义分割
