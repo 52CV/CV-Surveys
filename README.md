@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月26日已公开 112 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月28日已公开 114 篇。
 1月份20篇。
 2月份36篇。
 3月份27篇。计83篇。
@@ -46,6 +46,8 @@
 * 事件信息
   * [Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks](https://arxiv.org/abs/2302.08890)<br>[2023-02-20]<br>
 
+## 智能农业
+* [Deep Learning Techniques for Hyperspectral Image Analysis in Agriculture: A Review](https://arxiv.org/abs/2304.13880)<br>[2023-04-28]<br>
 
 ##
 * [Neural Radiance Fields: Past, Present, and Future](https://arxiv.org/pdf/2304.10050.pdf)<br>[2023-04-21]<br>
@@ -184,6 +186,8 @@
   * [Deep Image Matting: A Comprehensive Survey](https://arxiv.org/abs/2304.04672)<br>[2023-04-11]<br>:star:[code](https://github.com/JizhiziLi/matting-survey)
 * 语义分割
   * [Few Shot Semantic Segmentation: a review of methodologies and open challenges](https://arxiv.org/abs/2304.05832)<br>[2023-04-13]<br>
+* 全景分割
+  * [A Review of Panoptic Segmentation for Mobile Mapping Point Clouds](https://arxiv.org/abs/2304.13980)<br>[2023-04-28]<br>
 
 ## Object Detection(目标检测)
 * [A Comprehensive Review of YOLO: From YOLOv1 to YOLOv8 and Beyond](https://arxiv.org/abs/2304.00501)<br>[2023-04-04]<br>
