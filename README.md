@@ -26,10 +26,11 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月28日已公开 114 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月4日已公开 121 篇。
 1月份20篇。
 2月份36篇。
-3月份27篇。计83篇。
+3月份27篇。
+4月份31篇。计114篇。
 
 ## 目录
 
@@ -49,14 +50,18 @@
 ## 智能农业
 * [Deep Learning Techniques for Hyperspectral Image Analysis in Agriculture: A Review](https://arxiv.org/abs/2304.13880)<br>[2023-04-28]<br>
 
-##
+## Neural rendering(神经渲染)
 * [Neural Radiance Fields: Past, Present, and Future](https://arxiv.org/pdf/2304.10050.pdf)<br>[2023-04-21]<br>
+* [Neural Radiance Fields (NeRFs): A Review and Some Recent Developments](https://arxiv.org/abs/2305.00375)<br>[2023-05-02]<br>
 
 ## 计算成像
 * [Applications of Deep Learning for Top-View Omnidirectional Imaging: A Survey](https://arxiv.org/abs/2304.08193)<br>[2023-04-18]<br>
 
 ## Diffusion Models
 * [A Survey on Graph Diffusion Models: Generative AI in Science for Molecule, Protein and Material](https://arxiv.org/abs/2304.01565)<br>[2023-04-05]<br>
+
+## Sign Language Recognition
+* [Image-based Indian Sign Language Recognition: A Practical Review using Deep Neural Networks](https://arxiv.org/abs/2304.14710)<br>[2023-05-01]<br>
 
 ## object counting
 * [Deep-Learning-based Counting Methods, Datasets, and Applications in Agriculture -- A Review](https://arxiv.org/abs/2303.02632)<br>[2023-03-07]<br>
@@ -66,6 +71,9 @@
 * [Data Distillation: A Survey](https://arxiv.org/abs/2301.04272)
 ## Continual Learning(持续学习)
 * [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://arxiv.org/abs/2302.00487)<br>[2023-02-02]<br>
+
+## Adversarial Learning(对抗学习)
+* [Physical Adversarial Attacks for Surveillance: A Survey](https://arxiv.org/abs/2305.01074)<br>[2023-05-03]<br>
 
 ## Incremental Learning(增量学习)
 * [Towards Label-Efficient Incremental Learning: A Survey](https://arxiv.org/abs/2302.00353)<br>[2023-02-02]<br>:star:[code](https://github.com/kilickaya/label-efficient-il)
@@ -193,6 +201,8 @@
 * [A Comprehensive Review of YOLO: From YOLOv1 to YOLOv8 and Beyond](https://arxiv.org/abs/2304.00501)<br>[2023-04-04]<br>
 * 犯罪预测
   * [Crime Prediction Using Machine Learning and Deep Learning: A Systematic Review and Future Directions](https://arxiv.org/abs/2303.16310)<br>[2023-03-30]<br>
+* 图像线段检测
+  * [A Comprehensive Review of Image Line Segment Detection and Description: Taxonomies, Comparisons, and Challenges](https://arxiv.org/abs/2305.00264)<br>[2023-05-02]<br>
 
 ## 11.三维视觉&三维重建
 * 三维重建
@@ -220,6 +230,8 @@
 ## 8.Face(人脸)
 * Deepfake检测
   * [Deepfake Detection using Biological Features: A Survey](https://arxiv.org/abs/2301.05819)<br>[2023-01-18]
+* 人脸识别
+  * [Racial Bias within Face Recognition: A Survey](https://arxiv.org/abs/2305.00817)<br>[2023-05-02]
 
 <a name="7"/>
 
@@ -293,11 +305,13 @@
 * [A Survey of Explainable AI in Deep Visual Modeling: Methods and Metrics](https://arxiv.org/abs/2301.13445)<br>[2023-02-01]<br>
 * [Deep Learning for Time Series Classification and Extrinsic Regression: A Current Survey](https://arxiv.org/pdf/2302.02515.pdf)<br>[2023-02-07]<br>
 * [Deep Learning for Inertial Positioning: A Survey](https://arxiv.org/abs/2303.03757)<br>[2023-03-08]<br>
+* [Towards Computational Architecture of Liberty: A Comprehensive Survey on Deep Learning for Generating Virtual Architecture in the Metaverse](https://arxiv.org/abs/2305.00510)<br>[2023-05-02]<br>
 * [A Survey of Historical Learning: Learning Models with Learning History](https://arxiv.org/abs/2303.12992)<br>[2023-03-24]<br>:star:[code](https://github.com/Martinser/Awesome-Historical-Learning)
 * [A Comprehensive Survey on Test-Time Adaptation under Distribution Shifts](https://arxiv.org/abs/2303.15361)<br>[2023-03-28]<br>:star:[code](https://github.com/tim-learn/awesome-test-time-adaptation)
 * [One Small Step for Generative AI, One Giant Leap for AGI: A Complete Survey on ChatGPT in AIGC Era](https://arxiv.org/abs/2304.06488)<br>[2023-04-14]<br>
 * [Survey on LiDAR Perception in Adverse Weather Conditions](https://arxiv.org/abs/2304.06312)<br>[2023-04-14]<br>
 * [Hyperbolic Geometry in Computer Vision: A Survey](https://arxiv.org/abs/2304.10764)<br>[2023-04-24]<br>
+* [A Survey of Methods for Converting Unstructured Data to CSG Models](https://arxiv.org/abs/2305.01220)<br>[2023-05-03]<br>
 * DNN
   * [Survey on Leveraging Uncertainty Estimation Towards Trustworthy Deep Neural Networks: The Case of Reject Option and Post-training Processing](https://arxiv.org/abs/2304.04906)<br>[2023-04-12]<br>:star:[code](https://github.com/MehediHasanTutul/Reject_option)
 * 上下文理解
