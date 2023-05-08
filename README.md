@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月4日已公开 121 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月8日已公开 123 篇。
 1月份20篇。
 2月份36篇。
 3月份27篇。
@@ -188,6 +188,7 @@
   * [Deep Learning for Human Parsing: A Survey](https://arxiv.org/abs/2301.12416)<br>[2023-01-31]
 * 语义分割
   * [A Survey on Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2302.09899)<br>[2023-02-21]<br>
+  * [Semantic Segmentation using Vision Transformers: A survey](https://arxiv.org/abs/2305.03273)<br>[2023-05-08]
   * [A Threefold Review on Deep Semantic Segmentation: Efficiency-oriented, Temporal and Depth-aware design](https://arxiv.org/abs/2303.04315)<br>[2023-03-09]<br>
   * [Survey on Unsupervised Domain Adaptation for Semantic Segmentation for Visual Perception in Automated Driving](https://arxiv.org/abs/2304.11928)<br>[2023-04-25]<br>:star:[code](https://uda-survey.github.io/survey/)
 * 图形抠图
@@ -239,6 +240,7 @@
 * [A Survey of Feature detection methods for localisation of plain sections of Axial Brain Magnetic Resonance Imaging](https://arxiv.org/pdf/2302.04173.pdf)<br>[2023-02-09]<br>
 * [Methods and datasets for segmentation of minimally invasive surgical instruments in endoscopic images and videos: A review of the state of the art](https://arxiv.org/abs/2304.13014)<br>[2023-04-26]
 [Computational Pathology: A Survey Review and The Way Forward](https://arxiv.org/abs/2304.05482)<br>[2023-04-13]
+* [Breast Cancer Immunohistochemical Image Generation: a Benchmark Dataset and Challenge Review](https://arxiv.org/abs/2305.03546)<br>[2023-05-08]
 * 医学影像分割
   * [Towards more precise automatic analysis: a comprehensive survey of deep learning-based multi-organ segmentation](https://arxiv.org/abs/2303.00232)<br>[2023-03-02]<br>
 * 医学影像分析
