@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月9日已公开 125 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月11日已公开 128 篇。
 1月份20篇。
 2月份36篇。
 3月份27篇。
@@ -86,6 +86,8 @@
 
 ## Image Generation
 * [A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need?](https://arxiv.org/abs/2303.11717)<br>[2023-03-22]<br>
+* Text-to-3D 
+  * [Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era](https://arxiv.org/abs/2305.06131)<br>[2023-05-11]
 
 ## Few-Shot Learning
 * FSL
@@ -171,6 +173,8 @@
 * [Automatic detection of aerial survey ground control points based on Yolov5-OBB](https://arxiv.org/abs/2303.03041)<br>[2023-03-07]<br>
 * 遥感图像检测
   * [Oriented Object Detection in Optical Remote Sensing Images: A Survey](https://arxiv.org/abs/2302.10473)<br>[2023-02-22]<br>
+* 变化检测
+  * [Change Detection Methods for Remote Sensing in the Last Decade: A Comprehensive Review](https://arxiv.org/abs/2305.05813)<br>[2023-05-11]<br>
 
 ## Super-resolution
 * [Guided Depth Map Super-resolution: A Survey](https://arxiv.org/abs/2302.09598)<br>[2023-02-21]<br>:star:[code](https://github.com/zhwzhong/Guided-Depth-Map-Super-resolution-A-Survey)
@@ -318,6 +322,7 @@
 * [One Small Step for Generative AI, One Giant Leap for AGI: A Complete Survey on ChatGPT in AIGC Era](https://arxiv.org/abs/2304.06488)<br>[2023-04-14]<br>
 * [Survey on LiDAR Perception in Adverse Weather Conditions](https://arxiv.org/abs/2304.06312)<br>[2023-04-14]<br>
 * [Hyperbolic Geometry in Computer Vision: A Survey](https://arxiv.org/abs/2304.10764)<br>[2023-04-24]<br>
+* [The Robustness of Computer Vision Models against Common Corruptions: a Survey](https://arxiv.org/abs/2305.06024)<br>[2023-05-11]<br>
 * [A Survey of Methods for Converting Unstructured Data to CSG Models](https://arxiv.org/abs/2305.01220)<br>[2023-05-03]<br>
 * [Latest Trends in Artificial Intelligence Technology: A Scoping Review](https://arxiv.org/abs/2305.04532)<br>[2023-05-09]<br>
 * DNN
