@@ -265,6 +265,8 @@
   * [Deepfake Detection using Biological Features: A Survey](https://arxiv.org/abs/2301.05819)<br>[2023-01-18]
 * 人脸识别
   * [Racial Bias within Face Recognition: A Survey](https://arxiv.org/abs/2305.00817)<br>[2023-05-02]
+* 人脸检测
+  * [A Comparative Study of Face Detection Algorithms for Masked Face Detection](https://arxiv.org/abs/2305.11077)<br>[2023-05-19]
 
 <a name="7"/>
 
