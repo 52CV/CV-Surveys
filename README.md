@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月19日已公开 138 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月22日已公开 141 篇。
 1月份20篇。
 2月份36篇。
 3月份27篇。
@@ -297,6 +297,10 @@
   * [Revisiting Long-tailed Image Classification: Survey and Benchmarks with New Evaluation Metrics](https://export.arxiv.org/abs/2302.01507)<br>[2023-02-06]<br>
 * 果实成熟度分类
   * [Fruit Ripeness Classification: a Survey](https://arxiv.org/abs/2212.14441)<br>[2023-01-02]<br>
+* 植物病害分类
+  * [Embracing Limited and Imperfect Data: A Review on Plant Stress Recognition Using Deep Learning](https://arxiv.org/abs/2305.11533)<br>[2023-05-22]<br>
+* 浮游生物识别
+  * [Survey of Automatic Plankton Image Recognition: Challenges, Existing Solutions and Future Perspectives](https://arxiv.org/abs/2305.11739)<br>[2023-05-22]<br>
 
 <a name="5"/>
 
@@ -359,6 +363,7 @@
   * [Context Understanding in Computer Vision: A Survey](https://arxiv.org/pdf/2302.05011.pdf)<br>[2023-02-13]<br>
 * 多模态
   * [Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey](https://arxiv.org/abs/2302.10035)<br>[2023-02-21]<br>:star:[code](https://github.com/wangxiao5791509/MultiModal_BigModels_Survey)
+  * [RGB-D And Thermal Sensor Fusion: A Systematic Literature Review](https://arxiv.org/abs/2305.11427)<br>[2023-05-22]<br>
   * [Multimodal Sentiment Analysis: A Survey](https://arxiv.org/abs/2305.07611)<br>[2023-05-15]<br>
 * 运输物流与仓储
   * [Literature Review: Computer Vision Applications in Transportation Logistics and Warehousing](https://arxiv.org/abs/2304.06009)<br>[2023-04-13]<br>:star:[code](https://a-nau.github.io/cv-in-logistics)  
