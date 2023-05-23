@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月22日已公开 142 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月23日已公开 144 篇。
 1月份20篇。
 2月份36篇。
 3月份27篇。
@@ -86,6 +86,7 @@
 
 ## Point Clouds(点云)
 * [Self-supervised Learning for Pre-Training 3D Point Clouds: A Survey](https://arxiv.org/abs/2305.04691)<br>[2023-05-09]
+* [Self-Supervised Learning for Point Clouds Data: A Survey](https://arxiv.org/abs/2305.11881)<br>[2023-05-23]
 
 ## Image Generation
 * [A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need?](https://arxiv.org/abs/2303.11717)<br>[2023-03-22]<br>
@@ -99,6 +100,9 @@
 
 ## Trajectory Prediction
 * [Multimodal Trajectory Prediction: A Survey](https://arxiv.org/abs/2302.10463)<br>[2023-02-22]<br>
+
+## Visual Defect Detection(视觉缺陷检测)
+* [A Review of Benchmarks for Visual Defect Detection in the Manufacturing Industry](https://arxiv.org/abs/2305.13261)<br>[2023-05-23]<br>
 
 ## Biometric Recognition(生物特征识别)
 * [Combining Blockchain and Biometrics: A Survey on Technical Aspects and a First Legal Analysis](https://arxiv.org/abs/2302.10883)<br>[2023-02-22]<br>
