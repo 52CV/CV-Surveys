@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月23日已公开 144 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月24日已公开 147 篇。
 1月份20篇。
 2月份36篇。
 3月份27篇。
@@ -97,6 +97,9 @@
 * FSL
   * [Deep Learning for Cross-Domain Few-Shot Visual Recognition: A Survey](https://arxiv.org/abs/2303.08557)<br>[2023-03-16]<br>
   * [A Survey of Deep Visual Cross-Domain Few-Shot Learning](https://arxiv.org/abs/2303.09253)<br>[2023-03-17]<br>
+
+## Self-supervised Learning(自监督)
+* [Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training](https://arxiv.org/abs/2305.13689)<br>[2023-05-24]<br>
 
 ## Trajectory Prediction
 * [Multimodal Trajectory Prediction: A Survey](https://arxiv.org/abs/2302.10463)<br>[2023-02-22]<br>
@@ -334,6 +337,7 @@
 <a name="2"/>
 
 ## 2.Human Pose Estimation(人体姿态估计)
+* [Human Body Pose Estimation for Gait Identification: A Comprehensive Survey of Datasets and Models](https://arxiv.org/abs/2305.13765)<br>[2023-05-24]
 * 人体解析
   * [Deep Learning Technique for Human Parsing: A Survey and Outlook](https://arxiv.org/abs/2301.00394)<br>[2023-01-03]<br>:star:[code](https://github.com/soeaver/awesome-human-parsing)
 * 手势合成
@@ -371,6 +375,8 @@
   * [Multimodal Sentiment Analysis: A Survey](https://arxiv.org/abs/2305.07611)<br>[2023-05-15]<br>
 * 运输物流与仓储
   * [Literature Review: Computer Vision Applications in Transportation Logistics and Warehousing](https://arxiv.org/abs/2304.06009)<br>[2023-04-13]<br>:star:[code](https://a-nau.github.io/cv-in-logistics)  
+* 事实检查
+  * [Multimodal Automated Fact-Checking: A Survey](https://arxiv.org/abs/2305.13507)<br>[2023-05-24]<br>
 
 ## 扫码CV君微信（注明：CV）入微信交流群：
 
