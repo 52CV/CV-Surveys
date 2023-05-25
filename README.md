@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月24日已公开 148 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月25日已公开 150 篇。
 1月份20篇。
 2月份36篇。
 3月份27篇。
@@ -47,8 +47,9 @@
 * 事件信息
   * [Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks](https://arxiv.org/abs/2302.08890)<br>[2023-02-20]<br>
 
-## 智能农业
+## Smart farming(智能农业)
 * [Deep Learning Techniques for Hyperspectral Image Analysis in Agriculture: A Review](https://arxiv.org/abs/2304.13880)<br>[2023-04-28]<br>
+* [Label-Efficient Learning in Agriculture: A Comprehensive Review](https://arxiv.org/abs/2305.14691)<br>[2023-05-25]<br>:star:[code](https://github.com/DongChen06/Label-efficient-in-Agriculture)
 
 ## Neural rendering(神经渲染)
 * [Neural Radiance Fields: Past, Present, and Future](https://arxiv.org/pdf/2304.10050.pdf)<br>[2023-04-21]<br>
@@ -152,6 +153,7 @@
 
 ## Vision-Language
 * [Vision-Language Models for Vision Tasks: A Survey](https://arxiv.org/abs/2304.00685)<br>[2023-04-04]<br>:star:[code](https://github.com/jingyi0000/VLM_survey)
+* [Vision + Language Applications: A Survey]<br>[2023-05-25]<br>:star:[code](https://arxiv.org/abs/2305.14598)(https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
 
 ## Autonomous Driving(自动驾驶)
 * [Transformer-Based Sensor Fusion for Autonomous Driving: A Survey](https://arxiv.org/abs/2302.11481)<br>[2023-02-15]<br>:star:[code](https://github.com/ApoorvRoboticist/Transformers-Sensor-Fusion)
