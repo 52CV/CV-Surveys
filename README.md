@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月25日已公开 151 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月26日已公开 153 篇。
 1月份20篇。
 2月份36篇。
 3月份27篇。
@@ -117,6 +117,7 @@
 
 ## GAN/生成
 * [Text-to-image Diffusion Model in Generative AI: A Survey](https://arxiv.org/abs/2303.07909)<br>[2023-03-15]<br>
+* [Generative Adversarial Networks for Brain Images Synthesis: A Review](https://arxiv.org/abs/2305.15421)<br>[2023-05-26]<br>
 * [3D GANs and Latent Space: A comprehensive survey](https://arxiv.org/abs/2304.03932)<br>[2023-04-11]<br>
 * 图像编辑
   * [Text-guided Image-and-Shape Editing and Generation: A Short Survey](https://arxiv.org/abs/2304.09244)<br>[2023-04-20]<br>
@@ -261,7 +262,7 @@
 ## 10.Human Action Recognition(人体动作识别)
 * [A Survey on Human Action Recognition](https://arxiv.org/abs/2301.06082)<br>[2023-01-18]
 * [Transformers in Action Recognition: A Review on Temporal Modeling](https://export.arxiv.org/abs/2302.01921)<br>[2023-02-06]<br>
-
+* [Deep Neural Networks in Video Human Action Recognition: A Review](https://arxiv.org/abs/2305.15692)<br>[2023-05-26]<br>
 
 <a name="9"/>
 
