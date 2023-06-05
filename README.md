@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月1日已公开 159 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月5日已公开 161 篇。
 1月份20篇。
 2月份36篇。
 3月份27篇。
@@ -291,6 +291,7 @@
 ## 7.Medical Image Processing(医学影像处理)
 * [A Survey of Feature detection methods for localisation of plain sections of Axial Brain Magnetic Resonance Imaging](https://arxiv.org/pdf/2302.04173.pdf)<br>[2023-02-09]<br>
 * [Methods and datasets for segmentation of minimally invasive surgical instruments in endoscopic images and videos: A review of the state of the art](https://arxiv.org/abs/2304.13014)<br>[2023-04-26]
+* [Publicly available datasets of breast histopathology H&E whole-slide images: A systematic review](https://arxiv.org/abs/2306.01546)<br>[2023-06-05]
 [Computational Pathology: A Survey Review and The Way Forward](https://arxiv.org/abs/2304.05482)<br>[2023-04-13]
 * [Breast Cancer Immunohistochemical Image Generation: a Benchmark Dataset and Challenge Review](https://arxiv.org/abs/2305.03546)<br>[2023-05-08]
 * 医学影像分割
@@ -392,6 +393,8 @@
   * [Literature Review: Computer Vision Applications in Transportation Logistics and Warehousing](https://arxiv.org/abs/2304.06009)<br>[2023-04-13]<br>:star:[code](https://a-nau.github.io/cv-in-logistics)  
 * 事实检查
   * [Multimodal Automated Fact-Checking: A Survey](https://arxiv.org/abs/2305.13507)<br>[2023-05-24]<br>
+* 匹配
+  * [Confidence Intervals for Error Rates in Matching Tasks: Critical Review and Recommendations](https://arxiv.org/abs/2306.01198)<br>[2023-06-05]<br>
 
 ## 扫码CV君微信（注明：CV）入微信交流群：
 
