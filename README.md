@@ -41,7 +41,7 @@
 |[5.Image Processing(图像处理)](#6)|[6.Image Classification(图像分类)](#6)|[7.Medical Image Processing(医学影像处理)](#7)|[8.Face(人脸)](#8)|
 |[9.GAN(生成对抗网络)](#9)|[10.HAR(人体动作识别)](#10)|[11.三维视觉&三维重建](#11)|[12.Object Detection(目标检测)](#12)|
 |[13.Image segmentation(图像分割)](#13)|[14.Image Retrieval(图像检索)](#14)|[15.Image Captioning(图像字幕)](#15)|[16.Super-resolution(超分辨率)](#16)|
-|[17.Remote Sensing(遥感)](#17)|[18.Object Tracking(目标跟踪)](#18)|[19.VQA(视觉问答)#19]
+|[17.Remote Sensing(遥感)](#17)|[18.Object Tracking(目标跟踪)](#18)|[19.VQA(视觉问答)](#19)|
 
 * 网络犯罪预测
   * [Advances in Cybercrime Prediction: A Survey of Machine, Deep, Transfer, and Adaptive Learning Techniques](https://arxiv.org/abs/2304.04819)<br>[2023-04-12]<br>
