@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月6日已公开 163 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月7日已公开 165 篇。
 1月份20篇。
 2月份36篇。
 3月份27篇。
@@ -289,6 +289,8 @@
   * [Racial Bias within Face Recognition: A Survey](https://arxiv.org/abs/2305.00817)<br>[2023-05-02]
 * 人脸检测
   * [A Comparative Study of Face Detection Algorithms for Masked Face Detection](https://arxiv.org/abs/2305.11077)<br>[2023-05-19]
+* 3D头像
+  * [Human 3D Avatar Modeling with Implicit Neural Representation: A Brief Survey](https://arxiv.org/abs/2306.03576)<br>[2023-06-07]
 
 <a name="7"/>
 
@@ -298,6 +300,7 @@
 * [Publicly available datasets of breast histopathology H&E whole-slide images: A systematic review](https://arxiv.org/abs/2306.01546)<br>[2023-06-05]
 [Computational Pathology: A Survey Review and The Way Forward](https://arxiv.org/abs/2304.05482)<br>[2023-04-13]
 * [Breast Cancer Immunohistochemical Image Generation: a Benchmark Dataset and Challenge Review](https://arxiv.org/abs/2305.03546)<br>[2023-05-08]
+* [Digitization of Pathology Labs: A Review of Lessons Learned](https://arxiv.org/abs/2306.03619)<br>[2023-06-07]
 * 医学影像分割
   * [Towards more precise automatic analysis: a comprehensive survey of deep learning-based multi-organ segmentation](https://arxiv.org/abs/2303.00232)<br>[2023-03-02]<br>
   * [Attention Mechanisms in Medical Image Segmentation: A Survey](https://arxiv.org/abs/2305.17937)<br>[2023-05-30]<br>
