@@ -62,10 +62,10 @@
 * 相机姿势
   * [A Survey on Deep Learning-Based Monocular Spacecraft Pose Estimation: Current State, Limitations and Prospects](https://arxiv.org/abs/2305.07348)<br>[2023-05-15]<br>
 
-## Diffusion Models
+## Diffusion Models(扩散模型)
 * [A Survey on Graph Diffusion Models: Generative AI in Science for Molecule, Protein and Material](https://arxiv.org/abs/2304.01565)<br>[2023-04-05]<br>
 
-## Sign Language Recognition
+## Sign Language Recognition(手语识别)
 * [Image-based Indian Sign Language Recognition: A Practical Review using Deep Neural Networks](https://arxiv.org/abs/2304.14710)<br>[2023-05-01]<br>
 
 ## object counting
