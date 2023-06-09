@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月8日已公开 166 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月9日已公开 168 篇。
 1月份20篇。
 2月份36篇。
 3月份27篇。
@@ -209,6 +209,8 @@
   * [Oriented Object Detection in Optical Remote Sensing Images: A Survey](https://arxiv.org/abs/2302.10473)<br>[2023-02-22]<br>
 * 变化检测
   * [Change Detection Methods for Remote Sensing in the Last Decade: A Comprehensive Review](https://arxiv.org/abs/2305.05813)<br>[2023-05-11]<br>
+* 检测与跟踪
+  * [A review of UAV Visual Detection and Tracking Methods](https://arxiv.org/abs/2306.05089)<br>[2023-06-09]<br>
 
 <a name="16"/>
 
@@ -252,6 +254,7 @@
 
 ## 12.Object Detection(目标检测)
 * [A Comprehensive Review of YOLO: From YOLOv1 to YOLOv8 and Beyond](https://arxiv.org/abs/2304.00501)<br>[2023-04-04]<br>
+* [2D Object Detection with Transformers: A Review](https://arxiv.org/abs/2306.04670)<br>[2023-06-09]<br>:star:[code](https://github.com/mindgarage-shan/trans_object_detection_survey)
 * 犯罪预测
   * [Crime Prediction Using Machine Learning and Deep Learning: A Systematic Review and Future Directions](https://arxiv.org/abs/2303.16310)<br>[2023-03-30]<br>
 * 图像线段检测
