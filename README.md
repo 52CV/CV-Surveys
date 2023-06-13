@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月12日已公开 170 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月13日已公开 173 篇。
 1月份20篇。
 2月份36篇。
 3月份27篇。
@@ -81,6 +81,7 @@
 ## Adversarial Learning(对抗学习)
 * [Physical Adversarial Attacks for Surveillance: A Survey](https://arxiv.org/abs/2305.01074)<br>[2023-05-03]<br>
 * [How Deep Learning Sees the World: A Survey on Adversarial Attacks & Defenses](https://arxiv.org/abs/2305.10862)<br>[2023-05-19]<br>
+* [Adversarial Attacks and Defenses in Explainable Artificial Intelligence: A Survey](https://arxiv.org/abs/2306.06123)<br>[2023-06-13]<br>
 
 ## Incremental Learning(增量学习)
 * [Towards Label-Efficient Incremental Learning: A Survey](https://arxiv.org/abs/2302.00353)<br>[2023-02-02]<br>:star:[code](https://github.com/kilickaya/label-efficient-il)
@@ -233,6 +234,7 @@
 <a name="13"/>
 
 ## 13.Image segmentation(图像分割)
+* [A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering](https://arxiv.org/abs/2306.06211)<br>[2023-06-13]<br>
 * [A Comprehensive Review of Modern Object Segmentation Approaches](https://arxiv.org/abs/2301.07499)<br>[2023-01-19]
 * [Semantic Image Segmentation: Two Decades of Research](https://arxiv.org/abs/2302.06378)<br>[2023-02-15]<br>
 * [Transformer-Based Visual Segmentation: A Survey](https://arxiv.org/abs/2304.09854)<br>[2023-04-20]<br>:star:[code](https://github.com/lxtGH/Awesome-Segmenation-With-Transformer)
@@ -409,6 +411,8 @@
   * [Multimodal Automated Fact-Checking: A Survey](https://arxiv.org/abs/2305.13507)<br>[2023-05-24]<br>
 * 匹配
   * [Confidence Intervals for Error Rates in Matching Tasks: Critical Review and Recommendations](https://arxiv.org/abs/2306.01198)<br>[2023-06-05]<br>
+* 图像矢量化
+  * [Image Vectorization: a Review](https://arxiv.org/abs/2306.06441)<br>[2023-06-13]<br>
 
 ## 扫码CV君微信（注明：CV）入微信交流群：
 
