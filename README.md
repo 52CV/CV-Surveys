@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月14日已公开 174 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月16日已公开 178 篇。
 1月份20篇。
 2月份36篇。
 3月份27篇。
@@ -47,6 +47,9 @@
   * [Advances in Cybercrime Prediction: A Survey of Machine, Deep, Transfer, and Adaptive Learning Techniques](https://arxiv.org/abs/2304.04819)<br>[2023-04-12]<br>
 * 事件信息
   * [Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks](https://arxiv.org/abs/2302.08890)<br>[2023-02-20]<br>
+
+## Sound
+* [Automated Speaker Independent Visual Speech Recognition: A Comprehensive Survey](https://arxiv.org/abs/2306.08314)<br>[2023-06-16]<br>
 
 ## Smart farming(智能农业)
 * [Deep Learning Techniques for Hyperspectral Image Analysis in Agriculture: A Review](https://arxiv.org/abs/2304.13880)<br>[2023-04-28]<br>
@@ -166,6 +169,7 @@
 * [Vision + Language Applications: A Survey]<br>[2023-05-25]<br>:star:[code](https://arxiv.org/abs/2305.14598)(https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
 
 ## Autonomous Driving(自动驾驶)
+* [Radars for Autonomous Driving: A Review of Deep Learning Methods and Challenges](https://arxiv.org/abs/2306.09304)<br>[2023-06-16]<br>:star:[code](http://autonomous-radars.github.io/)
 * [Transformer-Based Sensor Fusion for Autonomous Driving: A Survey](https://arxiv.org/abs/2302.11481)<br>[2023-02-15]<br>:star:[code](https://github.com/ApoorvRoboticist/Transformers-Sensor-Fusion)
 * [Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2303.01212)<br>[2023-03-03]<br>
 * [Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2304.10410)<br>[2023-04-21]<br>:star:[code](https://xjtlu-vec.github.io/Radar-Camera-Fusion)
@@ -302,6 +306,7 @@
 <a name="7"/>
 
 ## 7.Medical Image Processing(医学影像处理)
+* [Diagnostic test accuracy (DTA) of artificial intelligence in digital pathology: a systematic review, meta-analysis and quality assessment](https://arxiv.org/abs/2306.07999)<br>[2023-06-16]
 * [A Survey of Feature detection methods for localisation of plain sections of Axial Brain Magnetic Resonance Imaging](https://arxiv.org/pdf/2302.04173.pdf)<br>[2023-02-09]<br>
 * [Methods and datasets for segmentation of minimally invasive surgical instruments in endoscopic images and videos: A review of the state of the art](https://arxiv.org/abs/2304.13014)<br>[2023-04-26]
 * [Publicly available datasets of breast histopathology H&E whole-slide images: A systematic review](https://arxiv.org/abs/2306.01546)<br>[2023-06-05]
@@ -380,6 +385,7 @@
 <a name="n"/>
 
 ## 1.Unkown(未分)
+* [Point spread function modelling for astronomical telescopes: a review focused on weak gravitational lensing studies](https://arxiv.org/abs/2306.07996)<br>[2023-06-16]<br>
 * [Recent Advances of Local Mechanisms in Computer Vision: A Survey and Outlook of Recent Work](https://arxiv.org/abs/2306.01929)<br>[2023-06-06]<br>
 * [A survey on Organoid Image Analysis Platforms](https://arxiv.org/abs/2301.02341)<br>[2023-01-09]<br>
 * [Physics-Informed Computer Vision: A Review and Perspectives](https://arxiv.org/abs/2305.18035)<br>[2023-05-30]<br>
