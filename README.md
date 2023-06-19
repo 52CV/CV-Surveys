@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月16日已公开 178 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月19日已公开 179 篇。
 1月份20篇。
 2月份36篇。
 3月份27篇。
@@ -341,6 +341,8 @@
   * [Embracing Limited and Imperfect Data: A Review on Plant Stress Recognition Using Deep Learning](https://arxiv.org/abs/2305.11533)<br>[2023-05-22]<br>
 * 浮游生物识别
   * [Survey of Automatic Plankton Image Recognition: Challenges, Existing Solutions and Future Perspectives](https://arxiv.org/abs/2305.11739)<br>[2023-05-22]<br>
+* 作物分类
+  * [A comprehensive review of 3D convolutional neural network-based classification techniques of diseased and defective crops using non-UAV-based hyperspectral images](https://arxiv.org/abs/2306.09418)<br>[2023-06-19]<br>
 
 <a name="5"/>
 
