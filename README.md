@@ -26,12 +26,12 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月19日已公开 179 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月22日已公开 182 篇。
 1月份20篇。
 2月份36篇。
 3月份27篇。
 4月份31篇。
-5月份42篇计156篇。
+5月份42篇计156篇。6月份
 
 ## 目录
 
@@ -175,6 +175,7 @@
 * [Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2304.10410)<br>[2023-04-21]<br>:star:[code](https://xjtlu-vec.github.io/Radar-Camera-Fusion)
 * [Synthetic Datasets for Autonomous Driving: A Survey](https://arxiv.org/abs/2304.12205)<br>[2023-04-25]<br>
 * [Transformer-based models and hardware acceleration analysis in autonomous driving: A survey](https://arxiv.org/abs/2304.10891)<br>[2023-04-24]
+* [A survey on deep learning approaches for data integration in autonomous driving system](https://arxiv.org/abs/2306.11740)<br>[2023-06-22]<br>
 * 目标检测
   * [Surround-View Vision-based 3D Detection for Autonomous Driving: A Survey](https://arxiv.org/abs/2302.06650)<br>[2023-02-15]<br>:star:[code](https://github.com/ApoorvRoboticist/VisionBEVDetectionSurvey)
   * [Vision-RADAR fusion for Robotics BEV Detections: A Survey](https://arxiv.org/pdf/2302.06643.pdf)<br>[2023-02-15]<br>:star:[code](https://github.com/ApoorvRoboticist/Vision-RADAR-Fusion-BEV-Survey)
@@ -217,6 +218,10 @@
   * [Change Detection Methods for Remote Sensing in the Last Decade: A Comprehensive Review](https://arxiv.org/abs/2305.05813)<br>[2023-05-11]<br>
 * 检测与跟踪
   * [A review of UAV Visual Detection and Tracking Methods](https://arxiv.org/abs/2306.05089)<br>[2023-06-09]<br>
+* 自然火灾检测
+  * [Wildfire Detection Via Transfer Learning: A Survey](https://arxiv.org/abs/2306.12276)<br>[2023-06-22]<br>
+* 遥感图像分类
+  * [A Comprehensive Study on the Robustness of Image Classification and Object Detection in Remote Sensing: Surveying and Benchmarking](https://arxiv.org/abs/2306.12111)<br>[2023-06-22]<br>
 
 <a name="16"/>
 
