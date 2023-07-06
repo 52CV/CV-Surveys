@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月4日已公开 191 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月6日已公开 193 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -50,8 +50,9 @@
   * [Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks](https://arxiv.org/abs/2302.08890)<br>[2023-02-20]<br>
 
 
-## Gaze Estimation
+## Gaze Estimation(凝视估计)
 * [An End-to-End Review of Gaze Estimation and its Interactive Applications on Handheld Mobile Devices](https://arxiv.org/abs/2307.00122)<br>[2023-07-04]
+* [A Review of Driver Gaze Estimation and Application in Gaze Behavior Understanding](https://arxiv.org/abs/2307.01470)<br>[2023-07-06]
 
 ## Vision-Language(视觉语言)
 * [Review of Large Vision Models and Visual Prompt Engineering](https://arxiv.org/abs/2307.00855)<br>[2023-07-04]
@@ -390,6 +391,8 @@
   * [Edge-Based Video Analytics: A Survey](https://arxiv.org/abs/2303.14329)<br>[2023-03-28]<br>
 * 视频时刻定位
   * [A Survey on Video Moment Localization](https://arxiv.org/abs/2306.07515)<br>[2023-06-14]<br>
+* 视频监控
+  * [Sensors and Systems for Monitoring Mental Fatigue: A systematic review](https://arxiv.org/abs/2307.01666)<br>[2023-07-06]<br>
 
 <a name="3"/>
 
