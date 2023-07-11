@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月10日已公开 196 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月11日已公开 198 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -188,6 +188,7 @@
 * [Vision + Language Applications: A Survey]<br>[2023-05-25]<br>:star:[code](https://arxiv.org/abs/2305.14598)(https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
 
 ## Autonomous Driving(自动驾驶)
+* [Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey](https://arxiv.org/abs/2307.04370)<br>[2023-07-11]
 * [Radars for Autonomous Driving: A Review of Deep Learning Methods and Challenges](https://arxiv.org/abs/2306.09304)<br>[2023-06-16]<br>:star:[code](http://autonomous-radars.github.io/)
 * [Transformer-Based Sensor Fusion for Autonomous Driving: A Survey](https://arxiv.org/abs/2302.11481)<br>[2023-02-15]<br>:star:[code](https://github.com/ApoorvRoboticist/Transformers-Sensor-Fusion)
 * [Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2303.01212)<br>[2023-03-03]<br>
@@ -372,6 +373,8 @@
   * [Survey of Automatic Plankton Image Recognition: Challenges, Existing Solutions and Future Perspectives](https://arxiv.org/abs/2305.11739)<br>[2023-05-22]<br>
 * 作物分类
   * [A comprehensive review of 3D convolutional neural network-based classification techniques of diseased and defective crops using non-UAV-based hyperspectral images](https://arxiv.org/abs/2306.09418)<br>[2023-06-19]<br>
+* 图表分类
+  * [A Survey and Approach to Chart Classification](https://arxiv.org/abs/2307.04147)<br>[2023-07-11]<br>
 
 <a name="5"/>
 
