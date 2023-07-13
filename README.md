@@ -84,6 +84,8 @@
 ## Machine Learning(机器学习)
 * 迁移学习
   * [Deep Transfer Learning for Intelligent Vehicle Perception: a Survey](https://arxiv.org/abs/2306.15110)<br>[2023-06-28]<br>
+* 强化学习
+  * [Transformers in Reinforcement Learning: A Survey](https://arxiv.org/abs/2307.05979)<br>[2023-07-13]
 
 ## Sign Language Recognition(手语识别)
 * [Image-based Indian Sign Language Recognition: A Practical Review using Deep Neural Networks](https://arxiv.org/abs/2304.14710)<br>[2023-05-01]<br>
@@ -375,6 +377,8 @@
   * [A comprehensive review of 3D convolutional neural network-based classification techniques of diseased and defective crops using non-UAV-based hyperspectral images](https://arxiv.org/abs/2306.09418)<br>[2023-06-19]<br>
 * 图表分类
   * [A Survey and Approach to Chart Classification](https://arxiv.org/abs/2307.04147)<br>[2023-07-11]<br>
+* 图形分类
+  * [A Survey on Figure Classification Techniques in Scientific Documents](https://arxiv.org/abs/2307.05694)<br>[2023-07-13]<br>
 
 <a name="5"/>
 
