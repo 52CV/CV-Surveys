@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月13日已公开 200 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月17日已公开 201 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -338,6 +338,7 @@
 <a name="7"/>
 
 ## 7.Medical Image Processing(医学影像处理)
+* [A scoping review on multimodal deep learning in biomedical images and texts](https://arxiv.org/abs/2307.07362)<br>[2023-07-17]
 * [Diagnostic test accuracy (DTA) of artificial intelligence in digital pathology: a systematic review, meta-analysis and quality assessment](https://arxiv.org/abs/2306.07999)<br>[2023-06-16]
 * [A Survey of Feature detection methods for localisation of plain sections of Axial Brain Magnetic Resonance Imaging](https://arxiv.org/pdf/2302.04173.pdf)<br>[2023-02-09]<br>
 * [Methods and datasets for segmentation of minimally invasive surgical instruments in endoscopic images and videos: A review of the state of the art](https://arxiv.org/abs/2304.13014)<br>[2023-04-26]
