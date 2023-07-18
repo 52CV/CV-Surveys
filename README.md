@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月17日已公开 201 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月18日已公开 204 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -214,6 +214,7 @@
 * [A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)<br>[2023-02-03]<br>
 * [A survey of the Vision Transformers and its CNN-Transformer based Variants](https://arxiv.org/abs/2305.09880)<br>[2023-05-18]<br>
 * [Vision Transformers for Mobile Applications: A Short Survey](https://arxiv.org/abs/2305.19365)<br>[2023-06-01]<br>
+* [A Survey of Techniques for Optimizing Transformer Inference](https://arxiv.org/abs/2307.07982)<br>[2023-07-18]<br> 
 
 ## Person Re-Identification
 * Reid
@@ -239,6 +240,7 @@
   * [Oriented Object Detection in Optical Remote Sensing Images: A Survey](https://arxiv.org/abs/2302.10473)<br>[2023-02-22]<br>
 * 变化检测
   * [Change Detection Methods for Remote Sensing in the Last Decade: A Comprehensive Review](https://arxiv.org/abs/2305.05813)<br>[2023-05-11]<br>
+  * [A Survey on Change Detection Techniques in Document Images](https://arxiv.org/abs/2307.07691)<br>[2023-07-18]<br>
 * 检测与跟踪
   * [A review of UAV Visual Detection and Tracking Methods](https://arxiv.org/abs/2306.05089)<br>[2023-06-09]<br>
 * 自然火灾检测
@@ -380,6 +382,8 @@
   * [A Survey and Approach to Chart Classification](https://arxiv.org/abs/2307.04147)<br>[2023-07-11]<br>
 * 图形分类
   * [A Survey on Figure Classification Techniques in Scientific Documents](https://arxiv.org/abs/2307.05694)<br>[2023-07-13]<br>
+* 交通信号灯识别
+  * [Adversarial Attacks on Traffic Sign Recognition: A Survey](https://arxiv.org/abs/2307.08278)<br>[2023-07-18]<br>
 
 <a name="5"/>
 
