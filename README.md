@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月18日已公开 204 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月19日已公开 207 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -98,6 +98,7 @@
 * [Data Distillation: A Survey](https://arxiv.org/abs/2301.04272)
 ## Continual Learning(持续学习)
 * [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://arxiv.org/abs/2302.00487)<br>[2023-02-02]<br>
+* [A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning](https://arxiv.org/abs/2307.09218)<br>[2023-07-19]<br>
 
 ## Adversarial Learning(对抗学习)
 * [Physical Adversarial Attacks for Surveillance: A Survey](https://arxiv.org/abs/2305.01074)<br>[2023-05-03]<br>
@@ -209,6 +210,7 @@
 
 ## Neural Architecture Search(神经架构搜索)
 * [Efficient Automation of Neural Network Design: A Survey on Differentiable Neural Architecture Search](https://arxiv.org/abs/2304.05405)<br>[2023-04-13]<br> 
+* [A Survey on Multi-Objective Neural Architecture Search](https://arxiv.org/abs/2307.09099)<br>[2023-07-19]<br>  
 
 ## Transformer
 * [A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)<br>[2023-02-03]<br>
@@ -299,7 +301,9 @@
   * [A Comprehensive Review of Image Line Segment Detection and Description: Taxonomies, Comparisons, and Challenges](https://arxiv.org/abs/2305.00264)<br>[2023-05-02]<br>
 * 半监督目标检测
   * [Semi-supervised Object Detection: A Survey on Recent Research and Progress](https://arxiv.org/abs/2306.14106)
-  
+* 开放词汇目标检测
+  * [A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future](https://arxiv.org/abs/2307.09220)<br>[2023-07-19]<br>  
+
 <a name="11"/>
 
 ## 11.三维视觉&三维重建
