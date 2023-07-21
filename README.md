@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月20日已公开 208 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月21日已公开 211 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -53,6 +53,10 @@
 ## Gaze Estimation(凝视估计)
 * [An End-to-End Review of Gaze Estimation and its Interactive Applications on Handheld Mobile Devices](https://arxiv.org/abs/2307.00122)<br>[2023-07-04]
 * [A Review of Driver Gaze Estimation and Application in Gaze Behavior Understanding](https://arxiv.org/abs/2307.01470)<br>[2023-07-06]
+
+
+## Human Motion Generation(人体动作生成)
+* [Human Motion Generation: A Survey](https://arxiv.org/abs/2307.10894)<br>[2023-07-21]
 
 ## Vision-Language(视觉语言)
 * [Review of Large Vision Models and Visual Prompt Engineering](https://arxiv.org/abs/2307.00855)<br>[2023-07-04]
@@ -157,6 +161,8 @@
 * [3D GANs and Latent Space: A comprehensive survey](https://arxiv.org/abs/2304.03932)<br>[2023-04-11]<br>
 * 图像编辑
   * [Text-guided Image-and-Shape Editing and Generation: A Short Survey](https://arxiv.org/abs/2304.09244)<br>[2023-04-20]<br>
+* 图像合成
+  * [Survey on Controlable Image Synthesis with Deep Learning](https://arxiv.org/abs/2307.10275)<br>[2023-07-21]<br>
 
 ## NLP
 * [Foundation Models for Natural Language Processing -- Pre-trained Language Models Integrating Media](https://arxiv.org/pdf/2302.08575.pdf)<br>[2023-02-20]
@@ -347,6 +353,7 @@
 <a name="7"/>
 
 ## 7.Medical Image Processing(医学影像处理)
+* [Deep Neural Networks and Brain Alignment: Brain Encoding and Decoding (Survey)](https://arxiv.org/abs/2307.10246)<br>[2023-07-21]
 * [A scoping review on multimodal deep learning in biomedical images and texts](https://arxiv.org/abs/2307.07362)<br>[2023-07-17]
 * [Diagnostic test accuracy (DTA) of artificial intelligence in digital pathology: a systematic review, meta-analysis and quality assessment](https://arxiv.org/abs/2306.07999)<br>[2023-06-16]
 * [A Survey of Feature detection methods for localisation of plain sections of Axial Brain Magnetic Resonance Imaging](https://arxiv.org/pdf/2302.04173.pdf)<br>[2023-02-09]<br>
