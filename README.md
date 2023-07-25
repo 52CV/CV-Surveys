@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月21日已公开 211 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月25日已公开 214 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -61,6 +61,7 @@
 ## Vision-Language(视觉语言)
 * [Review of Large Vision Models and Visual Prompt Engineering](https://arxiv.org/abs/2307.00855)<br>[2023-07-04]
 * [Vision Language Transformers: A Survey](https://arxiv.org/abs/2307.03254)<br>[2023-07-10]
+* [A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models](https://arxiv.org/abs/2307.12980)<br>[2023-07-25]
 * LLM
   * [A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549)<br>[2023-06-26]<br>:star:[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
@@ -93,6 +94,10 @@
   * [Deep Transfer Learning for Intelligent Vehicle Perception: a Survey](https://arxiv.org/abs/2306.15110)<br>[2023-06-28]<br>
 * 强化学习
   * [Transformers in Reinforcement Learning: A Survey](https://arxiv.org/abs/2307.05979)<br>[2023-07-13]
+
+## Model Compression
+* 模型压缩
+  * [Model Compression Methods for YOLOv5: A Review](https://arxiv.org/abs/2307.11904)<br>[2023-07-25]
 
 ## Sign Language Recognition(手语识别)
 * [Image-based Indian Sign Language Recognition: A Practical Review using Deep Neural Networks](https://arxiv.org/abs/2304.14710)<br>[2023-05-01]<br>
@@ -369,6 +374,7 @@
 * 医学影像分析
   * [Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review](https://arxiv.org/abs/2301.03505)<br>[2023-01-10]<br>:star:[code](https://github.com/mindflow-institue/Awesome-Transformer)
   * [A Review of Predictive and Contrastive Self-supervised Learning for Medical Images](https://arxiv.org/ftp/arxiv/papers/2302/2302.05043.pdf)<br>[2023-02-13]<br> 
+  * [Is attention all you need in medical image analysis? A review](https://arxiv.org/abs/2307.12775)<br>[2023-07-25]<br>
 * 脑微出血检测
   * [Review of methods for automatic cerebral microbleeds detection](https://arxiv.org/pdf/2301.13549.pdf)<br>[2023-02-01]<br>
 * 生物医学重建
