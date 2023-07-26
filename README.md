@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月25日已公开 214 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月26日已公开 216 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -57,6 +57,8 @@
 
 ## Human Motion Generation(人体动作生成)
 * [Human Motion Generation: A Survey](https://arxiv.org/abs/2307.10894)<br>[2023-07-21]
+* 群组识别
+  * [Group Activity Recognition in Computer Vision: A Comprehensive Review, Challenges, and Future Perspectives](https://arxiv.org/abs/2307.13541)<br>[2023-07-26]
 
 ## Vision-Language(视觉语言)
 * [Review of Large Vision Models and Visual Prompt Engineering](https://arxiv.org/abs/2307.00855)<br>[2023-07-04]
@@ -358,6 +360,7 @@
 <a name="7"/>
 
 ## 7.Medical Image Processing(医学影像处理)
+* [Deep Learning Approaches for Data Augmentation in Medical Imaging: A Review](https://arxiv.org/abs/2307.13125)<br>[2023-07-26]
 * [Deep Neural Networks and Brain Alignment: Brain Encoding and Decoding (Survey)](https://arxiv.org/abs/2307.10246)<br>[2023-07-21]
 * [A scoping review on multimodal deep learning in biomedical images and texts](https://arxiv.org/abs/2307.07362)<br>[2023-07-17]
 * [Diagnostic test accuracy (DTA) of artificial intelligence in digital pathology: a systematic review, meta-analysis and quality assessment](https://arxiv.org/abs/2306.07999)<br>[2023-06-16]
