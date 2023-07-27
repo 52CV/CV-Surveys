@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月27日已公开 219 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月27日已公开 220 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -457,6 +457,7 @@
 <a name="n"/>
 
 ## 1.Unkown(未分)
+* [Causal reasoning in typical computer vision tasks](https://arxiv.org/abs/2307.13992)<br>[2023-07-27]<br>
 * [Loss Functions and Metrics in Deep Learning. A Review](https://arxiv.org/abs/2307.02694)<br>[2023-07-07]<br>
 * [Point spread function modelling for astronomical telescopes: a review focused on weak gravitational lensing studies](https://arxiv.org/abs/2306.07996)<br>[2023-06-16]<br>
 * [Recent Advances of Local Mechanisms in Computer Vision: A Survey and Outlook of Recent Work](https://arxiv.org/abs/2306.01929)<br>[2023-06-06]<br>
