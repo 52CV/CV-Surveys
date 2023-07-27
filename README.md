@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月27日已公开 218 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月27日已公开 219 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -164,6 +164,7 @@
   * [Deep Learning based Fingerprint Presentation Attack Detection: A Comprehensive Survey](https://arxiv.org/abs/2305.17522)<br>[2023-05-30]<br>
 * 虹膜识别
   * [Deep Learning for Iris Recognition: A Review](https://arxiv.org/abs/2303.08514)<br>[2023-03-16]<br>
+  * [Periocular biometrics: databases, algorithms and directions](https://arxiv.org/abs/2307.14111)<br>[2023-07-27]<br>
 
 ## GAN/生成
 * [Text-to-image Diffusion Model in Generative AI: A Survey](https://arxiv.org/abs/2303.07909)<br>[2023-03-15]<br>
