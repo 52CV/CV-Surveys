@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月27日已公开 220 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月28日已公开 222 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -99,6 +99,8 @@
   * [Deep Transfer Learning for Intelligent Vehicle Perception: a Survey](https://arxiv.org/abs/2306.15110)<br>[2023-06-28]<br>
 * 强化学习
   * [Transformers in Reinforcement Learning: A Survey](https://arxiv.org/abs/2307.05979)<br>[2023-07-13]
+* 多任务学习
+  * [When Multi-Task Learning Meets Partial Supervision: A Computer Vision Review](https://arxiv.org/abs/2307.14382)<br>[2023-07-28]<br>
 
 ## Model Compression
 * 模型压缩
@@ -167,6 +169,7 @@
   * [Periocular biometrics: databases, algorithms and directions](https://arxiv.org/abs/2307.14111)<br>[2023-07-27]<br>
 
 ## GAN/生成
+* [A Survey on Generative Modeling with Limited Data, Few Shots, and Zero Shot](https://arxiv.org/abs/2307.14397)<br>[2023-07-28]<br>
 * [Text-to-image Diffusion Model in Generative AI: A Survey](https://arxiv.org/abs/2303.07909)<br>[2023-03-15]<br>
 * [Generative Adversarial Networks for Brain Images Synthesis: A Review](https://arxiv.org/abs/2305.15421)<br>[2023-05-26]<br>
 * [3D GANs and Latent Space: A comprehensive survey](https://arxiv.org/abs/2304.03932)<br>[2023-04-11]<br>
