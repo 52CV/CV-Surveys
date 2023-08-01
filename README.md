@@ -32,7 +32,8 @@
 3月份27篇。<br>
 4月份31篇。<br>
 5月份42篇。<br>
-6月份31篇计187篇。
+6月份31篇。<br>
+7月份36篇计223篇。
 
 ## 目录
 
@@ -114,7 +115,7 @@
 
 ## Data Augmentation(数据增强)
 * [Advanced Data Augmentation Approaches: A Comprehensive Survey and Future directions](https://arxiv.org/abs/2301.02830)<br>[2023-01-10]<br>:star:[code](https://github.com/kmr2017/Advanced-Data-augmentation-codes)
-* [Data Distillation: A Survey](https://arxiv.org/abs/2301.04272)
+* [Data Distillation: A Survey](https://arxiv.org/abs/2301.04272)<br>[2023-01-12]
 ## Continual Learning(持续学习)
 * [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://arxiv.org/abs/2302.00487)<br>[2023-02-02]<br>
 * [A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning](https://arxiv.org/abs/2307.09218)<br>[2023-07-19]<br>
@@ -211,7 +212,7 @@
 
 ## Vision-Language
 * [Vision-Language Models for Vision Tasks: A Survey](https://arxiv.org/abs/2304.00685)<br>[2023-04-04]<br>:star:[code](https://github.com/jingyi0000/VLM_survey)
-* [Vision + Language Applications: A Survey]<br>[2023-05-25]<br>:star:[code](https://arxiv.org/abs/2305.14598)(https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
+* [Vision + Language Applications: A Survey](https://arxiv.org/abs/2305.14598)<br>[2023-05-25]<br>:star:[code](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
 
 ## Autonomous Driving(自动驾驶)
 * [Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey](https://arxiv.org/abs/2307.04370)<br>[2023-07-11]
@@ -374,10 +375,10 @@
 * [A Survey of Feature detection methods for localisation of plain sections of Axial Brain Magnetic Resonance Imaging](https://arxiv.org/pdf/2302.04173.pdf)<br>[2023-02-09]<br>
 * [Methods and datasets for segmentation of minimally invasive surgical instruments in endoscopic images and videos: A review of the state of the art](https://arxiv.org/abs/2304.13014)<br>[2023-04-26]
 * [Publicly available datasets of breast histopathology H&E whole-slide images: A systematic review](https://arxiv.org/abs/2306.01546)<br>[2023-06-05]
-[Computational Pathology: A Survey Review and The Way Forward](https://arxiv.org/abs/2304.05482)<br>[2023-04-13]
+* [Computational Pathology: A Survey Review and The Way Forward](https://arxiv.org/abs/2304.05482)<br>[2023-04-13]
 * [Breast Cancer Immunohistochemical Image Generation: a Benchmark Dataset and Challenge Review](https://arxiv.org/abs/2305.03546)<br>[2023-05-08]
 * [Digitization of Pathology Labs: A Review of Lessons Learned](https://arxiv.org/abs/2306.03619)<br>[2023-06-07]
-* [Federated Learning for Medical Image Analysis: A Survey]<br>[2023-06-12]
+* [Federated Learning for Medical Image Analysis: A Survey](https://arxiv.org/abs/2306.05980)<br>[2023-06-12]
 * 医学影像分割
   * [Towards more precise automatic analysis: a comprehensive survey of deep learning-based multi-organ segmentation](https://arxiv.org/abs/2303.00232)<br>[2023-03-02]<br>
   * [Attention Mechanisms in Medical Image Segmentation: A Survey](https://arxiv.org/abs/2305.17937)<br>[2023-05-30]<br>
