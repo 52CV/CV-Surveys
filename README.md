@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月2日已公开 231 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月3日已公开 233 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -161,6 +161,8 @@
 
 ## Visual Defect Detection(视觉缺陷检测)
 * [A Review of Benchmarks for Visual Defect Detection in the Manufacturing Industry](https://arxiv.org/abs/2305.13261)<br>[2023-05-23]<br>
+* 路面裂缝检测
+  * [Deep Learning Approaches in Pavement Distress Identification: A Review](https://arxiv.org/abs/2308.00828)<br>[2023-08-03]<br>
 
 ## Biometric Recognition(生物特征识别)
 * [Combining Blockchain and Biometrics: A Survey on Technical Aspects and a First Legal Analysis](https://arxiv.org/abs/2302.10883)<br>[2023-02-22]<br>
@@ -370,6 +372,7 @@
 <a name="7"/>
 
 ## 7.Medical Image Processing(医学影像处理)
+* [Deep learning for unsupervised domain adaptation in medical imaging: Recent advancements and future perspectives](https://arxiv.org/abs/2308.01265)<br>[2023-08-03]<br>
 * [Implicit Neural Representation in Medical Imaging: A Comparative Survey](https://arxiv.org/abs/2307.16142)<br>[2023-08-01]<br>:star:[code](https://github.com/mindflow-institue/Awesome-Implicit-Neural-Representations-in-Medical-imaging)
 * [Deep Learning Approaches for Data Augmentation in Medical Imaging: A Review](https://arxiv.org/abs/2307.13125)<br>[2023-07-26]
 * [Deep Neural Networks and Brain Alignment: Brain Encoding and Decoding (Survey)](https://arxiv.org/abs/2307.10246)<br>[2023-07-21]
