@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月11日已公开 239 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月15日已公开 243 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -215,6 +215,7 @@
   * [Review helps learn better: Temporal Supervised Knowledge Distillation](https://arxiv.org/abs/2307.00811)<br>[2023-07-04]<br>
 * 剪枝
   * [Structured Pruning for Deep Convolutional Neural Networks: A survey](https://arxiv.org/abs/2303.00566)<br>[2023-03-02]<br>
+  * [A Survey on Deep Neural Network Pruning-Taxonomy, Comparison, Analysis, and Recommendations](https://arxiv.org/abs/2308.06767)<br>[2023-08-15]<br>
 ## HOI
 * [A Survey on Personalized Affective Computing in Human-Machine Interaction](https://arxiv.org/abs/2304.00377)<br>[2023-04-04]<br>
 
@@ -411,6 +412,10 @@
   * [Deep Learning for Retrospective Motion Correction in MRI: A Comprehensive Review](https://arxiv.org/abs/2305.06739)<br>[2023-05-12]<br>
  * 青光眼检测
    * [Deep Learning and Computer Vision for Glaucoma Detection: A Review](https://arxiv.org/abs/2307.16528)<br>[2023-08-01]<br>
+* 细胞分类
+  * [A Review on Classification of White Blood Cells Using Machine Learning Models](https://arxiv.org/abs/2308.06296)<br>[2023-08-15]<br>
+* 头皮疾病诊断
+  * [Diagnosis of Scalp Disorders using Machine Learning and Deep Learning Approach -- A Review](https://arxiv.org/abs/2308.07052)<br>[2023-08-15]<br>
 
 <a name="6"/>
 
@@ -447,6 +452,7 @@
 * VAD
   * [Skeletal Video Anomaly Detection using Deep Learning: Survey, Challenges and Future Directions](https://arxiv.org/abs/2301.00114)<br>[2023-01-03]<br>对使用从视频中提取的骨架的隐私保护型深度学习异常检测方法进行了调查
   * [Generalized Video Anomaly Event Detection: Systematic Taxonomy and Comparison of Deep Models](https://arxiv.org/pdf/2302.05087.pdf)<br>[2023-02-13]<br>
+  * [Survey on video anomaly detection in dynamic scenes with moving cameras](https://arxiv.org/abs/2308.07050)<br>[2023-08-15]<br>
 * 视频错误信息检测
   * [Online Misinformation Video Detection: A Survey](https://arxiv.org/abs/2302.03242)<br>[2023-02-08]<br>:star:[code](https://github.com/ICTMCG/Awesome-Misinfo-Video-Detection)
 * 视频分析
