@@ -26,7 +26,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月17日已公开 245 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月22日已公开 250 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -319,6 +319,7 @@
   * [Semantic Segmentation using Vision Transformers: A survey](https://arxiv.org/abs/2305.03273)<br>[2023-05-08]
   * [A Threefold Review on Deep Semantic Segmentation: Efficiency-oriented, Temporal and Depth-aware design](https://arxiv.org/abs/2303.04315)<br>[2023-03-09]<br>
   * [Survey on Unsupervised Domain Adaptation for Semantic Segmentation for Visual Perception in Automated Driving](https://arxiv.org/abs/2304.11928)<br>[2023-04-25]<br>:star:[code](https://uda-survey.github.io/survey/)
+  * [A review of technical factors to consider when designing neural networks for semantic segmentation of Earth Observation imagery](https://arxiv.org/abs/2308.09221)<br>[2023-08-21]
 * 图形抠图
   * [Deep Image Matting: A Comprehensive Survey](https://arxiv.org/abs/2304.04672)<br>[2023-04-11]<br>:star:[code](https://github.com/JizhiziLi/matting-survey)
 * 语义分割
@@ -419,6 +420,8 @@
   * [A Review on Classification of White Blood Cells Using Machine Learning Models](https://arxiv.org/abs/2308.06296)<br>[2023-08-15]<br>
 * 头皮疾病诊断
   * [Diagnosis of Scalp Disorders using Machine Learning and Deep Learning Approach -- A Review](https://arxiv.org/abs/2308.07052)<br>[2023-08-15]<br>
+* 关节炎诊断
+  * [Deciphering knee osteoarthritis diagnostic features with explainable artificial intelligence: A systematic review](https://arxiv.org/abs/2308.09380)<br>[2023-08-21]<br>
 
 <a name="6"/>
 
@@ -448,6 +451,8 @@
   * [Unleashing the Power of Self-Supervised Image Denoising: A Comprehensive Review](https://arxiv.org/abs/2308.00247)<br>[2023-08-02]<br> 
 * 去模糊
   * [A survey on facial image deblurring](https://arxiv.org/pdf/2302.05017.pdf)<br>[2023-02-13]<br> 
+* 图像恢复
+  * [Diffusion Models for Image Restoration and Enhancement -- A Comprehensive Survey](https://arxiv.org/abs/2308.09388)<br>:star:[code](https://github.com/lixinustc/Awesome-diffusion-model-for-image-processing/)<br>[2023-08-21]<br> 
 
 <a name="4"/>
 
@@ -484,10 +489,13 @@
   * [CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey](https://arxiv.org/abs/2301.06187)<br>[2023-01-18]
 * 体育
   * [A Survey of Advanced Computer Vision Techniques for Sports](https://arxiv.org/abs/2301.07583)<br>[2023-01-19]<br>
+* 身体语言识别
+  * [A Survey on Deep Multi-modal Learning for Body Language Recognition and Generation](https://arxiv.org/abs/2308.08849)<br>:star:[code](https://github.com/wentaoL86/awesome-body-language)<br>[2023-08-21]<br>
 
 <a name="n"/>
 
 ## 1.Unkown(未分)
+* [A Review on Objective-Driven Artificial Intelligence](https://arxiv.org/abs/2308.10135)<br>[2023-08-22]<br>
 * [Survey on Computer Vision Techniques for Internet-of-Things Devices](https://arxiv.org/abs/2308.02553)<br>[2023-08-08]<br>
 * [Segmentation Framework for Heat Loss Identification in Thermal Images:Empowering Scottish Retrofitting and Thermographic Survey Companies](https://arxiv.org/abs/2308.03631)<br>[2023-08-08]<br>
 * [Spiking Neural Networks and Bio-Inspired Supervised Deep Learning: A Survey](https://arxiv.org/abs/2307.16235)<br>[2023-08-01]<br>
