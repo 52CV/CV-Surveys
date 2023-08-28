@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月24日已公开 251 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月28日已公开 253 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -191,6 +191,7 @@
 * 图像合成
   * [Survey on Controlable Image Synthesis with Deep Learning](https://arxiv.org/abs/2307.10275)<br>[2023-07-21]<br>
   * [Image Synthesis under Limited Data: A Survey and Taxonomy](https://arxiv.org/abs/2307.16879)<br>[2023-08-01]<br>:star:[code](https://github.com/kobeshegu/awesome-few-shot-generation)
+  * [A Survey of Diffusion Based Image Generation Models: Issues and Their Solutions](https://arxiv.org/abs/2308.13142)<br>[2023-08-28]<br>
 
 ## NLP
 * [Foundation Models for Natural Language Processing -- Pre-trained Language Models Integrating Media](https://arxiv.org/pdf/2302.08575.pdf)<br>[2023-02-20]
@@ -246,6 +247,8 @@
   * [Perception Datasets for Anomaly Detection in Autonomous Driving: A Survey](https://arxiv.org/pdf/2302.02790.pdf)<br>[2023-02-07]<br>
 * 轨迹预测
   * [Trajectory-Prediction with Vision: A Survey](https://arxiv.org/abs/2303.13354)<br>[2023-03-24]<br>  
+* 驾驶员行为分析
+  * [Using Visual and Vehicular Sensors for Driver Behavior Analysis: A Survey](https://arxiv.org/abs/2308.13406)<br>[2023-08-28]<br> 
 
 ## Neural Architecture Search(神经架构搜索)
 * [Efficient Automation of Neural Network Design: A Survey on Differentiable Neural Architecture Search](https://arxiv.org/abs/2304.05405)<br>[2023-04-13]<br> 
