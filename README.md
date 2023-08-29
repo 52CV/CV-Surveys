@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月28日已公开 253 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月29日已公开 258 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -192,6 +192,8 @@
   * [Survey on Controlable Image Synthesis with Deep Learning](https://arxiv.org/abs/2307.10275)<br>[2023-07-21]<br>
   * [Image Synthesis under Limited Data: A Survey and Taxonomy](https://arxiv.org/abs/2307.16879)<br>[2023-08-01]<br>:star:[code](https://github.com/kobeshegu/awesome-few-shot-generation)
   * [A Survey of Diffusion Based Image Generation Models: Issues and Their Solutions](https://arxiv.org/abs/2308.13142)<br>[2023-08-28]<br>
+* AIGC
+  * [AIGC for Various Data Modalities: A Survey](https://arxiv.org/abs/2308.14177)<br>[2023-08-29]<br>
 
 ## NLP
 * [Foundation Models for Natural Language Processing -- Pre-trained Language Models Integrating Media](https://arxiv.org/pdf/2302.08575.pdf)<br>[2023-02-20]
@@ -199,6 +201,7 @@
 
 ## SLAM
 * [Event-based Simultaneous Localization and Mapping: A Comprehensive Survey](https://arxiv.org/abs/2304.09793)<br>[2023-04-20]<br>:star:[code](https://github.com/kun150kun/ESLAM-survey)
+* [Deep Learning for Visual Localization and Mapping: A Survey](https://arxiv.org/abs/2308.14039)<br>[2023-08-29]<br>
 
 ## Robot
 * 机器人
@@ -437,6 +440,7 @@
   * [Fruit Ripeness Classification: a Survey](https://arxiv.org/abs/2212.14441)<br>[2023-01-02]<br>
 * 植物病害分类
   * [Embracing Limited and Imperfect Data: A Review on Plant Stress Recognition Using Deep Learning](https://arxiv.org/abs/2305.11533)<br>[2023-05-22]<br>
+  * [A comprehensive review on Plant Leaf Disease detection using Deep learning](https://arxiv.org/abs/2308.14087)<br>[2023-08-29]<br>
 * 浮游生物识别
   * [Survey of Automatic Plankton Image Recognition: Challenges, Existing Solutions and Future Perspectives](https://arxiv.org/abs/2305.11739)<br>[2023-05-22]<br>
 * 作物分类
@@ -485,6 +489,7 @@
 
 ## 2.Human Pose Estimation(人体姿态估计)
 * [Human Body Pose Estimation for Gait Identification: A Comprehensive Survey of Datasets and Models](https://arxiv.org/abs/2305.13765)<br>[2023-05-24]
+* [Vision-Based Human Pose Estimation via Deep Learning: A Survey](https://arxiv.org/abs/2308.13872)<br>[2023-08-29]<br>
 * [Markerless human pose estimation for biomedical applications: a survey](https://arxiv.org/abs/2308.00519)<br>[2023-08-02]<br>
 * 人体解析
   * [Deep Learning Technique for Human Parsing: A Survey and Outlook](https://arxiv.org/abs/2301.00394)<br>[2023-01-03]<br>:star:[code](https://github.com/soeaver/awesome-human-parsing)
@@ -500,6 +505,7 @@
 <a name="n"/>
 
 ## 1.Unkown(未分)
+* [Computation-efficient Deep Learning for Computer Vision: A Survey](https://arxiv.org/abs/2308.13998)<br>[2023-08-29]<br>
 * [A Review on Objective-Driven Artificial Intelligence](https://arxiv.org/abs/2308.10135)<br>[2023-08-22]<br>
 * [Survey on Computer Vision Techniques for Internet-of-Things Devices](https://arxiv.org/abs/2308.02553)<br>[2023-08-08]<br>
 * [Segmentation Framework for Heat Loss Identification in Thermal Images:Empowering Scottish Retrofitting and Thermographic Survey Companies](https://arxiv.org/abs/2308.03631)<br>[2023-08-08]<br>
