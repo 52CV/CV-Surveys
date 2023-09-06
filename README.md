@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月4日已公开 264 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月6日已公开 268 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -198,6 +198,8 @@
   * [A Survey of Diffusion Based Image Generation Models: Issues and Their Solutions](https://arxiv.org/abs/2308.13142)<br>[2023-08-28]<br>
 * AIGC
   * [AIGC for Various Data Modalities: A Survey](https://arxiv.org/abs/2308.14177)<br>[2023-08-29]<br>
+* 文本-图像生成
+  *[RenAIssance: A Survey into AI Text-to-Image Generation in the Era of Large Model](https://arxiv.org/abs/2309.00810)<br>[2023-09-06]<br>
 
 ## NLP
 * [Foundation Models for Natural Language Processing -- Pre-trained Language Models Integrating Media](https://arxiv.org/pdf/2302.08575.pdf)<br>[2023-02-20]
@@ -257,6 +259,8 @@
   * [Trajectory-Prediction with Vision: A Survey](https://arxiv.org/abs/2303.13354)<br>[2023-03-24]<br>  
 * 驾驶员行为分析
   * [Using Visual and Vehicular Sensors for Driver Behavior Analysis: A Survey](https://arxiv.org/abs/2308.13406)<br>[2023-08-28]<br> 
+* 交通灯识别
+  * [Traffic Light Recognition using Convolutional Neural Networks: A Survey](https://arxiv.org/abs/2309.02158)<br>[2023-09-06]<br> 
 
 ## Neural Architecture Search(神经架构搜索)
 * [Efficient Automation of Neural Network Design: A Survey on Differentiable Neural Architecture Search](https://arxiv.org/abs/2304.05405)<br>[2023-04-13]<br> 
@@ -267,6 +271,7 @@
 * [A survey of the Vision Transformers and its CNN-Transformer based Variants](https://arxiv.org/abs/2305.09880)<br>[2023-05-18]<br>
 * [Vision Transformers for Mobile Applications: A Short Survey](https://arxiv.org/abs/2305.19365)<br>[2023-06-01]<br>
 * [A Survey of Techniques for Optimizing Transformer Inference](https://arxiv.org/abs/2307.07982)<br>[2023-07-18]<br> 
+* [A survey on efficient vision transformers: algorithms, techniques, and performance benchmarking](https://arxiv.org/abs/2309.02031)<br>[2023-09-06]<br>
 
 ## Person Re-Identification
 * Reid
@@ -421,6 +426,7 @@
   * [Is attention all you need in medical image analysis? A review](https://arxiv.org/abs/2307.12775)<br>[2023-07-25]<br>
 * 医学影像配准
   * [A Survey on Deep Learning in Medical Image Registration: New Technologies, Uncertainty, Evaluation Metrics, and Beyond](https://arxiv.org/abs/2307.15615)<br>[2023-07-31]<br>
+  * [Deep learning in medical image registration: introduction and survey](https://arxiv.org/abs/2309.00727)<br>[2023-09-06]<br>
 * 脑微出血检测
   * [Review of methods for automatic cerebral microbleeds detection](https://arxiv.org/pdf/2301.13549.pdf)<br>[2023-02-01]<br>
 * 生物医学重建
