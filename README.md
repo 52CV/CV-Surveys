@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月6日已公开 268 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月7日已公开 270 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -416,6 +416,7 @@
 * [Digitization of Pathology Labs: A Review of Lessons Learned](https://arxiv.org/abs/2306.03619)<br>[2023-06-07]
 * [Federated Learning for Medical Image Analysis: A Survey](https://arxiv.org/abs/2306.05980)<br>[2023-06-12]
 * [Interpretable Medical Imagery Diagnosis with Self-Attentive Transformers: A Review of Explainable AI for Health Care](https://arxiv.org/abs/2309.00252)<br>[2023-09-04]
+* [A Survey of the Impact of Self-Supervised Pretraining for Diagnostic Tasks with Radiological Images](https://arxiv.org/abs/2309.02555)<br>[2023-09-07]
 * 医学影像分割
   * [Towards more precise automatic analysis: a comprehensive survey of deep learning-based multi-organ segmentation](https://arxiv.org/abs/2303.00232)<br>[2023-03-02]<br>
   * [Attention Mechanisms in Medical Image Segmentation: A Survey](https://arxiv.org/abs/2305.17937)<br>[2023-05-30]<br>
@@ -446,6 +447,8 @@
   * [Deciphering knee osteoarthritis diagnostic features with explainable artificial intelligence: A systematic review](https://arxiv.org/abs/2308.09380)<br>[2023-08-21]<br>
 * 黑色素瘤检测
   * [Application of Machine Learning in Melanoma Detection and the Identification of 'Ugly Duckling' and Suspicious Naevi: A Review](https://arxiv.org/abs/2309.00265)<br>[2023-09-04]
+* vision transformer
+  * [Improving diagnosis and prognosis of lung cancer using vision transformers: A scoping review](https://arxiv.org/abs/2309.02783)<br>[2023-09-07]<br>vision transformer在肺癌诊断中的应用综述
 
 <a name="6"/>
 
