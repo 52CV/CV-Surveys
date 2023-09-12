@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月7日已公开 270 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月11日已公开 272 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -353,6 +353,8 @@
 * [2D Object Detection with Transformers: A Review](https://arxiv.org/abs/2306.04670)<br>[2023-06-09]<br>:star:[code](https://github.com/mindgarage-shan/trans_object_detection_survey)
 * 犯罪预测
   * [Crime Prediction Using Machine Learning and Deep Learning: A Systematic Review and Future Directions](https://arxiv.org/abs/2303.16310)<br>[2023-03-30]<br>
+* 小目标检测
+  * [Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art](https://arxiv.org/abs/2309.04902)<br>[2023-09-11]<br>:star:[code](https://github.com/arekavandi/Transformer-SOD)
 * 图像线段检测
   * [A Comprehensive Review of Image Line Segment Detection and Description: Taxonomies, Comparisons, and Challenges](https://arxiv.org/abs/2305.00264)<br>[2023-05-02]<br>
 * 半监督目标检测
@@ -417,6 +419,7 @@
 * [Federated Learning for Medical Image Analysis: A Survey](https://arxiv.org/abs/2306.05980)<br>[2023-06-12]
 * [Interpretable Medical Imagery Diagnosis with Self-Attentive Transformers: A Review of Explainable AI for Health Care](https://arxiv.org/abs/2309.00252)<br>[2023-09-04]
 * [A Survey of the Impact of Self-Supervised Pretraining for Diagnostic Tasks with Radiological Images](https://arxiv.org/abs/2309.02555)<br>[2023-09-07]
+* [Systematic Review of Techniques in Brain Image Synthesis using Deep Learning](https://arxiv.org/abs/2309.04511)<br>[2023-09-11]
 * 医学影像分割
   * [Towards more precise automatic analysis: a comprehensive survey of deep learning-based multi-organ segmentation](https://arxiv.org/abs/2303.00232)<br>[2023-03-02]<br>
   * [Attention Mechanisms in Medical Image Segmentation: A Survey](https://arxiv.org/abs/2305.17937)<br>[2023-05-30]<br>
