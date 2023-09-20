@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月19日已公开 275 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月20日已公开 276 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -281,6 +281,8 @@
 * Reid
   * [Deep Learning for Video-based Person Re-Identification: A Survey](https://arxiv.org/abs/2303.11332)<br>[2023-03-22]<br>
   * [A Review on Generative Adversarial Networks for Data Augmentation in Person Re-Identification Systems](https://arxiv.org/abs/2302.09119)<br>[2023-02-21]<br>
+* 步态识别
+  * [Human Gait Recognition using Deep Learning: A Comprehensive Review](https://arxiv.org/abs/2309.10144)<br>[2023-09-20]<br>
 
 <a name="19"/>
 
