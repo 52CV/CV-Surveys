@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月21日已公开 278 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月22日已公开 279 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -526,6 +526,7 @@
 * [Human Body Pose Estimation for Gait Identification: A Comprehensive Survey of Datasets and Models](https://arxiv.org/abs/2305.13765)<br>[2023-05-24]
 * [Vision-Based Human Pose Estimation via Deep Learning: A Survey](https://arxiv.org/abs/2308.13872)<br>[2023-08-29]<br>
 * [Markerless human pose estimation for biomedical applications: a survey](https://arxiv.org/abs/2308.00519)<br>[2023-08-02]<br>
+* [Survey of Action Recognition, Spotting and Spatio-Temporal Localization in Soccer -- Current Trends and Research Perspectives](https://arxiv.org/abs/2309.12067)<br>[2023-09-22]<br>
 * 人体解析
   * [Deep Learning Technique for Human Parsing: A Survey and Outlook](https://arxiv.org/abs/2301.00394)<br>[2023-01-03]<br>:star:[code](https://github.com/soeaver/awesome-human-parsing)
 * 手势合成
