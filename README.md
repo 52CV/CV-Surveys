@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月26日已公开 280 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月26日已公开 281 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -542,6 +542,7 @@
 <a name="n"/>
 
 ## 1.Unkown(未分)
+* [Overview of Class Activation Maps for Visualization Explainability](https://arxiv.org/abs/2309.14304)
 * [Computation-efficient Deep Learning for Computer Vision: A Survey](https://arxiv.org/abs/2308.13998)<br>[2023-08-29]<br>
 * [A Review on Objective-Driven Artificial Intelligence](https://arxiv.org/abs/2308.10135)<br>[2023-08-22]<br>
 * [Survey on Computer Vision Techniques for Internet-of-Things Devices](https://arxiv.org/abs/2308.02553)<br>[2023-08-08]<br>
