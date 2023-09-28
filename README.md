@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月26日已公开 281 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月28日已公开 283 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -294,6 +294,8 @@
 
 ## 18.Object Tracking(目标跟踪)
 * [Transformers in Single Object Tracking: An Experimental Survey](https://arxiv.org/abs/2302.11867)<br>[2023-02-24]<br>
+* 3D目标跟踪
+  * [3D Multiple Object Tracking on Autonomous Driving: A Literature Review](https://arxiv.org/abs/2309.15411)<br>[2023-09-28]<br>
 
 <a name="17"/>
 
@@ -407,6 +409,8 @@
   * [Racial Bias within Face Recognition: A Survey](https://arxiv.org/abs/2305.00817)<br>[2023-05-02]
 * 人脸检测
   * [A Comparative Study of Face Detection Algorithms for Masked Face Detection](https://arxiv.org/abs/2305.11077)<br>[2023-05-19]
+* 人脸恢复
+  * [Survey on Deep Face Restoration: From Non-blind to Blind and Beyond](https://arxiv.org/abs/2309.15490)<br>[2023-09-28]<br>:star:[code](https://github.com/24wenjie-li/Awesome-Face-Restoration)
 * 3D头像
   * [Human 3D Avatar Modeling with Implicit Neural Representation: A Brief Survey](https://arxiv.org/abs/2306.03576)<br>[2023-06-07]
 * 说话头
