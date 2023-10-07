@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月28日已公开 283 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月06日已公开 286 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -35,7 +35,8 @@
 5月份42篇。<br>
 6月份31篇。<br>
 7月份36篇。<br>
-8月份37篇计260篇。
+8月份37篇。<br>
+9月份23篇。<br>计260篇。
 
 ## 目录
 
@@ -69,7 +70,8 @@
 * [Human Motion Generation: A Survey](https://arxiv.org/abs/2307.10894)<br>[2023-07-21]
 * 群组识别
   * [Group Activity Recognition in Computer Vision: A Comprehensive Review, Challenges, and Future Perspectives](https://arxiv.org/abs/2307.13541)<br>[2023-07-26]
-  
+* 动作预测
+  * [A Survey on Deep Learning Techniques for Action Anticipation](https://arxiv.org/abs/2309.17257)<br>[2023-10-06]  
    
 
 ## Vision-Language(视觉语言)
@@ -109,6 +111,7 @@
 ## Machine Learning(机器学习)
 * 迁移学习
   * [Deep Transfer Learning for Intelligent Vehicle Perception: a Survey](https://arxiv.org/abs/2306.15110)<br>[2023-06-28]<br>
+  * [A Survey of Incremental Transfer Learning: Combining Peer-to-Peer Federated Learning and Domain Incremental Learning for Multicenter Collaboration](https://arxiv.org/abs/2309.17192)<br>[2023-10-02]
 * 强化学习
   * [Transformers in Reinforcement Learning: A Survey](https://arxiv.org/abs/2307.05979)<br>[2023-07-13]
 * 多任务学习
@@ -495,6 +498,8 @@
 <a name="5"/>
 
 ## 5.Image Processing(图像处理)
+* 去雨
+  * [Towards Unified Deep Image Deraining: A Survey and A New Benchmark](https://arxiv.org/abs/2310.03535)<br>[2023-10-06]<br>
 * 去噪
   * [Image Denoising: The Deep Learning Revolution and Beyond -- A Survey Paper ](https://arxiv.org/abs/2301.03362)<br>[2023-01-10]<br> 
   * [Unleashing the Power of Self-Supervised Image Denoising: A Comprehensive Review](https://arxiv.org/abs/2308.00247)<br>[2023-08-02]<br> 
