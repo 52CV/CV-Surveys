@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月10日已公开 287 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月11日已公开 288 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -452,6 +452,7 @@
   * [Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review](https://arxiv.org/abs/2301.03505)<br>[2023-01-10]<br>:star:[code](https://github.com/mindflow-institue/Awesome-Transformer)
   * [A Review of Predictive and Contrastive Self-supervised Learning for Medical Images](https://arxiv.org/ftp/arxiv/papers/2302/2302.05043.pdf)<br>[2023-02-13]<br> 
   * [Is attention all you need in medical image analysis? A review](https://arxiv.org/abs/2307.12775)<br>[2023-07-25]<br>
+  * [Data efficient deep learning for medical image analysis: A survey](https://arxiv.org/abs/2310.06557)<br>[2023-10-11]<br>
 * 医学影像配准
   * [A Survey on Deep Learning in Medical Image Registration: New Technologies, Uncertainty, Evaluation Metrics, and Beyond](https://arxiv.org/abs/2307.15615)<br>[2023-07-31]<br>
   * [Deep learning in medical image registration: introduction and survey](https://arxiv.org/abs/2309.00727)<br>[2023-09-06]<br>
