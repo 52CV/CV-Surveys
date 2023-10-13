@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月12日已公开 289 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月13日已公开 292 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -101,6 +101,8 @@
 * [Applications of Deep Learning for Top-View Omnidirectional Imaging: A Survey](https://arxiv.org/abs/2304.08193)<br>[2023-04-18]<br>
 * 相机姿势
   * [A Survey on Deep Learning-Based Monocular Spacecraft Pose Estimation: Current State, Limitations and Prospects](https://arxiv.org/abs/2305.07348)<br>[2023-05-15]<br>
+* 相机篡改检测
+  * [A Survey of Feature Types and Their Contributions for Camera Tampering Detection](https://arxiv.org/abs/2310.07886)<br>[2023-10-13]<br>
 
 ## Diffusion Models(扩散模型)
 * [A Survey on Graph Diffusion Models: Generative AI in Science for Molecule, Protein and Material](https://arxiv.org/abs/2304.01565)<br>[2023-04-05]<br>
@@ -308,6 +310,7 @@
 ## 17.Remote Sensing(遥感)
 * [Automatic detection of aerial survey ground control points based on Yolov5-OBB](https://arxiv.org/abs/2303.03041)<br>[2023-03-07]<br>
 * [Vision-Language Models in Remote Sensing: Current Progress and Future Trends](https://arxiv.org/abs/2305.05726)<br>[2023-05-11]<br>
+* [Assessing of Soil Erosion Risk Through Geoinformation Sciences and Remote Sensing -- A Review](https://arxiv.org/abs/2310.08430)<br>[2023-10-13]<br>
 * 遥感图像检测
   * [Oriented Object Detection in Optical Remote Sensing Images: A Survey](https://arxiv.org/abs/2302.10473)<br>[2023-02-22]<br>
 * 变化检测
@@ -372,6 +375,8 @@
 * [2D Object Detection with Transformers: A Review](https://arxiv.org/abs/2306.04670)<br>[2023-06-09]<br>:star:[code](https://github.com/mindgarage-shan/trans_object_detection_survey)
 * 犯罪预测
   * [Crime Prediction Using Machine Learning and Deep Learning: A Systematic Review and Future Directions](https://arxiv.org/abs/2303.16310)<br>[2023-03-30]<br>
+* 陨石坑检测
+  * [Deep Learning based Systems for Crater Detection: A Review](https://arxiv.org/abs/2310.07727)<br>[2023-10-13]
 * 小目标检测
   * [Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art](https://arxiv.org/abs/2309.04902)<br>[2023-09-11]<br>:star:[code](https://github.com/arekavandi/Transformer-SOD)
 * 图像线段检测
