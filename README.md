@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月16日已公开 294 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月17日已公开 297 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -112,6 +112,8 @@
 ## Deep learning(深度学习)
 * [Looking deeper into interpretable deep learning in neuroimaging: a comprehensive survey](https://arxiv.org/abs/2307.09615)<br>[2023-07-20]<br>
 * [A comprehensive review of deep learning in lung cancer](https://arxiv.org/abs/2308.02528)<br>[2023-08-08]
+* 产权保护
+  * [Turn Passive to Active: A Survey on Active Intellectual Property Protection of Deep Learning Models](https://arxiv.org/abs/2310.09822)<br>[2023-10-17]
 
 ## Machine Learning(机器学习)
 * 迁移学习
@@ -490,6 +492,7 @@
 <a name="6"/>
 
 ## 6.Image Classification(图像分类)
+* [A Survey of Graph and Attention Based Hyperspectral Image Classification Methods for Remote Sensing Data](https://arxiv.org/abs/2310.09994)<br>[2023-10-17]<br>
 * 长尾
   * [Revisiting Long-tailed Image Classification: Survey and Benchmarks with New Evaluation Metrics](https://export.arxiv.org/abs/2302.01507)<br>[2023-02-06]<br>
 * 果实成熟度分类
@@ -537,6 +540,8 @@
   * [A Survey on Video Moment Localization](https://arxiv.org/abs/2306.07515)<br>[2023-06-14]<br>
 * 视频监控
   * [Sensors and Systems for Monitoring Mental Fatigue: A systematic review](https://arxiv.org/abs/2307.01666)<br>[2023-07-06]<br>
+* 视频编辑
+  * [A Survey on Video Diffusion Models](https://arxiv.org/abs/2310.10647)<br>[2023-10-17]<br>:star:[code](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)
 
 <a name="3"/>
 
