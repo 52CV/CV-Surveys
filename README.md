@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月17日已公开 297 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月19日已公开 299 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -452,6 +452,7 @@
 * [Systematic Review of Techniques in Brain Image Synthesis using Deep Learning](https://arxiv.org/abs/2309.04511)<br>[2023-09-11]
 * [A Systematic Review of Few-Shot Learning in Medical Imaging](https://arxiv.org/abs/2309.11433)<br>[2023-09-21]
 * [A review of uncertainty quantification in medical image analysis: probabilistic and non-probabilistic methods](https://arxiv.org/abs/2310.06873)<br>[2023-10-12]
+* [Tracking and Mapping in Medical Computer Vision: A Review](https://arxiv.org/abs/2310.11475)<br>[2023-10-19]
 * 医学影像分割
   * [Towards more precise automatic analysis: a comprehensive survey of deep learning-based multi-organ segmentation](https://arxiv.org/abs/2303.00232)<br>[2023-03-02]<br>
   * [Attention Mechanisms in Medical Image Segmentation: A Survey](https://arxiv.org/abs/2305.17937)<br>[2023-05-30]<br>
@@ -598,6 +599,7 @@
 * [Latest Trends in Artificial Intelligence Technology: A Scoping Review](https://arxiv.org/abs/2305.04532)<br>[2023-05-09]<br>
 * [Visual Tuning](https://arxiv.org/abs/2305.06061)<br>[2023-05-11]<br>
 * [Non-adversarial Robustness of Deep Learning Methods for Computer Vision](https://arxiv.org/abs/2305.14986)<br>[2023-05-25]<br>
+* [From Neural Activations to Concepts: A Survey on Explaining Concepts in Neural Networks](https://arxiv.org/abs/2310.11884)<br>[2023-10-19]<br>
 * DNN
   * [Survey on Leveraging Uncertainty Estimation Towards Trustworthy Deep Neural Networks: The Case of Reject Option and Post-training Processing](https://arxiv.org/abs/2304.04906)<br>[2023-04-12]<br>:star:[code](https://github.com/MehediHasanTutul/Reject_option)
   * [Direct Learning-Based Deep Spiking Neural Networks: A Review](https://arxiv.org/abs/2305.19725)<br>[2023-06-01]<br>
