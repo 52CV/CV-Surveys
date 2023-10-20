@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月19日已公开 299 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月20日已公开 303 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -368,6 +368,8 @@
   * [Few Shot Semantic Segmentation: a review of methodologies and open challenges](https://arxiv.org/abs/2304.05832)<br>[2023-04-13]<br>
 * 全景分割
   * [A Review of Panoptic Segmentation for Mobile Mapping Point Clouds](https://arxiv.org/abs/2304.13980)<br>[2023-04-28]<br>
+* VIS
+  * [Deep Learning Techniques for Video Instance Segmentation: A Survey](https://arxiv.org/abs/2310.12393)<br>[2023-10-20]<br>
 
 <a name="12"/>
 
@@ -375,6 +377,8 @@
 * [Towards Open Vocabulary Learning: A Survey](https://arxiv.org/abs/2306.15880)<br>[2023-06-29]<br>:star:[code](https://github.com/jianzongwu/Awesome-Open-Vocabulary)
 * [A Comprehensive Review of YOLO: From YOLOv1 to YOLOv8 and Beyond](https://arxiv.org/abs/2304.00501)<br>[2023-04-04]<br>
 * [2D Object Detection with Transformers: A Review](https://arxiv.org/abs/2306.04670)<br>[2023-06-09]<br>:star:[code](https://github.com/mindgarage-shan/trans_object_detection_survey)
+* 目标定位
+  * [Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey](https://arxiv.org/abs/2310.12904)<br>[2023-10-20]<br>:star:[code](https://github.com/valeoai/Awesome-Unsupervised-Object-Localization)
 * 犯罪预测
   * [Crime Prediction Using Machine Learning and Deep Learning: A Systematic Review and Future Directions](https://arxiv.org/abs/2303.16310)<br>[2023-03-30]<br>
 * 陨石坑检测
@@ -497,10 +501,11 @@
 * 长尾
   * [Revisiting Long-tailed Image Classification: Survey and Benchmarks with New Evaluation Metrics](https://export.arxiv.org/abs/2302.01507)<br>[2023-02-06]<br>
 * 果实成熟度分类
-  * [Fruit Ripeness Classification: a Survey](https://arxiv.org/abs/2212.14441)<br>[2023-01-02]<br>
+  * [Fruit Ripeness Classification: a Survey](https://arxiv.org/abs/2212.14441)
 * 植物病害分类
   * [Embracing Limited and Imperfect Data: A Review on Plant Stress Recognition Using Deep Learning](https://arxiv.org/abs/2305.11533)<br>[2023-05-22]<br>
   * [A comprehensive review on Plant Leaf Disease detection using Deep learning](https://arxiv.org/abs/2308.14087)<br>[2023-08-29]<br>
+  * [Machine Learning for Leaf Disease Classification: Data, Techniques and Applications](https://arxiv.org/abs/2310.12509)<br>[2023-10-20]<br>
 * 浮游生物识别
   * [Survey of Automatic Plankton Image Recognition: Challenges, Existing Solutions and Future Perspectives](https://arxiv.org/abs/2305.11739)<br>[2023-05-22]<br>
 * 作物分类
@@ -543,6 +548,8 @@
   * [Sensors and Systems for Monitoring Mental Fatigue: A systematic review](https://arxiv.org/abs/2307.01666)<br>[2023-07-06]<br>
 * 视频编辑
   * [A Survey on Video Diffusion Models](https://arxiv.org/abs/2310.10647)<br>[2023-10-17]<br>:star:[code](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)
+* 视频分割
+  * [Understanding Video Transformers for Segmentation: A Survey of Application and Interpretability](https://arxiv.org/abs/2310.12296)<br>[2023-10-20]<br>
 
 <a name="3"/>
 
