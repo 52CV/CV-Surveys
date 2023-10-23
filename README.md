@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月20日已公开 303 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月23日已公开 306 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -71,11 +71,13 @@
 ## Human Motion Generation(人体动作生成)
 * [A Survey on Deep Learning-based Spatio-temporal Action Detection](https://arxiv.org/abs/2308.01618)<br>[2023-08-04]
 * [Human Motion Generation: A Survey](https://arxiv.org/abs/2307.10894)<br>[2023-07-21]
+* [Human Pose-based Estimation, Tracking and Action Recognition with Deep Learning: A Survey](https://arxiv.org/abs/2310.13039)<br>[2023-10-23]
 * 群组识别
   * [Group Activity Recognition in Computer Vision: A Comprehensive Review, Challenges, and Future Perspectives](https://arxiv.org/abs/2307.13541)<br>[2023-07-26]
 * 动作预测
   * [A Survey on Deep Learning Techniques for Action Anticipation](https://arxiv.org/abs/2309.17257)<br>[2023-10-06]  
-   
+* 牲畜行为识别
+  * [Application of deep learning for livestock behaviour recognition: A systematic literature review](https://arxiv.org/abs/2310.13483)<br>[2023-10-23]   
 
 ## Vision-Language(视觉语言)
 * [Review of Large Vision Models and Visual Prompt Engineering](https://arxiv.org/abs/2307.00855)<br>[2023-07-04]
@@ -313,6 +315,7 @@
 * [Automatic detection of aerial survey ground control points based on Yolov5-OBB](https://arxiv.org/abs/2303.03041)<br>[2023-03-07]<br>
 * [Vision-Language Models in Remote Sensing: Current Progress and Future Trends](https://arxiv.org/abs/2305.05726)<br>[2023-05-11]<br>
 * [Assessing of Soil Erosion Risk Through Geoinformation Sciences and Remote Sensing -- A Review](https://arxiv.org/abs/2310.08430)<br>[2023-10-13]<br>
+* [A review of individual tree crown detection and delineation from optical remote sensing images](https://arxiv.org/abs/2310.13481)<br>[2023-10-23]<br>
 * 遥感图像检测
   * [Oriented Object Detection in Optical Remote Sensing Images: A Survey](https://arxiv.org/abs/2302.10473)<br>[2023-02-22]<br>
 * 变化检测
