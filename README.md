@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月25日已公开 311 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月27日已公开 314 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -153,6 +153,7 @@
 * [How Deep Learning Sees the World: A Survey on Adversarial Attacks & Defenses](https://arxiv.org/abs/2305.10862)<br>[2023-05-19]<br>
 * [Adversarial Attacks and Defenses in Explainable Artificial Intelligence: A Survey](https://arxiv.org/abs/2306.06123)<br>[2023-06-13]<br>
 * [A Review of Adversarial Attacks in Computer Vision](https://arxiv.org/abs/2308.07673)<br>[2023-08-16]<br>
+* [A Survey on Transferability of Adversarial Examples across Deep Neural Networks](https://arxiv.org/abs/2310.17626)<br>[2023-10-27]<br>
 
 ## Incremental Learning(增量学习)
 * [Towards Label-Efficient Incremental Learning: A Survey](https://arxiv.org/abs/2302.00353)<br>[2023-02-02]<br>:star:[code](https://github.com/kilickaya/label-efficient-il)
@@ -441,6 +442,8 @@
   * [From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications](https://arxiv.org/abs/2308.16041)<br>[2023-08-31]
 * 三维人脸重建
   * [3D Face Reconstruction: the Road to Forensics](https://arxiv.org/abs/2309.11357)<br>[2023-09-21]
+* 情感识别
+  * [Emotion Recognition by Video: A review](https://arxiv.org/abs/2310.17212)<br>[2023-10-27]<br>
 
 <a name="7"/>
 
@@ -501,6 +504,8 @@
   * [Improving diagnosis and prognosis of lung cancer using vision transformers: A scoping review](https://arxiv.org/abs/2309.02783)<br>[2023-09-07]<br>vision transformer在肺癌诊断中的应用综述
 * 脊柱侧弯筛查
   * [Intelligent Scoliosis Screening and Diagnosis: A Survey](https://arxiv.org/abs/2310.08756)<br>[2023-10-16]<br>
+* 临床疾病诊断
+  * [The Significance of Machine Learning in Clinical Disease Diagnosis: A Review](https://arxiv.org/abs/2310.16978)<br>[2023-10-27]<br>
 
 <a name="6"/>
 
