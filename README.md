@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月27日已公开 314 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月31日已公开 317 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -121,6 +121,7 @@
   * [Turn Passive to Active: A Survey on Active Intellectual Property Protection of Deep Learning Models](https://arxiv.org/abs/2310.09822)<br>[2023-10-17]
 
 ## Machine Learning(机器学习)
+* [A Review on the Applications of Machine Learning for Tinnitus Diagnosis Using EEG Signals](https://arxiv.org/abs/2310.18795)<br>[2023-10-31]<br>
 * 迁移学习
   * [Deep Transfer Learning for Intelligent Vehicle Perception: a Survey](https://arxiv.org/abs/2306.15110)<br>[2023-06-28]<br>
   * [A Survey of Incremental Transfer Learning: Combining Peer-to-Peer Federated Learning and Domain Incremental Learning for Multicenter Collaboration](https://arxiv.org/abs/2309.17192)<br>[2023-10-02]
@@ -467,6 +468,7 @@
 * [A Systematic Review of Few-Shot Learning in Medical Imaging](https://arxiv.org/abs/2309.11433)<br>[2023-09-21]
 * [A review of uncertainty quantification in medical image analysis: probabilistic and non-probabilistic methods](https://arxiv.org/abs/2310.06873)<br>[2023-10-12]
 * [Tracking and Mapping in Medical Computer Vision: A Review](https://arxiv.org/abs/2310.11475)<br>[2023-10-19]
+* [Foundational Models in Medical Imaging: A Comprehensive Survey and Future Vision](https://arxiv.org/abs/2310.18689)<br>[2023-10-31]<br>:star:[code](https://github.com/mindflow-institue/Awesome-Foundation-Models-in-Medical-Imaging)
 * 医学影像分割
   * [Towards more precise automatic analysis: a comprehensive survey of deep learning-based multi-organ segmentation](https://arxiv.org/abs/2303.00232)<br>[2023-03-02]<br>
   * [Attention Mechanisms in Medical Image Segmentation: A Survey](https://arxiv.org/abs/2305.17937)<br>[2023-05-30]<br>
@@ -568,9 +570,11 @@
 
 <a name="3"/>
 
-## 3.Domain Adaptation(域适应)
+## 3.Domain Adaptation/Generalization(域适应/泛化)
 * 域适应
   * [Source-Free Unsupervised Domain Adaptation: A Survey](https://arxiv.org/abs/2301.00265)<br>[2023-01-03]<br>从技术角度对现有的SFUDA方法进行了系统的文献回顾。具体来说，将目前的SFUDA研究分为两类，即白盒SFUDA和黑盒SFUDA，并根据它们使用的不同学习策略进一步划分为更细的子类别。以及研究了每个子类别中方法的挑战，讨论了白盒和黑盒SFUDA方法的优势/劣势，总结了常用的基准数据集，另外还总结了在不使用源数据的情况下提高模型通用性的流行技术。
+* 域泛化
+  * [Domain Generalization in Computational Pathology: Survey and Guidelines](https://arxiv.org/abs/2310.19656)<br>[2023-10-31]<br>
 
 <a name="2"/>
 
