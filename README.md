@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月2日已公开 318 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月6日已公开 320 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -156,6 +156,7 @@
 * [Adversarial Attacks and Defenses in Explainable Artificial Intelligence: A Survey](https://arxiv.org/abs/2306.06123)<br>[2023-06-13]<br>
 * [A Review of Adversarial Attacks in Computer Vision](https://arxiv.org/abs/2308.07673)<br>[2023-08-16]<br>
 * [A Survey on Transferability of Adversarial Examples across Deep Neural Networks](https://arxiv.org/abs/2310.17626)<br>[2023-10-27]<br>
+* [Adversarial Examples in the Physical World: A Survey](https://arxiv.org/abs/2311.01473)<br>[2023-11-06]<br>
 
 ## Incremental Learning(增量学习)
 * [Towards Label-Efficient Incremental Learning: A Survey](https://arxiv.org/abs/2302.00353)<br>[2023-02-02]<br>:star:[code](https://github.com/kilickaya/label-efficient-il)
@@ -475,6 +476,7 @@
   * [Towards more precise automatic analysis: a comprehensive survey of deep learning-based multi-organ segmentation](https://arxiv.org/abs/2303.00232)<br>[2023-03-02]<br>
   * [Attention Mechanisms in Medical Image Segmentation: A Survey](https://arxiv.org/abs/2305.17937)<br>[2023-05-30]<br>
   * [From CNN to Transformer: A Review of Medical Image Segmentation Models](https://arxiv.org/abs/2308.05305)<br>[2023-08-11]<br>
+  * [Medical Image Segmentation with Domain Adaptation: A Survey](https://arxiv.org/abs/2311.01702)<br>[2023-11-06]<br>
 * 医学影像分析
   * [Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review](https://arxiv.org/abs/2301.03505)<br>[2023-01-10]<br>:star:[code](https://github.com/mindflow-institue/Awesome-Transformer)
   * [A Review of Predictive and Contrastive Self-supervised Learning for Medical Images](https://arxiv.org/ftp/arxiv/papers/2302/2302.05043.pdf)<br>[2023-02-13]<br> 
