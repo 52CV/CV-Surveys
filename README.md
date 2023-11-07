@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月6日已公开 320 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月7日已公开 324 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -175,6 +175,7 @@
   * [Cross-source Point Cloud Registration: Challenges, Progress and Prospects](https://arxiv.org/abs/2305.13570)<br>[2023-05-24]
 * 点云分类
   * [Adversarial Attacks and Defenses on 3D Point Cloud Classification: A Survey](https://arxiv.org/abs/2307.00309)<br>[2023-07-04]
+  * [Deep Learning-based 3D Point Cloud Classification: A Systematic Survey and Outlook](https://arxiv.org/abs/2311.02608)<br>[2023-11-07]
 
 ## Image Generation
 * [A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need?](https://arxiv.org/abs/2303.11717)<br>[2023-03-22]<br>
@@ -347,9 +348,11 @@
 
 <a name="15"/>
 
-## 15.Image Captioning(图像字幕)
+## 15.Video/Image Captioning(视频/图像字幕)
 * [Graph Neural Networks in Vision-Language Image Understanding: A Survey](https://arxiv.org/abs/2303.03761)<br>[2023-03-08]<br>
-* [A Review of Deep Learning for Video Captioning](https://arxiv.org/abs/2304.11431)<br>[2023-04-25]<br>
+* VC
+  * [A Review of Deep Learning for Video Captioning](https://arxiv.org/abs/2304.11431)<br>[2023-04-25]<br>
+  * [Dense Video Captioning: A Survey of Techniques, Datasets and Evaluation Protocols](https://arxiv.org/abs/2311.02538)<br>[2023-11-07]<br>
 
 <a name="14"/>
 
@@ -403,6 +406,8 @@
   * [Semi-supervised Object Detection: A Survey on Recent Research and Progress](https://arxiv.org/abs/2306.14106)
 * 开放词汇目标检测
   * [A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future](https://arxiv.org/abs/2307.09220)<br>[2023-07-19]<br>  
+* 茶叶病害检测
+  * [Machine Learning-Based Tea Leaf Disease Detection: A Comprehensive Review](https://arxiv.org/abs/2311.03240)<br>[2023-11-07]<br> 
 
 <a name="11"/>
 
@@ -440,6 +445,8 @@
   * [A Comparative Study of Face Detection Algorithms for Masked Face Detection](https://arxiv.org/abs/2305.11077)<br>[2023-05-19]
 * 人脸恢复
   * [Survey on Deep Face Restoration: From Non-blind to Blind and Beyond](https://arxiv.org/abs/2309.15490)<br>[2023-09-28]<br>:star:[code](https://github.com/24wenjie-li/Awesome-Face-Restoration)
+* 人脸对齐
+  * [A survey and classification of face alignment methods based on face models](https://arxiv.org/abs/2311.03082)<br>[2023-11-07]
 * 3D头像
   * [Human 3D Avatar Modeling with Implicit Neural Representation: A Brief Survey](https://arxiv.org/abs/2306.03576)<br>[2023-06-07]
 * 说话头
