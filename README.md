@@ -258,7 +258,7 @@
 * 剪枝
   * [Structured Pruning for Deep Convolutional Neural Networks: A survey](https://arxiv.org/abs/2303.00566)<br>[2023-03-02]<br>
   * [A Survey on Deep Neural Network Pruning-Taxonomy, Comparison, Analysis, and Recommendations](https://arxiv.org/abs/2308.06767)<br>[2023-08-15]<br>
-## HOI
+## Human-Machine Interaction
 * [A Survey on Personalized Affective Computing in Human-Machine Interaction](https://arxiv.org/abs/2304.00377)<br>[2023-04-04]<br>
 
 ## Vision-Language
