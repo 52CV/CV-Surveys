@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月13日已公开 327 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月14日已公开 329 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -208,22 +208,6 @@
   * [Deep Learning for Iris Recognition: A Review](https://arxiv.org/abs/2303.08514)<br>[2023-03-16]<br>
   * [Periocular biometrics: databases, algorithms and directions](https://arxiv.org/abs/2307.14111)<br>[2023-07-27]<br>
 
-## GAN/生成
-* [A Survey on Generative Modeling with Limited Data, Few Shots, and Zero Shot](https://arxiv.org/abs/2307.14397)<br>[2023-07-28]<br>
-* [Text-to-image Diffusion Model in Generative AI: A Survey](https://arxiv.org/abs/2303.07909)<br>[2023-03-15]<br>
-* [Generative Adversarial Networks for Brain Images Synthesis: A Review](https://arxiv.org/abs/2305.15421)<br>[2023-05-26]<br>
-* [3D GANs and Latent Space: A comprehensive survey](https://arxiv.org/abs/2304.03932)<br>[2023-04-11]<br>
-* [Ten Years of Generative Adversarial Nets (GANs): A survey of the state-of-the-art](https://arxiv.org/abs/2308.16316)<br>[2023-09-01]<br>
-* 图像编辑
-  * [Text-guided Image-and-Shape Editing and Generation: A Short Survey](https://arxiv.org/abs/2304.09244)<br>[2023-04-20]<br>
-* 图像合成
-  * [Survey on Controlable Image Synthesis with Deep Learning](https://arxiv.org/abs/2307.10275)<br>[2023-07-21]<br>
-  * [Image Synthesis under Limited Data: A Survey and Taxonomy](https://arxiv.org/abs/2307.16879)<br>[2023-08-01]<br>:star:[code](https://github.com/kobeshegu/awesome-few-shot-generation)
-  * [A Survey of Diffusion Based Image Generation Models: Issues and Their Solutions](https://arxiv.org/abs/2308.13142)<br>[2023-08-28]<br>
-* AIGC
-  * [AIGC for Various Data Modalities: A Survey](https://arxiv.org/abs/2308.14177)<br>[2023-08-29]<br>
-* 文本-图像生成
-  *[RenAIssance: A Survey into AI Text-to-Image Generation in the Era of Large Model](https://arxiv.org/abs/2309.00810)<br>[2023-09-06]<br>
 
 ## NLP
 * [Foundation Models for Natural Language Processing -- Pre-trained Language Models Integrating Media](https://arxiv.org/pdf/2302.08575.pdf)<br>[2023-02-20]
@@ -299,6 +283,7 @@
 * [Vision Transformers for Mobile Applications: A Short Survey](https://arxiv.org/abs/2305.19365)<br>[2023-06-01]<br>
 * [A Survey of Techniques for Optimizing Transformer Inference](https://arxiv.org/abs/2307.07982)<br>[2023-07-18]<br> 
 * [A survey on efficient vision transformers: algorithms, techniques, and performance benchmarking](https://arxiv.org/abs/2309.02031)<br>[2023-09-06]<br>
+* [Explainability of Vision Transformers: A Comprehensive Review and New Perspectives](https://arxiv.org/abs/2311.06786)<br>[2023-11-14]<br> 
 
 ## Person Re-Identification
 * Reid
@@ -434,9 +419,26 @@
 
 <a name="9"/>
 
-## 9.Generative Adversarial Network(生成对抗网络)
+## 9.Generative Adversarial Network(生成对抗网络)/生成
 * [Comprehensive Literature Survey on Deep Learning used in Image Memorability Prediction and Modification](https://arxiv.org/abs/2301.06080)<br>[2023-01-18]
 * [Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey](https://arxiv.org/abs/2302.08641)<br>[2023-02-20]
+* [A Survey on Generative Modeling with Limited Data, Few Shots, and Zero Shot](https://arxiv.org/abs/2307.14397)<br>[2023-07-28]<br>
+* [Text-to-image Diffusion Model in Generative AI: A Survey](https://arxiv.org/abs/2303.07909)<br>[2023-03-15]<br>
+* [Generative Adversarial Networks for Brain Images Synthesis: A Review](https://arxiv.org/abs/2305.15421)<br>[2023-05-26]<br>
+* [3D GANs and Latent Space: A comprehensive survey](https://arxiv.org/abs/2304.03932)<br>[2023-04-11]<br>
+* [Ten Years of Generative Adversarial Nets (GANs): A survey of the state-of-the-art](https://arxiv.org/abs/2308.16316)<br>[2023-09-01]<br>
+* 图像编辑
+  * [Text-guided Image-and-Shape Editing and Generation: A Short Survey](https://arxiv.org/abs/2304.09244)<br>[2023-04-20]<br>
+* 图像合成
+  * [Survey on Controlable Image Synthesis with Deep Learning](https://arxiv.org/abs/2307.10275)<br>[2023-07-21]<br>
+  * [Image Synthesis under Limited Data: A Survey and Taxonomy](https://arxiv.org/abs/2307.16879)<br>[2023-08-01]<br>:star:[code](https://github.com/kobeshegu/awesome-few-shot-generation)
+  * [A Survey of Diffusion Based Image Generation Models: Issues and Their Solutions](https://arxiv.org/abs/2308.13142)<br>[2023-08-28]<br>
+* AIGC
+  * [AIGC for Various Data Modalities: A Survey](https://arxiv.org/abs/2308.14177)<br>[2023-08-29]<br>
+* 文本-图像生成
+  * [RenAIssance: A Survey into AI Text-to-Image Generation in the Era of Large Model](https://arxiv.org/abs/2309.00810)<br>[2023-09-06]<br>
+  * [A Survey of AI Text-to-Image and AI Text-to-Video Generators](https://arxiv.org/abs/2311.06329)<br>[2023-11-14]<br>
+
 
 <a name="8"/>
 
