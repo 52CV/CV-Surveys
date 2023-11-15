@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月14日已公开 329 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月15日已公开 333 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -88,6 +88,7 @@
 * [Vision Language Transformers: A Survey](https://arxiv.org/abs/2307.03254)<br>[2023-07-10]
 * [A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models](https://arxiv.org/abs/2307.12980)<br>[2023-07-25]
 * [Foundational Models Defining a New Era in Vision: A Survey and Outlook](https://arxiv.org/abs/2307.13721)<br>[2023-07-27]<br>:star:[code](https://github.com/awaisrauf/Awesome-CV-Foundational-Models)
+* [Vision-Language Instruction Tuning: A Review and Analysis](https://arxiv.org/abs/2311.08172)<br>[2023-11-15]<br>:star:[code](https://github.com/palchenli/VL-Instruction-Tuning)
 * LLM
   * [A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549)<br>[2023-06-26]<br>:star:[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
@@ -327,6 +328,7 @@
   * [Real-Time Semantic Segmentation: A Brief Survey & Comparative Study in Remote Sensing](https://arxiv.org/abs/2309.06047)<br>[2023-09-13]<br>
 * 遥感目标检测
   * [Remote Sensing Object Detection Meets Deep Learning: A Meta-review of Challenges and Advances](https://arxiv.org/abs/2309.06751)<br>[2023-09-14]
+  * [Deep Learning-Based Object Detection in Maritime Unmanned Aerial Vehicle Imagery: Review and Experimental Comparisons](https://arxiv.org/abs/2311.07955)<br>[2023-11-15]<br>:star:[code](https://github.com/zcj234/MS2ship)
 
 <a name="16"/>
 
@@ -487,6 +489,7 @@
 * [A review of uncertainty quantification in medical image analysis: probabilistic and non-probabilistic methods](https://arxiv.org/abs/2310.06873)<br>[2023-10-12]
 * [Tracking and Mapping in Medical Computer Vision: A Review](https://arxiv.org/abs/2310.11475)<br>[2023-10-19]
 * [Foundational Models in Medical Imaging: A Comprehensive Survey and Future Vision](https://arxiv.org/abs/2310.18689)<br>[2023-10-31]<br>:star:[code](https://github.com/mindflow-institue/Awesome-Foundation-Models-in-Medical-Imaging)
+* [Artificial Intelligence in Assessing Cardiovascular Diseases and Risk Factors via Retinal Fundus Images: A Review of the Last Decade](https://arxiv.org/abs/2311.07609)<br>[2023-11-15]
 * 医学影像分割
   * [Towards more precise automatic analysis: a comprehensive survey of deep learning-based multi-organ segmentation](https://arxiv.org/abs/2303.00232)<br>[2023-03-02]<br>
   * [Attention Mechanisms in Medical Image Segmentation: A Survey](https://arxiv.org/abs/2305.17937)<br>[2023-05-30]<br>
@@ -654,6 +657,7 @@
   * [Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey](https://arxiv.org/abs/2302.10035)<br>[2023-02-21]<br>:star:[code](https://github.com/wangxiao5791509/MultiModal_BigModels_Survey)
   * [RGB-D And Thermal Sensor Fusion: A Systematic Literature Review](https://arxiv.org/abs/2305.11427)<br>[2023-05-22]<br>
   * [Multimodal Sentiment Analysis: A Survey](https://arxiv.org/abs/2305.07611)<br>[2023-05-15]<br>
+  * [How to Bridge the Gap between Modalities: A Comprehensive Survey on Multimodal Large Language Model](https://arxiv.org/abs/2311.07594)<br>[2023-11-15]<br>
 * 运输物流与仓储
   * [Literature Review: Computer Vision Applications in Transportation Logistics and Warehousing](https://arxiv.org/abs/2304.06009)<br>[2023-04-13]<br>:star:[code](https://a-nau.github.io/cv-in-logistics)  
 * 事实检查
