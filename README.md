@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月16日已公开 335 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月16日已公开 336 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -71,6 +71,9 @@
 * [An End-to-End Review of Gaze Estimation and its Interactive Applications on Handheld Mobile Devices](https://arxiv.org/abs/2307.00122)<br>[2023-07-04]
 * [A Review of Driver Gaze Estimation and Application in Gaze Behavior Understanding](https://arxiv.org/abs/2307.01470)<br>[2023-07-06]
 
+## Reid(人员重识别/步态识别/行人检测)
+* 行人检测
+  * [Low-light Pedestrian Detection in Visible and Infrared Image Feeds: Issues and Challenges](https://arxiv.org/abs/2311.08557)<br>[2023-11-16]
 
 ## Human Motion Generation(人体动作生成)
 * [A Survey on Deep Learning-based Spatio-temporal Action Detection](https://arxiv.org/abs/2308.01618)<br>[2023-08-04]
