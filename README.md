@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月20日已公开 337 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月21日已公开 340 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -161,6 +161,8 @@
 * [A Review of Adversarial Attacks in Computer Vision](https://arxiv.org/abs/2308.07673)<br>[2023-08-16]<br>
 * [A Survey on Transferability of Adversarial Examples across Deep Neural Networks](https://arxiv.org/abs/2310.17626)<br>[2023-10-27]<br>
 * [Adversarial Examples in the Physical World: A Survey](https://arxiv.org/abs/2311.01473)<br>[2023-11-06]<br>
+* 对抗攻击
+  * [Beyond Boundaries: A Comprehensive Survey of Transferable Attacks on AI Systems](https://arxiv.org/abs/2311.11796)<br>[2023-11-21]<br>
 
 ## Incremental Learning(增量学习)
 * [Towards Label-Efficient Incremental Learning: A Survey](https://arxiv.org/abs/2302.00353)<br>[2023-02-02]<br>:star:[code](https://github.com/kilickaya/label-efficient-il)
@@ -518,9 +520,10 @@
   * [Biomedical Image Reconstruction: A Survey](https://arxiv.org/abs/2301.11813)<br>[2023-01-30]<br>
 * 急性白血病和白细胞的自动检测和分类
   * [A survey on automated detection and classification of acute leukemia and WBCs in microscopic blood cells](https://arxiv.org/abs/2303.03916)<br>[2023-03-08]<br>
-* MRI 重建  
+* MRI 
   * [Exploring the Power of Generative Deep Learning for Image-to-Image Translation and MRI Reconstruction: A Cross-Domain Review](https://arxiv.org/abs/2303.09012)<br>[2023-03-17]<br>
   * [Deep Learning for Retrospective Motion Correction in MRI: A Comprehensive Review](https://arxiv.org/abs/2305.06739)<br>[2023-05-12]<br>
+  * [A Survey of Emerging Applications of Diffusion Probabilistic Models in MRI](https://arxiv.org/abs/2311.11383)<br>[2023-11-21]<br>
  * 青光眼检测
    * [Deep Learning and Computer Vision for Glaucoma Detection: A Review](https://arxiv.org/abs/2307.16528)<br>[2023-08-01]<br>
 * 细胞分类
@@ -537,6 +540,8 @@
   * [Intelligent Scoliosis Screening and Diagnosis: A Survey](https://arxiv.org/abs/2310.08756)<br>[2023-10-16]<br>
 * 临床疾病诊断
   * [The Significance of Machine Learning in Clinical Disease Diagnosis: A Review](https://arxiv.org/abs/2310.16978)<br>[2023-10-27]<br>
+* 猴痘检测
+  * [A Recent Survey of the Advancements in Deep Learning Techniques for Monkeypox Disease Detection](https://arxiv.org/abs/2311.10754)<br>[2023-11-21]<br>
 
 <a name="6"/>
 
