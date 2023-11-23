@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月21日已公开 340 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月23日已公开 341 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -542,6 +542,8 @@
   * [The Significance of Machine Learning in Clinical Disease Diagnosis: A Review](https://arxiv.org/abs/2310.16978)<br>[2023-10-27]<br>
 * 猴痘检测
   * [A Recent Survey of the Advancements in Deep Learning Techniques for Monkeypox Disease Detection](https://arxiv.org/abs/2311.10754)<br>[2023-11-21]<br>
+* 阿兹海默
+  * [Multimodal Identification of Alzheimer's Disease: A Review](https://arxiv.org/abs/2311.12842)<br>[2023-11-23]<br>
 
 <a name="6"/>
 
