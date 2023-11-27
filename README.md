@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月23日已公开 341 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月27日已公开 344 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -502,6 +502,7 @@
   * [Attention Mechanisms in Medical Image Segmentation: A Survey](https://arxiv.org/abs/2305.17937)<br>[2023-05-30]<br>
   * [From CNN to Transformer: A Review of Medical Image Segmentation Models](https://arxiv.org/abs/2308.05305)<br>[2023-08-11]<br>
   * [Medical Image Segmentation with Domain Adaptation: A Survey](https://arxiv.org/abs/2311.01702)<br>[2023-11-06]<br>
+  * [Deep Interactive Segmentation of Medical Images: A Systematic Review and Taxonomy](https://arxiv.org/abs/2311.13964)<br>[2023-11-27]<br>
 * 医学影像分析
   * [Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review](https://arxiv.org/abs/2301.03505)<br>[2023-01-10]<br>:star:[code](https://github.com/mindflow-institue/Awesome-Transformer)
   * [A Review of Predictive and Contrastive Self-supervised Learning for Medical Images](https://arxiv.org/ftp/arxiv/papers/2302/2302.05043.pdf)<br>[2023-02-13]<br> 
@@ -514,6 +515,8 @@
   * [Deep learning in medical image registration: introduction and survey](https://arxiv.org/abs/2309.00727)<br>[2023-09-06]<br>
 * 医学影像分类
   * [Review of AlexNet for Medical Image Classification](https://arxiv.org/abs/2311.08655)<br>[2023-11-16]<br>
+* 医学报告生成
+  * [A Systematic Review of Deep Learning-based Research on Radiology Report Generation](https://arxiv.org/abs/2311.14199)<br>[2023-11-27]<br>
 * 脑微出血检测
   * [Review of methods for automatic cerebral microbleeds detection](https://arxiv.org/pdf/2301.13549.pdf)<br>[2023-02-01]<br>
 * 生物医学重建
@@ -524,8 +527,8 @@
   * [Exploring the Power of Generative Deep Learning for Image-to-Image Translation and MRI Reconstruction: A Cross-Domain Review](https://arxiv.org/abs/2303.09012)<br>[2023-03-17]<br>
   * [Deep Learning for Retrospective Motion Correction in MRI: A Comprehensive Review](https://arxiv.org/abs/2305.06739)<br>[2023-05-12]<br>
   * [A Survey of Emerging Applications of Diffusion Probabilistic Models in MRI](https://arxiv.org/abs/2311.11383)<br>[2023-11-21]<br>
- * 青光眼检测
-   * [Deep Learning and Computer Vision for Glaucoma Detection: A Review](https://arxiv.org/abs/2307.16528)<br>[2023-08-01]<br>
+* 青光眼检测
+  * [Deep Learning and Computer Vision for Glaucoma Detection: A Review](https://arxiv.org/abs/2307.16528)<br>[2023-08-01]<br>
 * 细胞分类
   * [A Review on Classification of White Blood Cells Using Machine Learning Models](https://arxiv.org/abs/2308.06296)<br>[2023-08-15]<br>
 * 头皮疾病诊断
@@ -544,6 +547,8 @@
   * [A Recent Survey of the Advancements in Deep Learning Techniques for Monkeypox Disease Detection](https://arxiv.org/abs/2311.10754)<br>[2023-11-21]<br>
 * 阿兹海默
   * [Multimodal Identification of Alzheimer's Disease: A Review](https://arxiv.org/abs/2311.12842)<br>[2023-11-23]<br>
+* 视网膜
+  * [A Comprehensive Review of Artificial Intelligence Applications in Major Retinal Conditions](https://arxiv.org/abs/2311.13710)<br>[2023-10-27]<br>
 
 <a name="6"/>
 
