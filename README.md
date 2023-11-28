@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月27日已公开 344 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月28日已公开 346 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -54,6 +54,11 @@
 * 事件信息
   * [Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks](https://arxiv.org/abs/2302.08890)<br>[2023-02-20]<br>
 
+## Intelligent Agriculture
+* 茶叶病害检测
+  * [Machine Learning-Based Tea Leaf Disease Detection: A Comprehensive Review](https://arxiv.org/abs/2311.03240)<br>[2023-11-07]<br> 
+* 果农叶片病害检测
+  * [Machine Learning-Based Jamun Leaf Disease Detection: A Comprehensive Review](https://arxiv.org/abs/2311.15741)<br>[2023-11-28]<br> 
 
 ## Graph Learning(图学习)
 * [Graph learning in robotics: a survey](https://arxiv.org/abs/2310.04294)<br>[2023-10-09]<br>
@@ -140,6 +145,7 @@
 ## Model Compression
 * 模型压缩
   * [Model Compression Methods for YOLOv5: A Review](https://arxiv.org/abs/2307.11904)<br>[2023-07-25]
+  * [Relationship between Model Compression and Adversarial Robustness: A Review of Current Evidence](https://arxiv.org/abs/2311.15782)<br>[2023-11-28]<br>
 
 ## Sign Language Recognition(手语识别)
 * [Image-based Indian Sign Language Recognition: A Practical Review using Deep Neural Networks](https://arxiv.org/abs/2304.14710)<br>[2023-05-01]<br>
@@ -403,8 +409,6 @@
   * [Semi-supervised Object Detection: A Survey on Recent Research and Progress](https://arxiv.org/abs/2306.14106)
 * 开放词汇目标检测
   * [A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future](https://arxiv.org/abs/2307.09220)<br>[2023-07-19]<br>  
-* 茶叶病害检测
-  * [Machine Learning-Based Tea Leaf Disease Detection: A Comprehensive Review](https://arxiv.org/abs/2311.03240)<br>[2023-11-07]<br> 
 
 <a name="11"/>
 
