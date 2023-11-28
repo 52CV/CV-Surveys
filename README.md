@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月28日已公开 346 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月28日已公开 347 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -274,6 +274,7 @@
 * [Towards Vehicle-to-everything Autonomous Driving: A Survey on Collaborative Perception](https://arxiv.org/abs/2308.16714)<br>[2023-09-01]<br>:star:[code](https://github.com/memberRE/Collaborative-Perception)
 * [An Overview about Emerging Technologies of Autonomous Driving](https://arxiv.org/abs/2306.13302)<br>[2023-06-26]<br>
 * [Applications of Computer Vision in Autonomous Vehicles: Methods, Challenges and Future Directions](https://arxiv.org/abs/2311.09093)<br>[2023-11-16]<br>
+* [A Survey on Multimodal Large Language Models for Autonomous Driving](https://arxiv.org/abs/2311.12320)<br>[2023-11-21]<br>:star:[code](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)<br>腾讯高精地图/自动驾驶研究团队最新发布的多模态大语言模型自动驾驶综述
 * 目标检测
   * [Surround-View Vision-based 3D Detection for Autonomous Driving: A Survey](https://arxiv.org/abs/2302.06650)<br>[2023-02-15]<br>:star:[code](https://github.com/ApoorvRoboticist/VisionBEVDetectionSurvey)
   * [Vision-RADAR fusion for Robotics BEV Detections: A Survey](https://arxiv.org/pdf/2302.06643.pdf)<br>[2023-02-15]<br>:star:[code](https://github.com/ApoorvRoboticist/Vision-RADAR-Fusion-BEV-Survey)
