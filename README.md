@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月29日已公开 349 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月1日已公开 351 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -37,7 +37,8 @@
 7月份36篇。<br>
 8月份37篇。<br>
 9月份23篇。<br>
-9月份34篇。<br>计317篇。
+10月份34篇。<br>
+11月份32篇。<br>计349篇。
 
 ## 目录
 
@@ -112,6 +113,8 @@
 * [Neural Radiance Fields: Past, Present, and Future](https://arxiv.org/pdf/2304.10050.pdf)<br>[2023-04-21]<br>
 * [Neural Radiance Fields (NeRFs): A Review and Some Recent Developments](https://arxiv.org/abs/2305.00375)<br>[2023-05-02]<br>
 * [BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields](https://arxiv.org/abs/2306.03000)<br>[2023-06-06]<br>
+* 渲染
+  * [Advances in 3D Neural Stylization: A Survey](https://arxiv.org/abs/2311.18328)<br>[2023-12-01]<br>
 
 ## 计算成像
 * [Applications of Deep Learning for Top-View Omnidirectional Imaging: A Survey](https://arxiv.org/abs/2304.08193)<br>[2023-04-18]<br>
@@ -556,6 +559,8 @@
   * [Multimodal Identification of Alzheimer's Disease: A Review](https://arxiv.org/abs/2311.12842)<br>[2023-11-23]<br>
 * 视网膜
   * [A Comprehensive Review of Artificial Intelligence Applications in Major Retinal Conditions](https://arxiv.org/abs/2311.13710)<br>[2023-10-27]<br>
+* 息肉分割
+  * [A Survey on Deep Learning for Polyp Segmentation: Techniques, Challenges and Future Trends](https://arxiv.org/abs/2311.18373)<br>:star:[code](https://github.com/taozh2017/Awesome-Polyp-Segmentation)<br>[2023-12-01]<br>
 
 <a name="6"/>
 
