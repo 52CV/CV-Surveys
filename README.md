@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月4日已公开 354 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月5日已公开 358 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -60,6 +60,8 @@
   * [Machine Learning-Based Tea Leaf Disease Detection: A Comprehensive Review](https://arxiv.org/abs/2311.03240)<br>[2023-11-07]<br> 
 * 果农叶片病害检测
   * [Machine Learning-Based Jamun Leaf Disease Detection: A Comprehensive Review](https://arxiv.org/abs/2311.15741)<br>[2023-11-28]<br> 
+* 甜橙叶病
+  * [A Comprehensive Literature Review on Sweet Orange Leaf Diseases](https://arxiv.org/abs/2312.01756)<br>[2023-12-05]<br> 
 
 ## Graph Learning(图学习)
 * [Graph learning in robotics: a survey](https://arxiv.org/abs/2310.04294)<br>[2023-10-09]<br>
@@ -562,6 +564,10 @@
   * [A Comprehensive Review of Artificial Intelligence Applications in Major Retinal Conditions](https://arxiv.org/abs/2311.13710)<br>[2023-10-27]<br>
 * 息肉分割
   * [A Survey on Deep Learning for Polyp Segmentation: Techniques, Challenges and Future Trends](https://arxiv.org/abs/2311.18373)<br>:star:[code](https://github.com/taozh2017/Awesome-Polyp-Segmentation)<br>[2023-12-01]<br>
+* 癌症检测
+  * [Survey on deep learning in multimodal medical imaging for cancer detection](https://arxiv.org/abs/2312.01573)<br>[2023-12-05]<br>
+* 肺栓塞诊断
+  * [Deep learning and traditional-based CAD schemes for the pulmonary embolism diagnosis: A survey](https://arxiv.org/abs/2312.01351)<br>[2023-12-05]<br>
 
 <a name="6"/>
 
@@ -685,6 +691,7 @@
 * [Non-adversarial Robustness of Deep Learning Methods for Computer Vision](https://arxiv.org/abs/2305.14986)<br>[2023-05-25]<br>
 * [From Neural Activations to Concepts: A Survey on Explaining Concepts in Neural Networks](https://arxiv.org/abs/2310.11884)<br>[2023-10-19]<br>
 * [Trustworthy Large Models in Vision: A Survey](https://arxiv.org/abs/2311.09680)<br>[2023-11-17]<br>
+* [Robust Computer Vision in an Ever-Changing World: A Survey of Techniques for Tackling Distribution Shifts](https://arxiv.org/abs/2312.01540)<br>[2023-12-05]<br>
 * DNN
   * [Survey on Leveraging Uncertainty Estimation Towards Trustworthy Deep Neural Networks: The Case of Reject Option and Post-training Processing](https://arxiv.org/abs/2304.04906)<br>[2023-04-12]<br>:star:[code](https://github.com/MehediHasanTutul/Reject_option)
   * [Direct Learning-Based Deep Spiking Neural Networks: A Review](https://arxiv.org/abs/2305.19725)<br>[2023-06-01]<br>
