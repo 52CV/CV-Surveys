@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月5日已公开 359 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月7日已公开 360 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -693,6 +693,7 @@
 * [From Neural Activations to Concepts: A Survey on Explaining Concepts in Neural Networks](https://arxiv.org/abs/2310.11884)<br>[2023-10-19]<br>
 * [Trustworthy Large Models in Vision: A Survey](https://arxiv.org/abs/2311.09680)<br>[2023-11-17]<br>
 * [Robust Computer Vision in an Ever-Changing World: A Survey of Techniques for Tackling Distribution Shifts](https://arxiv.org/abs/2312.01540)<br>[2023-12-05]<br>
+* [Foundation Models for Weather and Climate Data Understanding: A Comprehensive Survey](https://arxiv.org/abs/2312.03014)<br>[2023-12-07]<br>
 * DNN
   * [Survey on Leveraging Uncertainty Estimation Towards Trustworthy Deep Neural Networks: The Case of Reject Option and Post-training Processing](https://arxiv.org/abs/2304.04906)<br>[2023-04-12]<br>:star:[code](https://github.com/MehediHasanTutul/Reject_option)
   * [Direct Learning-Based Deep Spiking Neural Networks: A Review](https://arxiv.org/abs/2305.19725)<br>[2023-06-01]<br>
