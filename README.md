@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月7日已公开 361 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月8日已公开 362 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -100,6 +100,7 @@
 * [A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models](https://arxiv.org/abs/2307.12980)<br>[2023-07-25]
 * [Foundational Models Defining a New Era in Vision: A Survey and Outlook](https://arxiv.org/abs/2307.13721)<br>[2023-07-27]<br>:star:[code](https://github.com/awaisrauf/Awesome-CV-Foundational-Models)
 * [Vision-Language Instruction Tuning: A Review and Analysis](https://arxiv.org/abs/2311.08172)<br>[2023-11-15]<br>:star:[code](https://github.com/palchenli/VL-Instruction-Tuning)
+* [Adventures of Trustworthy Vision-Language Models: A Survey](https://arxiv.org/abs/2312.04231)<br>[2023-12-08]<br>
 * LLM
   * [A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549)<br>[2023-06-26]<br>:star:[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
   * [Large Language Models Meet Computer Vision: A Brief Survey](https://arxiv.org/abs/2311.16673)<br>[2023-11-29]<br>
