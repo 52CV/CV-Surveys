@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月11日已公开 365 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月12日已公开 369 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -82,6 +82,9 @@
 ## Reid(人员重识别/步态识别/行人检测)
 * 行人检测
   * [Low-light Pedestrian Detection in Visible and Infrared Image Feeds: Issues and Challenges](https://arxiv.org/abs/2311.08557)<br>[2023-11-16]
+
+## Human Motion Prediction(人体运动预测)
+* [Recent Advances in Deterministic Human Motion Prediction: A Review](https://arxiv.org/abs/2312.06184)<br>[2023-12-12]
 
 ## Human Motion Generation(人体动作生成)
 * [A Survey on Deep Learning-based Spatio-temporal Action Detection](https://arxiv.org/abs/2308.01618)<br>[2023-08-04]
@@ -523,6 +526,7 @@
   * [Medical Image Segmentation with Domain Adaptation: A Survey](https://arxiv.org/abs/2311.01702)<br>[2023-11-06]<br>
   * [Deep Interactive Segmentation of Medical Images: A Systematic Review and Taxonomy](https://arxiv.org/abs/2311.13964)<br>[2023-11-27]<br>
   * [A Recent Survey of Vision Transformers for Medical Image Segmentation](https://arxiv.org/abs/2312.00634)<br>[2023-12-04]<br>
+  * [Loss Functions in the Era of Semantic Segmentation: A Survey and Outlook](https://arxiv.org/abs/2312.05391)<br>[2023-12-12]<br>
 * 医学影像分析
   * [Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review](https://arxiv.org/abs/2301.03505)<br>[2023-01-10]<br>:star:[code](https://github.com/mindflow-institue/Awesome-Transformer)
   * [A Review of Predictive and Contrastive Self-supervised Learning for Medical Images](https://arxiv.org/ftp/arxiv/papers/2302/2302.05043.pdf)<br>[2023-02-13]<br> 
@@ -575,6 +579,8 @@
   * [Survey on deep learning in multimodal medical imaging for cancer detection](https://arxiv.org/abs/2312.01573)<br>[2023-12-05]<br>
 * 肺栓塞诊断
   * [Deep learning and traditional-based CAD schemes for the pulmonary embolism diagnosis: A survey](https://arxiv.org/abs/2312.01351)<br>[2023-12-05]<br>
+* 医学VLP
+  * [Medical Vision Language Pretraining: A survey](https://arxiv.org/abs/2312.06224)<br>[2023-12-12]<br>
 
 <a name="6"/>
 
@@ -629,6 +635,7 @@
   * [Online Misinformation Video Detection: A Survey](https://arxiv.org/abs/2302.03242)<br>[2023-02-08]<br>:star:[code](https://github.com/ICTMCG/Awesome-Misinfo-Video-Detection)
 * 视频分析
   * [Edge-Based Video Analytics: A Survey](https://arxiv.org/abs/2303.14329)<br>[2023-03-28]<br>
+  * [A Review of Machine Learning Methods Applied to Video Analysis Systems](https://arxiv.org/abs/2312.05352)<br>[2023-12-12]<br>
 * 视频时刻定位
   * [A Survey on Video Moment Localization](https://arxiv.org/abs/2306.07515)<br>[2023-06-14]<br>
 * 视频监控
