@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月12日已公开 369 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月13日已公开 371 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -519,6 +519,7 @@
 * [Foundational Models in Medical Imaging: A Comprehensive Survey and Future Vision](https://arxiv.org/abs/2310.18689)<br>[2023-10-31]<br>:star:[code](https://github.com/mindflow-institue/Awesome-Foundation-Models-in-Medical-Imaging)
 * [Artificial Intelligence in Assessing Cardiovascular Diseases and Risk Factors via Retinal Fundus Images: A Review of the Last Decade](https://arxiv.org/abs/2311.07609)<br>[2023-11-15]
 * [Now and Future of Artificial Intelligence-based Signet Ring Cell Diagnosis: A Survey](https://arxiv.org/abs/2311.10118)<br>[2023-11-20]
+* [CLIP in Medical Imaging: A Comprehensive Survey](https://arxiv.org/abs/2312.07353)<br>[2023-12-13]<br>:star:[code](https://github.com/zhaozh10/Awesome-CLIP-in-Medical-Imaging)
 * 医学影像分割
   * [Towards more precise automatic analysis: a comprehensive survey of deep learning-based multi-organ segmentation](https://arxiv.org/abs/2303.00232)<br>[2023-03-02]<br>
   * [Attention Mechanisms in Medical Image Segmentation: A Survey](https://arxiv.org/abs/2305.17937)<br>[2023-05-30]<br>
@@ -581,6 +582,8 @@
   * [Deep learning and traditional-based CAD schemes for the pulmonary embolism diagnosis: A survey](https://arxiv.org/abs/2312.01351)<br>[2023-12-05]<br>
 * 医学VLP
   * [Medical Vision Language Pretraining: A survey](https://arxiv.org/abs/2312.06224)<br>[2023-12-12]<br>
+* 乳腺癌诊断
+  * [Performance of externally validated machine learning models based on histopathology images for the diagnosis, classification, prognosis, or treatment outcome prediction in female breast cancer: A systematic review](https://arxiv.org/abs/2312.06697)<br>[2023-12-13]<br>
 
 <a name="6"/>
 
