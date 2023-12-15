@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月13日已公开 371 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月15日已公开 374 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -71,6 +71,9 @@
 
 ## Scene Understanding
 * [Recent Advances in Multi-modal 3D Scene Understanding: A Comprehensive Survey and Evaluation](https://arxiv.org/abs/2310.15676)<br>[2023-10-25]<br>
+
+## Open Set Recognition
+* [Managing the unknown: a survey on Open Set Recognition and tangential areas](https://arxiv.org/abs/2312.08785)<br>[2023-12-15]<br>
 
 ## Emotion Understanding
 * [Unlocking the Emotional World of Visual Media:An Overview of the Science, Research, and Impact of Understanding Emotion](https://arxiv.org/abs/2307.13463)<br>[2023-07-26]<br>
@@ -145,6 +148,7 @@
 
 ## Machine Learning(机器学习)
 * [A Review on the Applications of Machine Learning for Tinnitus Diagnosis Using EEG Signals](https://arxiv.org/abs/2310.18795)<br>[2023-10-31]<br>
+* [Defenses in Adversarial Machine Learning: A Survey](https://arxiv.org/abs/2312.08890)<br>[2023-12-15]<br>
 * 迁移学习
   * [Deep Transfer Learning for Intelligent Vehicle Perception: a Survey](https://arxiv.org/abs/2306.15110)<br>[2023-06-28]<br>
   * [A Survey of Incremental Transfer Learning: Combining Peer-to-Peer Federated Learning and Domain Incremental Learning for Multicenter Collaboration](https://arxiv.org/abs/2309.17192)<br>[2023-10-02]
@@ -246,6 +250,7 @@
 * 机器人
   * [A Review of Scene Representations for Robot Manipulators](https://arxiv.org/abs/2301.11275)<br>[2023-01-27]
   * [A Systematic Literature Review of Computer Vision Applications in Robotized Wire Harness Assembly](https://arxiv.org/abs/2309.13744)<br>[2023-09-26]
+  * [Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis](https://arxiv.org/abs/2312.08782)<br>[2023-12-15]
   * VPR
     * [Visual Place Recognition: A Tutorial](https://arxiv.org/abs/2303.03281)<br>[2023-03-07]<br>:star:[code](https://github.com/stschubert/VPR_Tutorial)
 * AR/VR
