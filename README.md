@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月15日已公开 374 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月19日已公开 378 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -158,6 +158,8 @@
   * [When Multi-Task Learning Meets Partial Supervision: A Computer Vision Review](https://arxiv.org/abs/2307.14382)<br>[2023-07-28]<br>
 * 联邦学习
   * [Federated Learning for Computer Vision](https://arxiv.org/abs/2308.13558)<br>[2023-08-29]<br>
+* 度量学习
+  * [Deep Metric Learning for Computer Vision: A Brief Overview](https://arxiv.org/abs/2312.10046)<br>[2023-12-19]<br>
 
 ## Model Compression
 * 模型压缩
@@ -379,6 +381,7 @@
 <a name="14"/>
 
 ## 14.Image Retrieval(图像检索)
+* [Advancements in Content-Based Image Retrieval: A Comprehensive Survey of Relevance Feedback Techniques](https://arxiv.org/abs/2312.10089)<br>[2023-12-19]<br>
 * 视频-文本检索
   * [Deep Learning for Video-Text Retrieval: a Review](https://arxiv.org/abs/2302.12552)<br>[2023-02-27]<br>
 
@@ -644,6 +647,7 @@
 * 视频分析
   * [Edge-Based Video Analytics: A Survey](https://arxiv.org/abs/2303.14329)<br>[2023-03-28]<br>
   * [A Review of Machine Learning Methods Applied to Video Analysis Systems](https://arxiv.org/abs/2312.05352)<br>[2023-12-12]<br>
+  * [Deep Learning Approaches for Seizure Video Analysis: A Review](https://arxiv.org/abs/2312.10930)<br>[2023-12-19]<br>
 * 视频时刻定位
   * [A Survey on Video Moment Localization](https://arxiv.org/abs/2306.07515)<br>[2023-06-14]<br>
 * 视频监控
@@ -719,6 +723,7 @@
 * DNN
   * [Survey on Leveraging Uncertainty Estimation Towards Trustworthy Deep Neural Networks: The Case of Reject Option and Post-training Processing](https://arxiv.org/abs/2304.04906)<br>[2023-04-12]<br>:star:[code](https://github.com/MehediHasanTutul/Reject_option)
   * [Direct Learning-Based Deep Spiking Neural Networks: A Review](https://arxiv.org/abs/2305.19725)<br>[2023-06-01]<br>
+  * [Towards the Unification of Generative and Discriminative Visual Foundation Model: A Survey](https://arxiv.org/abs/2312.10163)<br>[2023-12-19]<br>
 * 上下文理解
   * [Context Understanding in Computer Vision: A Survey](https://arxiv.org/pdf/2302.05011.pdf)<br>[2023-02-13]<br>
 * 多模态
