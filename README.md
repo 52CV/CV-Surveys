@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月19日已公开 378 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月20日已公开 380 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -134,6 +134,7 @@
 
 ## OCR
 * [A Review On Table Recognition Based On Deep Learning](https://arxiv.org/abs/2312.04808)
+* [Advancements and Challenges in Arabic Optical Character Recognition: A Comprehensive Survey](https://arxiv.org/abs/2312.11812)<br>[2023-12-20]<br>
 
 ## Diffusion Models(扩散模型)
 * [A Survey on Graph Diffusion Models: Generative AI in Science for Molecule, Protein and Material](https://arxiv.org/abs/2304.01565)<br>[2023-04-05]<br>
@@ -731,6 +732,7 @@
   * [RGB-D And Thermal Sensor Fusion: A Systematic Literature Review](https://arxiv.org/abs/2305.11427)<br>[2023-05-22]<br>
   * [Multimodal Sentiment Analysis: A Survey](https://arxiv.org/abs/2305.07611)<br>[2023-05-15]<br>
   * [How to Bridge the Gap between Modalities: A Comprehensive Survey on Multimodal Large Language Model](https://arxiv.org/abs/2311.07594)<br>[2023-11-15]<br>
+  * [A Survey of Reasoning with Foundation Models](https://arxiv.org/abs/2312.11562)<br>:star:[code](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)<br>[2023-12-20]<br>
 * 运输物流与仓储
   * [Literature Review: Computer Vision Applications in Transportation Logistics and Warehousing](https://arxiv.org/abs/2304.06009)<br>[2023-04-13]<br>:star:[code](https://a-nau.github.io/cv-in-logistics)  
 * 事实检查
