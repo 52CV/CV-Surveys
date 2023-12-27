@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月25日已公开 381 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月27日已公开 382 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -72,8 +72,9 @@
 ## Scene Understanding
 * [Recent Advances in Multi-modal 3D Scene Understanding: A Comprehensive Survey and Evaluation](https://arxiv.org/abs/2310.15676)<br>[2023-10-25]<br>
 
-## Open Set Recognition
+## Open Set Recognition(开集识别)
 * [Managing the unknown: a survey on Open Set Recognition and tangential areas](https://arxiv.org/abs/2312.08785)<br>[2023-12-15]<br>
+* [A Survey on Open-Set Image Recognition](https://arxiv.org/abs/2312.15571)<br>[2023-12-27]<br>
 
 ## Emotion Understanding
 * [Unlocking the Emotional World of Visual Media:An Overview of the Science, Research, and Impact of Understanding Emotion](https://arxiv.org/abs/2307.13463)<br>[2023-07-26]<br>
