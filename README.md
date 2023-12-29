@@ -55,6 +55,9 @@
 * 事件信息
   * [Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks](https://arxiv.org/abs/2302.08890)<br>[2023-02-20]<br>
 
+* 内容审核
+  * [State-of-the-Art in Nudity Classification: A Comparative Analysis](https://arxiv.org/abs/2312.16338)<br>:star:[code](https://github.com/fcakyon/content-moderation-deep-learning)<br>[2023-12-29]<br>
+
 ## Intelligent Agriculture
 * 茶叶病害检测
   * [Machine Learning-Based Tea Leaf Disease Detection: A Comprehensive Review](https://arxiv.org/abs/2311.03240)<br>[2023-11-07]<br> 
