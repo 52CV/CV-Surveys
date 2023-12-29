@@ -27,7 +27,7 @@
 
 2023 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月27日已公开 382 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月29日已公开 386 篇。
 1月份20篇。<br>
 2月份36篇。<br>
 3月份27篇。<br>
@@ -371,6 +371,7 @@
 
 ## 16.Super-resolution(超分辨率)
 * [Guided Depth Map Super-resolution: A Survey](https://arxiv.org/abs/2302.09598)<br>[2023-02-21]<br>:star:[code](https://github.com/zhwzhong/Guided-Depth-Map-Super-resolution-A-Survey)
+* [A Survey on Super Resolution for video Enhancement Using GAN](https://arxiv.org/abs/2312.16471)<br>[2023-12-29]<br>
 
 <a name="15"/>
 
@@ -545,6 +546,7 @@
   * [Data efficient deep learning for medical image analysis: A survey](https://arxiv.org/abs/2310.06557)<br>[2023-10-11]<br>
   * [Domain Generalization for Medical Image Analysis: A Survey](https://arxiv.org/abs/2310.08598)<br>[2023-10-16]<br>
   * [A comprehensive survey on deep active learning and its applications in medical image analysis](https://arxiv.org/abs/2310.14230)<br>[2023-10-24]<br>:star:[code](https://github.com/LightersWang/Awesome-Active-Learning-for-Medical-Image-Analysis)
+  * [Continual Learning in Medical Imaging Analysis: A Comprehensive Review of Recent Advancements and Future Prospects](https://arxiv.org/abs/2312.17004)<br>[2023-12-29]<br>
 * 医学影像配准
   * [A Survey on Deep Learning in Medical Image Registration: New Technologies, Uncertainty, Evaluation Metrics, and Beyond](https://arxiv.org/abs/2307.15615)<br>[2023-07-31]<br>
   * [Deep learning in medical image registration: introduction and survey](https://arxiv.org/abs/2309.00727)<br>[2023-09-06]<br>
@@ -636,6 +638,8 @@
   * [Diffusion Models for Image Restoration and Enhancement -- A Comprehensive Survey](https://arxiv.org/abs/2308.09388)<br>:star:[code](https://github.com/lixinustc/Awesome-diffusion-model-for-image-processing/)<br>[2023-08-21]<br> 
 * 图像增强
   * [Advancements and Trends in Ultra-High-Resolution Image Processing: An Overview](https://arxiv.org/abs/2312.00250)<br>[2023-12-04]<br> 
+* 质量评估
+  * [Blind Image Quality Assessment: A Brief Survey](https://arxiv.org/abs/2312.16551)<br>[2023-12-29]<br> 
 
 <a name="4"/>
 
@@ -735,6 +739,7 @@
   * [Multimodal Sentiment Analysis: A Survey](https://arxiv.org/abs/2305.07611)<br>[2023-05-15]<br>
   * [How to Bridge the Gap between Modalities: A Comprehensive Survey on Multimodal Large Language Model](https://arxiv.org/abs/2311.07594)<br>[2023-11-15]<br>
   * [A Survey of Reasoning with Foundation Models](https://arxiv.org/abs/2312.11562)<br>:star:[code](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)<br>[2023-12-20]<br>
+  * [Visual Instruction Tuning towards General-Purpose Multimodal Model: A Survey](https://arxiv.org/abs/2312.16602)<br>[2023-12-29]<br>
 * 运输物流与仓储
   * [Literature Review: Computer Vision Applications in Transportation Logistics and Warehousing](https://arxiv.org/abs/2304.06009)<br>[2023-04-13]<br>:star:[code](https://a-nau.github.io/cv-in-logistics)  
 * 事实检查
