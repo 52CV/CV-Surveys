@@ -20,7 +20,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月5日已公开 8 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月8日已公开 12 篇。
 
 ## 目录
 
@@ -28,6 +28,9 @@
 |------|------|------|------|
 |[1.Unkown(未分)](#1)|
 
+
+## Biometrics
+* [Reversing the Irreversible: A Survey on Inverse Biometrics](https://arxiv.org/abs/2401.02861)<br>[2024-01-08]
 
 ## Fish-eye Camera(鱼眼相机)
 * [A Comprehensive Overview of Fish-Eye Camera Distortion Correction Methods](https://arxiv.org/abs/2401.00442)<br>[2024-01-02]
@@ -57,10 +60,14 @@
 * ISR
   * [Diffusion Models, Image Super-Resolution And Everything: A Survey](https://arxiv.org/abs/2401.00736)<br>[2024-01-02]
 
+## Image Segmentation
+* [Systematic review of image segmentation using complex networks](https://arxiv.org/abs/2401.02758)<br>[2024-01-08]
+
 <a name="1"/>
 
 ## 1.Unkown(未分)
-
+* [Comprehensive Exploration of Synthetic Data Generation: A Survey](https://arxiv.org/abs/2401.02524)<br>[2024-01-08]
+* [Image-based Deep Learning for Smart Digital Twins: a Review](https://arxiv.org/abs/2401.02523)<br>[2024-01-08]
 
 <a name="0000"/>
 
