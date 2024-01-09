@@ -20,7 +20,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月8日已公开 12 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月9日已公开 14 篇。
 
 ## 目录
 
@@ -60,6 +60,10 @@
 * ISR
   * [Diffusion Models, Image Super-Resolution And Everything: A Survey](https://arxiv.org/abs/2401.00736)<br>[2024-01-02]
 
+## Image and Video Progress
+* 修复
+  * [Deep Learning-based Image and Video Inpainting: A Survey](https://arxiv.org/abs/2401.03395)<br>[2024-01-09]
+
 ## Image Segmentation
 * [Systematic review of image segmentation using complex networks](https://arxiv.org/abs/2401.02758)<br>[2024-01-08]
 
@@ -68,6 +72,7 @@
 ## 1.Unkown(未分)
 * [Comprehensive Exploration of Synthetic Data Generation: A Survey](https://arxiv.org/abs/2401.02524)<br>[2024-01-08]
 * [Image-based Deep Learning for Smart Digital Twins: a Review](https://arxiv.org/abs/2401.02523)<br>[2024-01-08]
+* [A Survey on 3D Gaussian Splatting](https://arxiv.org/abs/2401.03890)<br>[2024-01-09]
 
 <a name="0000"/>
 
