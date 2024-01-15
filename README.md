@@ -20,7 +20,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月12日已公开 17 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月15日已公开 18 篇。
 
 ## 目录
 
@@ -44,6 +44,7 @@
 
 ## Autonomous Driving
 * [A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook](https://arxiv.org/abs/2401.01454)<br>[2024-01-04]
+* [Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook](https://arxiv.org/abs/2401.06542)<br>[2024-01-15]
 
 ## Vision language(视觉语言)
 * 基础模型
