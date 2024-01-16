@@ -11,7 +11,7 @@
 ↘️[CVPR-2023-Papers](https://github.com/52CV/CVPR-2023-Papers)
 ↘️[WACV-2023-Papers](https://github.com/52CV/WACV-2023-Papers)
 ↘️[ICCV-2023-Papers](https://github.com/52CV/ICCV-2023-Papers)
-↘️[2024-CV-Surveys](https://github.com/52CV/CV-Surveys/blob/main/2023-CV-Surveys.md)
+↘️[2023-CV-Surveys](https://github.com/52CV/CV-Surveys/blob/main/2023-CV-Surveys.md)
 
 ## [2022 年论文分类汇总戳这里](#0000)
 ## [2021 年论文分类汇总戳这里](#000)
