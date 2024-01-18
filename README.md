@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月17日已公开 25 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月18日已公开 27 篇。
 
 ## 目录
 
@@ -81,6 +81,8 @@
   * [Foundation Models for Biomedical Image Segmentation: A Survey](https://arxiv.org/abs/2401.07654)<br>[2024-01-17]
 * 微创外科视觉
   * [Multitask Learning in Minimally Invasive Surgical Vision: A Review](https://arxiv.org/abs/2401.08256)<br>[2024-01-17]
+* 牙科 X 射线成像分割
+  * [Exploring the Role of Convolutional Neural Networks (CNN) in Dental Radiography Segmentation: A Comprehensive Systematic Literature Review](https://arxiv.org/abs/2401.09190)<br>[2024-01-18]
 
 ## Super-Resolution(超分辨率)
 * ISR
@@ -97,6 +99,9 @@
 
 ## Face(人脸)
 * [SoK: Facial Deepfake Detectors](https://arxiv.org/abs/2401.04364)<br>[2024-01-10]
+
+## 3D Re
+* [3D Scene Geometry Estimation from 360∘ Imagery: A Survey](https://arxiv.org/abs/2401.09252)<br>[2024-01-18]
 
 <a name="1"/>
 
