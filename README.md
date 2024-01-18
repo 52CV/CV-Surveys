@@ -101,7 +101,7 @@
 ## Face(人脸)
 * [SoK: Facial Deepfake Detectors](https://arxiv.org/abs/2401.04364)<br>[2024-01-10]
 
-## 3D Re
+## 3D Reconstruction
 * [3D Scene Geometry Estimation from 360∘ Imagery: A Survey](https://arxiv.org/abs/2401.09252)<br>[2024-01-18]
 
 <a name="1"/>
