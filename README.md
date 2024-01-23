@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月22日已公开 31 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月23日已公开 35 篇。
 
 ## 目录
 
@@ -60,6 +60,10 @@
 * 基础模型
   * [Few-shot Adaptation of Multi-modal Foundation Models: A Survey](https://arxiv.org/abs/2401.01736)<br>[2024-01-04]
 
+## Generation
+* 文本-图像生成
+  * [Text-to-Image Cross-Modal Generation: A Systematic Review](https://arxiv.org/abs/2401.11631)<br>[2024-01-23]
+
 ## Model Compression
 * [Model Compression Techniques in Biometrics Applications: A Survey](https://arxiv.org/abs/2401.10139)<br>[2024-01-19]
 
@@ -69,6 +73,8 @@
 
 ## Human Action Recognition(人体动作识别)
 * [Body-Area Capacitive or Electric Field Sensing for Human Activity Recognition and Human-Computer Interaction: A Comprehensive Survey](https://arxiv.org/abs/2401.06000)<br>[2024-01-12]
+* 跌倒检测
+  * [Deep Learning for Computer Vision based Activity Recognition and Fall Detection of the Elderly: a Systematic Review](https://arxiv.org/abs/2401.11790)<br>[2024-01-23]
 
 ## Human Pose Estimation
 * [Survey of 3D Human Body Pose and Shape Estimation Methods for Contemporary Dance Applications](https://arxiv.org/abs/2401.02383)<br>[2024-01-05]
@@ -86,6 +92,8 @@
 
 ## Medical Image Progress
 * [Empowering Medical Imaging with Artificial Intelligence: A Review of Machine Learning Approaches for the Detection, and Segmentation of COVID-19 Using Radiographic and Tomographic Images](https://arxiv.org/abs/2401.07020)<br>[2024-01-17]
+* 息肉分割
+  * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
 * 生物医学图像分割
   * [Foundation Models for Biomedical Image Segmentation: A Survey](https://arxiv.org/abs/2401.07654)<br>[2024-01-17]
 * 微创外科视觉
@@ -118,6 +126,7 @@
 * [Comprehensive Exploration of Synthetic Data Generation: A Survey](https://arxiv.org/abs/2401.02524)<br>[2024-01-08]
 * [Image-based Deep Learning for Smart Digital Twins: a Review](https://arxiv.org/abs/2401.02523)<br>[2024-01-08]
 * [A Survey on 3D Gaussian Splatting](https://arxiv.org/abs/2401.03890)<br>[2024-01-09]
+* [A Survey on African Computer Vision Datasets, Topics and Researchers](https://arxiv.org/abs/2401.11617)<br>:star:[code](https://ro-ya-cv4africa.github.io/homepage/)<br>[2024-01-23]
 
 <a name="0000"/>
 
