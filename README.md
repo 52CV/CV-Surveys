@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月24日已公开 36 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月29日已公开 38 篇。
 
 ## 目录
 
@@ -83,6 +83,8 @@
 ## Video
 * 视频理解
   * [Video Understanding with Large Language Models: A Survey](https://arxiv.org/abs/2312.17432)<br>:star:[code](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)<br>[2024-01-01]
+* 视频预测
+  * [A Survey on Video Prediction: From Deterministic to Generative Approaches](https://arxiv.org/abs/2401.14718)<br>[2024-01-29]
 
 ## Object Detection
 * [Agricultural Object Detection with You Look Only Once (YOLO) Algorithm: A Bibliometric and Systematic Literature Review](https://arxiv.org/abs/2401.10379)<br>[2024-01-22]
@@ -101,6 +103,8 @@
   * [Multitask Learning in Minimally Invasive Surgical Vision: A Review](https://arxiv.org/abs/2401.08256)<br>[2024-01-17]
 * 牙科 X 射线成像分割
   * [Exploring the Role of Convolutional Neural Networks (CNN) in Dental Radiography Segmentation: A Comprehensive Systematic Literature Review](https://arxiv.org/abs/2401.09190)<br>[2024-01-18]
+* 胶质瘤组织切片分析
+  * [Machine learning-based analysis of glioma tissue sections: a review](https://arxiv.org/abs/2401.15022)<br>[2024-01-29]
 
 ## Super-Resolution(超分辨率)
 * ISR
