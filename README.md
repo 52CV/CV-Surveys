@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月30日已公开 42 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月31日已公开 44 篇。
 
 ## 目录
 
@@ -43,6 +43,9 @@
 * [A Systematic Review of Available Datasets in Additive Manufacturing](https://arxiv.org/abs/2401.15448)<br>[2024-01-30]
 * VAD
   * [A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect](https://arxiv.org/abs/2401.16402)<br>[2024-01-30]
+
+## Multi-Label Learning(多标签学习)
+* [Deep Learning for Multi-Label Learning: A Comprehensive Survey](https://arxiv.org/abs/2401.16549)<br>[2024-01-31]
 
 ## Machine Learning(机器学习)
 * 持续学习
@@ -69,6 +72,9 @@
 ## Vision language(视觉语言)
 * 基础模型
   * [Few-shot Adaptation of Multi-modal Foundation Models: A Survey](https://arxiv.org/abs/2401.01736)<br>[2024-01-04]
+
+## Style Transfer(风格迁移)
+* [Evaluation in Neural Style Transfer: A Review](https://arxiv.org/abs/2401.17109)<br>[2024-01-31]
 
 ## Generation
 * 文本-图像生成
