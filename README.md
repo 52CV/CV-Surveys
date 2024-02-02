@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月1日已公开 44+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月2日已公开 47+2 篇。
 1月份共计44篇。<br>
 
 ## 目录
@@ -70,7 +70,11 @@
 ## Tamper Detection/image forencis detection(图像篡改检测方向)
 * [Datasets, Clues and State-of-the-Arts for Multimedia Forensics: An Extensive Review](https://arxiv.org/abs/2401.06999)<br>[2024-01-17]
 
+## Neural Rendering(神经渲染)
+* [Neural Rendering and Its Hardware Acceleration: A Review](https://arxiv.org/abs/2402.00028)<br>[2024-02-02]
+
 ## Vision language(视觉语言)
+* [A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2402.00253)<br>[2024-02-02]
 * 基础模型
   * [Few-shot Adaptation of Multi-modal Foundation Models: A Survey](https://arxiv.org/abs/2401.01736)<br>[2024-01-04]
 
