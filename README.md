@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月5日已公开 50+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月5日已公开 52+5 篇。
 1月份共计44篇。<br>
 
 ## 目录
@@ -60,6 +60,10 @@
 * 自监督
   * [Masked Modeling for Self-supervised Representation Learning on Vision and Beyond](https://github.com/Lupin1998/Awesome-MIM)<br>:star:[code](https://github.com/Lupin1998/Awesome-MIM)<br>[2024-01-03]
 
+## Robot
+* VR
+  * [AI-Enhanced Virtual Reality in Medicine: A Comprehensive Survey](https://arxiv.org/abs/2402.03093)<br>[2024-02-06]
+
 ## Autonomous Driving(自动驾驶)
 * [A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook](https://arxiv.org/abs/2401.01454)<br>[2024-01-04]
 * [Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook](https://arxiv.org/abs/2401.06542)<br>[2024-01-15]
@@ -79,17 +83,26 @@
 * 基础模型
   * [Few-shot Adaptation of Multi-modal Foundation Models: A Survey](https://arxiv.org/abs/2401.01736)<br>[2024-01-04]
 
+## Vision Transformer
+* [Exploring the Synergies of Hybrid CNNs and ViTs Architectures for Computer Vision: A survey](https://arxiv.org/abs/2402.02941)<br>[2024-02-06]
+
 ## Style Transfer(风格迁移)
 * [Evaluation in Neural Style Transfer: A Review](https://arxiv.org/abs/2401.17109)<br>[2024-01-31]
 
 ## Image Matching(图像匹配)
 * [Local Feature Matching Using Deep Learning: A Survey](https://arxiv.org/abs/2401.17592)<br>[2024-02-01]
 
+## OCR
+* 文本图像处理
+  * [Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing](https://arxiv.org/abs/2402.03082)<br>:star:[code](https://github.com/shuyansy/Survey-of-Visual-Text-Processing)<br>[2024-02-06]
+
 ## Generation
 * 文本-图像生成
   * [Text-to-Image Cross-Modal Generation: A Systematic Review](https://arxiv.org/abs/2401.11631)<br>[2024-01-23]
 * 3D 内容生成
   * [A Comprehensive Survey on 3D Content Generation](https://arxiv.org/abs/2402.01166)<br>[2024-02-05]
+* AIGC
+  * [Generative Visual Compression: A Review](https://arxiv.org/abs/2402.02140)<br>[2024-02-06]
 
 ## Model Compression
 * [Model Compression Techniques in Biometrics Applications: A Survey](https://arxiv.org/abs/2401.10139)<br>[2024-01-19]
@@ -164,6 +177,7 @@
 * [Image-based Deep Learning for Smart Digital Twins: a Review](https://arxiv.org/abs/2401.02523)<br>[2024-01-08]
 * [A Survey on 3D Gaussian Splatting](https://arxiv.org/abs/2401.03890)<br>[2024-01-09]
 * [A Survey on African Computer Vision Datasets, Topics and Researchers](https://arxiv.org/abs/2401.11617)<br>:star:[code](https://ro-ya-cv4africa.github.io/homepage/)<br>[2024-01-23]
+* [Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey](https://arxiv.org/abs/2402.02242)<br>:star:[code](https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning)<br>[2024-02-06]
 
 <a name="0000"/>
 
