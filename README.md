@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月5日已公开 52+5 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月20日已公开 57+4 篇。
 1月份共计44篇。<br>
 
 ## 目录
@@ -36,6 +36,7 @@
 
 ## Fish-eye Camera(鱼眼相机)
 * [A Comprehensive Overview of Fish-Eye Camera Distortion Correction Methods](https://arxiv.org/abs/2401.00442)<br>[2024-01-02]
+* [Surround-View Fisheye Optics in Computer Vision and Simulation: Survey and Challenge](https://arxiv.org/abs/2402.12041)<br>[2024-02-20]
 
 ## Fake News Detection(虚假新闻检测)
 * [Fact-checking based fake news detection: a review](https://arxiv.org/abs/2401.01717)<br>[2024-01-04]
@@ -77,6 +78,9 @@
 
 ## Neural Rendering(神经渲染)
 * [Neural Rendering and Its Hardware Acceleration: A Review](https://arxiv.org/abs/2402.00028)<br>[2024-02-02]
+
+## Neural Radiance Fields
+* [Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review](https://arxiv.org/abs/2402.11141)<br>[2024-02-20]
 
 ## Vision language(视觉语言)
 * [A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2402.00253)<br>[2024-02-02]
@@ -147,6 +151,8 @@
   * [Exploring the Role of Convolutional Neural Networks (CNN) in Dental Radiography Segmentation: A Comprehensive Systematic Literature Review](https://arxiv.org/abs/2401.09190)<br>[2024-01-18]
 * 胶质瘤组织切片分析
   * [Machine learning-based analysis of glioma tissue sections: a review](https://arxiv.org/abs/2401.15022)<br>[2024-01-29]
+* 手术
+  * [Enhancing Surgical Performance in Cardiothoracic Surgery with Innovations from Computer Vision and Artificial Intelligence: A Narrative Review](https://arxiv.org/abs/2402.11288)<br>[2024-02-20]
 
 ## Super-Resolution(超分辨率)
 * ISR
@@ -164,6 +170,7 @@
 
 ## Face(人脸)
 * [SoK: Facial Deepfake Detectors](https://arxiv.org/abs/2401.04364)<br>[2024-01-10]
+* [Neuromorphic Face Analysis: a Survey](https://arxiv.org/abs/2402.11631)<br>[2024-02-20]
 
 ## 3D Reconstruction
 * [3D Scene Geometry Estimation from 360∘ Imagery: A Survey](https://arxiv.org/abs/2401.09252)<br>[2024-01-18]
