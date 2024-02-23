@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月21日已公开 65+5 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月23日已公开 70+2 篇。
 1月份共计44篇。<br>
 
 ## 目录
@@ -95,7 +95,8 @@
   * [Few-shot Adaptation of Multi-modal Foundation Models: A Survey](https://arxiv.org/abs/2401.01736)<br>[2024-01-04]
 * MLLM
   * [The (R)Evolution of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2402.12451)<br>[2024-02-21]
-
+* VLN
+  * [Vision-Language Navigation with Embodied Intelligence: A Survey](https://arxiv.org/abs/2402.14304)<br>[2024-02-23]
 
 ## Vision Transformer
 * [Exploring the Synergies of Hybrid CNNs and ViTs Architectures for Computer Vision: A survey](https://arxiv.org/abs/2402.02941)<br>[2024-02-06]
@@ -153,6 +154,7 @@
 
 ## Medical Image Progress
 * [Empowering Medical Imaging with Artificial Intelligence: A Review of Machine Learning Approaches for the Detection, and Segmentation of COVID-19 Using Radiographic and Tomographic Images](https://arxiv.org/abs/2401.07020)<br>[2024-01-17]
+* [Advancing Low-Rank and Local Low-Rank Matrix Approximation in Medical Imaging: A Systematic Literature Review and Future Directions](https://arxiv.org/abs/2402.14045)<br>[2024-02-23]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
 * 生物医学图像分割
