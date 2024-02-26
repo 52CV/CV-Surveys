@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月23日已公开 70+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月26日已公开 72+4 篇。
 1月份共计44篇。<br>
 
 ## 目录
@@ -55,6 +55,8 @@
 * [A Comprehensive Review of Machine Learning Advances on Data Change: A Cross-Field Perspective](https://arxiv.org/abs/2402.12627)<br>[2024-02-21]
 * 持续学习
   * [Continual Learning with Pre-Trained Models: A Survey](https://arxiv.org/abs/2401.16386)<br>:star:[code](https://github.com/sun-hailong/LAMDA-PILOT)<br>[2024-01-30]
+* 迁移学习
+  * [Which Model to Transfer? A Survey on Transferability Estimation](https://arxiv.org/abs/2402.15231)<br>:star:[code](https://github.com/YuheD/awesome-model-transferability-estimation)<br>[2024-02-26]
 
 ## Object Re-Id/Pose Estimation
 * 物体重识别
@@ -69,6 +71,8 @@
   * [How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey](https://arxiv.org/abs/2402.13255)<br>[2024-02-21]
 * VR
   * [AI-Enhanced Virtual Reality in Medicine: A Comprehensive Survey](https://arxiv.org/abs/2402.03093)<br>[2024-02-06]
+* 地理定位
+  * [Computer Vision for Multimedia Geolocation in Human Trafficking Investigation: A Systematic Literature Review](https://arxiv.org/abs/2402.15448)<br>[2024-02-26]
 
 ## Autonomous Driving(自动驾驶)
 * [A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook](https://arxiv.org/abs/2401.01454)<br>[2024-01-04]
@@ -97,6 +101,8 @@
   * [The (R)Evolution of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2402.12451)<br>[2024-02-21]
 * VLN
   * [Vision-Language Navigation with Embodied Intelligence: A Survey](https://arxiv.org/abs/2402.14304)<br>[2024-02-23]
+* LLM
+  * [Large Multimodal Agents: A Survey](https://arxiv.org/abs/2402.15116)<br>:star:[code](https://github.com/jun0wanan/awesome-large-multimodal-agents)<br>[2024-02-26]
 
 ## Vision Transformer
 * [Exploring the Synergies of Hybrid CNNs and ViTs Architectures for Computer Vision: A survey](https://arxiv.org/abs/2402.02941)<br>[2024-02-06]
@@ -176,6 +182,8 @@
 * 修复
   * [Deep Learning-based Image and Video Inpainting: A Survey](https://arxiv.org/abs/2401.03395)<br>[2024-01-09]
   * [Reimagining Reality: A Comprehensive Survey of Video Inpainting Techniques](https://arxiv.org/abs/2401.17883)<br>[2024-02-01]
+* 去噪
+  * [On normalization-equivariance properties of supervised and unsupervised denoising methods: a survey](https://arxiv.org/abs/2402.15352)<br>[2024-02-26]
 * 去模糊
   * [Application of Deep Learning in Blind Motion Deblurring: Current Status and Future Prospects](https://arxiv.org/abs/2401.05055)<br>:star:[code](https://github.com/VisionVerse/Blind-Motion-Deblurring-Survey)<br>[2024-01-11]
 
