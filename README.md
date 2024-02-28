@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月27日已公开 76+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月28日已公开 77+3 篇。
 1月份共计44篇。<br>
 
 ## 目录
@@ -125,6 +125,10 @@
 * AIGC
   * [Generative Visual Compression: A Review](https://arxiv.org/abs/2402.02140)<br>[2024-02-06]
   * [Generative AI in Vision: A Survey on Models, Metrics and Applications](https://arxiv.org/abs/2402.16369)<br>[2024-02-27]
+* 图像编辑
+  * [Diffusion Model-Based Image Editing: A Survey](https://arxiv.org/abs/2402.17525)<br>:star:[code](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods)<br>[2024-02-28]
+* 文本-视频
+  * [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/abs/2402.17177)<br>:star:[code](https://github.com/lichao-sun/SoraReview)<br>[2024-02-28]
 
 ## Model Compression
 * [Model Compression Techniques in Biometrics Applications: A Survey](https://arxiv.org/abs/2401.10139)<br>[2024-01-19]
@@ -209,6 +213,7 @@
 * [A Survey on African Computer Vision Datasets, Topics and Researchers](https://arxiv.org/abs/2401.11617)<br>:star:[code](https://ro-ya-cv4africa.github.io/homepage/)<br>[2024-01-23]
 * [Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey](https://arxiv.org/abs/2402.02242)<br>:star:[code](https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning)<br>[2024-02-06]
 * [A Literature Review of Literature Reviews in Pattern Analysis and Machine Intelligence](https://arxiv.org/abs/2402.12928)<br>[2024-02-21]
+* [Asphalt Concrete Characterization Using Digital Image Correlation: A Systematic Review of Best Practices, Applications, and Future Vision](https://arxiv.org/abs/2402.17074)<br>[2024-02-28]
 
 <a name="0000"/>
 
