@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月1日已公开 80+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月6日已公开 82+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 
@@ -54,6 +54,7 @@
 
 ## Machine Learning(机器学习)
 * [A Comprehensive Review of Machine Learning Advances on Data Change: A Cross-Field Perspective](https://arxiv.org/abs/2402.12627)<br>[2024-02-21]
+* [Open-world Machine Learning: A Review and New Outlooks](https://arxiv.org/abs/2403.01759)<br>[2024-03-06]无PDF
 * 持续学习
   * [Continual Learning with Pre-Trained Models: A Survey](https://arxiv.org/abs/2401.16386)<br>:star:[code](https://github.com/sun-hailong/LAMDA-PILOT)<br>[2024-01-30]
 * 迁移学习
@@ -181,6 +182,10 @@
   * [Machine learning-based analysis of glioma tissue sections: a review](https://arxiv.org/abs/2401.15022)<br>[2024-01-29]
 * 手术
   * [Enhancing Surgical Performance in Cardiothoracic Surgery with Innovations from Computer Vision and Artificial Intelligence: A Narrative Review](https://arxiv.org/abs/2402.11288)<br>[2024-02-20]
+
+## Image Segmentation(图像分割)
+* 语义分割
+  * [Semi-Supervised Semantic Segmentation Based on Pseudo-Labels: A Survey](https://arxiv.org/abs/2403.01909)<br>[2024-03-06]无PDF
 
 ## Super-Resolution(超分辨率)
 * ISR
