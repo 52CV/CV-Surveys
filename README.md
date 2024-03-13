@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月11日已公开 86+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月13日已公开 87+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 
@@ -51,6 +51,10 @@
 
 ## Multi-Label Learning(多标签学习)
 * [Deep Learning for Multi-Label Learning: A Comprehensive Survey](https://arxiv.org/abs/2401.16549)<br>[2024-01-31]
+
+## 
+* 零样本
+  * [Improving deep learning with prior knowledge and cognitive models: A survey on enhancing explainability, adversarial robustness and zero-shot learning](https://arxiv.org/abs/2403.07078)<br>[2024-03-13]
 
 ## Machine Learning(机器学习)
 * [A Comprehensive Review of Machine Learning Advances on Data Change: A Cross-Field Perspective](https://arxiv.org/abs/2402.12627)<br>[2024-02-21]
@@ -83,6 +87,7 @@
 * [A Survey for Foundation Models in Autonomous Driving](https://arxiv.org/abs/2402.01105)<br>[2024-02-05]
 * [Review of the Learning-based Camera and Lidar Simulation Methods for Autonomous Driving Systems](https://arxiv.org/abs/2402.10079)<br>[2024-02-16]
 * [Explainable AI for Safe and Trustworthy Autonomous Driving: A Systematic Review](https://arxiv.org/abs/2402.10086)<br>[2024-02-16]
+* [A Survey of Vision Transformers in Autonomous Driving: Current Trends and Future Directions](https://arxiv.org/abs/2403.07542)<br>[2024-03-13]
 * 车辆重识别
   * [A Comprehensive Survey on Deep-Learning-based Vehicle Re-Identification: Models, Data Sets and Challenges](https://arxiv.org/abs/2401.10643)<br>[2024-01-22]
 
@@ -173,6 +178,7 @@
 ## Medical Image Progress
 * [Empowering Medical Imaging with Artificial Intelligence: A Review of Machine Learning Approaches for the Detection, and Segmentation of COVID-19 Using Radiographic and Tomographic Images](https://arxiv.org/abs/2401.07020)<br>[2024-01-17]
 * [Advancing Low-Rank and Local Low-Rank Matrix Approximation in Medical Imaging: A Systematic Literature Review and Future Directions](https://arxiv.org/abs/2402.14045)<br>[2024-02-23]
+* [When Eye-Tracking Meets Machine Learning: A Systematic Review on Applications in Medical Image Analysis](https://arxiv.org/abs/2403.07834)<br>[2024-03-33]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
 * 生物医学图像分割
@@ -214,6 +220,8 @@
 * [3D Scene Geometry Estimation from 360∘ Imagery: A Survey](https://arxiv.org/abs/2401.09252)<br>[2024-01-18]
 * 3D 生成
   * [Advances in 3D Generation: A Survey](https://arxiv.org/abs/2401.17807)<br>[2024-02-01]
+* 3D 密集字幕
+  * [A Comprehensive Survey of 3D Dense Captioning: Localizing and Describing Objects in 3D Scenes](https://arxiv.org/abs/2403.07469)<br>[2024-03-13]
 
 <a name="1"/>
 
