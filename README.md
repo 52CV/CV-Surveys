@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月25日已公开 96+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月25日已公开 96+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 
@@ -228,6 +228,8 @@
 ## 3D Reconstruction
 * [3D Scene Geometry Estimation from 360∘ Imagery: A Survey](https://arxiv.org/abs/2401.09252)<br>[2024-01-18]
 * [Survey on Modeling of Articulated Objects](https://arxiv.org/abs/2403.14937)<br>[2024-03-25]
+* 三维重建
+  * [Recent Trends in 3D Reconstruction of General Non-Rigid Scenes](https://arxiv.org/abs/2403.15064)<br>[2024-03-25]
 * 3D 生成
   * [Advances in 3D Generation: A Survey](https://arxiv.org/abs/2401.17807)<br>[2024-02-01]
 * 3D 密集字幕
