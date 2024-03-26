@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月25日已公开 96+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月26日已公开 98+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 
@@ -149,6 +149,8 @@
 * 文本-视频
   * [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/abs/2402.17177)<br>:star:[code](https://github.com/lichao-sun/SoraReview)<br>[2024-02-28]
   * [Sora as an AGI World Model? A Complete Survey on Text-to-Video Generation](https://arxiv.org/abs/2403.05131)<br>[2024-03-11]
+* 视频生成
+  * [A Survey on Long Video Generation: Challenges, Methods, and Prospects](https://arxiv.org/abs/2403.16407)<br>[2024-03-26]
 
 ## Model Compression
 * [Model Compression Techniques in Biometrics Applications: A Survey](https://arxiv.org/abs/2401.10139)<br>[2024-01-19]
@@ -161,6 +163,7 @@
 
 ## Human Action Recognition(人体动作识别)
 * [Body-Area Capacitive or Electric Field Sensing for Human Activity Recognition and Human-Computer Interaction: A Comprehensive Survey](https://arxiv.org/abs/2401.06000)<br>[2024-01-12]
+* [A Survey of IMU Based Cross-Modal Transfer Learning in Human Activity Recognition](https://arxiv.org/abs/2403.15444)<br>[2024-03-26]
 * 跌倒检测
   * [Deep Learning for Computer Vision based Activity Recognition and Fall Detection of the Elderly: a Systematic Review](https://arxiv.org/abs/2401.11790)<br>[2024-01-23]
 
@@ -200,6 +203,10 @@
   * [Machine learning-based analysis of glioma tissue sections: a review](https://arxiv.org/abs/2401.15022)<br>[2024-01-29]
 * 手术
   * [Enhancing Surgical Performance in Cardiothoracic Surgery with Innovations from Computer Vision and Artificial Intelligence: A Narrative Review](https://arxiv.org/abs/2402.11288)<br>[2024-02-20]
+* 人工耳蜗
+  * [Advanced Artificial Intelligence Algorithms in Cochlear Implants: Review of Healthcare Strategies, Challenges, and Perspectives](https://arxiv.org/abs/2403.15442)<br>[2024-03-26]
+* 医学图像配准
+  * [Medical Image Registration and Its Application in Retinal Images: A Review](https://arxiv.org/abs/2403.16502)<br>[2024-03-26]
 
 ## Image Segmentation(图像分割)
 * 语义分割
