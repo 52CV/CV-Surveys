@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月26日已公开 98+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月28日已公开 102+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 
@@ -44,6 +44,9 @@
 
 ## Fake News Detection(虚假新闻检测)
 * [Fact-checking based fake news detection: a review](https://arxiv.org/abs/2401.01717)<br>[2024-01-04]
+
+## Deepfake
+* [Deepfake Generation and Detection: A Benchmark and Survey](https://arxiv.org/abs/2403.17881)<br>[2024-03-27]<br>:star:[code](https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection)
 
 ## Industrial Anomaly Detection(工业缺陷检测)
 * [A Systematic Review of Available Datasets in Additive Manufacturing](https://arxiv.org/abs/2401.15448)<br>[2024-01-30]
@@ -171,6 +174,7 @@
 * [In-Bed Pose Estimation: A Review](https://arxiv.org/abs/2402.00700)<br>[2024-02-02]
 * [Survey of 3D Human Body Pose and Shape Estimation Methods for Contemporary Dance Applications](https://arxiv.org/abs/2401.02383)<br>[2024-01-05]
 * [Deep Learning for 3D Human Pose Estimation and Mesh Recovery: A Survey](https://arxiv.org/abs/2402.18844)<br>:star:[code](https://github.com/liuyangme/SOTA-3DHPE-HMR)<br>[2024-03-01]
+* [A Survey on 3D Egocentric Human Pose Estimation](https://arxiv.org/abs/2403.17893)<br>[2024-03-27]
 
 ## Video
 * 视频理解
@@ -178,8 +182,10 @@
 * 视频预测
   * [A Survey on Video Prediction: From Deterministic to Generative Approaches](https://arxiv.org/abs/2401.14718)<br>[2024-01-29]
 
-## Object Detection
+## Object Detection(目标检测)
 * [Agricultural Object Detection with You Look Only Once (YOLO) Algorithm: A Bibliometric and Systematic Literature Review](https://arxiv.org/abs/2401.10379)<br>[2024-01-22]
+* 海洋垃圾检测
+  * [State of the art applications of deep learning within tracking and detecting marine debris: A survey](https://arxiv.org/abs/2403.18067)<br>[2024-03-28]
 
 ## UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
 * [Image Fusion in Remote Sensing: An Overview and Meta Analysis](https://arxiv.org/abs/2401.08837)<br>[2024-01-18]
@@ -207,6 +213,10 @@
   * [Advanced Artificial Intelligence Algorithms in Cochlear Implants: Review of Healthcare Strategies, Challenges, and Perspectives](https://arxiv.org/abs/2403.15442)<br>[2024-03-26]
 * 医学图像配准
   * [Medical Image Registration and Its Application in Retinal Images: A Review](https://arxiv.org/abs/2403.16502)<br>[2024-03-26]
+* stroke segmentation
+  * [Transformers-based architectures for stroke segmentation: A review](https://arxiv.org/abs/2403.18637)<br>[2024-03-28]
+* CT
+  * [Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review](https://arxiv.org/abs/2403.18565)<br>[2024-03-28]
 
 ## Image Segmentation(图像分割)
 * 语义分割
