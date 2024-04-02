@@ -82,7 +82,7 @@
 ## Neural Radiance Fields (NeRF)
 * [Neural Radiance Field-based Visual Rendering: A Comprehensive Review](https://arxiv.org/abs/2404.00714)<br>[2024-04-02]
 
-## Human-Robot Interaction(人机交互)
+## Human Object Interaction(人机交互)
 * [How Can Large Language Models Enable Better Socially Assistive Human-Robot Interaction: A Brief Survey](https://arxiv.org/abs/2404.00938)<br>[2024-04-02]
 
 ## Robot/SLAM
