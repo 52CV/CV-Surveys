@@ -21,9 +21,10 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月28日已公开 102+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月2日已公开 105+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
+3月份共计25篇。<br>
 
 ## 目录
 
@@ -77,6 +78,12 @@
 ## Self-supervised Learning
 * 自监督
   * [Masked Modeling for Self-supervised Representation Learning on Vision and Beyond](https://github.com/Lupin1998/Awesome-MIM)<br>:star:[code](https://github.com/Lupin1998/Awesome-MIM)<br>[2024-01-03]
+
+## Neural Radiance Fields (NeRF)
+* [Neural Radiance Field-based Visual Rendering: A Comprehensive Review](https://arxiv.org/abs/2404.00714)<br>[2024-04-02]
+
+## Human-Robot Interaction(人机交互)
+* [How Can Large Language Models Enable Better Socially Assistive Human-Robot Interaction: A Brief Survey](https://arxiv.org/abs/2404.00938)<br>[2024-04-02]
 
 ## Robot/SLAM
 * SLAM
@@ -141,6 +148,7 @@
   * [Text-to-Image Cross-Modal Generation: A Systematic Review](https://arxiv.org/abs/2401.11631)<br>[2024-01-23]
   * [Controllable Generation with Text-to-Image Diffusion Models: A Survey](https://arxiv.org/abs/2403.04279)<br>:star:[code](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models)<br>[2024-03-08]
   * [Evaluating Text to Image Synthesis: Survey and Taxonomy of Image Quality Metrics](https://arxiv.org/abs/2403.11821)<br>[2024-03-19]
+  * [Survey of Bias In Text-to-Image Generation: Definition, Evaluation, and Mitigation](https://arxiv.org/abs/2404.01030)<br>[2024-04-02]
 * 3D 内容生成
   * [A Comprehensive Survey on 3D Content Generation](https://arxiv.org/abs/2402.01166)<br>[2024-02-05]
 * AIGC
@@ -157,6 +165,8 @@
 
 ## Model Compression
 * [Model Compression Techniques in Biometrics Applications: A Survey](https://arxiv.org/abs/2401.10139)<br>[2024-01-19]
+* KD
+  * [A Comprehensive Review of Knowledge Distillation in Computer Vision](https://arxiv.org/abs/2404.00936)<br>[2024-04-02]
 
 ## Reid/Pedestrian Detection(行人/重识别检测)
 * Reid
