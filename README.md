@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月2日已公开 105+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月8日已公开 109+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -132,6 +132,7 @@
 
 ## Image Classification
 * [High-energy physics image classification: A Survey of Jet Applications](https://arxiv.org/abs/2403.11934)<br>[2024-03-19]
+* [Noisy Label Processing for Classification: A Survey](https://arxiv.org/abs/2404.04159)<br>[2024-04-08]
 
 ## Image Matching(图像匹配)
 * [Local Feature Matching Using Deep Learning: A Survey](https://arxiv.org/abs/2401.17592)<br>[2024-02-01]
@@ -202,6 +203,7 @@
 * [UAV-borne Mapping Algorithms for Canopy-Level and High-Speed Drone Applications](https://arxiv.org/abs/2401.06407)<br>[2024-01-15]
 * [Solid Waste Detection in Remote Sensing Images: A Survey](https://arxiv.org/abs/2402.09066)<br>[2024-02-15]
 * [A Comprehensive Review on Computer Vision Analysis of Aerial Data](https://arxiv.org/abs/2402.09781)<br>[2024-02-16]
+* [Deep Learning for Satellite Image Time Series Analysis: A Review](https://arxiv.org/abs/2404.03936)<br>[2024-04-08]
 
 ## Medical Image Progress
 * [Empowering Medical Imaging with Artificial Intelligence: A Review of Machine Learning Approaches for the Detection, and Segmentation of COVID-19 Using Radiographic and Tomographic Images](https://arxiv.org/abs/2401.07020)<br>[2024-01-17]
