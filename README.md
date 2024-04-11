@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月9日已公开 111+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月11日已公开 112+1 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -101,6 +101,7 @@
 * [Review of the Learning-based Camera and Lidar Simulation Methods for Autonomous Driving Systems](https://arxiv.org/abs/2402.10079)<br>[2024-02-16]
 * [Explainable AI for Safe and Trustworthy Autonomous Driving: A Systematic Review](https://arxiv.org/abs/2402.10086)<br>[2024-02-16]
 * [A Survey of Vision Transformers in Autonomous Driving: Current Trends and Future Directions](https://arxiv.org/abs/2403.07542)<br>[2024-03-13]
+* [Monocular 3D lane detection for Autonomous Driving: Recent Achievements, Challenges, and Outlooks](https://arxiv.org/abs/2404.06860)<br>[2024-04-11]
 * 车辆重识别
   * [A Comprehensive Survey on Deep-Learning-based Vehicle Re-Identification: Models, Data Sets and Challenges](https://arxiv.org/abs/2401.10643)<br>[2024-01-22]
 
