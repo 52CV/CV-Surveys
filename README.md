@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月11日已公开 112+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月12日已公开 113+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -116,6 +116,7 @@
 
 ## Vision language(视觉语言)
 * [A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2402.00253)<br>[2024-02-02]
+* [Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions](https://arxiv.org/abs/2404.07214)<br>[2024-04-12]
 * 基础模型
   * [Few-shot Adaptation of Multi-modal Foundation Models: A Survey](https://arxiv.org/abs/2401.01736)<br>[2024-01-04]
 * MLLM
@@ -278,6 +279,7 @@
 * [Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey](https://arxiv.org/abs/2402.02242)<br>:star:[code](https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning)<br>[2024-02-06]
 * [A Literature Review of Literature Reviews in Pattern Analysis and Machine Intelligence](https://arxiv.org/abs/2402.12928)<br>[2024-02-21]
 * [Asphalt Concrete Characterization Using Digital Image Correlation: A Systematic Review of Best Practices, Applications, and Future Vision](https://arxiv.org/abs/2402.17074)<br>[2024-02-28]
+* [Lightweight Deep Learning for Resource-Constrained Environments: A Survey](https://arxiv.org/abs/2404.07236)<br>[2024-04-12]
 
 <a name="0000"/>
 
