@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月12日已公开 113+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月15日已公开 115+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -146,6 +146,8 @@
   * [Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing](https://arxiv.org/abs/2402.03082)<br>:star:[code](https://github.com/shuyansy/Survey-of-Visual-Text-Processing)<br>[2024-02-06]
 * 图表理解
   * [From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models](https://arxiv.org/abs/2403.12027)<br>[2024-03-19]
+* 手写识别
+  * [An inclusive review on deep learning techniques and their scope in handwriting recognition](https://arxiv.org/abs/2404.08011)<br>[2024-04-15]
 
 ## Generation
 * 文本-图像生成
@@ -280,6 +282,7 @@
 * [A Literature Review of Literature Reviews in Pattern Analysis and Machine Intelligence](https://arxiv.org/abs/2402.12928)<br>[2024-02-21]
 * [Asphalt Concrete Characterization Using Digital Image Correlation: A Systematic Review of Best Practices, Applications, and Future Vision](https://arxiv.org/abs/2402.17074)<br>[2024-02-28]
 * [Lightweight Deep Learning for Resource-Constrained Environments: A Survey](https://arxiv.org/abs/2404.07236)<br>[2024-04-12]
+* [A Survey of Neural Network Robustness Assessment in Image Recognition](https://arxiv.org/abs/2404.08285)<br>[2024-04-15]
 
 <a name="0000"/>
 
