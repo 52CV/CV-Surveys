@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月16日已公开 117+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月16日已公开 117+5 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -159,6 +159,7 @@
   * [Evaluating Text to Image Synthesis: Survey and Taxonomy of Image Quality Metrics](https://arxiv.org/abs/2403.11821)<br>[2024-03-19]
   * [Survey of Bias In Text-to-Image Generation: Definition, Evaluation, and Mitigation](https://arxiv.org/abs/2404.01030)<br>[2024-04-02]
   * [Theoretical research on generative diffusion models: an overview](https://arxiv.org/abs/2404.09016)<br>[2024-04-16]
+  * [Exploring Feedback Generation in Automated Skeletal Movement Assessment: A Comprehensive Overview](https://arxiv.org/abs/2404.09359)<br>[2024-04-16]
 * 3D 内容生成
   * [A Comprehensive Survey on 3D Content Generation](https://arxiv.org/abs/2402.01166)<br>[2024-02-05]
 * AIGC
