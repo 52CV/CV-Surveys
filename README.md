@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月15日已公开 115+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月16日已公开 117+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -45,6 +45,9 @@
 
 ## Fake News Detection(虚假新闻检测)
 * [Fact-checking based fake news detection: a review](https://arxiv.org/abs/2401.01717)<br>[2024-01-04]
+
+## Scene Graph Generation
+* [A Review and Efficient Implementation of Scene Graph Generation Metrics](https://arxiv.org/abs/2404.09616)<br>:star:[code](https://lorjul.github.io/sgbench/)<br>[2024-04-16]
 
 ## Deepfake
 * [Deepfake Generation and Detection: A Benchmark and Survey](https://arxiv.org/abs/2403.17881)<br>[2024-03-27]<br>:star:[code](https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection)
@@ -209,6 +212,7 @@
 * [Solid Waste Detection in Remote Sensing Images: A Survey](https://arxiv.org/abs/2402.09066)<br>[2024-02-15]
 * [A Comprehensive Review on Computer Vision Analysis of Aerial Data](https://arxiv.org/abs/2402.09781)<br>[2024-02-16]
 * [Deep Learning for Satellite Image Time Series Analysis: A Review](https://arxiv.org/abs/2404.03936)<br>[2024-04-08]
+* [A Review on Machine Learning Algorithms for Dust Aerosol Detection using Satellite Data](https://arxiv.org/abs/2404.09415)<br>[2024-04-16]
 
 ## Medical Image Progress
 * [Empowering Medical Imaging with Artificial Intelligence: A Review of Machine Learning Approaches for the Detection, and Segmentation of COVID-19 Using Radiographic and Tomographic Images](https://arxiv.org/abs/2401.07020)<br>[2024-01-17]
@@ -283,6 +287,7 @@
 * [Asphalt Concrete Characterization Using Digital Image Correlation: A Systematic Review of Best Practices, Applications, and Future Vision](https://arxiv.org/abs/2402.17074)<br>[2024-02-28]
 * [Lightweight Deep Learning for Resource-Constrained Environments: A Survey](https://arxiv.org/abs/2404.07236)<br>[2024-04-12]
 * [A Survey of Neural Network Robustness Assessment in Image Recognition](https://arxiv.org/abs/2404.08285)<br>[2024-04-15]
+* [State Space Model for New-Generation Network Alternative to Transformers: A Survey](https://arxiv.org/abs/2404.09516)<br>:star:[code](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)<br>[2024-04-16]
 
 <a name="0000"/>
 
