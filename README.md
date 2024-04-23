@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月16日已公开 117+5 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月23日已公开 122+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -105,6 +105,8 @@
 * [Explainable AI for Safe and Trustworthy Autonomous Driving: A Systematic Review](https://arxiv.org/abs/2402.10086)<br>[2024-02-16]
 * [A Survey of Vision Transformers in Autonomous Driving: Current Trends and Future Directions](https://arxiv.org/abs/2403.07542)<br>[2024-03-13]
 * [Monocular 3D lane detection for Autonomous Driving: Recent Achievements, Challenges, and Outlooks](https://arxiv.org/abs/2404.06860)<br>[2024-04-11]
+* [Neural Radiance Field in Autonomous Driving: A Survey](https://export.arxiv.org/abs/2404.13816)<br>[2024-04-23]
+* [Collaborative Perception Datasets in Autonomous Driving: A Survey](https://export.arxiv.org/abs/2404.14022)<br>[2024-04-23]
 * 车辆重识别
   * [A Comprehensive Survey on Deep-Learning-based Vehicle Re-Identification: Models, Data Sets and Challenges](https://arxiv.org/abs/2401.10643)<br>[2024-01-22]
 
@@ -142,6 +144,9 @@
 
 ## Image Matching(图像匹配)
 * [Local Feature Matching Using Deep Learning: A Survey](https://arxiv.org/abs/2401.17592)<br>[2024-02-01]
+
+## Point Cloud(点云)
+* [A Comprehensive Survey and Taxonomy on Point Cloud Registration Based on Deep Learning](https://export.arxiv.org/abs/2404.13830)<br>:star:[code](https://github.com/yxzhang15/PCR.)<br>[2024-04-23]
 
 ## OCR
 * [Transformers and Language Models in Form Understanding: A Comprehensive Review of Scanned Document Analysis](https://arxiv.org/abs/2403.04080)<br>[2024-03-08]
