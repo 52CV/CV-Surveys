@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月23日已公开 122+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月24日已公开 125+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -212,6 +212,8 @@
 * [Agricultural Object Detection with You Look Only Once (YOLO) Algorithm: A Bibliometric and Systematic Literature Review](https://arxiv.org/abs/2401.10379)<br>[2024-01-22]
 * 海洋垃圾检测
   * [State of the art applications of deep learning within tracking and detecting marine debris: A survey](https://arxiv.org/abs/2403.18067)<br>[2024-03-28]
+* 3D目标识别
+  * [Deep Models for Multi-View 3D Object Recognition: A Review](https://export.arxiv.org/abs/2404.15224)<br>[2024-04-24]无PDF
 
 ## UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
 * [Image Fusion in Remote Sensing: An Overview and Meta Analysis](https://arxiv.org/abs/2401.08837)<br>[2024-01-18]
@@ -245,6 +247,12 @@
   * [Transformers-based architectures for stroke segmentation: A review](https://arxiv.org/abs/2403.18637)<br>[2024-03-28]
 * CT
   * [Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review](https://arxiv.org/abs/2403.18565)<br>[2024-03-28]
+* 医学图像分类
+  * [A review of deep learning-based information fusion techniques for multimodal medical image classification](https://export.arxiv.org/abs/2404.15022)<br>[2024-04-24]
+
+
+## Image Classification(图像分类)
+* [Traditional to Transformers: A Survey on Current Trends and Future Prospects for Hyperspectral Image Classification](https://export.arxiv.org/abs/2404.14955)<br>:star:[code](https://github.com/mahmad00/Conventional-to-Transformer-for-Hyperspectral-Image-Classification-Survey-2024.)<br>[2024-04-24]
 
 ## Image Segmentation(图像分割)
 * 语义分割
