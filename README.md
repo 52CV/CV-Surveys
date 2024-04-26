@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月25日已公开 128+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月26日已公开 129+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -107,6 +107,7 @@
 * [Monocular 3D lane detection for Autonomous Driving: Recent Achievements, Challenges, and Outlooks](https://arxiv.org/abs/2404.06860)<br>[2024-04-11]
 * [Neural Radiance Field in Autonomous Driving: A Survey](https://export.arxiv.org/abs/2404.13816)<br>[2024-04-23]
 * [Collaborative Perception Datasets in Autonomous Driving: A Survey](https://export.arxiv.org/abs/2404.14022)<br>[2024-04-23]
+* [A Survey on Intermediate Fusion Methods for Collaborative Perception Categorized by Real World Challenges](https://export.arxiv.org/abs/2404.16139)<br>[2024-04-26]
 * 车辆重识别
   * [A Comprehensive Survey on Deep-Learning-based Vehicle Re-Identification: Models, Data Sets and Challenges](https://arxiv.org/abs/2401.10643)<br>[2024-01-22]
 
@@ -135,6 +136,7 @@
 
 ## Vision Transformer
 * [Exploring the Synergies of Hybrid CNNs and ViTs Architectures for Computer Vision: A survey](https://arxiv.org/abs/2402.02941)<br>[2024-02-06]
+* [Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges](https://export.arxiv.org/abs/2404.16112)<br>:star:[code](https://github.com/badripatro/mamba360)<br>[2024-04-26]
 
 ## Style Transfer(风格迁移)
 * [Evaluation in Neural Style Transfer: A Review](https://arxiv.org/abs/2401.17109)<br>[2024-01-31]
@@ -206,6 +208,7 @@
 ## Video
 * 视频理解
   * [Video Understanding with Large Language Models: A Survey](https://arxiv.org/abs/2312.17432)<br>:star:[code](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)<br>[2024-01-01]
+  * [A Survey on Generative AI and LLM for Video Generation, Understanding, and Streaming](https://export.arxiv.org/abs/2404.16038)<br>[2024-04-26]
 * 视频预测
   * [A Survey on Video Prediction: From Deterministic to Generative Approaches](https://arxiv.org/abs/2401.14718)<br>[2024-01-29]
 
