@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月26日已公开 129+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月29日已公开 132+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -181,6 +181,8 @@
   * [Sora as an AGI World Model? A Complete Survey on Text-to-Video Generation](https://arxiv.org/abs/2403.05131)<br>[2024-03-11]
 * 视频生成
   * [A Survey on Long Video Generation: Challenges, Methods, and Prospects](https://arxiv.org/abs/2403.16407)<br>[2024-03-26]
+* GAN
+  * [Synthesizing Iris Images using Generative Adversarial Networks: Survey and Comparative Analysis](https://export.arxiv.org/abs/2404.17105)<br>[2024-04-29]合成虹膜图像
 
 ## Model Compression
 * [Model Compression Techniques in Biometrics Applications: A Survey](https://arxiv.org/abs/2401.10139)<br>[2024-01-19]
@@ -226,6 +228,7 @@
 * [A Comprehensive Review on Computer Vision Analysis of Aerial Data](https://arxiv.org/abs/2402.09781)<br>[2024-02-16]
 * [Deep Learning for Satellite Image Time Series Analysis: A Review](https://arxiv.org/abs/2404.03936)<br>[2024-04-08]
 * [A Review on Machine Learning Algorithms for Dust Aerosol Detection using Satellite Data](https://arxiv.org/abs/2404.09415)<br>[2024-04-16]
+* [Sugarcane Health Monitoring With Satellite Spectroscopy and Machine Learning: A Review](https://arxiv.org/abs/2404.16844)<br>[2024-04-29]利用卫星光谱和机器学习监测甘蔗健康
 
 ## Medical Image Progress
 * [Empowering Medical Imaging with Artificial Intelligence: A Review of Machine Learning Approaches for the Detection, and Segmentation of COVID-19 Using Radiographic and Tomographic Images](https://arxiv.org/abs/2401.07020)<br>[2024-01-17]
