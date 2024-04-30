@@ -95,6 +95,8 @@
   * [AI-Enhanced Virtual Reality in Medicine: A Comprehensive Survey](https://arxiv.org/abs/2402.03093)<br>[2024-02-06]
 * 地理定位
   * [Computer Vision for Multimedia Geolocation in Human Trafficking Investigation: A Systematic Literature Review](https://arxiv.org/abs/2402.15448)<br>[2024-02-26]
+* 机器人
+  * [Survey on Datasets for Perception in Unstructured Outdoor Environments](https://arxiv.org/abs/2404.18750)<br>[2024-04-30]
 
 ## Autonomous Driving(自动驾驶)
 * [A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook](https://arxiv.org/abs/2401.01454)<br>[2024-01-04]
@@ -313,7 +315,7 @@
 * [A Survey of Neural Network Robustness Assessment in Image Recognition](https://arxiv.org/abs/2404.08285)<br>[2024-04-15]
 * [State Space Model for New-Generation Network Alternative to Transformers: A Survey](https://arxiv.org/abs/2404.09516)<br>:star:[code](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)<br>[2024-04-16]
 * [A Survey on Vision Mamba: Models, Applications and Challenges](https://arxiv.org/abs/2404.18861)<br>:star:[code](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)<br>[2024-04-30]
-* [Survey on Datasets for Perception in Unstructured Outdoor Environments](https://arxiv.org/abs/2404.18750)<br>[2024-04-30]
+
 
 <a name="0000"/>
 
