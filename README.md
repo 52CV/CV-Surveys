@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月29日已公开 132+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月30日已公开 134+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -133,6 +133,7 @@
 * LLM
   * [Large Multimodal Agents: A Survey](https://arxiv.org/abs/2402.15116)<br>:star:[code](https://github.com/jun0wanan/awesome-large-multimodal-agents)<br>[2024-02-26]
   * [Unbridled Icarus: A Survey of the Potential Perils of Image Inputs in Multimodal Large Language Model Security](https://arxiv.org/abs/2404.05264)<br>[2024-04-09]
+  * [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2404.18930)<br>:star:[code](https://github.com/showlab/Awesome-MLLM-Hallucination)<br>[2024-04-30]
 
 ## Vision Transformer
 * [Exploring the Synergies of Hybrid CNNs and ViTs Architectures for Computer Vision: A survey](https://arxiv.org/abs/2402.02941)<br>[2024-02-06]
@@ -234,6 +235,7 @@
 * [Empowering Medical Imaging with Artificial Intelligence: A Review of Machine Learning Approaches for the Detection, and Segmentation of COVID-19 Using Radiographic and Tomographic Images](https://arxiv.org/abs/2401.07020)<br>[2024-01-17]
 * [Advancing Low-Rank and Local Low-Rank Matrix Approximation in Medical Imaging: A Systematic Literature Review and Future Directions](https://arxiv.org/abs/2402.14045)<br>[2024-02-23]
 * [When Eye-Tracking Meets Machine Learning: A Systematic Review on Applications in Medical Image Analysis](https://arxiv.org/abs/2403.07834)<br>[2024-03-33]
+* [Out-of-distribution Detection in Medical Image Analysis: A survey](https://arxiv.org/abs/2404.18279)<br>[2024-04-30]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
 * 生物医学图像分割
@@ -310,6 +312,8 @@
 * [Lightweight Deep Learning for Resource-Constrained Environments: A Survey](https://arxiv.org/abs/2404.07236)<br>[2024-04-12]
 * [A Survey of Neural Network Robustness Assessment in Image Recognition](https://arxiv.org/abs/2404.08285)<br>[2024-04-15]
 * [State Space Model for New-Generation Network Alternative to Transformers: A Survey](https://arxiv.org/abs/2404.09516)<br>:star:[code](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)<br>[2024-04-16]
+* [A Survey on Vision Mamba: Models, Applications and Challenges](https://arxiv.org/abs/2404.18861)<br>:star:[code](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)<br>[2024-04-30]
+* [Survey on Datasets for Perception in Unstructured Outdoor Environments](https://arxiv.org/abs/2404.18750)<br>[2024-04-30]
 
 <a name="0000"/>
 
