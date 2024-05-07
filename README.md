@@ -21,10 +21,11 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月30日已公开 134+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月7日已公开 141+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
+4月份共计25篇。<br>
 
 ## 目录
 
@@ -110,6 +111,7 @@
 * [Neural Radiance Field in Autonomous Driving: A Survey](https://export.arxiv.org/abs/2404.13816)<br>[2024-04-23]
 * [Collaborative Perception Datasets in Autonomous Driving: A Survey](https://export.arxiv.org/abs/2404.14022)<br>[2024-04-23]
 * [A Survey on Intermediate Fusion Methods for Collaborative Perception Categorized by Real World Challenges](https://export.arxiv.org/abs/2404.16139)<br>[2024-04-26]
+* [Vision-based 3D occupancy prediction in autonomous driving: a review and outlook](https://arxiv.org/abs/2405.02595)<br>:star:[code](https://github.com/zya3d/Awesome-3D-Occupancy-Prediction)<br>[2024-05-07]
 * 车辆重识别
   * [A Comprehensive Survey on Deep-Learning-based Vehicle Re-Identification: Models, Data Sets and Challenges](https://arxiv.org/abs/2401.10643)<br>[2024-01-22]
 
@@ -164,6 +166,8 @@
   * [An inclusive review on deep learning techniques and their scope in handwriting recognition](https://arxiv.org/abs/2404.08011)<br>[2024-04-15]
 
 ## Generation
+* [Video Diffusion Models: A Survey](https://arxiv.org/abs/2405.03150)<br>:star:[code](https://github.com/ndrwmlnk/Awesome-Video-Diffusion-Models)<br>[2024-05-07]
+* [Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond](https://arxiv.org/abs/2405.03520)<br>:star:[code](https://github.com/GigaAI-research/General-World-Models-Survey)<br>[2024-05-07]
 * 文本-图像生成
   * [Text-to-Image Cross-Modal Generation: A Systematic Review](https://arxiv.org/abs/2401.11631)<br>[2024-01-23]
   * [Controllable Generation with Text-to-Image Diffusion Models: A Survey](https://arxiv.org/abs/2403.04279)<br>:star:[code](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models)<br>[2024-03-08]
@@ -232,12 +236,14 @@
 * [Deep Learning for Satellite Image Time Series Analysis: A Review](https://arxiv.org/abs/2404.03936)<br>[2024-04-08]
 * [A Review on Machine Learning Algorithms for Dust Aerosol Detection using Satellite Data](https://arxiv.org/abs/2404.09415)<br>[2024-04-16]
 * [Sugarcane Health Monitoring With Satellite Spectroscopy and Machine Learning: A Review](https://arxiv.org/abs/2404.16844)<br>[2024-04-29]利用卫星光谱和机器学习监测甘蔗健康
+* [Wildfire Risk Prediction: A Review](https://arxiv.org/abs/2405.01607)<br>[2024-05-06]
 
 ## Medical Image Progress
 * [Empowering Medical Imaging with Artificial Intelligence: A Review of Machine Learning Approaches for the Detection, and Segmentation of COVID-19 Using Radiographic and Tomographic Images](https://arxiv.org/abs/2401.07020)<br>[2024-01-17]
 * [Advancing Low-Rank and Local Low-Rank Matrix Approximation in Medical Imaging: A Systematic Literature Review and Future Directions](https://arxiv.org/abs/2402.14045)<br>[2024-02-23]
 * [When Eye-Tracking Meets Machine Learning: A Systematic Review on Applications in Medical Image Analysis](https://arxiv.org/abs/2403.07834)<br>[2024-03-33]
 * [Out-of-distribution Detection in Medical Image Analysis: A survey](https://arxiv.org/abs/2404.18279)<br>[2024-04-30]
+* [Development of Skip Connection in Deep Neural Networks for Computer Vision and Medical Image Analysis: A Survey](https://arxiv.org/abs/2405.01725)<br>:star:[code](https://github.com/apple1986/Residual_Learning_For_Images)<br>[2024-05-06]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
 * 生物医学图像分割
@@ -260,6 +266,8 @@
   * [Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review](https://arxiv.org/abs/2403.18565)<br>[2024-03-28]
 * 医学图像分类
   * [A review of deep learning-based information fusion techniques for multimodal medical image classification](https://export.arxiv.org/abs/2404.15022)<br>[2024-04-24]
+* 医学图像分割
+  * [Explainable AI (XAI) in Image Segmentation in Medicine, Industry, and Beyond: A Survey](https://arxiv.org/abs/2405.01636)<br>[2024-05-06]
 
 
 ## Image Classification(图像分类)
@@ -294,6 +302,7 @@
 * [Survey on Modeling of Articulated Objects](https://arxiv.org/abs/2403.14937)<br>[2024-03-25]
 * 三维重建
   * [Recent Trends in 3D Reconstruction of General Non-Rigid Scenes](https://arxiv.org/abs/2403.15064)<br>[2024-03-25]
+  * [Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review](https://arxiv.org/abs/2405.03417)<br>[2024-05-07]
 * 3D 生成
   * [Advances in 3D Generation: A Survey](https://arxiv.org/abs/2401.17807)<br>[2024-02-01]
 * 3D 密集字幕
