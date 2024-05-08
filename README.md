@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月7日已公开 141+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月8日已公开 145+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -112,6 +112,7 @@
 * [Collaborative Perception Datasets in Autonomous Driving: A Survey](https://export.arxiv.org/abs/2404.14022)<br>[2024-04-23]
 * [A Survey on Intermediate Fusion Methods for Collaborative Perception Categorized by Real World Challenges](https://export.arxiv.org/abs/2404.16139)<br>[2024-04-26]
 * [Vision-based 3D occupancy prediction in autonomous driving: a review and outlook](https://arxiv.org/abs/2405.02595)<br>:star:[code](https://github.com/zya3d/Awesome-3D-Occupancy-Prediction)<br>[2024-05-07]
+* [Deep Event-based Object Detection in Autonomous Driving: A Survey](https://arxiv.org/abs/2405.03995)<br>[2024-05-08]
 * 车辆重识别
   * [A Comprehensive Survey on Deep-Learning-based Vehicle Re-Identification: Models, Data Sets and Challenges](https://arxiv.org/abs/2401.10643)<br>[2024-01-22]
 
@@ -128,6 +129,7 @@
 * [A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2402.00253)<br>[2024-02-02]
 * [Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions](https://arxiv.org/abs/2404.07214)<br>[2024-04-12]
 * [A Survey on Visual Mamba](https://export.arxiv.org/abs/2404.15956)<br>[2024-04-25]
+* [Vision Mamba: A Comprehensive Survey and Taxonomy](https://arxiv.org/abs/2405.04404)<br>:star:[code](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)<br>[2024-05-08]
 * 基础模型
   * [Few-shot Adaptation of Multi-modal Foundation Models: A Survey](https://arxiv.org/abs/2401.01736)<br>[2024-01-04]
 * MLLM
@@ -218,6 +220,7 @@
 * 视频理解
   * [Video Understanding with Large Language Models: A Survey](https://arxiv.org/abs/2312.17432)<br>:star:[code](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)<br>[2024-01-01]
   * [A Survey on Generative AI and LLM for Video Generation, Understanding, and Streaming](https://export.arxiv.org/abs/2404.16038)<br>[2024-04-26]
+  * [Foundation Models for Video Understanding: A Survey](https://arxiv.org/abs/2405.03770)<br>:star:[code](https://github.com/NeeluMadan/ViFM_Survey.git)<br>[2024-05-08]
 * 视频预测
   * [A Survey on Video Prediction: From Deterministic to Generative Approaches](https://arxiv.org/abs/2401.14718)<br>[2024-01-29]
 
