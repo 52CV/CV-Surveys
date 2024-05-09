@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月8日已公开 145+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月9日已公开 148+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -82,6 +82,7 @@
 ## Self-supervised Learning
 * 自监督
   * [Masked Modeling for Self-supervised Representation Learning on Vision and Beyond](https://github.com/Lupin1998/Awesome-MIM)<br>:star:[code](https://github.com/Lupin1998/Awesome-MIM)<br>[2024-01-03]
+  * [A review on discriminative self-supervised learning methods](https://arxiv.org/abs/2405.04969)<br>[2024-05-09]
 
 ## Neural Radiance Fields (NeRF)
 * [Neural Radiance Field-based Visual Rendering: A Comprehensive Review](https://arxiv.org/abs/2404.00714)<br>[2024-04-02]
@@ -98,6 +99,8 @@
   * [Computer Vision for Multimedia Geolocation in Human Trafficking Investigation: A Systematic Literature Review](https://arxiv.org/abs/2402.15448)<br>[2024-02-26]
 * 机器人
   * [Survey on Datasets for Perception in Unstructured Outdoor Environments](https://arxiv.org/abs/2404.18750)<br>[2024-04-30]
+* PR
+  * [General Place Recognition Survey: Towards Real-World Autonomy](https://arxiv.org/abs/2405.04812)<br>:star:[code](https://github.com/MetaSLAM/GPRS)<br>[2024-05-09]
 
 ## Autonomous Driving(自动驾驶)
 * [A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook](https://arxiv.org/abs/2401.01454)<br>[2024-01-04]
@@ -113,6 +116,7 @@
 * [A Survey on Intermediate Fusion Methods for Collaborative Perception Categorized by Real World Challenges](https://export.arxiv.org/abs/2404.16139)<br>[2024-04-26]
 * [Vision-based 3D occupancy prediction in autonomous driving: a review and outlook](https://arxiv.org/abs/2405.02595)<br>:star:[code](https://github.com/zya3d/Awesome-3D-Occupancy-Prediction)<br>[2024-05-07]
 * [Deep Event-based Object Detection in Autonomous Driving: A Survey](https://arxiv.org/abs/2405.03995)<br>[2024-05-08]
+* [A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective](https://arxiv.org/abs/2405.05173)<br>:star:[code](https://github.com/HuaiyuanXu/3D-Occupancy-Perception)<br>[2024-05-09]
 * 车辆重识别
   * [A Comprehensive Survey on Deep-Learning-based Vehicle Re-Identification: Models, Data Sets and Challenges](https://arxiv.org/abs/2401.10643)<br>[2024-01-22]
 
@@ -223,6 +227,8 @@
   * [Foundation Models for Video Understanding: A Survey](https://arxiv.org/abs/2405.03770)<br>:star:[code](https://github.com/NeeluMadan/ViFM_Survey.git)<br>[2024-05-08]
 * 视频预测
   * [A Survey on Video Prediction: From Deterministic to Generative Approaches](https://arxiv.org/abs/2401.14718)<br>[2024-01-29]
+* 视频制作
+  * [Reviewing Intelligent Cinematography: AI research for camera-based video production](https://arxiv.org/abs/2405.05039)<br>[2024-05-09]
 
 ## Object Detection(目标检测)
 * [Agricultural Object Detection with You Look Only Once (YOLO) Algorithm: A Bibliometric and Systematic Literature Review](https://arxiv.org/abs/2401.10379)<br>[2024-01-22]
