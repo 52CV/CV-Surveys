@@ -21,11 +21,11 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月9日已公开 148+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月13日已公开 156+1 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
-4月份共计25篇。<br>
+4月份共计33篇。<br>计138篇。
 
 ## 目录
 
@@ -181,8 +181,10 @@
   * [Survey of Bias In Text-to-Image Generation: Definition, Evaluation, and Mitigation](https://arxiv.org/abs/2404.01030)<br>[2024-04-02]
   * [Theoretical research on generative diffusion models: an overview](https://arxiv.org/abs/2404.09016)<br>[2024-04-16]
   * [Exploring Feedback Generation in Automated Skeletal Movement Assessment: A Comprehensive Overview](https://arxiv.org/abs/2404.09359)<br>[2024-04-16]
-* 3D 内容生成
-  * [A Comprehensive Survey on 3D Content Generation](https://arxiv.org/abs/2402.01166)<br>[2024-02-05]
+* 内容生成
+  * [A Survey on Personalized Content Synthesis with Diffusion Models](https://arxiv.org/abs/2405.05538)<br>[2024-05-10]
+  * 3D 内容生成
+    * [A Comprehensive Survey on 3D Content Generation](https://arxiv.org/abs/2402.01166)<br>[2024-02-05]
 * AIGC
   * [Generative Visual Compression: A Review](https://arxiv.org/abs/2402.02140)<br>[2024-02-06]
   * [Generative AI in Vision: A Survey on Models, Metrics and Applications](https://arxiv.org/abs/2402.16369)<br>[2024-02-27]
@@ -211,6 +213,7 @@
 ## Human Action Recognition(人体动作识别)
 * [Body-Area Capacitive or Electric Field Sensing for Human Activity Recognition and Human-Computer Interaction: A Comprehensive Survey](https://arxiv.org/abs/2401.06000)<br>[2024-01-12]
 * [A Survey of IMU Based Cross-Modal Transfer Learning in Human Activity Recognition](https://arxiv.org/abs/2403.15444)<br>[2024-03-26]
+* [A Survey on Backbones for Deep Video Action Recognition](https://arxiv.org/abs/2405.05584)<br>[2024-05-10]
 * 跌倒检测
   * [Deep Learning for Computer Vision based Activity Recognition and Fall Detection of the Elderly: a Systematic Review](https://arxiv.org/abs/2401.11790)<br>[2024-01-23]
 
@@ -221,6 +224,7 @@
 * [A Survey on 3D Egocentric Human Pose Estimation](https://arxiv.org/abs/2403.17893)<br>[2024-03-27]
 
 ## Video
+* [Deep video representation learning: a survey](https://arxiv.org/abs/2405.06574)<br>[2024-05-13]
 * 视频理解
   * [Video Understanding with Large Language Models: A Survey](https://arxiv.org/abs/2312.17432)<br>:star:[code](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)<br>[2024-01-01]
   * [A Survey on Generative AI and LLM for Video Generation, Understanding, and Streaming](https://export.arxiv.org/abs/2404.16038)<br>[2024-04-26]
@@ -277,7 +281,8 @@
   * [A review of deep learning-based information fusion techniques for multimodal medical image classification](https://export.arxiv.org/abs/2404.15022)<br>[2024-04-24]
 * 医学图像分割
   * [Explainable AI (XAI) in Image Segmentation in Medicine, Industry, and Beyond: A Survey](https://arxiv.org/abs/2405.01636)<br>[2024-05-06]
-
+* 神经成像中的异常检测
+  * [Artificial intelligence for abnormality detection in high volume neuroimaging: a systematic review and meta-analysis](https://arxiv.org/abs/2405.05658)<br>[2024-05-10]
 
 ## Image Classification(图像分类)
 * [Traditional to Transformers: A Survey on Current Trends and Future Prospects for Hyperspectral Image Classification](https://export.arxiv.org/abs/2404.14955)<br>:star:[code](https://github.com/mahmad00/Conventional-to-Transformer-for-Hyperspectral-Image-Classification-Survey-2024.)<br>[2024-04-24]
@@ -305,6 +310,7 @@
 ## Face(人脸)
 * [SoK: Facial Deepfake Detectors](https://arxiv.org/abs/2401.04364)<br>[2024-01-10]
 * [Neuromorphic Face Analysis: a Survey](https://arxiv.org/abs/2402.11631)<br>[2024-02-20]
+* [A Comprehensive Survey of Masked Faces: Recognition, Detection, and Unmasking](https://arxiv.org/abs/2405.05900)<br>[2024-05-10]
 
 ## 3D Reconstruction
 * [3D Scene Geometry Estimation from 360∘ Imagery: A Survey](https://arxiv.org/abs/2401.09252)<br>[2024-01-18]
