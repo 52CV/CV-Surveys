@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月13日已公开 156+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月14日已公开 157+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -78,6 +78,8 @@
 ## Object Re-Id/Pose Estimation
 * 物体重识别
   * [Transformer for Object Re-Identification: A Survey](https://arxiv.org/abs/2401.06960)<br>[2024-01-17]
+* 物体姿态估计
+  * [Deep Learning-Based Object Pose Estimation: A Comprehensive Survey](https://arxiv.org/abs/2405.07801)<br>:star:[code](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation)<br>[2024-05-14]
 
 ## Self-supervised Learning
 * 自监督
@@ -250,6 +252,7 @@
 * [A Review on Machine Learning Algorithms for Dust Aerosol Detection using Satellite Data](https://arxiv.org/abs/2404.09415)<br>[2024-04-16]
 * [Sugarcane Health Monitoring With Satellite Spectroscopy and Machine Learning: A Review](https://arxiv.org/abs/2404.16844)<br>[2024-04-29]利用卫星光谱和机器学习监测甘蔗健康
 * [Wildfire Risk Prediction: A Review](https://arxiv.org/abs/2405.01607)<br>[2024-05-06]
+* [Dehazing Remote Sensing and UAV Imagery: A Review of Deep Learning, Prior-based, and Hybrid Approaches](https://arxiv.org/abs/2405.07520)<br>[2024-05-14]
 
 ## Medical Image Progress
 * [Empowering Medical Imaging with Artificial Intelligence: A Review of Machine Learning Approaches for the Detection, and Segmentation of COVID-19 Using Radiographic and Tomographic Images](https://arxiv.org/abs/2401.07020)<br>[2024-01-17]
