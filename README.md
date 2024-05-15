@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月14日已公开 157+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月15日已公开 159+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -52,6 +52,7 @@
 
 ## Deepfake
 * [Deepfake Generation and Detection: A Benchmark and Survey](https://arxiv.org/abs/2403.17881)<br>[2024-03-27]<br>:star:[code](https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection)
+* [A Timely Survey on Vision Transformer for Deepfake Detection](https://arxiv.org/abs/2405.08463)<br>[2024-05-15]
 
 ## Industrial Anomaly Detection(工业缺陷检测)
 * [A Systematic Review of Available Datasets in Additive Manufacturing](https://arxiv.org/abs/2401.15448)<br>[2024-01-30]
@@ -88,6 +89,7 @@
 
 ## Neural Radiance Fields (NeRF)
 * [Neural Radiance Field-based Visual Rendering: A Comprehensive Review](https://arxiv.org/abs/2404.00714)<br>[2024-04-02]
+* [Dynamic NeRF: A Review](https://arxiv.org/abs/2405.08609)<br>[2024-05-15]
 
 ## Human Object Interaction(人机交互)
 * [How Can Large Language Models Enable Better Socially Assistive Human-Robot Interaction: A Brief Survey](https://arxiv.org/abs/2404.00938)<br>[2024-04-02]
