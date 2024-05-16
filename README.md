@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月15日已公开 159+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月16日已公开 161+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -187,6 +187,8 @@
   * [Exploring Feedback Generation in Automated Skeletal Movement Assessment: A Comprehensive Overview](https://arxiv.org/abs/2404.09359)<br>[2024-04-16]
 * 内容生成
   * [A Survey on Personalized Content Synthesis with Diffusion Models](https://arxiv.org/abs/2405.05538)<br>[2024-05-10]
+  * 文本-3D
+    * [A Survey On Text-to-3D Contents Generation In The Wild](https://arxiv.org/abs/2405.09431)<br>[2024-05-16]
   * 3D 内容生成
     * [A Comprehensive Survey on 3D Content Generation](https://arxiv.org/abs/2402.01166)<br>[2024-02-05]
 * AIGC
@@ -202,6 +204,8 @@
   * [A Survey on Long Video Generation: Challenges, Methods, and Prospects](https://arxiv.org/abs/2403.16407)<br>[2024-03-26]
 * GAN
   * [Synthesizing Iris Images using Generative Adversarial Networks: Survey and Comparative Analysis](https://export.arxiv.org/abs/2404.17105)<br>[2024-04-29]合成虹膜图像
+* 街景视角合成
+  * [Bird's-Eye View to Street-View: A Survey](https://arxiv.org/abs/2405.08961)<br>[2024-05-16]
 
 ## Model Compression
 * [Model Compression Techniques in Biometrics Applications: A Survey](https://arxiv.org/abs/2401.10139)<br>[2024-01-19]
