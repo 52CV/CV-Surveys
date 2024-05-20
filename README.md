@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月17日已公开 163+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月20日已公开 166+6 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -144,6 +144,7 @@
   * [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Review](https://arxiv.org/abs/2405.09589)<br>[2024-05-17]
 * MLLM
   * [The (R)Evolution of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2402.12451)<br>[2024-02-21]
+  * [Efficient Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2405.10739)<br>:star:[code](https://github.com/lijiannuist/Efficient-Multimodal-LLMs-Survey)<br>[2024-05-20]
 * VLN
   * [Vision-Language Navigation with Embodied Intelligence: A Survey](https://arxiv.org/abs/2402.14304)<br>[2024-02-23]
 * LLM
@@ -202,6 +203,7 @@
 * 文本-视频
   * [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/abs/2402.17177)<br>:star:[code](https://github.com/lichao-sun/SoraReview)<br>[2024-02-28]
   * [Sora as an AGI World Model? A Complete Survey on Text-to-Video Generation](https://arxiv.org/abs/2403.05131)<br>[2024-03-11]
+  * [From Sora What We Can See: A Survey of Text-to-Video Generation](https://arxiv.org/abs/2405.10674)<br>:star:[code](https://github.com/soraw-ai/Awesome-Text-to-Video-Generation)<br>[2024-05-20]
 * 视频生成
   * [A Survey on Long Video Generation: Challenges, Methods, and Prospects](https://arxiv.org/abs/2403.16407)<br>[2024-03-26]
 * GAN
@@ -243,6 +245,11 @@
   * [A Survey on Video Prediction: From Deterministic to Generative Approaches](https://arxiv.org/abs/2401.14718)<br>[2024-01-29]
 * 视频制作
   * [Reviewing Intelligent Cinematography: AI research for camera-based video production](https://arxiv.org/abs/2405.05039)<br>[2024-05-09]
+* 视频异常检测
+  * [Networking Systems for Video Anomaly Detection: A Tutorial and Survey](https://arxiv.org/abs/2405.10347)<br>:star:[code](https://github.com/fdjingliu/NSVAD)<br>[2024-05-20]
+
+## Object Tracking(目标跟踪)
+* [Beyond Traditional Single Object Tracking: A Survey](https://arxiv.org/abs/2405.10439)<br>[2024-05-20]
 
 ## Object Detection(目标检测)
 * [Agricultural Object Detection with You Look Only Once (YOLO) Algorithm: A Bibliometric and Systematic Literature Review](https://arxiv.org/abs/2401.10379)<br>[2024-01-22]
@@ -294,6 +301,8 @@
   * [Explainable AI (XAI) in Image Segmentation in Medicine, Industry, and Beyond: A Survey](https://arxiv.org/abs/2405.01636)<br>[2024-05-06]
 * 神经成像中的异常检测
   * [Artificial intelligence for abnormality detection in high volume neuroimaging: a systematic review and meta-analysis](https://arxiv.org/abs/2405.05658)<br>[2024-05-10]
+* 报告生成
+  * [Automated Radiology Report Generation: A Review of Recent Advances](https://arxiv.org/abs/2405.10842)<br>[2024-05-20]
 
 ## Image Classification(图像分类)
 * [Traditional to Transformers: A Survey on Current Trends and Future Prospects for Hyperspectral Image Classification](https://export.arxiv.org/abs/2404.14955)<br>:star:[code](https://github.com/mahmad00/Conventional-to-Transformer-for-Hyperspectral-Image-Classification-Survey-2024.)<br>[2024-04-24]
@@ -326,6 +335,7 @@
 ## 3D Reconstruction
 * [3D Scene Geometry Estimation from 360∘ Imagery: A Survey](https://arxiv.org/abs/2401.09252)<br>[2024-01-18]
 * [Survey on Modeling of Articulated Objects](https://arxiv.org/abs/2403.14937)<br>[2024-03-25]
+* [RGB Guided ToF Imaging System: A Survey of Deep Learning-based Methods](https://arxiv.org/abs/2405.10357)<br>[2024-05-20]
 * 三维重建
   * [Recent Trends in 3D Reconstruction of General Non-Rigid Scenes](https://arxiv.org/abs/2403.15064)<br>[2024-03-25]
   * [Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review](https://arxiv.org/abs/2405.03417)<br>[2024-05-07]
