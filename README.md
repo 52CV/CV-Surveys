@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月20日已公开 166+6 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月21日已公开 172+1 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -362,6 +362,7 @@
 * [A Survey of Neural Network Robustness Assessment in Image Recognition](https://arxiv.org/abs/2404.08285)<br>[2024-04-15]
 * [State Space Model for New-Generation Network Alternative to Transformers: A Survey](https://arxiv.org/abs/2404.09516)<br>:star:[code](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)<br>[2024-04-16]
 * [A Survey on Vision Mamba: Models, Applications and Challenges](https://arxiv.org/abs/2404.18861)<br>:star:[code](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)<br>[2024-04-30]
+* [Generative Artificial Intelligence: A Systematic Review and Applications](https://arxiv.org/abs/2405.11029)<br>[2024-05-21]
 
 
 <a name="0000"/>
