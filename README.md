@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月24日已公开 174+5 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月24日已公开 174+6 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -253,6 +253,8 @@
 
 ## Object Tracking(目标跟踪)
 * [Beyond Traditional Single Object Tracking: A Survey](https://arxiv.org/abs/2405.10439)<br>[2024-05-20]
+* 多模态目标跟踪
+  * [Awesome Multi-modal Object Tracking](https://arxiv.org/abs/2405.14200)<br>:star:[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)<br>[2024-05-24]
 
 ## Object Detection(目标检测)
 * [Agricultural Object Detection with You Look Only Once (YOLO) Algorithm: A Bibliometric and Systematic Literature Review](https://arxiv.org/abs/2401.10379)<br>[2024-01-22]
