@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月22日已公开 173+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月24日已公开 174+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -139,6 +139,7 @@
 * [Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions](https://arxiv.org/abs/2404.07214)<br>[2024-04-12]
 * [A Survey on Visual Mamba](https://export.arxiv.org/abs/2404.15956)<br>[2024-04-25]
 * [Vision Mamba: A Comprehensive Survey and Taxonomy](https://arxiv.org/abs/2405.04404)<br>:star:[code](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)<br>[2024-05-08]
+* [A Survey on Vision-Language-Action Models for Embodied AI](https://arxiv.org/abs/2405.14093)<br>[2024-05-24]
 * 基础模型
   * [Few-shot Adaptation of Multi-modal Foundation Models: A Survey](https://arxiv.org/abs/2401.01736)<br>[2024-01-04]
   * [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Review](https://arxiv.org/abs/2405.09589)<br>[2024-05-17]
@@ -181,6 +182,7 @@
 ## Generation
 * [Video Diffusion Models: A Survey](https://arxiv.org/abs/2405.03150)<br>:star:[code](https://github.com/ndrwmlnk/Awesome-Video-Diffusion-Models)<br>[2024-05-07]
 * [Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond](https://arxiv.org/abs/2405.03520)<br>:star:[code](https://github.com/GigaAI-research/General-World-Models-Survey)<br>[2024-05-07]
+* [Survey on Visual Signal Coding and Processing with Generative Models: Technologies, Standards and Optimization](https://arxiv.org/abs/2405.14221)<br>[2024-05-24]
 * 文本-图像生成
   * [Text-to-Image Cross-Modal Generation: A Systematic Review](https://arxiv.org/abs/2401.11631)<br>[2024-01-23]
   * [Controllable Generation with Text-to-Image Diffusion Models: A Survey](https://arxiv.org/abs/2403.04279)<br>:star:[code](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models)<br>[2024-03-08]
@@ -275,6 +277,7 @@
 * [When Eye-Tracking Meets Machine Learning: A Systematic Review on Applications in Medical Image Analysis](https://arxiv.org/abs/2403.07834)<br>[2024-03-33]
 * [Out-of-distribution Detection in Medical Image Analysis: A survey](https://arxiv.org/abs/2404.18279)<br>[2024-04-30]
 * [Development of Skip Connection in Deep Neural Networks for Computer Vision and Medical Image Analysis: A Survey](https://arxiv.org/abs/2405.01725)<br>:star:[code](https://github.com/apple1986/Residual_Learning_For_Images)<br>[2024-05-06]
+* [Continual Learning in Medical Imaging from Theory to Practice: A Survey and Practical Analysis](https://arxiv.org/abs/2405.13482)<br>[2024-05-24]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
 * 生物医学图像分割
@@ -304,6 +307,9 @@
 * 报告生成
   * [Automated Radiology Report Generation: A Review of Recent Advances](https://arxiv.org/abs/2405.10842)<br>[2024-05-20]
   * [A Survey of Deep Learning-based Radiology Report Generation Using Multimodal Data](https://arxiv.org/abs/2405.12833)<br>[2024-05-22]
+* 基于步态的神经退行性疾病诊断中的人工智能调查
+  * [A Survey of Artificial Intelligence in Gait-Based Neurodegenerative Disease Diagnosis](https://arxiv.org/abs/2405.13082)<br>:star:[code](https://github.com/Kali-Hac/AI4NDD-Survey)<br>[2024-05-24]
+
 
 ## Image Classification(图像分类)
 * [Traditional to Transformers: A Survey on Current Trends and Future Prospects for Hyperspectral Image Classification](https://export.arxiv.org/abs/2404.14955)<br>:star:[code](https://github.com/mahmad00/Conventional-to-Transformer-for-Hyperspectral-Image-Classification-Survey-2024.)<br>[2024-04-24]
