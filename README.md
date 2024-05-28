@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月24日已公开 174+6 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月28日已公开 180+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -122,6 +122,7 @@
 * [Deep Event-based Object Detection in Autonomous Driving: A Survey](https://arxiv.org/abs/2405.03995)<br>[2024-05-08]
 * [A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective](https://arxiv.org/abs/2405.05173)<br>:star:[code](https://github.com/HuaiyuanXu/3D-Occupancy-Perception)<br>[2024-05-09]
 * [Cooperative Visual-LiDAR Extrinsic Calibration Technology for Intersection Vehicle-Infrastructure: A review](https://arxiv.org/abs/2405.10132)<br>[2024-05-17]
+* [Collective Perception Datasets for Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2405.16973)<br>[2024-05-28]
 * 车辆重识别
   * [A Comprehensive Survey on Deep-Learning-based Vehicle Re-Identification: Models, Data Sets and Challenges](https://arxiv.org/abs/2401.10643)<br>[2024-01-22]
 
@@ -146,6 +147,7 @@
 * MLLM
   * [The (R)Evolution of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2402.12451)<br>[2024-02-21]
   * [Efficient Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2405.10739)<br>:star:[code](https://github.com/lijiannuist/Efficient-Multimodal-LLMs-Survey)<br>[2024-05-20]
+  * [A Survey of Multimodal Large Language Model from A Data-centric Perspective](https://arxiv.org/abs/2405.16640)<br>[2024-05-28]
 * VLN
   * [Vision-Language Navigation with Embodied Intelligence: A Survey](https://arxiv.org/abs/2402.14304)<br>[2024-02-23]
 * LLM
@@ -229,6 +231,7 @@
 * [Body-Area Capacitive or Electric Field Sensing for Human Activity Recognition and Human-Computer Interaction: A Comprehensive Survey](https://arxiv.org/abs/2401.06000)<br>[2024-01-12]
 * [A Survey of IMU Based Cross-Modal Transfer Learning in Human Activity Recognition](https://arxiv.org/abs/2403.15444)<br>[2024-03-26]
 * [A Survey on Backbones for Deep Video Action Recognition](https://arxiv.org/abs/2405.05584)<br>[2024-05-10]
+* [From CNNs to Transformers in Multimodal Human Action Recognition: A Survey](https://arxiv.org/abs/2405.15813)<br>[2024-05-28]
 * 跌倒检测
   * [Deep Learning for Computer Vision based Activity Recognition and Fall Detection of the Elderly: a Systematic Review](https://arxiv.org/abs/2401.11790)<br>[2024-01-23]
 
