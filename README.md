@@ -21,11 +21,12 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月31日已公开 185+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月3日已公开 188+1 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
-4月份共计33篇。<br>计138篇。
+4月份共计33篇。<br>
+5月份共计50篇。<br>计188篇。
 
 ## 目录
 
@@ -75,6 +76,8 @@
   * [Continual Learning with Pre-Trained Models: A Survey](https://arxiv.org/abs/2401.16386)<br>:star:[code](https://github.com/sun-hailong/LAMDA-PILOT)<br>[2024-01-30]
 * 迁移学习
   * [Which Model to Transfer? A Survey on Transferability Estimation](https://arxiv.org/abs/2402.15231)<br>:star:[code](https://github.com/YuheD/awesome-model-transferability-estimation)<br>[2024-02-26]
+* 联邦学习
+  * [Exploring the Practicality of Federated Learning: A Survey Towards the Communication Perspective](https://arxiv.org/abs/2405.20431)<br>[2024-06-03]
 
 ## Object Re-Id/Pose Estimation
 * 物体重识别
