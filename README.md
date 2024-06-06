@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月6日已公开 194+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月6日已公开 194+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -328,6 +328,8 @@
   * [A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic](https://arxiv.org/abs/2405.18387)<br>[2024-05-29]
 * 癌症检测
   * [Federated and Transfer Learning for Cancer Detection Based on Image Analysis](https://arxiv.org/abs/2405.20126)<br>[2024-05-31]
+* MRI 重建
+  * [A Brief Overview of Optimization-Based Algorithms for MRI Reconstruction Using Deep Learning](https://arxiv.org/abs/2406.02626)<br>[2024-06-06]
 
 ## Image Classification(图像分类)
 * [High-energy physics image classification: A Survey of Jet Applications](https://arxiv.org/abs/2403.11934)<br>[2024-03-19]
