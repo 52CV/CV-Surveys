@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月5日已公开 194+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月6日已公开 194+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -235,6 +235,7 @@
 * [A Survey of IMU Based Cross-Modal Transfer Learning in Human Activity Recognition](https://arxiv.org/abs/2403.15444)<br>[2024-03-26]
 * [A Survey on Backbones for Deep Video Action Recognition](https://arxiv.org/abs/2405.05584)<br>[2024-05-10]
 * [From CNNs to Transformers in Multimodal Human Action Recognition: A Survey](https://arxiv.org/abs/2405.15813)<br>[2024-05-28]
+* [Self-Supervised Skeleton Action Representation Learning: A Benchmark and Beyond](https://arxiv.org/abs/2406.02978)<br>[2024-06-06]
 * 跌倒检测
   * [Deep Learning for Computer Vision based Activity Recognition and Fall Detection of the Elderly: a Systematic Review](https://arxiv.org/abs/2401.11790)<br>[2024-01-23]
 
