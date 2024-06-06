@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月5日已公开 193+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月5日已公开 194+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -291,6 +291,7 @@
 * [Out-of-distribution Detection in Medical Image Analysis: A survey](https://arxiv.org/abs/2404.18279)<br>[2024-04-30]
 * [Development of Skip Connection in Deep Neural Networks for Computer Vision and Medical Image Analysis: A Survey](https://arxiv.org/abs/2405.01725)<br>:star:[code](https://github.com/apple1986/Residual_Learning_For_Images)<br>[2024-05-06]
 * [Continual Learning in Medical Imaging from Theory to Practice: A Survey and Practical Analysis](https://arxiv.org/abs/2405.13482)<br>[2024-05-24]
+* [Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis](https://arxiv.org/abs/2406.03430)<br>:star:[code](https://github.com/xmindflow/Awesome_mamba)<br>[2024-06-06]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
 * 生物医学图像分割
@@ -331,6 +332,7 @@
 * [High-energy physics image classification: A Survey of Jet Applications](https://arxiv.org/abs/2403.11934)<br>[2024-03-19]
 * [Noisy Label Processing for Classification: A Survey](https://arxiv.org/abs/2404.04159)<br>[2024-04-08]
 * [Traditional to Transformers: A Survey on Current Trends and Future Prospects for Hyperspectral Image Classification](https://export.arxiv.org/abs/2404.14955)<br>:star:[code](https://github.com/mahmad00/Conventional-to-Transformer-for-Hyperspectral-Image-Classification-Survey-2024.)<br>[2024-04-24]
+* [Convolutional Neural Networks and Vision Transformers for Fashion MNIST Classification: A Literature Review](https://arxiv.org/abs/2406.03478)<br>[2024-06-06]
 
 
 ## Image Segmentation(图像分割)
