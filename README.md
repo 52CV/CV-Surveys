@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月11日已公开 200+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月11日已公开 202+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -163,6 +163,7 @@
 ## Vision Transformer
 * [Exploring the Synergies of Hybrid CNNs and ViTs Architectures for Computer Vision: A survey](https://arxiv.org/abs/2402.02941)<br>[2024-02-06]
 * [Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges](https://export.arxiv.org/abs/2404.16112)<br>:star:[code](https://github.com/badripatro/mamba360)<br>[2024-04-26]
+* [A Comparative Survey of Vision Transformers for Feature Extraction in Texture Analysis](https://arxiv.org/abs/2406.06136)<br>[2024-06-11]
 
 ## Style Transfer(风格迁移)
 * [Evaluation in Neural Style Transfer: A Review](https://arxiv.org/abs/2401.17109)<br>[2024-01-31]
@@ -374,6 +375,7 @@
 * [3D Scene Geometry Estimation from 360∘ Imagery: A Survey](https://arxiv.org/abs/2401.09252)<br>[2024-01-18]
 * [Survey on Modeling of Articulated Objects](https://arxiv.org/abs/2403.14937)<br>[2024-03-25]
 * [RGB Guided ToF Imaging System: A Survey of Deep Learning-based Methods](https://arxiv.org/abs/2405.10357)<br>[2024-05-20]
+* [A Survey on Text-guided 3D Visual Grounding: Elements, Recent Advances, and Future Directions](https://arxiv.org/abs/2406.05785)<br>:star:[code](https://github.com/liudaizong/Awesome-3D-Visual-Grounding)<br>[2024-06-11]
 * 三维重建
   * [Recent Trends in 3D Reconstruction of General Non-Rigid Scenes](https://arxiv.org/abs/2403.15064)<br>[2024-03-25]
   * [Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review](https://arxiv.org/abs/2405.03417)<br>[2024-05-07]
