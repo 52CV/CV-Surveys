@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月7日已公开 199+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月11日已公开 200+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -176,6 +176,7 @@
 
 ## OCR
 * [Transformers and Language Models in Form Understanding: A Comprehensive Review of Scanned Document Analysis](https://arxiv.org/abs/2403.04080)<br>[2024-03-08]
+* [A short review on graphonometric evaluation tools in children.](https://arxiv.org/abs/2406.04818)<br>[2024-06-11]
 * 文本图像处理
   * [Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing](https://arxiv.org/abs/2402.03082)<br>:star:[code](https://github.com/shuyansy/Survey-of-Visual-Text-Processing)<br>[2024-02-06]
 * 图表理解
@@ -402,6 +403,7 @@
 * [Generative Artificial Intelligence: A Systematic Review and Applications](https://arxiv.org/abs/2405.11029)<br>[2024-05-21]
 * [A Review of Pulse-Coupled Neural Network Applications in Computer Vision and Image Processing](https://arxiv.org/abs/2406.00239)<br>[2024-06-04]
 * [Exploring the Potential of Polynomial Basis Functions in Kolmogorov-Arnold Networks: A Comparative Study of Different Groups of Polynomials](https://arxiv.org/abs/2406.02583)<br>[2024-06-06]
+* [Deep learning for precipitation nowcasting: A survey from the perspective of time series forecasting](https://arxiv.org/abs/2406.04867)<br>[2024-06-11]
 
 
 <a name="0000"/>
