@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月11日已公开 202+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月12日已公开 204+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -44,6 +44,9 @@
 ## Fish-eye Camera(鱼眼相机)
 * [A Comprehensive Overview of Fish-Eye Camera Distortion Correction Methods](https://arxiv.org/abs/2401.00442)<br>[2024-01-02]
 * [Surround-View Fisheye Optics in Computer Vision and Simulation: Survey and Challenge](https://arxiv.org/abs/2402.12041)<br>[2024-02-20]
+
+## Memes Detection
+* [Toxic Memes: A Survey of Computational Perspectives on the Detection and Explanation of Meme Toxicities](https://arxiv.org/abs/2406.07353)<br>[2024-06-12]
 
 ## Fake News Detection(虚假新闻检测)
 * [Fact-checking based fake news detection: a review](https://arxiv.org/abs/2401.01717)<br>[2024-01-04]
@@ -370,6 +373,7 @@
 * [SoK: Facial Deepfake Detectors](https://arxiv.org/abs/2401.04364)<br>[2024-01-10]
 * [Neuromorphic Face Analysis: a Survey](https://arxiv.org/abs/2402.11631)<br>[2024-02-20]
 * [A Comprehensive Survey of Masked Faces: Recognition, Detection, and Unmasking](https://arxiv.org/abs/2405.05900)<br>[2024-05-10]
+* [Evolving from Single-modal to Multi-modal Facial Deepfake Detection: A Survey](https://arxiv.org/abs/2406.06965)<br>:star:[code](https://github.com/qiqitao77/Comprehensive-Advances-in-Deepfake-Detection-Spanning-Diverse-Modalities)<br>[2024-06-12]
 
 ## 3D Reconstruction
 * [3D Scene Geometry Estimation from 360∘ Imagery: A Survey](https://arxiv.org/abs/2401.09252)<br>[2024-01-18]
