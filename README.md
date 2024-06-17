@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月14日已公开 209+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月17日已公开 210+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -261,6 +261,7 @@
   * [Video Understanding with Large Language Models: A Survey](https://arxiv.org/abs/2312.17432)<br>:star:[code](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)<br>[2024-01-01]
   * [A Survey on Generative AI and LLM for Video Generation, Understanding, and Streaming](https://export.arxiv.org/abs/2404.16038)<br>[2024-04-26]
   * [Foundation Models for Video Understanding: A Survey](https://arxiv.org/abs/2405.03770)<br>:star:[code](https://github.com/NeeluMadan/ViFM_Survey.git)<br>[2024-05-08]
+  * [A Survey of Video Datasets for Grounded Event Understanding](https://arxiv.org/abs/2406.09646)<br>[2024-06-17]
 * 视频预测
   * [A Survey on Video Prediction: From Deterministic to Generative Approaches](https://arxiv.org/abs/2401.14718)<br>[2024-01-29]
 * 视频制作
@@ -277,6 +278,7 @@
 
 ## Object Detection(目标检测)
 * [Agricultural Object Detection with You Look Only Once (YOLO) Algorithm: A Bibliometric and Systematic Literature Review](https://arxiv.org/abs/2401.10379)<br>[2024-01-22]
+* [YOLOv1 to YOLOv10: A comprehensive review of YOLO variants and their application in the agricultural domain](https://arxiv.org/abs/2406.10139)<br>[2024-06-17]
 * 海洋垃圾检测
   * [State of the art applications of deep learning within tracking and detecting marine debris: A survey](https://arxiv.org/abs/2403.18067)<br>[2024-03-28]
 * 3D目标识别
@@ -295,6 +297,8 @@
 * [Dehazing Remote Sensing and UAV Imagery: A Review of Deep Learning, Prior-based, and Hybrid Approaches](https://arxiv.org/abs/2405.07520)<br>[2024-05-14]
 * [Visual place recognition for aerial imagery: A survey](https://arxiv.org/abs/2406.00885)<br>:star:[code](https://github.com/prime-slam/aero-vloc)<br>[2024-06-04]
 * [Deep Learning for Slum Mapping in Remote Sensing Images: A Meta-analysis and Review](https://arxiv.org/abs/2406.08031)<br>[2024-06-13]
+* 交叉视角地理定位
+  * [Cross-view geo-localization: a survey](https://arxiv.org/abs/2406.09722)<br>[2024-06-17]
 
 ## Medical Image Progress
 * [Empowering Medical Imaging with Artificial Intelligence: A Review of Machine Learning Approaches for the Detection, and Segmentation of COVID-19 Using Radiographic and Tomographic Images](https://arxiv.org/abs/2401.07020)<br>[2024-01-17]
