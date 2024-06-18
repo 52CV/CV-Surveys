@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月17日已公开 210+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月18日已公开 213+5 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -112,6 +112,7 @@
   * [Computer Vision for Multimedia Geolocation in Human Trafficking Investigation: A Systematic Literature Review](https://arxiv.org/abs/2402.15448)<br>[2024-02-26]
 * 机器人
   * [Survey on Datasets for Perception in Unstructured Outdoor Environments](https://arxiv.org/abs/2404.18750)<br>[2024-04-30]
+  * [A Brief Survey on Leveraging Large Scale Vision Models for Enhanced Robot Grasping](https://arxiv.org/abs/2406.11786)<br>[2024-06-18]
 * PR
   * [General Place Recognition Survey: Towards Real-World Autonomy](https://arxiv.org/abs/2405.04812)<br>:star:[code](https://github.com/MetaSLAM/GPRS)<br>[2024-05-09]
 
@@ -308,6 +309,8 @@
 * [Development of Skip Connection in Deep Neural Networks for Computer Vision and Medical Image Analysis: A Survey](https://arxiv.org/abs/2405.01725)<br>:star:[code](https://github.com/apple1986/Residual_Learning_For_Images)<br>[2024-05-06]
 * [Continual Learning in Medical Imaging from Theory to Practice: A Survey and Practical Analysis](https://arxiv.org/abs/2405.13482)<br>[2024-05-24]
 * [Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis](https://arxiv.org/abs/2406.03430)<br>:star:[code](https://github.com/xmindflow/Awesome_mamba)<br>[2024-06-06]
+* [Solving the Inverse Problem of Electrocardiography for Cardiac Digital Twins: A Survey](https://arxiv.org/abs/2406.11445)<br>[2024-06-18]
+* [A Comprehensive Survey of Foundation Models in Medicine](https://arxiv.org/abs/2406.10729)<br>[2024-06-18]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
 * 生物医学图像分割
@@ -418,6 +421,8 @@
 * [A Review of Pulse-Coupled Neural Network Applications in Computer Vision and Image Processing](https://arxiv.org/abs/2406.00239)<br>[2024-06-04]
 * [Exploring the Potential of Polynomial Basis Functions in Kolmogorov-Arnold Networks: A Comparative Study of Different Groups of Polynomials](https://arxiv.org/abs/2406.02583)<br>[2024-06-06]
 * [Deep learning for precipitation nowcasting: A survey from the perspective of time series forecasting](https://arxiv.org/abs/2406.04867)<br>[2024-06-11]
+* [Diffusion Models in Low-Level Vision: A Survey](https://arxiv.org/abs/2406.11138)<br>:star:[code](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision)<br>[2024-06-18]
+* [Public Computer Vision Datasets for Precision Livestock Farming: A Systematic Survey](https://arxiv.org/abs/2406.10628)<br>[2024-06-18]
 
 
 <a name="0000"/>
