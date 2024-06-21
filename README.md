@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月18日已公开 213+5 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月21日已公开 218+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -57,6 +57,7 @@
 ## Deepfake
 * [Deepfake Generation and Detection: A Benchmark and Survey](https://arxiv.org/abs/2403.17881)<br>[2024-03-27]<br>:star:[code](https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection)
 * [A Timely Survey on Vision Transformer for Deepfake Detection](https://arxiv.org/abs/2405.08463)<br>[2024-05-15]
+* [Media Forensics and Deepfake Systematic Survey](https://arxiv.org/abs/2406.13295)<br>[2024-06-21]
 
 ## Industrial Anomaly Detection(工业缺陷检测)
 * [A Systematic Review of Available Datasets in Additive Manufacturing](https://arxiv.org/abs/2401.15448)<br>[2024-01-30]
@@ -217,6 +218,7 @@
   * [Retrieval-Augmented Generation for AI-Generated Content: A Survey](https://arxiv.org/abs/2402.19473)<br>:star:[code](https://github.com/hymie122/RAG-Survey)<br>[2024-01-01]
 * 图像编辑
   * [Diffusion Model-Based Image Editing: A Survey](https://arxiv.org/abs/2402.17525)<br>:star:[code](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods)<br>[2024-02-28]
+  * [A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models](https://arxiv.org/abs/2406.14555)<br>:star:[code](https://github.com/xinchengshuai/Awesome-Image-Editing)<br>[2024-06-21]
 * 文本-视频
   * [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/abs/2402.17177)<br>:star:[code](https://github.com/lichao-sun/SoraReview)<br>[2024-02-28]
   * [Sora as an AGI World Model? A Complete Survey on Text-to-Video Generation](https://arxiv.org/abs/2403.05131)<br>[2024-03-11]
@@ -359,6 +361,7 @@
 ## Image Segmentation(图像分割)
 * 语义分割
   * [Semi-Supervised Semantic Segmentation Based on Pseudo-Labels: A Survey](https://arxiv.org/abs/2403.01909)<br>[2024-03-06]无PDF
+  * [Deep Learning-Based 3D Instance and Semantic Segmentation: A Review](https://arxiv.org/abs/2406.13308)<br>[2024-06-21]
 
 ## Super-Resolution(超分辨率)
 * ISR
