@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月27日已公开 223+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月27日已公开 223+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -316,6 +316,7 @@
 * [A Comprehensive Survey of Foundation Models in Medicine](https://arxiv.org/abs/2406.10729)<br>[2024-06-18]
 * [Review of Zero-Shot and Few-Shot AI Algorithms in The Medical Domain](https://export.arxiv.org/abs/2406.16143)<br>[2024-06-25]
 * [Applications of interpretable deep learning in neuroimaging: a comprehensive review](https://arxiv.org/abs/2406.17792)<br>[2024-06-27]
+* [Foundational Models for Pathology and Endoscopy Images: Application for Gastric Inflammation](https://arxiv.org/abs/2406.18249)<br>[2024-06-27]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
 * 生物医学图像分割
@@ -392,6 +393,7 @@
 * [Neuromorphic Face Analysis: a Survey](https://arxiv.org/abs/2402.11631)<br>[2024-02-20]
 * [A Comprehensive Survey of Masked Faces: Recognition, Detection, and Unmasking](https://arxiv.org/abs/2405.05900)<br>[2024-05-10]
 * [Evolving from Single-modal to Multi-modal Facial Deepfake Detection: A Survey](https://arxiv.org/abs/2406.06965)<br>:star:[code](https://github.com/qiqitao77/Comprehensive-Advances-in-Deepfake-Detection-Spanning-Diverse-Modalities)<br>[2024-06-12]
+* [Artificial Immune System of Secure Face Recognition Against Adversarial Attacks](https://arxiv.org/pdf/2406.18144)<br>:star:[code](https://github.com/RenMin1991/SIDE)<br>[2024-06-27]
 
 ## 3D Reconstruction
 * [3D Scene Geometry Estimation from 360∘ Imagery: A Survey](https://arxiv.org/abs/2401.09252)<br>[2024-01-18]
