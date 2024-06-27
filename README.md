@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月25日已公开 221+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月27日已公开 223+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -315,6 +315,7 @@
 * [Solving the Inverse Problem of Electrocardiography for Cardiac Digital Twins: A Survey](https://arxiv.org/abs/2406.11445)<br>[2024-06-18]
 * [A Comprehensive Survey of Foundation Models in Medicine](https://arxiv.org/abs/2406.10729)<br>[2024-06-18]
 * [Review of Zero-Shot and Few-Shot AI Algorithms in The Medical Domain](https://export.arxiv.org/abs/2406.16143)<br>[2024-06-25]
+* [Applications of interpretable deep learning in neuroimaging: a comprehensive review](https://arxiv.org/abs/2406.17792)<br>[2024-06-27]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
 * 生物医学图像分割
@@ -352,6 +353,7 @@
   * [Federated and Transfer Learning for Cancer Detection Based on Image Analysis](https://arxiv.org/abs/2405.20126)<br>[2024-05-31]
 * MRI 重建
   * [A Brief Overview of Optimization-Based Algorithms for MRI Reconstruction Using Deep Learning](https://arxiv.org/abs/2406.02626)<br>[2024-06-06]
+  * [A Review of Electromagnetic Elimination Methods for low-field portable MRI scanner](https://arxiv.org/abs/2406.17804)<br>[2024-06-27]
 
 ## Image Classification(图像分类)
 * [High-energy physics image classification: A Survey of Jet Applications](https://arxiv.org/abs/2403.11934)<br>[2024-03-19]
