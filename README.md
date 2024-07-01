@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月28日已公开 227+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月1日已公开 228+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -96,6 +96,8 @@
 * 自监督
   * [Masked Modeling for Self-supervised Representation Learning on Vision and Beyond](https://github.com/Lupin1998/Awesome-MIM)<br>:star:[code](https://github.com/Lupin1998/Awesome-MIM)<br>[2024-01-03]
   * [A review on discriminative self-supervised learning methods](https://arxiv.org/abs/2405.04969)<br>[2024-05-09]
+* 无监督学习
+  * [A Survey on Deep Clustering: From the Prior Perspective](https://arxiv.org/abs/2406.19602)<br>[2024-07-01]
 
 ## Neural Radiance Fields (NeRF)
 * [Neural Radiance Field-based Visual Rendering: A Comprehensive Review](https://arxiv.org/abs/2404.00714)<br>[2024-04-02]
@@ -284,6 +286,7 @@
 ## Object Detection(目标检测)
 * [Agricultural Object Detection with You Look Only Once (YOLO) Algorithm: A Bibliometric and Systematic Literature Review](https://arxiv.org/abs/2401.10379)<br>[2024-01-22]
 * [YOLOv1 to YOLOv10: A comprehensive review of YOLO variants and their application in the agricultural domain](https://arxiv.org/abs/2406.10139)<br>[2024-06-17]
+* [YOLOv10 to Its Genesis: A Decadal and Comprehensive Review of The You Only Look Once Series](https://arxiv.org/abs/2406.19407)<br>[2024-07-01]
 * 海洋垃圾检测
   * [State of the art applications of deep learning within tracking and detecting marine debris: A survey](https://arxiv.org/abs/2403.18067)<br>[2024-03-28]
 * 3D目标识别
@@ -410,6 +413,7 @@
   * [A Comprehensive Survey of 3D Dense Captioning: Localizing and Describing Objects in 3D Scenes](https://arxiv.org/abs/2403.07469)<br>[2024-03-13]
 * 深度估计
   * [Geometric Constraints in Deep Learning Frameworks: A Survey](https://arxiv.org/abs/2403.12431)<br>[2024-03-20]
+  * [Deep Learning-based Depth Estimation Methods from Monocular Image and Videos: A Comprehensive Survey](https://arxiv.org/abs/2406.19675)<br>[2024-07-01]
 * 三维场景理解
   * [When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models](https://arxiv.org/abs/2405.10255)<br>:star:[code](https://github.com/ActiveVisionLab/Awesome-LLM-3D)<br>[2024-05-17]
 
