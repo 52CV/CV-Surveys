@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月2日已公开 231+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月2日已公开 231+5 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -386,6 +386,7 @@
 * 修复
   * [Deep Learning-based Image and Video Inpainting: A Survey](https://arxiv.org/abs/2401.03395)<br>[2024-01-09]
   * [Reimagining Reality: A Comprehensive Survey of Video Inpainting Techniques](https://arxiv.org/abs/2401.17883)<br>[2024-02-01]
+  * [Transformer-based Image and Video Inpainting: Current Challenges and Future Directions](https://arxiv.org/abs/2407.00226)<br>[2024-07-02]
 * 去噪
   * [On normalization-equivariance properties of supervised and unsupervised denoising methods: a survey](https://arxiv.org/abs/2402.15352)<br>[2024-02-26]
 * 去模糊
