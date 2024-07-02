@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月1日已公开 228+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月2日已公开 231+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -148,6 +148,9 @@
 ## Neural Radiance Fields
 * [Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review](https://arxiv.org/abs/2402.11141)<br>[2024-02-20]
 
+## Visual Question Answering
+* [Assistive Image Annotation Systems with Deep Learning and Natural Language Capabilities: A Review](https://arxiv.org/abs/2407.00252)<br>[2024-07-02]
+
 ## Vision language(视觉语言)
 * [A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2402.00253)<br>[2024-02-02]
 * [Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions](https://arxiv.org/abs/2404.07214)<br>[2024-04-12]
@@ -201,6 +204,7 @@
 * [Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond](https://arxiv.org/abs/2405.03520)<br>:star:[code](https://github.com/GigaAI-research/General-World-Models-Survey)<br>[2024-05-07]
 * [Survey on Visual Signal Coding and Processing with Generative Models: Technologies, Standards and Optimization](https://arxiv.org/abs/2405.14221)<br>[2024-05-24]
 * [LLMs Meet Multimodal Generation and Editing: A Survey](https://arxiv.org/abs/2405.19334)<br>:star:[code](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation)<br>[2024-05-30]
+* [Diffusion Models and Representation Learning: A Survey](https://arxiv.org/abs/2407.00783)<br>:star:[code](https://github.com/dongzhuoyao/Diffusion-Representation-Learning-Survey-Taxonomy)<br>[2024-07-02]
 * 文本-图像生成
   * [Text-to-Image Cross-Modal Generation: A Systematic Review](https://arxiv.org/abs/2401.11631)<br>[2024-01-23]
   * [Controllable Generation with Text-to-Image Diffusion Models: A Survey](https://arxiv.org/abs/2403.04279)<br>:star:[code](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models)<br>[2024-03-08]
@@ -321,6 +325,7 @@
 * [Review of Zero-Shot and Few-Shot AI Algorithms in The Medical Domain](https://export.arxiv.org/abs/2406.16143)<br>[2024-06-25]
 * [Applications of interpretable deep learning in neuroimaging: a comprehensive review](https://arxiv.org/abs/2406.17792)<br>[2024-06-27]
 * [Foundational Models for Pathology and Endoscopy Images: Application for Gastric Inflammation](https://arxiv.org/abs/2406.18249)<br>[2024-06-27]
+* [A Review of Image Processing Methods in Prostate Ultrasound](https://arxiv.org/abs/2407.00678)<br>[2024-07-02]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
 * 生物医学图像分割
