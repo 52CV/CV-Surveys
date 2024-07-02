@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月2日已公开 231+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月2日已公开 231+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -309,6 +309,7 @@
 * [Dehazing Remote Sensing and UAV Imagery: A Review of Deep Learning, Prior-based, and Hybrid Approaches](https://arxiv.org/abs/2405.07520)<br>[2024-05-14]
 * [Visual place recognition for aerial imagery: A survey](https://arxiv.org/abs/2406.00885)<br>:star:[code](https://github.com/prime-slam/aero-vloc)<br>[2024-06-04]
 * [Deep Learning for Slum Mapping in Remote Sensing Images: A Meta-analysis and Review](https://arxiv.org/abs/2406.08031)<br>[2024-06-13]
+* [Hyperspectral Pansharpening: Critical Review, Tools and Future Perspectives](https://arxiv.org/abs/2407.01355)<br>:star:[code](https://github.com/matciotola/hyperspectral_pansharpening_toolbox)<br>[2024-07-02]
 * 交叉视角地理定位
   * [Cross-view geo-localization: a survey](https://arxiv.org/abs/2406.09722)<br>[2024-06-17]
 
