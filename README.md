@@ -157,7 +157,7 @@
 * [A Survey on Visual Mamba](https://export.arxiv.org/abs/2404.15956)<br>[2024-04-25]
 * [Vision Mamba: A Comprehensive Survey and Taxonomy](https://arxiv.org/abs/2405.04404)<br>:star:[code](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)<br>[2024-05-08]
 * [A Survey on Vision-Language-Action Models for Embodied AI](https://arxiv.org/abs/2405.14093)<br>[2024-05-24]
-* [JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models](https://export.arxiv.org/abs/2407.01599)<br>:house:[project](https://chonghan-chen.com/llm-jailbreak-zoo-survey/)<br>[2024-07-03]还没PDF
+* [JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models](https://export.arxiv.org/abs/2407.01599)<br>:house:[project](https://chonghan-chen.com/llm-jailbreak-zoo-survey/)<br>[2024-07-03]
 * 基础模型
   * [Few-shot Adaptation of Multi-modal Foundation Models: A Survey](https://arxiv.org/abs/2401.01736)<br>[2024-01-04]
   * [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Review](https://arxiv.org/abs/2405.09589)<br>[2024-05-17]
