@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月4日已公开 236+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月8日已公开 237+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -236,6 +236,8 @@
   * [Synthesizing Iris Images using Generative Adversarial Networks: Survey and Comparative Analysis](https://export.arxiv.org/abs/2404.17105)<br>[2024-04-29]合成虹膜图像
 * 街景视角合成
   * [Bird's-Eye View to Street-View: A Survey](https://arxiv.org/abs/2405.08961)<br>[2024-05-16]
+* 人体情感识别
+  * [Generative Technology for Human Emotion Recognition: A Scope Review](https://arxiv.org/abs/2407.03640)<br>[2024-07-08]
 
 ## Model Compression
 * [Model Compression Techniques in Biometrics Applications: A Survey](https://arxiv.org/abs/2401.10139)<br>[2024-01-19]
@@ -247,6 +249,7 @@
   * [A Survey on 3D Skeleton Based Person Re-Identification: Approaches, Designs, Challenges, and Future Directions](https://arxiv.org/abs/2401.15296)<br>:star:[code](https://github.com/Kali-Hac/3D-skeleton-based-person-re-ID-survey)<br>[2024-01-30]
 * 行人检测
   * [Pedestrian Detection in Low-Light Conditions: A Comprehensive Survey](https://arxiv.org/abs/2401.07801)<br>[2024-01-17]
+  * [Research, Applications and Prospects of Event-Based Pedestrian Detection: A Survey](https://arxiv.org/abs/2407.04277)<br>[2024-07-08]
 
 ## Human Action Recognition(人体动作识别)
 * [Body-Area Capacitive or Electric Field Sensing for Human Activity Recognition and Human-Computer Interaction: A Comprehensive Survey](https://arxiv.org/abs/2401.06000)<br>[2024-01-12]
@@ -263,6 +266,7 @@
 * [Deep Learning for 3D Human Pose Estimation and Mesh Recovery: A Survey](https://arxiv.org/abs/2402.18844)<br>:star:[code](https://github.com/liuyangme/SOTA-3DHPE-HMR)<br>[2024-03-01]
 * [A Survey on 3D Egocentric Human Pose Estimation](https://arxiv.org/abs/2403.17893)<br>[2024-03-27]
 * [Human Modelling and Pose Estimation Overview](https://arxiv.org/pdf/2406.19290)<br>[2024-06-28]
+* [Markerless Multi-view 3D Human Pose Estimation: a survey](https://arxiv.org/abs/2407.03817)<br>[2024-07-08]
 * 三维人体
   * [A Survey on 3D Human Avatar Modeling -- From Reconstruction to Generation](https://arxiv.org/abs/2406.04253)<br>[2024-06-07]
 
@@ -395,7 +399,8 @@
 * 图像增强
   * 水下图像增强
     * [A Comprehensive Survey on Underwater Image Enhancement Based on Deep Learning](https://arxiv.org/abs/2405.19684)<br>:star:[code](https://github.com/YuZhao1999/UIE)<br>[2024-05-31]
-
+  * 图像数据增强
+    * [Advances in Diffusion Models for Image Data Augmentation: A Review of Methods, Models, Evaluation Metrics and Future Research Directions](https://arxiv.org/abs/2407.04103)<br>[2024-07-08]
 
 ## Image Segmentation
 * [Systematic review of image segmentation using complex networks](https://arxiv.org/abs/2401.02758)<br>[2024-01-08]
