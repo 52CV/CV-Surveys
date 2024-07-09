@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月8日已公开 237+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月9日已公开 241+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -238,6 +238,7 @@
   * [Bird's-Eye View to Street-View: A Survey](https://arxiv.org/abs/2405.08961)<br>[2024-05-16]
 * 人体情感识别
   * [Generative Technology for Human Emotion Recognition: A Scope Review](https://arxiv.org/abs/2407.03640)<br>[2024-07-08]
+  * [Sensing technologies and machine learning methods for emotion recognition in autism: Systematic review](https://arxiv.org/abs/2407.04712)<br>[2024-07-09]
 
 ## Model Compression
 * [Model Compression Techniques in Biometrics Applications: A Survey](https://arxiv.org/abs/2401.10139)<br>[2024-01-19]
@@ -257,6 +258,7 @@
 * [A Survey on Backbones for Deep Video Action Recognition](https://arxiv.org/abs/2405.05584)<br>[2024-05-10]
 * [From CNNs to Transformers in Multimodal Human Action Recognition: A Survey](https://arxiv.org/abs/2405.15813)<br>[2024-05-28]
 * [Self-Supervised Skeleton Action Representation Learning: A Benchmark and Beyond](https://arxiv.org/abs/2406.02978)<br>[2024-06-06]
+* [RNNs, CNNs and Transformers in Human Action Recognition: A Survey and A Hybrid Model](https://arxiv.org/abs/2407.06162)<br>[2024-07-09]
 * 跌倒检测
   * [Deep Learning for Computer Vision based Activity Recognition and Fall Detection of the Elderly: a Systematic Review](https://arxiv.org/abs/2401.11790)<br>[2024-01-23]
 
