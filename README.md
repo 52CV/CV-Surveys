@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月9日已公开 241+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月10日已公开 244+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -169,6 +169,7 @@
   * [A Survey of Multimodal Large Language Model from A Data-centric Perspective](https://arxiv.org/abs/2405.16640)<br>[2024-05-28]
 * VLN
   * [Vision-Language Navigation with Embodied Intelligence: A Survey](https://arxiv.org/abs/2402.14304)<br>[2024-02-23]
+  * [Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models](https://arxiv.org/abs/2407.07035)<br>[2024-07-10]
 * LLM
   * [Large Multimodal Agents: A Survey](https://arxiv.org/abs/2402.15116)<br>:star:[code](https://github.com/jun0wanan/awesome-large-multimodal-agents)<br>[2024-02-26]
   * [Unbridled Icarus: A Survey of the Potential Perils of Image Inputs in Multimodal Large Language Model Security](https://arxiv.org/abs/2404.05264)<br>[2024-04-09]
@@ -359,6 +360,7 @@
   * [A review of deep learning-based information fusion techniques for multimodal medical image classification](https://export.arxiv.org/abs/2404.15022)<br>[2024-04-24]
 * 医学图像分割
   * [Explainable AI (XAI) in Image Segmentation in Medicine, Industry, and Beyond: A Survey](https://arxiv.org/abs/2405.01636)<br>[2024-05-06]
+  * [AI-based Automatic Segmentation of Prostate on Multi-modality Images: A Review](https://arxiv.org/abs/2407.06612)<br>[2024-07-10]
 * 神经成像中的异常检测
   * [Artificial intelligence for abnormality detection in high volume neuroimaging: a systematic review and meta-analysis](https://arxiv.org/abs/2405.05658)<br>[2024-05-10]
 * 报告生成
@@ -453,6 +455,7 @@
 * [Deep learning for precipitation nowcasting: A survey from the perspective of time series forecasting](https://arxiv.org/abs/2406.04867)<br>[2024-06-11]
 * [Diffusion Models in Low-Level Vision: A Survey](https://arxiv.org/abs/2406.11138)<br>:star:[code](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision)<br>[2024-06-18]
 * [Public Computer Vision Datasets for Precision Livestock Farming: A Systematic Survey](https://arxiv.org/abs/2406.10628)<br>[2024-06-18]
+* [Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI](https://arxiv.org/abs/2407.06886)<br>:star:[code](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)<br>[2024-07-10]
 
 
 <a name="0000"/>
