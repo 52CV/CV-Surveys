@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月10日已公开 244+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月11日已公开 248+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -175,6 +175,7 @@
   * [Unbridled Icarus: A Survey of the Potential Perils of Image Inputs in Multimodal Large Language Model Security](https://arxiv.org/abs/2404.05264)<br>[2024-04-09]
   * [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2404.18930)<br>:star:[code](https://github.com/showlab/Awesome-MLLM-Hallucination)<br>[2024-04-30]
   * [Multi-Modal and Multi-Agent Systems Meet Rationality: A Survey](https://arxiv.org/abs/2406.00252)<br>:star:[code](https://github.com/bowen-upenn/MMMA_Rationality)<br>[2024-06-04]
+  * [A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends](https://arxiv.org/abs/2407.07403)<br>:star:[code](https://github.com/liudaizong/Awesome-LVLM-Attack)<br>[2024-07-11]
 
 ## Vision Transformer
 * [Exploring the Synergies of Hybrid CNNs and ViTs Architectures for Computer Vision: A survey](https://arxiv.org/abs/2402.02941)<br>[2024-02-06]
@@ -234,6 +235,8 @@
   * [From Sora What We Can See: A Survey of Text-to-Video Generation](https://arxiv.org/abs/2405.10674)<br>:star:[code](https://github.com/soraw-ai/Awesome-Text-to-Video-Generation)<br>[2024-05-20]
 * 视频生成
   * [A Survey on Long Video Generation: Challenges, Methods, and Prospects](https://arxiv.org/abs/2403.16407)<br>[2024-03-26]
+* 视频编辑
+  * [Diffusion Model-Based Video Editing: A Survey](https://arxiv.org/abs/2407.07111)<br>:star:[code](https://github.com/wenhao728/awesome-diffusion-v2v)<br>[2024-07-11]
 * GAN
   * [Synthesizing Iris Images using Generative Adversarial Networks: Survey and Comparative Analysis](https://export.arxiv.org/abs/2404.17105)<br>[2024-04-29]合成虹膜图像
 * 街景视角合成
@@ -436,6 +439,9 @@
   * [Deep Learning-based Depth Estimation Methods from Monocular Image and Videos: A Comprehensive Survey](https://arxiv.org/abs/2406.19675)<br>[2024-07-01]
 * 三维场景理解
   * [When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models](https://arxiv.org/abs/2405.10255)<br>:star:[code](https://github.com/ActiveVisionLab/Awesome-LLM-3D)<br>[2024-05-17]
+* Stereo Matching
+  * [A Survey on Deep Stereo Matching in the Twenties](https://arxiv.org/abs/2407.07816)<br>:star:[code](https://github.com/fabiotosi92/Awesome-Deep-Stereo-Matching)<br>[2024-07-11]
+
 
 <a name="1"/>
 
