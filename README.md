@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月11日已公开 248+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月11日已公开 251+5 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -167,6 +167,7 @@
   * [The (R)Evolution of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2402.12451)<br>[2024-02-21]
   * [Efficient Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2405.10739)<br>:star:[code](https://github.com/lijiannuist/Efficient-Multimodal-LLMs-Survey)<br>[2024-05-20]
   * [A Survey of Multimodal Large Language Model from A Data-centric Perspective](https://arxiv.org/abs/2405.16640)<br>[2024-05-28]
+  * [The Synergy between Data and Multi-Modal Large Language Models: A Survey from Co-Development Perspective](https://arxiv.org/abs/2407.08583)<br>:star:[code](https://github.com/modelscope/data-juicer/blob/main/docs/awesome_llm_data.md)<br>[2024-07-12]
 * VLN
   * [Vision-Language Navigation with Embodied Intelligence: A Survey](https://arxiv.org/abs/2402.14304)<br>[2024-02-23]
   * [Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models](https://arxiv.org/abs/2407.07035)<br>[2024-07-10]
@@ -235,6 +236,7 @@
   * [From Sora What We Can See: A Survey of Text-to-Video Generation](https://arxiv.org/abs/2405.10674)<br>:star:[code](https://github.com/soraw-ai/Awesome-Text-to-Video-Generation)<br>[2024-05-20]
 * 视频生成
   * [A Survey on Long Video Generation: Challenges, Methods, and Prospects](https://arxiv.org/abs/2403.16407)<br>[2024-03-26]
+  * [A Comprehensive Survey on Human Video Generation: Challenges, Methods, and Insights](https://arxiv.org/abs/2407.08428)<br>[2024-07-12]
 * 视频编辑
   * [Diffusion Model-Based Video Editing: A Survey](https://arxiv.org/abs/2407.07111)<br>:star:[code](https://github.com/wenhao728/awesome-diffusion-v2v)<br>[2024-07-11]
 * GAN
@@ -303,6 +305,7 @@
 * [Agricultural Object Detection with You Look Only Once (YOLO) Algorithm: A Bibliometric and Systematic Literature Review](https://arxiv.org/abs/2401.10379)<br>[2024-01-22]
 * [YOLOv1 to YOLOv10: A comprehensive review of YOLO variants and their application in the agricultural domain](https://arxiv.org/abs/2406.10139)<br>[2024-06-17]
 * [YOLOv10 to Its Genesis: A Decadal and Comprehensive Review of The You Only Look Once Series](https://arxiv.org/abs/2406.19407)<br>[2024-07-01]
+* [Semi-Supervised Object Detection: A Survey on Progress from CNN to Transformer](https://arxiv.org/abs/2407.08460)<br>[2024-07-12]
 * 海洋垃圾检测
   * [State of the art applications of deep learning within tracking and detecting marine debris: A survey](https://arxiv.org/abs/2403.18067)<br>[2024-03-28]
 * 3D目标识别
@@ -430,6 +433,7 @@
 * 三维重建
   * [Recent Trends in 3D Reconstruction of General Non-Rigid Scenes](https://arxiv.org/abs/2403.15064)<br>[2024-03-25]
   * [Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review](https://arxiv.org/abs/2405.03417)<br>[2024-05-07]
+  * [Survey on Fundamental Deep Learning 3D Reconstruction Techniques](https://arxiv.org/abs/2407.08137)<br>[2024-07-12]
 * 3D 生成
   * [Advances in 3D Generation: A Survey](https://arxiv.org/abs/2401.17807)<br>[2024-02-01]
 * 3D 密集字幕
@@ -464,6 +468,7 @@
 * [Diffusion Models in Low-Level Vision: A Survey](https://arxiv.org/abs/2406.11138)<br>:star:[code](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision)<br>[2024-06-18]
 * [Public Computer Vision Datasets for Precision Livestock Farming: A Systematic Survey](https://arxiv.org/abs/2406.10628)<br>[2024-06-18]
 * [Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI](https://arxiv.org/abs/2407.06886)<br>:star:[code](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)<br>[2024-07-10]
+* [Event-based vision on FPGAs -- a survey](https://arxiv.org/abs/2407.08356)<br>[2024-07-12]
 
 
 <a name="0000"/>
