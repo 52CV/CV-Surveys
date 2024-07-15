@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月15日已公开 256+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月15日已公开 256+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -307,7 +307,6 @@
 * [YOLOv1 to YOLOv10: A comprehensive review of YOLO variants and their application in the agricultural domain](https://arxiv.org/abs/2406.10139)<br>[2024-06-17]
 * [YOLOv10 to Its Genesis: A Decadal and Comprehensive Review of The You Only Look Once Series](https://arxiv.org/abs/2406.19407)<br>[2024-07-01]
 * [Semi-Supervised Object Detection: A Survey on Progress from CNN to Transformer](https://arxiv.org/abs/2407.08460)<br>[2024-07-12]
-* [DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training](https://arxiv.org/abs/2407.09174)<br>:star:[code](https://github.com/chen-xin-94/DART)<br>[2024-07-15]
 * 海洋垃圾检测
   * [State of the art applications of deep learning within tracking and detecting marine debris: A survey](https://arxiv.org/abs/2403.18067)<br>[2024-03-28]
 * 3D目标识别
