@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月11日已公开 251+5 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月15日已公开 256+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -241,6 +241,7 @@
   * [Diffusion Model-Based Video Editing: A Survey](https://arxiv.org/abs/2407.07111)<br>:star:[code](https://github.com/wenhao728/awesome-diffusion-v2v)<br>[2024-07-11]
 * GAN
   * [Synthesizing Iris Images using Generative Adversarial Networks: Survey and Comparative Analysis](https://export.arxiv.org/abs/2404.17105)<br>[2024-04-29]合成虹膜图像
+  * [A Survey on the Application of Generative Adversarial Networks in Cybersecurity: Prospective, Direction and Open Research Scopes](https://arxiv.org/abs/2407.08839)<br>[2024-07-15]
 * 街景视角合成
   * [Bird's-Eye View to Street-View: A Survey](https://arxiv.org/abs/2405.08961)<br>[2024-05-16]
 * 人体情感识别
@@ -306,6 +307,7 @@
 * [YOLOv1 to YOLOv10: A comprehensive review of YOLO variants and their application in the agricultural domain](https://arxiv.org/abs/2406.10139)<br>[2024-06-17]
 * [YOLOv10 to Its Genesis: A Decadal and Comprehensive Review of The You Only Look Once Series](https://arxiv.org/abs/2406.19407)<br>[2024-07-01]
 * [Semi-Supervised Object Detection: A Survey on Progress from CNN to Transformer](https://arxiv.org/abs/2407.08460)<br>[2024-07-12]
+* [DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training](https://arxiv.org/abs/2407.09174)<br>:star:[code](https://github.com/chen-xin-94/DART)<br>[2024-07-15]
 * 海洋垃圾检测
   * [State of the art applications of deep learning within tracking and detecting marine debris: A survey](https://arxiv.org/abs/2403.18067)<br>[2024-03-28]
 * 3D目标识别
@@ -409,6 +411,8 @@
   * [On normalization-equivariance properties of supervised and unsupervised denoising methods: a survey](https://arxiv.org/abs/2402.15352)<br>[2024-02-26]
 * 去模糊
   * [Application of Deep Learning in Blind Motion Deblurring: Current Status and Future Prospects](https://arxiv.org/abs/2401.05055)<br>:star:[code](https://github.com/VisionVerse/Blind-Motion-Deblurring-Survey)<br>[2024-01-11]
+* 去阴影
+  * [Single-Image Shadow Removal Using Deep Learning: A Comprehensive Survey](https://arxiv.org/abs/2407.08865)<br>:star:[code](https://github.com/GuoLanqing/Awesome-Shadow-Removal)<br>[2024-07-15]
 * 图像增强
   * 水下图像增强
     * [A Comprehensive Survey on Underwater Image Enhancement Based on Deep Learning](https://arxiv.org/abs/2405.19684)<br>:star:[code](https://github.com/YuZhao1999/UIE)<br>[2024-05-31]
