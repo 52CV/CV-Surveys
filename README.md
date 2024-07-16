@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月15日已公开 256+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月16日已公开 258+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -227,6 +227,7 @@
   * [Generative Visual Compression: A Review](https://arxiv.org/abs/2402.02140)<br>[2024-02-06]
   * [Generative AI in Vision: A Survey on Models, Metrics and Applications](https://arxiv.org/abs/2402.16369)<br>[2024-02-27]
   * [Retrieval-Augmented Generation for AI-Generated Content: A Survey](https://arxiv.org/abs/2402.19473)<br>:star:[code](https://github.com/hymie122/RAG-Survey)<br>[2024-01-01]
+  * [A Survey of Defenses against AI-generated Visual Media: Detection, Disruption, and Authentication](https://arxiv.org/abs/2407.10575)<br>[2024-07-16]
 * 图像编辑
   * [Diffusion Model-Based Image Editing: A Survey](https://arxiv.org/abs/2402.17525)<br>:star:[code](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods)<br>[2024-02-28]
   * [A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models](https://arxiv.org/abs/2406.14555)<br>:star:[code](https://github.com/xinchengshuai/Awesome-Image-Editing)<br>[2024-06-21]
@@ -345,6 +346,8 @@
 * [Applications of interpretable deep learning in neuroimaging: a comprehensive review](https://arxiv.org/abs/2406.17792)<br>[2024-06-27]
 * [Foundational Models for Pathology and Endoscopy Images: Application for Gastric Inflammation](https://arxiv.org/abs/2406.18249)<br>[2024-06-27]
 * [A Review of Image Processing Methods in Prostate Ultrasound](https://arxiv.org/abs/2407.00678)<br>[2024-07-02]
+* [Physics-Inspired Generative Models in Medical Imaging: A Review](https://arxiv.org/abs/2407.10856)<br>[2024-07-16]
+* [Integrating Deep Learning in Cardiology: A Comprehensive Review of Atrial Fibrillation, Left Atrial Scar Segmentation, and the Frontiers of State-of-the-Art Techniques](https://arxiv.org/abs/2407.09561)<br>[2024-07-16]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
 * 生物医学图像分割
@@ -448,7 +451,8 @@
   * [When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models](https://arxiv.org/abs/2405.10255)<br>:star:[code](https://github.com/ActiveVisionLab/Awesome-LLM-3D)<br>[2024-05-17]
 * Stereo Matching
   * [A Survey on Deep Stereo Matching in the Twenties](https://arxiv.org/abs/2407.07816)<br>:star:[code](https://github.com/fabiotosi92/Awesome-Deep-Stereo-Matching)<br>[2024-07-11]
-
+* 3DGS
+  * [3DGS.zip: A survey on 3D Gaussian Splatting Compression Methods](https://arxiv.org/abs/2407.09510)<br>:star:[code](http://w-m.github.io/3dgs-compression-survey/)<br>[2024-07-16]
 
 <a name="1"/>
 
