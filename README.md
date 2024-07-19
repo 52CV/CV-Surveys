@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月17日已公开 262+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月19日已公开 263+1 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -177,6 +177,7 @@
   * [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2404.18930)<br>:star:[code](https://github.com/showlab/Awesome-MLLM-Hallucination)<br>[2024-04-30]
   * [Multi-Modal and Multi-Agent Systems Meet Rationality: A Survey](https://arxiv.org/abs/2406.00252)<br>:star:[code](https://github.com/bowen-upenn/MMMA_Rationality)<br>[2024-06-04]
   * [A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends](https://arxiv.org/abs/2407.07403)<br>:star:[code](https://github.com/liudaizong/Awesome-LVLM-Attack)<br>[2024-07-11]
+  * [Grounding and Evaluation for Large Language Models: Practical Challenges and Lessons Learned (Survey)](https://arxiv.org/abs/2407.12858)<br>[2024-07-19]
 
 ## Vision Transformer
 * [Exploring the Synergies of Hybrid CNNs and ViTs Architectures for Computer Vision: A survey](https://arxiv.org/abs/2402.02941)<br>[2024-02-06]
