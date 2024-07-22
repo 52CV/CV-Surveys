@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月19日已公开 263+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月22日已公开 264+1 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -396,6 +396,7 @@
 * [Noisy Label Processing for Classification: A Survey](https://arxiv.org/abs/2404.04159)<br>[2024-04-08]
 * [Traditional to Transformers: A Survey on Current Trends and Future Prospects for Hyperspectral Image Classification](https://export.arxiv.org/abs/2404.14955)<br>:star:[code](https://github.com/mahmad00/Conventional-to-Transformer-for-Hyperspectral-Image-Classification-Survey-2024.)<br>[2024-04-24]
 * [Convolutional Neural Networks and Vision Transformers for Fashion MNIST Classification: A Literature Review](https://arxiv.org/abs/2406.03478)<br>[2024-06-06]
+* [A review on vision-based motion estimation](https://arxiv.org/abs/2407.14478)<br>[2024-07-22]
 
 
 ## Image Segmentation(图像分割)
