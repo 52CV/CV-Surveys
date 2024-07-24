@@ -21,12 +21,13 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月22日已公开 264+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月24日已公开 268+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
 4月份共计33篇。<br>
-5月份共计50篇。<br>计188篇。
+5月份共计50篇。<br>
+6月份共计40篇。<br>计228篇。
 
 ## 目录
 
@@ -178,6 +179,7 @@
   * [Multi-Modal and Multi-Agent Systems Meet Rationality: A Survey](https://arxiv.org/abs/2406.00252)<br>:star:[code](https://github.com/bowen-upenn/MMMA_Rationality)<br>[2024-06-04]
   * [A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends](https://arxiv.org/abs/2407.07403)<br>:star:[code](https://github.com/liudaizong/Awesome-LVLM-Attack)<br>[2024-07-11]
   * [Grounding and Evaluation for Large Language Models: Practical Challenges and Lessons Learned (Survey)](https://arxiv.org/abs/2407.12858)<br>[2024-07-19]
+  * [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/abs/2407.15017)<br>[2024-07-23]
 
 ## Vision Transformer
 * [Exploring the Synergies of Hybrid CNNs and ViTs Architectures for Computer Vision: A survey](https://arxiv.org/abs/2402.02941)<br>[2024-02-06]
@@ -218,6 +220,7 @@
   * [Survey of Bias In Text-to-Image Generation: Definition, Evaluation, and Mitigation](https://arxiv.org/abs/2404.01030)<br>[2024-04-02]
   * [Theoretical research on generative diffusion models: an overview](https://arxiv.org/abs/2404.09016)<br>[2024-04-16]
   * [Exploring Feedback Generation in Automated Skeletal Movement Assessment: A Comprehensive Overview](https://arxiv.org/abs/2404.09359)<br>[2024-04-16]
+  * [Adversarial Attacks and Defenses on Text-to-Image Diffusion Models: A Survey](https://arxiv.org/abs/2407.15861)<br>:star:[code](https://github.com/datar001/Awesome-AD-on-T2IDM)<br>[2024-07-24]
 * 内容生成
   * [A Survey on Personalized Content Synthesis with Diffusion Models](https://arxiv.org/abs/2405.05538)<br>[2024-05-10]
   * 文本-3D
@@ -249,6 +252,8 @@
 * 人体情感识别
   * [Generative Technology for Human Emotion Recognition: A Scope Review](https://arxiv.org/abs/2407.03640)<br>[2024-07-08]
   * [Sensing technologies and machine learning methods for emotion recognition in autism: Systematic review](https://arxiv.org/abs/2407.04712)<br>[2024-07-09]
+* 艺术字生成
+  * [Intelligent Artistic Typography: A Comprehensive Review of Artistic Text Design and Generation](https://arxiv.org/abs/2407.14774)<br>:star:[code](https://github.com/williamyang1991/Awesome-Artistic-Typography/)<br>[2024-07-23]
 
 ## Model Compression
 * [Model Compression Techniques in Biometrics Applications: A Survey](https://arxiv.org/abs/2401.10139)<br>[2024-01-19]
@@ -269,6 +274,7 @@
 * [From CNNs to Transformers in Multimodal Human Action Recognition: A Survey](https://arxiv.org/abs/2405.15813)<br>[2024-05-28]
 * [Self-Supervised Skeleton Action Representation Learning: A Benchmark and Beyond](https://arxiv.org/abs/2406.02978)<br>[2024-06-06]
 * [RNNs, CNNs and Transformers in Human Action Recognition: A Survey and A Hybrid Model](https://arxiv.org/abs/2407.06162)<br>[2024-07-09]
+* [A Comprehensive Review of Few-shot Action Recognition](https://arxiv.org/abs/2407.14744)<br>[2024-07-23]
 * 跌倒检测
   * [Deep Learning for Computer Vision based Activity Recognition and Fall Detection of the Elderly: a Systematic Review](https://arxiv.org/abs/2401.11790)<br>[2024-01-23]
 
@@ -351,6 +357,7 @@
 * [A Review of Image Processing Methods in Prostate Ultrasound](https://arxiv.org/abs/2407.00678)<br>[2024-07-02]
 * [Physics-Inspired Generative Models in Medical Imaging: A Review](https://arxiv.org/abs/2407.10856)<br>[2024-07-16]
 * [Integrating Deep Learning in Cardiology: A Comprehensive Review of Atrial Fibrillation, Left Atrial Scar Segmentation, and the Frontiers of State-of-the-Art Techniques](https://arxiv.org/abs/2407.09561)<br>[2024-07-16]
+* [A Survey on Trustworthiness in Foundation Models for Medical Image Analysis](https://arxiv.org/abs/2407.15851)<br>[2024-07-24]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
 * 生物医学图像分割
@@ -376,6 +383,7 @@
 * 医学图像分割
   * [Explainable AI (XAI) in Image Segmentation in Medicine, Industry, and Beyond: A Survey](https://arxiv.org/abs/2405.01636)<br>[2024-05-06]
   * [AI-based Automatic Segmentation of Prostate on Multi-modality Images: A Review](https://arxiv.org/abs/2407.06612)<br>[2024-07-10]
+  * [Deep Learning for Pancreas Segmentation: a Systematic Review](https://arxiv.org/abs/2407.16313)<br>[2024-07-24]
 * 神经成像中的异常检测
   * [Artificial intelligence for abnormality detection in high volume neuroimaging: a systematic review and meta-analysis](https://arxiv.org/abs/2405.05658)<br>[2024-05-10]
 * 报告生成
