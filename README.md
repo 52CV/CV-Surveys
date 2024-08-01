@@ -76,7 +76,7 @@
 ## Multi-Label Learning(多标签学习)
 * [Deep Learning for Multi-Label Learning: A Comprehensive Survey](https://arxiv.org/abs/2401.16549)<br>[2024-01-31]
 
-## 
+## Few/Zero-Shot Learning/DG/A(小/零样本/域泛化/域适应)
 * 零样本
   * [Improving deep learning with prior knowledge and cognitive models: A survey on enhancing explainability, adversarial robustness and zero-shot learning](https://arxiv.org/abs/2403.07078)<br>[2024-03-13]
 
