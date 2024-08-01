@@ -21,13 +21,14 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月30日已公开 274+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月1日已公开 276+1 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
 4月份共计33篇。<br>
 5月份共计50篇。<br>
-6月份共计40篇。<br>计228篇。
+6月份共计40篇。<br>
+7月份共计48篇。<br>计276篇。
 
 ## 目录
 
@@ -69,6 +70,8 @@
   * [A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect](https://arxiv.org/abs/2401.16402)<br>[2024-01-30]
 * 点云的工业系统 3D 缺陷检测和分类
   * [Advancements in Point Cloud-Based 3D Defect Detection and Classification for Industrial Systems: A Comprehensive Survey](https://arxiv.org/abs/2402.12923)<br>[2024-02-21]
+* OOD
+  * [Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey](https://arxiv.org/abs/2407.21794)(https://github.com/AtsuMiyai/Awesome-OOD-VLM)<br>[2024-08-01]<br>
 
 ## Multi-Label Learning(多标签学习)
 * [Deep Learning for Multi-Label Learning: A Comprehensive Survey](https://arxiv.org/abs/2401.16549)<br>[2024-01-31]
