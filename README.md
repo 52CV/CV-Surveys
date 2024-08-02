@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月1日已公开 276+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月2日已公开 277+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -79,6 +79,10 @@
 ## Few/Zero-Shot Learning/DG/A(小/零样本/域泛化/域适应)
 * 零样本
   * [Improving deep learning with prior knowledge and cognitive models: A survey on enhancing explainability, adversarial robustness and zero-shot learning](https://arxiv.org/abs/2403.07078)<br>[2024-03-13]
+
+## Deep learning
+* 长尾学习
+  * [A Systematic Review on Long-Tailed Learning](https://arxiv.org/abs/2408.00483)<br>[2024-08-02]
 
 ## Machine Learning(机器学习)
 * [A Comprehensive Review of Machine Learning Advances on Data Change: A Cross-Field Perspective](https://arxiv.org/abs/2402.12627)<br>[2024-02-21]
@@ -220,6 +224,7 @@
 * [Survey on Visual Signal Coding and Processing with Generative Models: Technologies, Standards and Optimization](https://arxiv.org/abs/2405.14221)<br>[2024-05-24]
 * [LLMs Meet Multimodal Generation and Editing: A Survey](https://arxiv.org/abs/2405.19334)<br>:star:[code](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation)<br>[2024-05-30]
 * [Diffusion Models and Representation Learning: A Survey](https://arxiv.org/abs/2407.00783)<br>:star:[code](https://github.com/dongzhuoyao/Diffusion-Representation-Learning-Survey-Taxonomy)<br>[2024-07-02]
+* [Replication in Visual Diffusion Models: A Survey and Outlook](https://arxiv.org/abs/2408.00001)<br>:star:[code](https://github.com/WangWenhao0716/Awesome-Diffusion-Replication)<br>[2024-08-02]
 * 文本-图像生成
   * [Text-to-Image Cross-Modal Generation: A Systematic Review](https://arxiv.org/abs/2401.11631)<br>[2024-01-23]
   * [Controllable Generation with Text-to-Image Diffusion Models: A Survey](https://arxiv.org/abs/2403.04279)<br>:star:[code](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models)<br>[2024-03-08]
@@ -270,6 +275,8 @@
 ## Reid/Pedestrian Detection(行人/重识别检测)
 * Reid
   * [A Survey on 3D Skeleton Based Person Re-Identification: Approaches, Designs, Challenges, and Future Directions](https://arxiv.org/abs/2401.15296)<br>:star:[code](https://github.com/Kali-Hac/3D-skeleton-based-person-re-ID-survey)<br>[2024-01-30]
+  * 基于文本-重识别
+    * [From Attributes to Natural Language: A Survey and Foresight on Text-based Person Re-identification](https://arxiv.org/abs/2408.00096)<br>[2024-08-02]
 * 行人检测
   * [Pedestrian Detection in Low-Light Conditions: A Comprehensive Survey](https://arxiv.org/abs/2401.07801)<br>[2024-01-17]
   * [Research, Applications and Prospects of Event-Based Pedestrian Detection: A Survey](https://arxiv.org/abs/2407.04277)<br>[2024-07-08]
