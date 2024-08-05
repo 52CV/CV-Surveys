@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月2日已公开 277+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月2日已公开 280+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -212,6 +212,8 @@
   * [Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing](https://arxiv.org/abs/2402.03082)<br>:star:[code](https://github.com/shuyansy/Survey-of-Visual-Text-Processing)<br>[2024-02-06]
 * 图表理解
   * [From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models](https://arxiv.org/abs/2403.12027)<br>[2024-03-19]
+* 文档理解
+  * [Deep Learning based Visually Rich Document Content Understanding: A Survey](https://arxiv.org/abs/2408.01287)<br>[2024-08-05]
 * 文本识别
   * [Self-Supervised Learning for Text Recognition: A Critical Survey](https://arxiv.org/abs/2407.19889)<br>[2024-07-30]
 * 手写识别
@@ -372,6 +374,7 @@
 * [Physics-Inspired Generative Models in Medical Imaging: A Review](https://arxiv.org/abs/2407.10856)<br>[2024-07-16]
 * [Integrating Deep Learning in Cardiology: A Comprehensive Review of Atrial Fibrillation, Left Atrial Scar Segmentation, and the Frontiers of State-of-the-Art Techniques](https://arxiv.org/abs/2407.09561)<br>[2024-07-16]
 * [A Survey on Trustworthiness in Foundation Models for Medical Image Analysis](https://arxiv.org/abs/2407.15851)<br>[2024-07-24]
+* [PINNs for Medical Image Analysis: A Survey](https://arxiv.org/abs/2408.01026)<br>[2024-08-05]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
 * 生物医学图像分割
