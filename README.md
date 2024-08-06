@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月2日已公开 280+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月6日已公开 282+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -167,6 +167,7 @@
 * [Vision Mamba: A Comprehensive Survey and Taxonomy](https://arxiv.org/abs/2405.04404)<br>:star:[code](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)<br>[2024-05-08]
 * [A Survey on Vision-Language-Action Models for Embodied AI](https://arxiv.org/abs/2405.14093)<br>[2024-05-24]
 * [JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models](https://export.arxiv.org/abs/2407.01599)<br>:house:[project](https://chonghan-chen.com/llm-jailbreak-zoo-survey/)<br>[2024-07-03]
+* [Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models](https://arxiv.org/abs/2408.02085)<br>:star:[code](https://github.com/yuleiqin/fantastic-data-engineering)<br>[2024-08-06]
 * 基础模型
   * [Few-shot Adaptation of Multi-modal Foundation Models: A Survey](https://arxiv.org/abs/2401.01736)<br>[2024-01-04]
   * [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Review](https://arxiv.org/abs/2405.09589)<br>[2024-05-17]
@@ -266,6 +267,7 @@
 * 人体情感识别
   * [Generative Technology for Human Emotion Recognition: A Scope Review](https://arxiv.org/abs/2407.03640)<br>[2024-07-08]
   * [Sensing technologies and machine learning methods for emotion recognition in autism: Systematic review](https://arxiv.org/abs/2407.04712)<br>[2024-07-09]
+  * [Survey on Emotion Recognition through Posture Detection and the possibility of its application in Virtual Reality](https://arxiv.org/abs/2408.01728)<br>[2024-08-06]
 * 艺术字生成
   * [Intelligent Artistic Typography: A Comprehensive Review of Artistic Text Design and Generation](https://arxiv.org/abs/2407.14774)<br>:star:[code](https://github.com/williamyang1991/Awesome-Artistic-Typography/)<br>[2024-07-23]
 
@@ -331,6 +333,7 @@
 * [YOLOv1 to YOLOv10: A comprehensive review of YOLO variants and their application in the agricultural domain](https://arxiv.org/abs/2406.10139)<br>[2024-06-17]
 * [YOLOv10 to Its Genesis: A Decadal and Comprehensive Review of The You Only Look Once Series](https://arxiv.org/abs/2406.19407)<br>[2024-07-01]
 * [Semi-Supervised Object Detection: A Survey on Progress from CNN to Transformer](https://arxiv.org/abs/2407.08460)<br>[2024-07-12]
+* [A Survey and Evaluation of Adversarial Attacks for Object Detection](https://arxiv.org/abs/2408.01934)<br>[2024-08-06]
 * 海洋垃圾检测
   * [State of the art applications of deep learning within tracking and detecting marine debris: A survey](https://arxiv.org/abs/2403.18067)<br>[2024-03-28]
 * 3D目标识别
@@ -508,6 +511,7 @@
 * [Public Computer Vision Datasets for Precision Livestock Farming: A Systematic Survey](https://arxiv.org/abs/2406.10628)<br>[2024-06-18]
 * [Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI](https://arxiv.org/abs/2407.06886)<br>:star:[code](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)<br>[2024-07-10]
 * [Event-based vision on FPGAs -- a survey](https://arxiv.org/abs/2407.08356)<br>[2024-07-12]
+* [Fairness and Bias Mitigation in Computer Vision: A Survey](https://arxiv.org/abs/2408.02464)<br>[2024-08-06]
 
 
 <a name="0000"/>
