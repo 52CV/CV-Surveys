@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月8日已公开 286+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月9日已公开 288+1 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -476,6 +476,7 @@
   * [Recent Trends in 3D Reconstruction of General Non-Rigid Scenes](https://arxiv.org/abs/2403.15064)<br>[2024-03-25]
   * [Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review](https://arxiv.org/abs/2405.03417)<br>[2024-05-07]
   * [Survey on Fundamental Deep Learning 3D Reconstruction Techniques](https://arxiv.org/abs/2407.08137)<br>[2024-07-12]
+  * [A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery](https://arxiv.org/abs/2408.04426)<br>:star:[code](https://github.com/Epsilon404/surgicalnerf)<br>[2024-08-09]
 * 3D 生成
   * [Advances in 3D Generation: A Survey](https://arxiv.org/abs/2401.17807)<br>[2024-02-01]
 * 3D 密集字幕
