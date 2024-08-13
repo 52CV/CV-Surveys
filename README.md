@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月12日已公开 289+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月13日已公开 291+1 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -305,6 +305,8 @@
 * [Markerless Multi-view 3D Human Pose Estimation: a survey](https://arxiv.org/abs/2407.03817)<br>[2024-07-08]
 * 三维人体
   * [A Survey on 3D Human Avatar Modeling -- From Reconstruction to Generation](https://arxiv.org/abs/2406.04253)<br>[2024-06-07]
+* 手势合成
+  * [A Methodological and Structural Review of Hand Gesture Recognition Across Diverse Data Modalities](https://arxiv.org/abs/2408.05436)<br>[2024-08-13]
 
 ## Video
 * [Deep video representation learning: a survey](https://arxiv.org/abs/2405.06574)<br>[2024-05-13]
