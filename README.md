@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月14日已公开 292+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月15日已公开 294+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -66,6 +66,7 @@
 * [A Systematic Review of Available Datasets in Additive Manufacturing](https://arxiv.org/abs/2401.15448)<br>[2024-01-30]
 * [A Comprehensive Survey on Machine Learning Driven Material Defect Detection: Challenges, Solutions, and Future Prospects](https://arxiv.org/abs/2406.07880)<br>[2024-06-13]
 * [A PRISMA Driven Systematic Review of Publicly Available Datasets for Benchmark and Model Developments for Industrial Defect Detection](https://arxiv.org/abs/2406.07694)<br>[2024-06-13]
+* [Transformers and Large Language Models for Efficient Intrusion Detection Systems: A Comprehensive Survey](https://arxiv.org/abs/2408.07583)<br>[2024-08-15]
 * VAD
   * [A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect](https://arxiv.org/abs/2401.16402)<br>[2024-01-30]
 * 点云的工业系统 3D 缺陷检测和分类
@@ -522,6 +523,7 @@
 * [Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI](https://arxiv.org/abs/2407.06886)<br>:star:[code](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)<br>[2024-07-10]
 * [Event-based vision on FPGAs -- a survey](https://arxiv.org/abs/2407.08356)<br>[2024-07-12]
 * [Fairness and Bias Mitigation in Computer Vision: A Survey](https://arxiv.org/abs/2408.02464)<br>[2024-08-06]
+* [A Review of Pseudo-Labeling for Computer Vision](https://arxiv.org/abs/2408.07221)<br>[2024-08-15]
 
 
 <a name="0000"/>
