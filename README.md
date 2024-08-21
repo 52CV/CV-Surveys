@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月20日已公开 299+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月21日已公开 300+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -118,6 +118,7 @@
 
 ## Human Object Interaction(人机交互)
 * [How Can Large Language Models Enable Better Socially Assistive Human-Robot Interaction: A Brief Survey](https://arxiv.org/abs/2404.00938)<br>[2024-04-02]
+* [A Review of Human-Object Interaction Detection](https://arxiv.org/abs/2408.10641)<br>[2024-08-21]
 
 ## Robot/SLAM
 * SLAM
@@ -279,6 +280,8 @@
   * [Survey on Emotion Recognition through Posture Detection and the possibility of its application in Virtual Reality](https://arxiv.org/abs/2408.01728)<br>[2024-08-06]
 * 艺术字生成
   * [Intelligent Artistic Typography: A Comprehensive Review of Artistic Text Design and Generation](https://arxiv.org/abs/2407.14774)<br>:star:[code](https://github.com/williamyang1991/Awesome-Artistic-Typography/)<br>[2024-07-23]
+* 扩撒
+  * [A Comprehensive Survey on Diffusion Models and Their Applications](https://arxiv.org/abs/2408.10207)<br>[2024-08-21]
 
 ## Model Compression
 * [Model Compression Techniques in Biometrics Applications: A Survey](https://arxiv.org/abs/2401.10139)<br>[2024-01-19]
@@ -531,7 +534,7 @@
 * [Event-based vision on FPGAs -- a survey](https://arxiv.org/abs/2407.08356)<br>[2024-07-12]
 * [Fairness and Bias Mitigation in Computer Vision: A Survey](https://arxiv.org/abs/2408.02464)<br>[2024-08-06]
 * [A Review of Pseudo-Labeling for Computer Vision](https://arxiv.org/abs/2408.07221)<br>[2024-08-15]
-
+* [Generative AI in Industrial Machine Vision -- A Review](https://arxiv.org/abs/2408.10775)<br>[2024-08-21]
 
 <a name="0000"/>
 
