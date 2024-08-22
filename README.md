@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月21日已公开 300+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月22日已公开 303+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -130,6 +130,7 @@
 * 机器人
   * [Survey on Datasets for Perception in Unstructured Outdoor Environments](https://arxiv.org/abs/2404.18750)<br>[2024-04-30]
   * [A Brief Survey on Leveraging Large Scale Vision Models for Enhanced Robot Grasping](https://arxiv.org/abs/2406.11786)<br>[2024-06-18]
+  * [A Survey of Embodied Learning for Object-Centric Robotic Manipulation](https://arxiv.org/abs/2408.11537)<br>:star:[code](https://github.com/RayYoh/OCRM_survey)<br>[2024-08-22]
 * PR
   * [General Place Recognition Survey: Towards Real-World Autonomy](https://arxiv.org/abs/2405.04812)<br>:star:[code](https://github.com/MetaSLAM/GPRS)<br>[2024-05-09]
 
@@ -421,6 +422,7 @@
   * [Explainable AI (XAI) in Image Segmentation in Medicine, Industry, and Beyond: A Survey](https://arxiv.org/abs/2405.01636)<br>[2024-05-06]
   * [AI-based Automatic Segmentation of Prostate on Multi-modality Images: A Review](https://arxiv.org/abs/2407.06612)<br>[2024-07-10]
   * [Deep Learning for Pancreas Segmentation: a Systematic Review](https://arxiv.org/abs/2407.16313)<br>[2024-07-24]
+  * [A Short Review and Evaluation of SAM2's Performance in 3D CT Image Segmentation](https://arxiv.org/abs/2408.11210)<br>[2024-08-22]
 * 细胞核实例分割
   * [A Survey on Cell Nuclei Instance Segmentation and Classification: Leveraging Context and Attention](https://arxiv.org/abs/2407.18673)<br>[2024-07-29]
 * 神经成像中的异常检测
