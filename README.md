@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月23日已公开 305+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月26日已公开 306+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -424,6 +424,7 @@
   * [AI-based Automatic Segmentation of Prostate on Multi-modality Images: A Review](https://arxiv.org/abs/2407.06612)<br>[2024-07-10]
   * [Deep Learning for Pancreas Segmentation: a Systematic Review](https://arxiv.org/abs/2407.16313)<br>[2024-07-24]
   * [A Short Review and Evaluation of SAM2's Performance in 3D CT Image Segmentation](https://arxiv.org/abs/2408.11210)<br>[2024-08-22]
+  * [Unleashing the Potential of SAM2 for Biomedical Images and Videos: A Survey](https://arxiv.org/abs/2408.12889)<br>:star:[code](https://github.com/YichiZhang98/SAM4MIS)<br>[2024-08-26]
 * 细胞核实例分割
   * [A Survey on Cell Nuclei Instance Segmentation and Classification: Leveraging Context and Attention](https://arxiv.org/abs/2407.18673)<br>[2024-07-29]
 * 神经成像中的异常检测
@@ -440,6 +441,8 @@
 * MRI 重建
   * [A Brief Overview of Optimization-Based Algorithms for MRI Reconstruction Using Deep Learning](https://arxiv.org/abs/2406.02626)<br>[2024-06-06]
   * [A Review of Electromagnetic Elimination Methods for low-field portable MRI scanner](https://arxiv.org/abs/2406.17804)<br>[2024-06-27]
+* 药品检测
+  * [A Survey on Drowsiness Detection -- Modern Applications and Methods](https://arxiv.org/abs/2408.12990)<br>[2024-08-26]
 
 ## Image Classification(图像分类)
 * [High-energy physics image classification: A Survey of Jet Applications](https://arxiv.org/abs/2403.11934)<br>[2024-03-19]
@@ -453,6 +456,7 @@
 * [Surveying the Landscape of Image Captioning Evaluation: A Comprehensive Taxonomy and Novel Ensemble Method](https://arxiv.org/abs/2408.04909)<br>[2024-08-12]
 
 ## Image Segmentation(图像分割)
+* [Image Segmentation in Foundation Model Era: A Survey](https://arxiv.org/abs/2408.12957)<br>[2024-08-26]
 * 语义分割
   * [Semi-Supervised Semantic Segmentation Based on Pseudo-Labels: A Survey](https://arxiv.org/abs/2403.01909)<br>[2024-03-06]无PDF
   * [Deep Learning-Based 3D Instance and Semantic Segmentation: A Review](https://arxiv.org/abs/2406.13308)<br>[2024-06-21]
