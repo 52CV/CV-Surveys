@@ -153,6 +153,8 @@
 * [Collective Perception Datasets for Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2405.16973)<br>[2024-05-28]
 * 车辆重识别
   * [A Comprehensive Survey on Deep-Learning-based Vehicle Re-Identification: Models, Data Sets and Challenges](https://arxiv.org/abs/2401.10643)<br>[2024-01-22]
+* 疲劳驾驶检测
+  * [A Survey on Drowsiness Detection -- Modern Applications and Methods](https://arxiv.org/abs/2408.12990)<br>[2024-08-26]
 
 ## Tamper Detection/image forencis detection(图像篡改检测方向)
 * [Datasets, Clues and State-of-the-Arts for Multimedia Forensics: An Extensive Review](https://arxiv.org/abs/2401.06999)<br>[2024-01-17]
@@ -441,8 +443,7 @@
 * MRI 重建
   * [A Brief Overview of Optimization-Based Algorithms for MRI Reconstruction Using Deep Learning](https://arxiv.org/abs/2406.02626)<br>[2024-06-06]
   * [A Review of Electromagnetic Elimination Methods for low-field portable MRI scanner](https://arxiv.org/abs/2406.17804)<br>[2024-06-27]
-* 药品检测
-  * [A Survey on Drowsiness Detection -- Modern Applications and Methods](https://arxiv.org/abs/2408.12990)<br>[2024-08-26]
+
 
 ## Image Classification(图像分类)
 * [High-energy physics image classification: A Survey of Jet Applications](https://arxiv.org/abs/2403.11934)<br>[2024-03-19]
