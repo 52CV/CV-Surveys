@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月26日已公开 306+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月27日已公开 309+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -353,6 +353,8 @@
 * [YOLOv10 to Its Genesis: A Decadal and Comprehensive Review of The You Only Look Once Series](https://arxiv.org/abs/2406.19407)<br>[2024-07-01]
 * [Semi-Supervised Object Detection: A Survey on Progress from CNN to Transformer](https://arxiv.org/abs/2407.08460)<br>[2024-07-12]
 * [A Survey and Evaluation of Adversarial Attacks for Object Detection](https://arxiv.org/abs/2408.01934)<br>[2024-08-06]
+* 小样本目标检测
+  * [Beyond Few-shot Object Detection: A Detailed Survey](https://arxiv.org/abs/2408.14249)<br>[2024-08-27]
 * 海洋垃圾检测
   * [State of the art applications of deep learning within tracking and detecting marine debris: A survey](https://arxiv.org/abs/2403.18067)<br>[2024-03-28]
 * 3D目标识别
@@ -438,6 +440,8 @@
   * [A Survey of Artificial Intelligence in Gait-Based Neurodegenerative Disease Diagnosis](https://arxiv.org/abs/2405.13082)<br>:star:[code](https://github.com/Kali-Hac/AI4NDD-Survey)<br>[2024-05-24]
 * 目标检测
   * [A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic](https://arxiv.org/abs/2405.18387)<br>[2024-05-29]
+* 肺炎检测
+  * [A systematic review: Deep learning-based methods for pneumonia region detection](https://arxiv.org/abs/2408.13315)<br>[2024-08-27]
 * 癌症检测
   * [Federated and Transfer Learning for Cancer Detection Based on Image Analysis](https://arxiv.org/abs/2405.20126)<br>[2024-05-31]
 * MRI 重建
@@ -543,6 +547,7 @@
 * [Fairness and Bias Mitigation in Computer Vision: A Survey](https://arxiv.org/abs/2408.02464)<br>[2024-08-06]
 * [A Review of Pseudo-Labeling for Computer Vision](https://arxiv.org/abs/2408.07221)<br>[2024-08-15]
 * [Generative AI in Industrial Machine Vision -- A Review](https://arxiv.org/abs/2408.10775)<br>[2024-08-21]
+* [Recent Event Camera Innovations: A Survey](https://arxiv.org/abs/2408.13627)<br>:star:[code](https://github.com/chakravarthi589/Event-based-Vision_Resources)<br>[2024-08-27]
 
 <a name="0000"/>
 
