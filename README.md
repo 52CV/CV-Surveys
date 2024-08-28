@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月27日已公开 309+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月28日已公开 312+5 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -89,6 +89,7 @@
 * [A Comprehensive Review of Machine Learning Advances on Data Change: A Cross-Field Perspective](https://arxiv.org/abs/2402.12627)<br>[2024-02-21]
 * [Open-world Machine Learning: A Review and New Outlooks](https://arxiv.org/abs/2403.01759)<br>[2024-03-06]无PDF
 * [Inference Attacks in Machine Learning as a Service: A Taxonomy, Review, and Promising Directions](https://arxiv.org/abs/2406.02027)<br>[2024-06-05]
+* [Machine Learning for Methane Detection and Quantification from Space -- A survey](https://arxiv.org/abs/2408.15122)<br>[2024-08-28]
 * 持续学习
   * [Continual Learning with Pre-Trained Models: A Survey](https://arxiv.org/abs/2401.16386)<br>:star:[code](https://github.com/sun-hailong/LAMDA-PILOT)<br>[2024-01-30]
 * 迁移学习
@@ -203,6 +204,7 @@
 * [Exploring the Synergies of Hybrid CNNs and ViTs Architectures for Computer Vision: A survey](https://arxiv.org/abs/2402.02941)<br>[2024-02-06]
 * [Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges](https://export.arxiv.org/abs/2404.16112)<br>:star:[code](https://github.com/badripatro/mamba360)<br>[2024-04-26]
 * [A Comparative Survey of Vision Transformers for Feature Extraction in Texture Analysis](https://arxiv.org/abs/2406.06136)<br>[2024-06-11]
+* [A Review of Transformer-Based Models for Computer Vision Tasks: Capturing Global Context and Spatial Relationships](https://arxiv.org/abs/2408.15178)<br>[2024-08-28]
 
 ## Style Transfer(风格迁移)
 * [Evaluation in Neural Style Transfer: A Review](https://arxiv.org/abs/2401.17109)<br>[2024-01-31]
@@ -323,6 +325,8 @@
   * [A Survey on 3D Human Avatar Modeling -- From Reconstruction to Generation](https://arxiv.org/abs/2406.04253)<br>[2024-06-07]
 * 手势合成
   * [A Methodological and Structural Review of Hand Gesture Recognition Across Diverse Data Modalities](https://arxiv.org/abs/2408.05436)<br>[2024-08-13]
+* 手语翻译
+  * [From Rule-Based Models to Deep Learning Transformers Architectures for Natural Language Processing and Sign Language Translation Systems: Survey, Taxonomy and Performance Evaluation](https://arxiv.org/abs/2408.14825)<br>[2024-08-28]
 
 ## Video
 * [Deep video representation learning: a survey](https://arxiv.org/abs/2405.06574)<br>[2024-05-13]
@@ -355,6 +359,8 @@
 * [A Survey and Evaluation of Adversarial Attacks for Object Detection](https://arxiv.org/abs/2408.01934)<br>[2024-08-06]
 * 小样本目标检测
   * [Beyond Few-shot Object Detection: A Detailed Survey](https://arxiv.org/abs/2408.14249)<br>[2024-08-27]
+* 伪装目标检测
+  * [A Survey of Camouflaged Object Detection and Beyond](https://arxiv.org/abs/2408.14562)<br>:star:[code](https://github.com/ChunmingHe/awesome-concealed-object-segmentation)<br>[2024-08-28]
 * 海洋垃圾检测
   * [State of the art applications of deep learning within tracking and detecting marine debris: A survey](https://arxiv.org/abs/2403.18067)<br>[2024-03-28]
 * 3D目标识别
@@ -521,6 +527,8 @@
 * 3DGS
   * [3DGS.zip: A survey on 3D Gaussian Splatting Compression Methods](https://arxiv.org/abs/2407.09510)<br>:star:[code](http://w-m.github.io/3dgs-compression-survey/)<br>[2024-07-16]
   * [3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities](https://arxiv.org/abs/2407.17418)<br>[2024-07-25]
+* MVS
+  * [Learning-based Multi-View Stereo: A Survey](https://arxiv.org/abs/2408.15235)<br>[2024-08-28]
 
 <a name="1"/>
 
