@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月28日已公开 312+5 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月29日已公开 317+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -152,6 +152,7 @@
 * [A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective](https://arxiv.org/abs/2405.05173)<br>:star:[code](https://github.com/HuaiyuanXu/3D-Occupancy-Perception)<br>[2024-05-09]
 * [Cooperative Visual-LiDAR Extrinsic Calibration Technology for Intersection Vehicle-Infrastructure: A review](https://arxiv.org/abs/2405.10132)<br>[2024-05-17]
 * [Collective Perception Datasets for Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2405.16973)<br>[2024-05-28]
+* [Panoptic Perception for Autonomous Driving: A Survey](https://arxiv.org/abs/2408.15388)<br>[2024-08-29]
 * 车辆重识别
   * [A Comprehensive Survey on Deep-Learning-based Vehicle Re-Identification: Models, Data Sets and Challenges](https://arxiv.org/abs/2401.10643)<br>[2024-01-22]
 * 疲劳驾驶检测
@@ -190,6 +191,7 @@
 * VLN
   * [Vision-Language Navigation with Embodied Intelligence: A Survey](https://arxiv.org/abs/2402.14304)<br>[2024-02-23]
   * [Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models](https://arxiv.org/abs/2407.07035)<br>[2024-07-10]
+  * [A Survey on Evaluation of Multimodal Large Language Models](https://arxiv.org/abs/2408.15769)<br>[2024-08-29]
 * LLM
   * [Large Multimodal Agents: A Survey](https://arxiv.org/abs/2402.15116)<br>:star:[code](https://github.com/jun0wanan/awesome-large-multimodal-agents)<br>[2024-02-26]
   * [Unbridled Icarus: A Survey of the Potential Perils of Image Inputs in Multimodal Large Language Model Security](https://arxiv.org/abs/2404.05264)<br>[2024-04-09]
@@ -502,6 +504,10 @@
 * [A Comprehensive Survey of Masked Faces: Recognition, Detection, and Unmasking](https://arxiv.org/abs/2405.05900)<br>[2024-05-10]
 * [Evolving from Single-modal to Multi-modal Facial Deepfake Detection: A Survey](https://arxiv.org/abs/2406.06965)<br>:star:[code](https://github.com/qiqitao77/Comprehensive-Advances-in-Deepfake-Detection-Spanning-Diverse-Modalities)<br>[2024-06-12]
 * [Artificial Immune System of Secure Face Recognition Against Adversarial Attacks](https://arxiv.org/pdf/2406.18144)<br>:star:[code](https://github.com/RenMin1991/SIDE)<br>[2024-06-27]
+* 人脸表情
+  * [A Survey on Facial Expression Recognition of Static and Dynamic Emotions](https://arxiv.org/abs/2408.15777)<br>:star:[code](https://github.com/wangyanckxx/SurveyFER)<br>[2024-08-29]
+* 群体情绪识别(Group-level Emotion Recognition ,GReco)
+  * [A Survey of Deep Learning for Group-level Emotion Recognition](https://arxiv.org/abs/2408.15276)<br>[2024-08-29]
 
 ## 3D Reconstruction
 * [3D Scene Geometry Estimation from 360∘ Imagery: A Survey](https://arxiv.org/abs/2401.09252)<br>[2024-01-18]
