@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月29日已公开 317+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月30日已公开 321+1 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -137,7 +137,6 @@
 
 ## Autonomous Driving(自动驾驶)
 * [A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook](https://arxiv.org/abs/2401.01454)<br>[2024-01-04]
-* [Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook](https://arxiv.org/abs/2401.06542)<br>[2024-01-15]
 * [Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies](https://arxiv.org/abs/2401.12888)<br>[2024-01-24]
 * [A Survey for Foundation Models in Autonomous Driving](https://arxiv.org/abs/2402.01105)<br>[2024-02-05]
 * [Review of the Learning-based Camera and Lidar Simulation Methods for Autonomous Driving Systems](https://arxiv.org/abs/2402.10079)<br>[2024-02-16]
@@ -148,11 +147,14 @@
 * [Collaborative Perception Datasets in Autonomous Driving: A Survey](https://export.arxiv.org/abs/2404.14022)<br>[2024-04-23]
 * [A Survey on Intermediate Fusion Methods for Collaborative Perception Categorized by Real World Challenges](https://export.arxiv.org/abs/2404.16139)<br>[2024-04-26]
 * [Vision-based 3D occupancy prediction in autonomous driving: a review and outlook](https://arxiv.org/abs/2405.02595)<br>:star:[code](https://github.com/zya3d/Awesome-3D-Occupancy-Prediction)<br>[2024-05-07]
-* [Deep Event-based Object Detection in Autonomous Driving: A Survey](https://arxiv.org/abs/2405.03995)<br>[2024-05-08]
 * [A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective](https://arxiv.org/abs/2405.05173)<br>:star:[code](https://github.com/HuaiyuanXu/3D-Occupancy-Perception)<br>[2024-05-09]
 * [Cooperative Visual-LiDAR Extrinsic Calibration Technology for Intersection Vehicle-Infrastructure: A review](https://arxiv.org/abs/2405.10132)<br>[2024-05-17]
 * [Collective Perception Datasets for Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2405.16973)<br>[2024-05-28]
 * [Panoptic Perception for Autonomous Driving: A Survey](https://arxiv.org/abs/2408.15388)<br>[2024-08-29]
+* 目标检测
+  * [Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook](https://arxiv.org/abs/2401.06542)<br>[2024-01-15]
+  * [Deep Event-based Object Detection in Autonomous Driving: A Survey](https://arxiv.org/abs/2405.03995)<br>[2024-05-08]
+  * [A Comprehensive Review of 3D Object Detection in Autonomous Driving: Technological Advances and Future Directions](https://arxiv.org/abs/2408.16530)<br>:star:[code](https://github.com/Fishsoup0/Autonomous-Driving-Perception)<br>[2024-08-30]
 * 车辆重识别
   * [A Comprehensive Survey on Deep-Learning-based Vehicle Re-Identification: Models, Data Sets and Challenges](https://arxiv.org/abs/2401.10643)<br>[2024-01-22]
 * 疲劳驾驶检测
