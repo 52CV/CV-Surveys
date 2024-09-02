@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月30日已公开 321+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月2日已公开 322+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -110,6 +110,7 @@
   * [Masked Modeling for Self-supervised Representation Learning on Vision and Beyond](https://github.com/Lupin1998/Awesome-MIM)<br>:star:[code](https://github.com/Lupin1998/Awesome-MIM)<br>[2024-01-03]
   * [A review on discriminative self-supervised learning methods](https://arxiv.org/abs/2405.04969)<br>[2024-05-09]
   * [Masked Image Modeling: A Survey](https://arxiv.org/abs/2408.06687)<br>[2024-08-14]
+  * [A Survey of the Self Supervised Learning Mechanisms for Vision Transformers](https://arxiv.org/abs/2408.17059)<br>[2024-09-02]
 * 无监督学习
   * [A Survey on Deep Clustering: From the Prior Perspective](https://arxiv.org/abs/2406.19602)<br>[2024-07-01]
 
@@ -564,6 +565,7 @@
 * [A Review of Pseudo-Labeling for Computer Vision](https://arxiv.org/abs/2408.07221)<br>[2024-08-15]
 * [Generative AI in Industrial Machine Vision -- A Review](https://arxiv.org/abs/2408.10775)<br>[2024-08-21]
 * [Recent Event Camera Innovations: A Survey](https://arxiv.org/abs/2408.13627)<br>:star:[code](https://github.com/chakravarthi589/Event-based-Vision_Resources)<br>[2024-08-27]
+* [How Could Generative AI Support Compliance with the EU AI Act? A Review for Safe Automated Driving Perception](https://arxiv.org/abs/2408.17222)<br>[2024-09-02]
 
 <a name="0000"/>
 
