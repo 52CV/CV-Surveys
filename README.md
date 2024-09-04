@@ -21,14 +21,16 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月2日已公开 322+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月4日已公开 324+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
 4月份共计33篇。<br>
 5月份共计50篇。<br>
 6月份共计40篇。<br>
-7月份共计48篇。<br>计276篇。
+7月份共计48篇。<br>
+8月份共计46篇。<br>
+计322篇。
 
 ## 目录
 
@@ -90,6 +92,7 @@
 * [Open-world Machine Learning: A Review and New Outlooks](https://arxiv.org/abs/2403.01759)<br>[2024-03-06]无PDF
 * [Inference Attacks in Machine Learning as a Service: A Taxonomy, Review, and Promising Directions](https://arxiv.org/abs/2406.02027)<br>[2024-06-05]
 * [Machine Learning for Methane Detection and Quantification from Space -- A survey](https://arxiv.org/abs/2408.15122)<br>[2024-08-28]
+* [Digital Twins in Additive Manufacturing: A Systematic Review](https://arxiv.org/abs/2409.00877)<br>[2024-09-04]
 * 持续学习
   * [Continual Learning with Pre-Trained Models: A Survey](https://arxiv.org/abs/2401.16386)<br>:star:[code](https://github.com/sun-hailong/LAMDA-PILOT)<br>[2024-01-30]
 * 迁移学习
@@ -316,6 +319,7 @@
 * [Self-Supervised Skeleton Action Representation Learning: A Benchmark and Beyond](https://arxiv.org/abs/2406.02978)<br>[2024-06-06]
 * [RNNs, CNNs and Transformers in Human Action Recognition: A Survey and A Hybrid Model](https://arxiv.org/abs/2407.06162)<br>[2024-07-09]
 * [A Comprehensive Review of Few-shot Action Recognition](https://arxiv.org/abs/2407.14744)<br>[2024-07-23]
+* [A Critical Analysis on Machine Learning Techniques for Video-based Human Activity Recognition of Surveillance Systems: A Review](https://arxiv.org/abs/2409.00731)<br>[2024-09-04]
 * 跌倒检测
   * [Deep Learning for Computer Vision based Activity Recognition and Fall Detection of the Elderly: a Systematic Review](https://arxiv.org/abs/2401.11790)<br>[2024-01-23]
 
@@ -371,6 +375,8 @@
 * 3D目标识别
   * [Deep Models for Multi-View 3D Object Recognition: A Review](https://export.arxiv.org/abs/2404.15224)<br>[2024-04-24]无PDF
   * [A Survey of Deep Learning Based Radar and Vision Fusion for 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/2406.00714)<br>[2024-06-04]
+* 阴影检测
+  * [Unveiling Deep Shadows: A Survey on Image and Video Shadow Detection, Removal, and Generation in the Era of Deep Learning](https://arxiv.org/abs/2409.02108)<br>:star:[code](https://github.com/xw-hu/Unveiling-Deep-Shadows)<br>[2024-09-04]
 
 ## UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
 * [Image Fusion in Remote Sensing: An Overview and Meta Analysis](https://arxiv.org/abs/2401.08837)<br>[2024-01-18]
@@ -467,6 +473,9 @@
 * [Convolutional Neural Networks and Vision Transformers for Fashion MNIST Classification: A Literature Review](https://arxiv.org/abs/2406.03478)<br>[2024-06-06]
 * [A review on vision-based motion estimation](https://arxiv.org/abs/2407.14478)<br>[2024-07-22]
 * [On the Element-Wise Representation and Reasoning in Zero-Shot Image Recognition: A Systematic Survey](https://arxiv.org/abs/2408.04879)<br>[2024-08-12]
+
+## Image Retrieval
+* [A Review of Image Retrieval Techniques: Data Augmentation and Adversarial Learning Approaches](https://arxiv.org/abs/2409.01219)<br>[2024-09-04]
 
 ## Image Captioning(图像字幕)
 * [Surveying the Landscape of Image Captioning Evaluation: A Comprehensive Taxonomy and Novel Ensemble Method](https://arxiv.org/abs/2408.04909)<br>[2024-08-12]
