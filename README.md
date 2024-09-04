@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月4日已公开 324+5 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月4日已公开 324+6 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -227,6 +227,7 @@
 
 ## MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)
 * [Computer Vision Model Compression Techniques for Embedded Systems: A Survey](https://arxiv.org/abs/2408.08250)<br>:star:[code](https://github.com/venturusbr/cv-model-compression)<br>[2024-08-16]
+* [Adversarial Pruning: A Survey and Benchmark of Pruning Methods for Adversarial Robustness](https://arxiv.org/abs/2409.01249)<br>:star:[code](https://github.com/pralab/AdversarialPruningBenchmark)<br>[2024-09-04]
 
 ## OCR
 * [Transformers and Language Models in Form Understanding: A Comprehensive Review of Scanned Document Analysis](https://arxiv.org/abs/2403.04080)<br>[2024-03-08]
