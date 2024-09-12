@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月12日已公开 336+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月12日已公开 336+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -298,6 +298,7 @@
   * [Intelligent Artistic Typography: A Comprehensive Review of Artistic Text Design and Generation](https://arxiv.org/abs/2407.14774)<br>:star:[code](https://github.com/williamyang1991/Awesome-Artistic-Typography/)<br>[2024-07-23]
 * 扩撒
   * [A Comprehensive Survey on Diffusion Models and Their Applications](https://arxiv.org/abs/2408.10207)<br>[2024-08-21]
+  * [Alignment of Diffusion Models: Fundamentals, Challenges, and Future](https://arxiv.org/abs/2409.07253)<br>[2024-09-12]
 
 ## Model Compression
 * [Model Compression Techniques in Biometrics Applications: A Survey](https://arxiv.org/abs/2401.10139)<br>[2024-01-19]
