@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月12日已公开 336+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月13日已公开 338+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -156,6 +156,7 @@
 * [Cooperative Visual-LiDAR Extrinsic Calibration Technology for Intersection Vehicle-Infrastructure: A review](https://arxiv.org/abs/2405.10132)<br>[2024-05-17]
 * [Collective Perception Datasets for Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2405.16973)<br>[2024-05-28]
 * [Panoptic Perception for Autonomous Driving: A Survey](https://arxiv.org/abs/2408.15388)<br>[2024-08-29]
+* [Feature Importance in Pedestrian Intention Prediction: A Context-Aware Review](https://arxiv.org/abs/2409.07645)<br>[2024-09-13]
 * 目标检测
   * [Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook](https://arxiv.org/abs/2401.06542)<br>[2024-01-15]
   * [Deep Event-based Object Detection in Autonomous Driving: A Survey](https://arxiv.org/abs/2405.03995)<br>[2024-05-08]
@@ -208,6 +209,8 @@
   * [Grounding and Evaluation for Large Language Models: Practical Challenges and Lessons Learned (Survey)](https://arxiv.org/abs/2407.12858)<br>[2024-07-19]
   * [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/abs/2407.15017)<br>[2024-07-23]
   * [Harnessing Large Vision and Language Models in Agriculture: A Review](https://arxiv.org/abs/2407.19679)<br>[2024-07-30]
+* 多模态
+  * [A Comprehensive Survey on Deep Multimodal Learning with Missing Modality](https://arxiv.org/abs/2409.07825)<br>[2024-09-13]
 
 ## Vision Transformer
 * [Exploring the Synergies of Hybrid CNNs and ViTs Architectures for Computer Vision: A survey](https://arxiv.org/abs/2402.02941)<br>[2024-02-06]
@@ -527,6 +530,7 @@
 * [A Comprehensive Survey of Masked Faces: Recognition, Detection, and Unmasking](https://arxiv.org/abs/2405.05900)<br>[2024-05-10]
 * [Evolving from Single-modal to Multi-modal Facial Deepfake Detection: A Survey](https://arxiv.org/abs/2406.06965)<br>:star:[code](https://github.com/qiqitao77/Comprehensive-Advances-in-Deepfake-Detection-Spanning-Diverse-Modalities)<br>[2024-06-12]
 * [Artificial Immune System of Secure Face Recognition Against Adversarial Attacks](https://arxiv.org/pdf/2406.18144)<br>:star:[code](https://github.com/RenMin1991/SIDE)<br>[2024-06-27]
+* [Complex Emotion Recognition System using basic emotions via Facial Expression, EEG, and ECG Signals: a review](https://arxiv.org/abs/2409.07493)<br>[2024-09-13]
 * 人脸表情
   * [A Survey on Facial Expression Recognition of Static and Dynamic Emotions](https://arxiv.org/abs/2408.15777)<br>:star:[code](https://github.com/wangyanckxx/SurveyFER)<br>[2024-08-29]
 * 群体情绪识别(Group-level Emotion Recognition ,GReco)
@@ -588,6 +592,7 @@
 * [How Could Generative AI Support Compliance with the EU AI Act? A Review for Safe Automated Driving Perception](https://arxiv.org/abs/2408.17222)<br>[2024-09-02]
 * [Local map Construction Methods with SD map: A Novel Survey](https://arxiv.org/abs/2409.02415)<br>[2024-09-05]
 * [A Survey on Mixup Augmentations and Beyond](https://arxiv.org/abs/2409.05202)<br>:star:[code](https://github.com/Westlake-AI/Awesome-Mixup)<br>[2024-09-10]
+* [Transfer Learning Applied to Computer Vision Problems: Survey on Current Progress, Limitations, and Opportunities](https://arxiv.org/abs/2409.07736)<br>[2024-09-13]
 
 <a name="0000"/>
 
