@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月19日已公开 342+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月19日已公开 345+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -187,6 +187,7 @@
 * [JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models](https://export.arxiv.org/abs/2407.01599)<br>:house:[project](https://chonghan-chen.com/llm-jailbreak-zoo-survey/)<br>[2024-07-03]
 * [Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models](https://arxiv.org/abs/2408.02085)<br>:star:[code](https://github.com/yuleiqin/fantastic-data-engineering)<br>[2024-08-06]
 * [Preference Tuning with Human Feedback on Language, Speech, and Vision Tasks: A Survey](https://arxiv.org/abs/2409.11564)<br>[2024-09-19]
+* [One missing piece in Vision and Language: A Survey on Comics Understanding](https://arxiv.org/abs/2409.09502)<br>:star:[code](https://github.com/emanuelevivoli/awesome-comics-understanding)<br>[2024-09-17]
 * 基础模型
   * [Few-shot Adaptation of Multi-modal Foundation Models: A Survey](https://arxiv.org/abs/2401.01736)<br>[2024-01-04]
   * [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Review](https://arxiv.org/abs/2405.09589)<br>[2024-05-17]
@@ -330,6 +331,7 @@
 * [RNNs, CNNs and Transformers in Human Action Recognition: A Survey and A Hybrid Model](https://arxiv.org/abs/2407.06162)<br>[2024-07-09]
 * [A Comprehensive Review of Few-shot Action Recognition](https://arxiv.org/abs/2407.14744)<br>[2024-07-23]
 * [A Critical Analysis on Machine Learning Techniques for Video-based Human Activity Recognition of Surveillance Systems: A Review](https://arxiv.org/abs/2409.00731)<br>[2024-09-04]
+* [A Comprehensive Methodological Survey of Human Activity Recognition Across Divers Data Modalities](https://arxiv.org/abs/2409.09678)<br>[2024-09-17]
 * 跌倒检测
   * [Deep Learning for Computer Vision based Activity Recognition and Fall Detection of the Elderly: a Systematic Review](https://arxiv.org/abs/2401.11790)<br>[2024-01-23]
 
@@ -511,6 +513,8 @@
   * [Deep Learning-based Image and Video Inpainting: A Survey](https://arxiv.org/abs/2401.03395)<br>[2024-01-09]
   * [Reimagining Reality: A Comprehensive Survey of Video Inpainting Techniques](https://arxiv.org/abs/2401.17883)<br>[2024-02-01]
   * [Transformer-based Image and Video Inpainting: Current Challenges and Future Directions](https://arxiv.org/abs/2407.00226)<br>[2024-07-02]
+* 恢复
+  * [Taming Diffusion Models for Image Restoration: A Review](https://arxiv.org/abs/2409.10353)<br>[2024-09-17]  
 * 去噪
   * [On normalization-equivariance properties of supervised and unsupervised denoising methods: a survey](https://arxiv.org/abs/2402.15352)<br>[2024-02-26]
 * 去模糊
