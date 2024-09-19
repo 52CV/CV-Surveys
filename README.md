@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月13日已公开 338+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月19日已公开 342+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -186,6 +186,7 @@
 * [A Survey on Vision-Language-Action Models for Embodied AI](https://arxiv.org/abs/2405.14093)<br>[2024-05-24]
 * [JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models](https://export.arxiv.org/abs/2407.01599)<br>:house:[project](https://chonghan-chen.com/llm-jailbreak-zoo-survey/)<br>[2024-07-03]
 * [Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models](https://arxiv.org/abs/2408.02085)<br>:star:[code](https://github.com/yuleiqin/fantastic-data-engineering)<br>[2024-08-06]
+* [Preference Tuning with Human Feedback on Language, Speech, and Vision Tasks: A Survey](https://arxiv.org/abs/2409.11564)<br>[2024-09-19]
 * 基础模型
   * [Few-shot Adaptation of Multi-modal Foundation Models: A Survey](https://arxiv.org/abs/2401.01736)<br>[2024-01-04]
   * [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Review](https://arxiv.org/abs/2405.09589)<br>[2024-05-17]
@@ -401,6 +402,7 @@
 * [Deep Learning for Slum Mapping in Remote Sensing Images: A Meta-analysis and Review](https://arxiv.org/abs/2406.08031)<br>[2024-06-13]
 * [Hyperspectral Pansharpening: Critical Review, Tools and Future Perspectives](https://arxiv.org/abs/2407.01355)<br>:star:[code](https://github.com/matciotola/hyperspectral_pansharpening_toolbox)<br>[2024-07-02]
 * [AI Foundation Models in Remote Sensing: A Survey](https://arxiv.org/abs/2408.03464)<br>[2024-08-08]
+* [Applications of Knowledge Distillation in Remote Sensing: A Survey](https://arxiv.org/abs/2409.12111)<br>[2024-09-19]
 * 交叉视角地理定位
   * [Cross-view geo-localization: a survey](https://arxiv.org/abs/2406.09722)<br>[2024-06-17]
 * 航空航天
