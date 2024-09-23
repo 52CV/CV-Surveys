@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月19日已公开 345+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月23日已公开 347+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -378,6 +378,7 @@
 * [YOLOv10 to Its Genesis: A Decadal and Comprehensive Review of The You Only Look Once Series](https://arxiv.org/abs/2406.19407)<br>[2024-07-01]
 * [Semi-Supervised Object Detection: A Survey on Progress from CNN to Transformer](https://arxiv.org/abs/2407.08460)<br>[2024-07-12]
 * [A Survey and Evaluation of Adversarial Attacks for Object Detection](https://arxiv.org/abs/2408.01934)<br>[2024-08-06]
+* [Surveying You Only Look Once (YOLO) Multispectral Object Detection Advancements, Applications And Challenges](https://arxiv.org/abs/2409.12977)<br>[2024-09-23]
 * 小样本目标检测
   * [Beyond Few-shot Object Detection: A Detailed Survey](https://arxiv.org/abs/2408.14249)<br>[2024-08-27]
 * 伪装目标检测
@@ -434,6 +435,7 @@
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
   * [Artificial Intelligence in Gastrointestinal Bleeding Analysis for Video Capsule Endoscopy: Insights, Innovations, and Prospects (2008-2023)](https://arxiv.org/abs/2409.00639)<br>[2024-09-04]
   * [A Short Survey on Set-Based Aggregation Techniques for Single-Vector WSI Representation in Digital Pathology](https://arxiv.org/abs/2409.04615)<br>[2024-09-10]
+  * [The Era of Foundation Models in Medical Imaging is Approaching : A Scoping Review of the Clinical Value of Large-Scale Generative AI Applications in Radiology](https://arxiv.org/abs/2409.12973)<br>[2024-09-23]
 * 生物医学图像分割
   * [Foundation Models for Biomedical Image Segmentation: A Survey](https://arxiv.org/abs/2401.07654)<br>[2024-01-17]
   * [Biomedical Image Segmentation: A Systematic Literature Review of Deep Learning Based Object Detection Methods](https://arxiv.org/abs/2408.03393)<br>[2024-08-08]
