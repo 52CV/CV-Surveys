@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月23日已公开 347+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月24日已公开 349+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -523,6 +523,8 @@
   * [Application of Deep Learning in Blind Motion Deblurring: Current Status and Future Prospects](https://arxiv.org/abs/2401.05055)<br>:star:[code](https://github.com/VisionVerse/Blind-Motion-Deblurring-Survey)<br>[2024-01-11]
 * 去阴影
   * [Single-Image Shadow Removal Using Deep Learning: A Comprehensive Survey](https://arxiv.org/abs/2407.08865)<br>:star:[code](https://github.com/GuoLanqing/Awesome-Shadow-Removal)<br>[2024-07-15]
+* 去大气湍流
+  * [Deep Learning Techniques for Atmospheric Turbulence Removal: A Review](https://arxiv.org/abs/2409.14587)<br>[2024-09-24]
 * 图像增强
   * 水下图像增强
     * [A Comprehensive Survey on Underwater Image Enhancement Based on Deep Learning](https://arxiv.org/abs/2405.19684)<br>:star:[code](https://github.com/YuZhao1999/UIE)<br>[2024-05-31]
@@ -543,6 +545,8 @@
   * [A Survey on Facial Expression Recognition of Static and Dynamic Emotions](https://arxiv.org/abs/2408.15777)<br>:star:[code](https://github.com/wangyanckxx/SurveyFER)<br>[2024-08-29]
 * 群体情绪识别(Group-level Emotion Recognition ,GReco)
   * [A Survey of Deep Learning for Group-level Emotion Recognition](https://arxiv.org/abs/2408.15276)<br>[2024-08-29]
+* 人脸伪造检测
+  * [Deep Learning Technology for Face Forgery Detection: A Survey](https://arxiv.org/abs/2409.14289)<br>[2024-09-24]
 
 ## 3D Reconstruction
 * [3D Scene Geometry Estimation from 360∘ Imagery: A Survey](https://arxiv.org/abs/2401.09252)<br>[2024-01-18]
