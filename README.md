@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月24日已公开 349+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月25日已公开 351+1 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -198,6 +198,7 @@
   * [A Survey of Multimodal Large Language Model from A Data-centric Perspective](https://arxiv.org/abs/2405.16640)<br>[2024-05-28]
   * [The Synergy between Data and Multi-Modal Large Language Models: A Survey from Co-Development Perspective](https://arxiv.org/abs/2407.08583)<br>:star:[code](https://github.com/modelscope/data-juicer/blob/main/docs/awesome_llm_data.md)<br>[2024-07-12]
   * [A Survey on Benchmarks of Multimodal Large Language Models](https://arxiv.org/abs/2408.08632)<br>:star:[code](https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey)<br>[2024-08-19]
+  * [Visual Prompting in Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2409.15310)<br>[2024-09-25]
 * VLN
   * [Vision-Language Navigation with Embodied Intelligence: A Survey](https://arxiv.org/abs/2402.14304)<br>[2024-02-23]
   * [Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models](https://arxiv.org/abs/2407.07035)<br>[2024-07-10]
