@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月25日已公开 351+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月26日已公开 352+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -101,6 +101,8 @@
   * [Exploring the Practicality of Federated Learning: A Survey Towards the Communication Perspective](https://arxiv.org/abs/2405.20431)<br>[2024-06-03]
 * 木马攻击
   * [A Survey of Trojan Attacks and Defenses to Deep Neural Networks](https://arxiv.org/abs/2408.08920)<br>[2024-08-20]
+* 对抗攻击
+  * [Proactive Schemes: A Survey of Adversarial Attacks for Social Good](https://arxiv.org/abs/2409.16491)<br>[2024-09-26]
 
 ## Object Re-Id/Pose Estimation
 * 物体重识别
@@ -212,6 +214,7 @@
   * [Grounding and Evaluation for Large Language Models: Practical Challenges and Lessons Learned (Survey)](https://arxiv.org/abs/2407.12858)<br>[2024-07-19]
   * [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/abs/2407.15017)<br>[2024-07-23]
   * [Harnessing Large Vision and Language Models in Agriculture: A Review](https://arxiv.org/abs/2407.19679)<br>[2024-07-30]
+  * [The Role of Language Models in Modern Healthcare: A Comprehensive Review](https://arxiv.org/abs/2409.16860)<br>[2024-09-26]
 * 多模态
   * [A Comprehensive Survey on Deep Multimodal Learning with Missing Modality](https://arxiv.org/abs/2409.07825)<br>[2024-09-13]
 
@@ -432,6 +435,7 @@
 * [Integrating Deep Learning in Cardiology: A Comprehensive Review of Atrial Fibrillation, Left Atrial Scar Segmentation, and the Frontiers of State-of-the-Art Techniques](https://arxiv.org/abs/2407.09561)<br>[2024-07-16]
 * [A Survey on Trustworthiness in Foundation Models for Medical Image Analysis](https://arxiv.org/abs/2407.15851)<br>[2024-07-24]
 * [PINNs for Medical Image Analysis: A Survey](https://arxiv.org/abs/2408.01026)<br>[2024-08-05]
+* [Future-Proofing Medical Imaging with Privacy-Preserving Federated Learning and Uncertainty Quantification: A Review](https://arxiv.org/abs/2409.16340)<br>:star:[code](https://github.com/Niko-k98/Awesome-list-Federated-Learning-Review/tree/main)<br>[2024-09-26]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
   * [Artificial Intelligence in Gastrointestinal Bleeding Analysis for Video Capsule Endoscopy: Insights, Innovations, and Prospects (2008-2023)](https://arxiv.org/abs/2409.00639)<br>[2024-09-04]
