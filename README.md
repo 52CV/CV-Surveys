@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月26日已公开 352+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月27日已公开 355+1 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -570,6 +570,7 @@
 * 深度估计
   * [Geometric Constraints in Deep Learning Frameworks: A Survey](https://arxiv.org/abs/2403.12431)<br>[2024-03-20]
   * [Deep Learning-based Depth Estimation Methods from Monocular Image and Videos: A Comprehensive Survey](https://arxiv.org/abs/2406.19675)<br>[2024-07-01]
+  * [Event-based Stereo Depth Estimation: A Survey](https://arxiv.org/abs/2409.17680)<br>:star:[code](https://docs.google.com/spreadsheets/d/1DfmVXdg3H9iaLpkXNm5ygB6ald9dK0ggO0rUDXEDTXE/edit?gid=0#gid=0)<br>[2024-09-27]
 * 三维场景理解
   * [When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models](https://arxiv.org/abs/2405.10255)<br>:star:[code](https://github.com/ActiveVisionLab/Awesome-LLM-3D)<br>[2024-05-17]
 * Stereo Matching
