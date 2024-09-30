@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月27日已公开 355+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月30日已公开 356+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -361,6 +361,7 @@
   * [A Survey on Generative AI and LLM for Video Generation, Understanding, and Streaming](https://export.arxiv.org/abs/2404.16038)<br>[2024-04-26]
   * [Foundation Models for Video Understanding: A Survey](https://arxiv.org/abs/2405.03770)<br>:star:[code](https://github.com/NeeluMadan/ViFM_Survey.git)<br>[2024-05-08]
   * [A Survey of Video Datasets for Grounded Event Understanding](https://arxiv.org/abs/2406.09646)<br>[2024-06-17]
+  * [From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding](https://export.arxiv.org/abs/2409.18938)<br>[2024-09-30]
 * 视频预测
   * [A Survey on Video Prediction: From Deterministic to Generative Approaches](https://arxiv.org/abs/2401.14718)<br>[2024-01-29]
 * 视频制作
@@ -383,6 +384,7 @@
 * [Semi-Supervised Object Detection: A Survey on Progress from CNN to Transformer](https://arxiv.org/abs/2407.08460)<br>[2024-07-12]
 * [A Survey and Evaluation of Adversarial Attacks for Object Detection](https://arxiv.org/abs/2408.01934)<br>[2024-08-06]
 * [Surveying You Only Look Once (YOLO) Multispectral Object Detection Advancements, Applications And Challenges](https://arxiv.org/abs/2409.12977)<br>[2024-09-23]
+* [Advancing Object Detection in Transportation with Multimodal Large Language Models (MLLMs): A Comprehensive Review and Empirical Testing](https://export.arxiv.org/ftp/arxiv/papers/2409/2409.18286.pdf)<br>[2024-09-30]
 * 小样本目标检测
   * [Beyond Few-shot Object Detection: A Detailed Survey](https://arxiv.org/abs/2408.14249)<br>[2024-08-27]
 * 伪装目标检测
