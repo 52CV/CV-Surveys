@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月30日已公开 356+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月8日已公开 358+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -30,7 +30,8 @@
 6月份共计40篇。<br>
 7月份共计48篇。<br>
 8月份共计46篇。<br>
-计322篇。
+9月份共计36篇。<br>
+计358篇。
 
 ## 目录
 
@@ -356,6 +357,8 @@
 ## Video
 * [Deep video representation learning: a survey](https://arxiv.org/abs/2405.06574)<br>[2024-05-13]
 * [Segment Anything for Videos: A Systematic Survey](https://arxiv.org/abs/2408.08315)<br>:star:[code](https://github.com/983632847/SAM-for-Videos)<br>[2024-08-19]
+* 视频摘要
+  * [Video Summarization Techniques: A Comprehensive Review](https://arxiv.org/abs/2410.04449)<br>[2024-10-08]
 * 视频理解
   * [Video Understanding with Large Language Models: A Survey](https://arxiv.org/abs/2312.17432)<br>:star:[code](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)<br>[2024-01-01]
   * [A Survey on Generative AI and LLM for Video Generation, Understanding, and Streaming](https://export.arxiv.org/abs/2404.16038)<br>[2024-04-26]
@@ -418,6 +421,8 @@
   * [Computer vision tasks for intelligent aerospace missions: An overview](https://arxiv.org/abs/2407.06513)<br>[2024-07-10]
 * 船舶轨迹预测
   * [A Survey of Distance-Based Vessel Trajectory Clustering: Data Pre-processing, Methodologies, Applications, and Experimental Evaluation](https://arxiv.org/abs/2407.11084)<br>[2024-07-17]
+* 野生动物监测
+  * [Systematic Literature Review of Vision-Based Approaches to Outdoor Livestock Monitoring with Lessons from Wildlife Studies](https://arxiv.org/pdf/2410.05041)<br>[2024-10-08]
 
 ## Medical Image Progress
 * [Empowering Medical Imaging with Artificial Intelligence: A Review of Machine Learning Approaches for the Detection, and Segmentation of COVID-19 Using Radiographic and Tomographic Images](https://arxiv.org/abs/2401.07020)<br>[2024-01-17]
@@ -506,6 +511,7 @@
 
 ## Image Segmentation(图像分割)
 * [Image Segmentation in Foundation Model Era: A Survey](https://arxiv.org/abs/2408.12957)<br>[2024-08-26]
+* [On Efficient Variants of Segment Anything Model: A Survey](https://arxiv.org/abs/2410.04960)<br>[2024-10-08]
 * 语义分割
   * [Semi-Supervised Semantic Segmentation Based on Pseudo-Labels: A Survey](https://arxiv.org/abs/2403.01909)<br>[2024-03-06]无PDF
   * [Deep Learning-Based 3D Instance and Semantic Segmentation: A Review](https://arxiv.org/abs/2406.13308)<br>[2024-06-21]
@@ -560,6 +566,8 @@
 * [Survey on Modeling of Articulated Objects](https://arxiv.org/abs/2403.14937)<br>[2024-03-25]
 * [RGB Guided ToF Imaging System: A Survey of Deep Learning-based Methods](https://arxiv.org/abs/2405.10357)<br>[2024-05-20]
 * [A Survey on Text-guided 3D Visual Grounding: Elements, Recent Advances, and Future Directions](https://arxiv.org/abs/2406.05785)<br>:star:[code](https://github.com/liudaizong/Awesome-3D-Visual-Grounding)<br>[2024-06-11]
+* 三维视觉
+  * [Diffusion Models in 3D Vision: A Survey](https://arxiv.org/abs/2410.04738)<br>[2024-10-08]
 * 三维重建
   * [Recent Trends in 3D Reconstruction of General Non-Rigid Scenes](https://arxiv.org/abs/2403.15064)<br>[2024-03-25]
   * [Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review](https://arxiv.org/abs/2405.03417)<br>[2024-05-07]
