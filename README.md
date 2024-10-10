@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月8日已公开 363+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月10日已公开 367+1 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -572,6 +572,7 @@
 * [Survey on Modeling of Articulated Objects](https://arxiv.org/abs/2403.14937)<br>[2024-03-25]
 * [RGB Guided ToF Imaging System: A Survey of Deep Learning-based Methods](https://arxiv.org/abs/2405.10357)<br>[2024-05-20]
 * [A Survey on Text-guided 3D Visual Grounding: Elements, Recent Advances, and Future Directions](https://arxiv.org/abs/2406.05785)<br>:star:[code](https://github.com/liudaizong/Awesome-3D-Visual-Grounding)<br>[2024-06-11]
+* [3D Representation Methods: A Survey](https://arxiv.org/abs/2410.06475)<br>[2024-10-10]
 * 三维视觉
   * [Diffusion Models in 3D Vision: A Survey](https://arxiv.org/abs/2410.04738)<br>[2024-10-08]
 * 三维重建
