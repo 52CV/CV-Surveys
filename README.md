@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月10日已公开 367+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月11日已公开 368+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -389,6 +389,8 @@
 * [A Survey and Evaluation of Adversarial Attacks for Object Detection](https://arxiv.org/abs/2408.01934)<br>[2024-08-06]
 * [Surveying You Only Look Once (YOLO) Multispectral Object Detection Advancements, Applications And Challenges](https://arxiv.org/abs/2409.12977)<br>[2024-09-23]
 * [Advancing Object Detection in Transportation with Multimodal Large Language Models (MLLMs): A Comprehensive Review and Empirical Testing](https://export.arxiv.org/ftp/arxiv/papers/2409/2409.18286.pdf)<br>[2024-09-30]
+* 真实世界目标检测
+  * [Self-Supervised Learning for Real-World Object Detection: a Survey](https://arxiv.org/abs/2410.07442)<br>[2024-10-11]
 * 小样本目标检测
   * [Beyond Few-shot Object Detection: A Detailed Survey](https://arxiv.org/abs/2408.14249)<br>[2024-08-27]
 * 伪装目标检测
@@ -424,6 +426,8 @@
   * [A Survey of Distance-Based Vessel Trajectory Clustering: Data Pre-processing, Methodologies, Applications, and Experimental Evaluation](https://arxiv.org/abs/2407.11084)<br>[2024-07-17]
 * 野生动物监测
   * [Systematic Literature Review of Vision-Based Approaches to Outdoor Livestock Monitoring with Lessons from Wildlife Studies](https://arxiv.org/pdf/2410.05041)<br>[2024-10-08]
+* 变化检测
+  * [Exploring Foundation Models in Remote Sensing Image Change Detection: A Comprehensive Survey](https://arxiv.org/abs/2410.07824)<br>[2024-10-11]
 
 ## Medical Image Progress
 * [Empowering Medical Imaging with Artificial Intelligence: A Review of Machine Learning Approaches for the Detection, and Segmentation of COVID-19 Using Radiographic and Tomographic Images](https://arxiv.org/abs/2401.07020)<br>[2024-01-17]
@@ -460,6 +464,7 @@
   * [Machine learning-based analysis of glioma tissue sections: a review](https://arxiv.org/abs/2401.15022)<br>[2024-01-29]
 * 手术
   * [Enhancing Surgical Performance in Cardiothoracic Surgery with Innovations from Computer Vision and Artificial Intelligence: A Narrative Review](https://arxiv.org/abs/2402.11288)<br>[2024-02-20]
+  * [Deep Learning for Surgical Instrument Recognition and Segmentation in Robotic-Assisted Surgeries: A Systematic Review](https://arxiv.org/abs/2410.07269)<br>[2024-10-11]
 * 人工耳蜗
   * [Advanced Artificial Intelligence Algorithms in Cochlear Implants: Review of Healthcare Strategies, Challenges, and Perspectives](https://arxiv.org/abs/2403.15442)<br>[2024-03-26]
 * 医学图像配准
