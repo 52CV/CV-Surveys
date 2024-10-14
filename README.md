@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月11日已公开 368+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月14日已公开 371+1 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -58,6 +58,10 @@
 
 ## Scene Graph Generation
 * [A Review and Efficient Implementation of Scene Graph Generation Metrics](https://arxiv.org/abs/2404.09616)<br>:star:[code](https://lorjul.github.io/sgbench/)<br>[2024-04-16]
+
+## Sound
+* 音频描述
+  * [Audio Description Generation in the Era of LLMs and VLMs: A Review of Transferable Generative AI Technologies](https://arxiv.org/abs/2410.08860)
 
 ## Deepfake
 * [Deepfake Generation and Detection: A Benchmark and Survey](https://arxiv.org/abs/2403.17881)<br>[2024-03-27]<br>:star:[code](https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection)
