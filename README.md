@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月14日已公开 371+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月15日已公开 372+1 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -452,6 +452,7 @@
 * [A Survey on Trustworthiness in Foundation Models for Medical Image Analysis](https://arxiv.org/abs/2407.15851)<br>[2024-07-24]
 * [PINNs for Medical Image Analysis: A Survey](https://arxiv.org/abs/2408.01026)<br>[2024-08-05]
 * [Future-Proofing Medical Imaging with Privacy-Preserving Federated Learning and Uncertainty Quantification: A Review](https://arxiv.org/abs/2409.16340)<br>:star:[code](https://github.com/Niko-k98/Awesome-list-Federated-Learning-Review/tree/main)<br>[2024-09-26]
+* [Artificial intelligence techniques in inherited retinal diseases: A review](https://arxiv.org/abs/2410.09105)<br>[2024-10-15]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
   * [Artificial Intelligence in Gastrointestinal Bleeding Analysis for Video Capsule Endoscopy: Insights, Innovations, and Prospects (2008-2023)](https://arxiv.org/abs/2409.00639)<br>[2024-09-04]
