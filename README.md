@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月15日已公开 372+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月16日已公开 373+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -195,6 +195,7 @@
 * [Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models](https://arxiv.org/abs/2408.02085)<br>:star:[code](https://github.com/yuleiqin/fantastic-data-engineering)<br>[2024-08-06]
 * [Preference Tuning with Human Feedback on Language, Speech, and Vision Tasks: A Survey](https://arxiv.org/abs/2409.11564)<br>[2024-09-19]
 * [One missing piece in Vision and Language: A Survey on Comics Understanding](https://arxiv.org/abs/2409.09502)<br>:star:[code](https://github.com/emanuelevivoli/awesome-comics-understanding)<br>[2024-09-17]
+* [A Survey of Low-shot Vision-Language Model Adaptation via Representer Theorem](https://arxiv.org/abs/2410.11686)<br>[2024-10-16]
 * 基础模型
   * [Few-shot Adaptation of Multi-modal Foundation Models: A Survey](https://arxiv.org/abs/2401.01736)<br>[2024-01-04]
   * [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Review](https://arxiv.org/abs/2405.09589)<br>[2024-05-17]
@@ -314,6 +315,7 @@
   * [A Comprehensive Survey on Diffusion Models and Their Applications](https://arxiv.org/abs/2408.10207)<br>[2024-08-21]
   * [Alignment of Diffusion Models: Fundamentals, Challenges, and Future](https://arxiv.org/abs/2409.07253)<br>[2024-09-12]
   * [A Survey on Diffusion Models for Inverse Problems](https://arxiv.org/abs/2410.00083)<br>[2024-10-02]
+  * [Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices](https://arxiv.org/abs/2410.11795)<br>:star:[code](https://github.com/ponyzym/Efficient-DMs-Survey)<br>[2024-10-16]
 
 ## Model Compression
 * [Model Compression Techniques in Biometrics Applications: A Survey](https://arxiv.org/abs/2401.10139)<br>[2024-01-19]
@@ -395,6 +397,8 @@
 * [Advancing Object Detection in Transportation with Multimodal Large Language Models (MLLMs): A Comprehensive Review and Empirical Testing](https://export.arxiv.org/ftp/arxiv/papers/2409/2409.18286.pdf)<br>[2024-09-30]
 * 真实世界目标检测
   * [Self-Supervised Learning for Real-World Object Detection: a Survey](https://arxiv.org/abs/2410.07442)<br>[2024-10-11]
+* 开发世界目标检测
+  * [Open World Object Detection: A Survey](https://arxiv.org/abs/2410.11301)<br>:star:[code](https://github.com/ArminLee/OWOD)<br>[2024-10-16]
 * 小样本目标检测
   * [Beyond Few-shot Object Detection: A Detailed Survey](https://arxiv.org/abs/2408.14249)<br>[2024-08-27]
 * 伪装目标检测
