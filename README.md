@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月17日已公开 376+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月21日已公开 377+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -260,6 +260,8 @@
 * 手写识别
   * [An inclusive review on deep learning techniques and their scope in handwriting recognition](https://arxiv.org/abs/2404.08011)<br>[2024-04-15]
   * [A Perspective Analysis of Handwritten Signature Technology](https://arxiv.org/abs/2405.13555)<br>[2024-05-24]
+* 表格理解
+  * [Transformers Utilization in Chart Understanding: A Review of Recent Advances & Future Trends](https://arxiv.org/abs/2410.13883)<br>[2024-10-21]
 
 ## Generation
 * [Video Diffusion Models: A Survey](https://arxiv.org/abs/2405.03150)<br>:star:[code](https://github.com/ndrwmlnk/Awesome-Video-Diffusion-Models)<br>[2024-05-07]
@@ -345,6 +347,7 @@
 * [A Comprehensive Review of Few-shot Action Recognition](https://arxiv.org/abs/2407.14744)<br>[2024-07-23]
 * [A Critical Analysis on Machine Learning Techniques for Video-based Human Activity Recognition of Surveillance Systems: A Review](https://arxiv.org/abs/2409.00731)<br>[2024-09-04]
 * [A Comprehensive Methodological Survey of Human Activity Recognition Across Divers Data Modalities](https://arxiv.org/abs/2409.09678)<br>[2024-09-17]
+* [Human Action Anticipation: A Survey](https://arxiv.org/abs/2410.14045)<br>[2024-10-21]
 * 跌倒检测
   * [Deep Learning for Computer Vision based Activity Recognition and Fall Detection of the Elderly: a Systematic Review](https://arxiv.org/abs/2401.11790)<br>[2024-01-23]
 
