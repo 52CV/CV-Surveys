@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月21日已公开 377+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月22日已公开 379+5 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -133,6 +133,7 @@
 * [A Review of Human-Object Interaction Detection](https://arxiv.org/abs/2408.10641)<br>[2024-08-21]
 
 ## Robot/SLAM
+* [Event-based Sensor Fusion and Application on Odometry: A Survey](https://arxiv.org/abs/2410.15480)<br>[2024-10-22]
 * SLAM
   * [How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey](https://arxiv.org/abs/2402.13255)<br>[2024-02-21]
 * VR
@@ -461,6 +462,7 @@
 * [PINNs for Medical Image Analysis: A Survey](https://arxiv.org/abs/2408.01026)<br>[2024-08-05]
 * [Future-Proofing Medical Imaging with Privacy-Preserving Federated Learning and Uncertainty Quantification: A Review](https://arxiv.org/abs/2409.16340)<br>:star:[code](https://github.com/Niko-k98/Awesome-list-Federated-Learning-Review/tree/main)<br>[2024-09-26]
 * [Artificial intelligence techniques in inherited retinal diseases: A review](https://arxiv.org/abs/2410.09105)<br>[2024-10-15]
+* [Medical AI for Early Detection of Lung Cancer: A Survey](https://arxiv.org/abs/2410.14769)<br>:star:[code](https://github.com/CaiGuoHui123/Awesome-Lung-Cancer-Detection)<br>[2024-10-22]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
   * [Artificial Intelligence in Gastrointestinal Bleeding Analysis for Video Capsule Endoscopy: Insights, Innovations, and Prospects (2008-2023)](https://arxiv.org/abs/2409.00639)<br>[2024-09-04]
@@ -551,7 +553,8 @@
   * [Reimagining Reality: A Comprehensive Survey of Video Inpainting Techniques](https://arxiv.org/abs/2401.17883)<br>[2024-02-01]
   * [Transformer-based Image and Video Inpainting: Current Challenges and Future Directions](https://arxiv.org/abs/2407.00226)<br>[2024-07-02]
 * 恢复
-  * [Taming Diffusion Models for Image Restoration: A Review](https://arxiv.org/abs/2409.10353)<br>[2024-09-17]  
+  * [Taming Diffusion Models for Image Restoration: A Review](https://arxiv.org/abs/2409.10353)<br>[2024-09-17] 
+  * [A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends](https://arxiv.org/abs/2410.15067)<br>:star:[code](https://github.com/Harbinzzy/All-in-One-Image-Restoration-Survey)<br>[2024-10-22] 
 * 着色
   * [Computer-aided Colorization State-of-the-science: A Survey](https://arxiv.org/abs/2410.02288)<br>:star:[code](https://github.com/DanielCho-HK/Colorization)<br>[2024-10-04]
 * 去噪
@@ -598,6 +601,8 @@
   * [Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review](https://arxiv.org/abs/2405.03417)<br>[2024-05-07]
   * [Survey on Fundamental Deep Learning 3D Reconstruction Techniques](https://arxiv.org/abs/2407.08137)<br>[2024-07-12]
   * [A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery](https://arxiv.org/abs/2408.04426)<br>:star:[code](https://github.com/Epsilon404/surgicalnerf)<br>[2024-08-09]
+* 三维形状
+  * [A Survey on Computational Solutions for Reconstructing Complete Objects by Reassembling Their Fractured Parts](https://arxiv.org/abs/2410.14770)<br>[2024-10-22]
 * 3D 生成
   * [Advances in 3D Generation: A Survey](https://arxiv.org/abs/2401.17807)<br>[2024-02-01]
 * 3D 密集字幕
@@ -647,6 +652,7 @@
 * [A Survey on Mixup Augmentations and Beyond](https://arxiv.org/abs/2409.05202)<br>:star:[code](https://github.com/Westlake-AI/Awesome-Mixup)<br>[2024-09-10]
 * [Transfer Learning Applied to Computer Vision Problems: Survey on Current Progress, Limitations, and Opportunities](https://arxiv.org/abs/2409.07736)<br>[2024-09-13]
 * [Mamba in Vision: A Comprehensive Survey of Techniques and Applications](https://arxiv.org/abs/2410.03105)<br>:star:[code](https://github.com/maklachur/Mamba-in-Computer-Vision)<br>[2024-10-07]
+* [AI-Driven Approaches for Glaucoma Detection -- A Comprehensive Review](https://arxiv.org/abs/2410.15947)<br>[2024-10-22]
 
 <a name="0000"/>
 
