@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月23日已公开 384+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月23日已公开 384+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -134,6 +134,9 @@
 ## Human Object Interaction(人机交互)
 * [How Can Large Language Models Enable Better Socially Assistive Human-Robot Interaction: A Brief Survey](https://arxiv.org/abs/2404.00938)<br>[2024-04-02]
 * [A Review of Human-Object Interaction Detection](https://arxiv.org/abs/2408.10641)<br>[2024-08-21]
+
+## Visual Question Answering(视觉问答)
+* [Visual Question Answering in Ophthalmology: A Progressive and Practical Perspective](https://arxiv.org/abs/2410.16662)<br>[2024-10-23]
 
 ## Robot/SLAM
 * [Event-based Sensor Fusion and Application on Odometry: A Survey](https://arxiv.org/abs/2410.15480)<br>[2024-10-22]
