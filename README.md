@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月22日已公开 379+5 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月23日已公开 384+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -45,6 +45,9 @@
 
 ## Data Augmentation
 * [A survey of synthetic data augmentation methods in computer vision](https://arxiv.org/abs/2403.10075)<br>[2024-03-18]
+
+## Gaze estimation
+* [A Survey on Deep Learning-based Gaze Direction Regression: Searching for the State-of-the-art](https://arxiv.org/abs/2410.17082)<br>[2024-10-23]
 
 ## Fish-eye Camera(鱼眼相机)
 * [A Comprehensive Overview of Fish-Eye Camera Distortion Correction Methods](https://arxiv.org/abs/2401.00442)<br>[2024-01-02]
@@ -431,6 +434,7 @@
 * [Hyperspectral Pansharpening: Critical Review, Tools and Future Perspectives](https://arxiv.org/abs/2407.01355)<br>:star:[code](https://github.com/matciotola/hyperspectral_pansharpening_toolbox)<br>[2024-07-02]
 * [AI Foundation Models in Remote Sensing: A Survey](https://arxiv.org/abs/2408.03464)<br>[2024-08-08]
 * [Applications of Knowledge Distillation in Remote Sensing: A Survey](https://arxiv.org/abs/2409.12111)<br>[2024-09-19]
+* [Foundation Models for Remote Sensing and Earth Observation: A Survey](https://arxiv.org/abs/2410.16602)<br>[2024-10-23]
 * 交叉视角地理定位
   * [Cross-view geo-localization: a survey](https://arxiv.org/abs/2406.09722)<br>[2024-06-17]
 * 航空航天
@@ -581,6 +585,7 @@
 * [Evolving from Single-modal to Multi-modal Facial Deepfake Detection: A Survey](https://arxiv.org/abs/2406.06965)<br>:star:[code](https://github.com/qiqitao77/Comprehensive-Advances-in-Deepfake-Detection-Spanning-Diverse-Modalities)<br>[2024-06-12]
 * [Artificial Immune System of Secure Face Recognition Against Adversarial Attacks](https://arxiv.org/pdf/2406.18144)<br>:star:[code](https://github.com/RenMin1991/SIDE)<br>[2024-06-27]
 * [Complex Emotion Recognition System using basic emotions via Facial Expression, EEG, and ECG Signals: a review](https://arxiv.org/abs/2409.07493)<br>[2024-09-13]
+* [A Survey on Physical Adversarial Attacks against Face Recognition Systems](https://arxiv.org/abs/2410.16317)<br>[2024-10-23]
 * 人脸表情
   * [A Survey on Facial Expression Recognition of Static and Dynamic Emotions](https://arxiv.org/abs/2408.15777)<br>:star:[code](https://github.com/wangyanckxx/SurveyFER)<br>[2024-08-29]
 * 群体情绪识别(Group-level Emotion Recognition ,GReco)
