@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月23日已公开 384+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月28日已公开 388+1 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -546,6 +546,8 @@
 * 语义分割
   * [Semi-Supervised Semantic Segmentation Based on Pseudo-Labels: A Survey](https://arxiv.org/abs/2403.01909)<br>[2024-03-06]无PDF
   * [Deep Learning-Based 3D Instance and Semantic Segmentation: A Review](https://arxiv.org/abs/2406.13308)<br>[2024-06-21]
+* 纹理分割
+  * [Review of wavelet-based unsupervised texture segmentation, advantage of adaptive wavelets](https://arxiv.org/abs/2410.19191)<br>[2024-10-28]
 
 ## Image retrieval(图像检索)
 * [A Survey of Multimodal Composite Editing and Retrieval](https://arxiv.org/abs/2409.05405)<br>:star:[code](https://github.com/fuxianghuang1/Multimodal-Composite-Editing-and-Retrieval)<br>[2024-09-10]
