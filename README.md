@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月28日已公开 388+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月29日已公开 389+5 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -151,6 +151,7 @@
   * [A Brief Survey on Leveraging Large Scale Vision Models for Enhanced Robot Grasping](https://arxiv.org/abs/2406.11786)<br>[2024-06-18]
   * [A Survey of Embodied Learning for Object-Centric Robotic Manipulation](https://arxiv.org/abs/2408.11537)<br>:star:[code](https://github.com/RayYoh/OCRM_survey)<br>[2024-08-22]
   * [Visual Servoing for Robotic On-Orbit Servicing: A Survey](https://arxiv.org/abs/2409.02324)<br>[2024-09-05]
+  * [Neural Fields in Robotics: A Survey](https://arxiv.org/abs/2410.20220)<br>[2024-10-29]
 * PR
   * [General Place Recognition Survey: Towards Real-World Autonomy](https://arxiv.org/abs/2405.04812)<br>:star:[code](https://github.com/MetaSLAM/GPRS)<br>[2024-05-09]
 
@@ -308,6 +309,7 @@
 * 视频生成
   * [A Survey on Long Video Generation: Challenges, Methods, and Prospects](https://arxiv.org/abs/2403.16407)<br>[2024-03-26]
   * [A Comprehensive Survey on Human Video Generation: Challenges, Methods, and Insights](https://arxiv.org/abs/2407.08428)<br>[2024-07-12]
+  * [A Survey of AI-Generated Video Evaluation](https://arxiv.org/abs/2410.19884)<br>[2024-10-29]
 * 视频编辑
   * [Diffusion Model-Based Video Editing: A Survey](https://arxiv.org/abs/2407.07111)<br>:star:[code](https://github.com/wenhao728/awesome-diffusion-v2v)<br>[2024-07-11]
 * GAN
@@ -355,6 +357,7 @@
 * [A Critical Analysis on Machine Learning Techniques for Video-based Human Activity Recognition of Surveillance Systems: A Review](https://arxiv.org/abs/2409.00731)<br>[2024-09-04]
 * [A Comprehensive Methodological Survey of Human Activity Recognition Across Divers Data Modalities](https://arxiv.org/abs/2409.09678)<br>[2024-09-17]
 * [Human Action Anticipation: A Survey](https://arxiv.org/abs/2410.14045)<br>[2024-10-21]
+* [Exocentric To Egocentric Transfer For Action Recognition: A Short Survey](https://arxiv.org/abs/2410.20621)<br>[2024-10-29]
 * 跌倒检测
   * [Deep Learning for Computer Vision based Activity Recognition and Fall Detection of the Elderly: a Systematic Review](https://arxiv.org/abs/2401.11790)<br>[2024-01-23]
 
@@ -406,6 +409,7 @@
 * [A Survey and Evaluation of Adversarial Attacks for Object Detection](https://arxiv.org/abs/2408.01934)<br>[2024-08-06]
 * [Surveying You Only Look Once (YOLO) Multispectral Object Detection Advancements, Applications And Challenges](https://arxiv.org/abs/2409.12977)<br>[2024-09-23]
 * [Advancing Object Detection in Transportation with Multimodal Large Language Models (MLLMs): A Comprehensive Review and Empirical Testing](https://export.arxiv.org/ftp/arxiv/papers/2409/2409.18286.pdf)<br>[2024-09-30]
+* [Radar and Camera Fusion for Object Detection and Tracking: A Comprehensive Survey](https://arxiv.org/abs/2410.19872)<br>[2024-10-29]
 * 真实世界目标检测
   * [Self-Supervised Learning for Real-World Object Detection: a Survey](https://arxiv.org/abs/2410.07442)<br>[2024-10-11]
 * 开发世界目标检测
@@ -470,6 +474,7 @@
 * [Future-Proofing Medical Imaging with Privacy-Preserving Federated Learning and Uncertainty Quantification: A Review](https://arxiv.org/abs/2409.16340)<br>:star:[code](https://github.com/Niko-k98/Awesome-list-Federated-Learning-Review/tree/main)<br>[2024-09-26]
 * [Artificial intelligence techniques in inherited retinal diseases: A review](https://arxiv.org/abs/2410.09105)<br>[2024-10-15]
 * [Medical AI for Early Detection of Lung Cancer: A Survey](https://arxiv.org/abs/2410.14769)<br>:star:[code](https://github.com/CaiGuoHui123/Awesome-Lung-Cancer-Detection)<br>[2024-10-22]
+* [Advancing Histopathology with Deep Learning Under Data Scarcity: A Decade in Review](https://arxiv.org/abs/2410.19820)<br>[2024-10-29]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
   * [Artificial Intelligence in Gastrointestinal Bleeding Analysis for Video Capsule Endoscopy: Insights, Innovations, and Prospects (2008-2023)](https://arxiv.org/abs/2409.00639)<br>[2024-09-04]
