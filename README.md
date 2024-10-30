@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月29日已公开 389+5 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月30日已公开 394+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -77,6 +77,7 @@
 * [A Comprehensive Survey on Machine Learning Driven Material Defect Detection: Challenges, Solutions, and Future Prospects](https://arxiv.org/abs/2406.07880)<br>[2024-06-13]
 * [A PRISMA Driven Systematic Review of Publicly Available Datasets for Benchmark and Model Developments for Industrial Defect Detection](https://arxiv.org/abs/2406.07694)<br>[2024-06-13]
 * [Transformers and Large Language Models for Efficient Intrusion Detection Systems: A Comprehensive Survey](https://arxiv.org/abs/2408.07583)<br>[2024-08-15]
+* [A Survey on RGB, 3D, and Multimodal Approaches for Unsupervised Industrial Anomaly Detection](https://arxiv.org/abs/2410.21982)<br>:star:[code](https://github.com/Sunny5250/Awesome-Multi-Setting-UIAD)<br>[2024-10-30]
 * VAD
   * [A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect](https://arxiv.org/abs/2401.16402)<br>[2024-01-30]
 * 点云的工业系统 3D 缺陷检测和分类
@@ -208,6 +209,7 @@
   * [Few-shot Adaptation of Multi-modal Foundation Models: A Survey](https://arxiv.org/abs/2401.01736)<br>[2024-01-04]
   * [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Review](https://arxiv.org/abs/2405.09589)<br>[2024-05-17]
   * [Towards Vision-Language Geo-Foundation Model: A Survey](https://arxiv.org/abs/2406.09385)<br>:star:[code](https://github.com/zytx121/Awesome-VLGFM)<br>[2024-06-14]
+  * [Towards Unifying Understanding and Generation in the Era of Vision Foundation Models: A Survey from the Autoregression Perspective](https://arxiv.org/abs/2410.22217)<br>:star:[code](https://github.com/EmmaSRH/ARVFM)<br>[2024-10-30]
 * MLLM
   * [The (R)Evolution of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2402.12451)<br>[2024-02-21]
   * [Efficient Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2405.10739)<br>:star:[code](https://github.com/lijiannuist/Efficient-Multimodal-LLMs-Survey)<br>[2024-05-20]
