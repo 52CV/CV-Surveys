@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月30日已公开 394+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月1日已公开 396+1 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -112,6 +112,7 @@
   * [A Survey of Trojan Attacks and Defenses to Deep Neural Networks](https://arxiv.org/abs/2408.08920)<br>[2024-08-20]
 * 对抗攻击
   * [Proactive Schemes: A Survey of Adversarial Attacks for Social Good](https://arxiv.org/abs/2409.16491)<br>[2024-09-26]
+  * [Adversarial Attacks of Vision Tasks in the Past 10 Years: A Survey](https://arxiv.org/abs/2410.23687)<br>[2024-11-01]
 
 ## Object Re-Id/Pose Estimation
 * 物体重识别
