@@ -31,7 +31,8 @@
 7月份共计48篇。<br>
 8月份共计46篇。<br>
 9月份共计36篇。<br>
-计358篇。
+10月份共计38篇。<br>
+计396篇。
 
 ## 目录
 
@@ -64,7 +65,7 @@
 
 ## Sound
 * 音频描述
-  * [Audio Description Generation in the Era of LLMs and VLMs: A Review of Transferable Generative AI Technologies](https://arxiv.org/abs/2410.08860)
+  * [Audio Description Generation in the Era of LLMs and VLMs: A Review of Transferable Generative AI Technologies](https://arxiv.org/abs/2410.08860)<br>[2024-10-14]
 
 ## Deepfake
 * [Deepfake Generation and Detection: A Benchmark and Survey](https://arxiv.org/abs/2403.17881)<br>[2024-03-27]<br>:star:[code](https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection)
