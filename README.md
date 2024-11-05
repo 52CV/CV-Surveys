@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月1日已公开 396+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月5日已公开 397+6 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -234,6 +234,7 @@
   * [Harnessing Large Vision and Language Models in Agriculture: A Review](https://arxiv.org/abs/2407.19679)<br>[2024-07-30]
   * [The Role of Language Models in Modern Healthcare: A Comprehensive Review](https://arxiv.org/abs/2409.16860)<br>[2024-09-26]
   * [FTII-Bench: A Comprehensive Multimodal Benchmark for Flow Text with Image Insertion](https://arxiv.org/abs/2410.12564)<br>:star:[code](https://github.com/IAAR-Shanghai/FTIIBench)<br>[2024-10-17]
+  * [Survey of Cultural Awareness in Language Models: Text and Beyond](https://arxiv.org/abs/2411.00860)<br>[2024-11-05]
 * 多模态
   * [A Comprehensive Survey on Deep Multimodal Learning with Missing Modality](https://arxiv.org/abs/2409.07825)<br>[2024-09-13]
 
@@ -253,10 +254,14 @@
 ## Point Cloud(点云)
 * [A Comprehensive Survey and Taxonomy on Point Cloud Registration Based on Deep Learning](https://export.arxiv.org/abs/2404.13830)<br>:star:[code](https://github.com/yxzhang15/PCR.)<br>[2024-04-23]
 * [Advancing 3D Point Cloud Understanding through Deep Transfer Learning: A Comprehensive Survey](https://arxiv.org/abs/2407.17877)<br>[2024-07-26]
+* [Deep Learning for 3D Point Cloud Enhancement: A Survey](https://arxiv.org/abs/2411.00857)<br>[2024-11-05]
 
 ## MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)
 * [Computer Vision Model Compression Techniques for Embedded Systems: A Survey](https://arxiv.org/abs/2408.08250)<br>:star:[code](https://github.com/venturusbr/cv-model-compression)<br>[2024-08-16]
 * [Adversarial Pruning: A Survey and Benchmark of Pruning Methods for Adversarial Robustness](https://arxiv.org/abs/2409.01249)<br>:star:[code](https://github.com/pralab/AdversarialPruningBenchmark)<br>[2024-09-04]
+* [Model Compression Techniques in Biometrics Applications: A Survey](https://arxiv.org/abs/2401.10139)<br>[2024-01-19]
+* KD
+  * [A Comprehensive Review of Knowledge Distillation in Computer Vision](https://arxiv.org/abs/2404.00936)<br>[2024-04-02]
 
 ## OCR
 * [Transformers and Language Models in Form Understanding: A Comprehensive Review of Scanned Document Analysis](https://arxiv.org/abs/2403.04080)<br>[2024-03-08]
@@ -333,10 +338,6 @@
   * [A Survey on Diffusion Models for Inverse Problems](https://arxiv.org/abs/2410.00083)<br>[2024-10-02]
   * [Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices](https://arxiv.org/abs/2410.11795)<br>:star:[code](https://github.com/ponyzym/Efficient-DMs-Survey)<br>[2024-10-16]
 
-## Model Compression
-* [Model Compression Techniques in Biometrics Applications: A Survey](https://arxiv.org/abs/2401.10139)<br>[2024-01-19]
-* KD
-  * [A Comprehensive Review of Knowledge Distillation in Computer Vision](https://arxiv.org/abs/2404.00936)<br>[2024-04-02]
 
 ## Biometrics(生物特征识别)
 * [Deep Learning Techniques for Hand Vein Biometrics: A Comprehensive Review](https://arxiv.org/abs/2409.07128)<br>[2024-09-12]
@@ -429,6 +430,8 @@
   * [A Survey of Deep Learning Based Radar and Vision Fusion for 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/2406.00714)<br>[2024-06-04]
 * 阴影检测
   * [Unveiling Deep Shadows: A Survey on Image and Video Shadow Detection, Removal, and Generation in the Era of Deep Learning](https://arxiv.org/abs/2409.02108)<br>:star:[code](https://github.com/xw-hu/Unveiling-Deep-Shadows)<br>[2024-09-04]
+* 目标发现
+  * [Unsupervised Object Discovery: A Comprehensive Survey and Unified Taxonomy](https://arxiv.org/abs/2411.00868)<br>[2024-11-05]
 
 ## UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
 * [Image Fusion in Remote Sensing: An Overview and Meta Analysis](https://arxiv.org/abs/2401.08837)<br>[2024-01-18]
@@ -479,6 +482,7 @@
 * [Artificial intelligence techniques in inherited retinal diseases: A review](https://arxiv.org/abs/2410.09105)<br>[2024-10-15]
 * [Medical AI for Early Detection of Lung Cancer: A Survey](https://arxiv.org/abs/2410.14769)<br>:star:[code](https://github.com/CaiGuoHui123/Awesome-Lung-Cancer-Detection)<br>[2024-10-22]
 * [Advancing Histopathology with Deep Learning Under Data Scarcity: A Decade in Review](https://arxiv.org/abs/2410.19820)<br>[2024-10-29]
+* [Multiplex Imaging Analysis in Pathology: a Comprehensive Review on Analytical Approaches and Digital Toolkits](https://arxiv.org/abs/2411.00948)<br>[2024-11-05]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
   * [Artificial Intelligence in Gastrointestinal Bleeding Analysis for Video Capsule Endoscopy: Insights, Innovations, and Prospects (2008-2023)](https://arxiv.org/abs/2409.00639)<br>[2024-09-04]
@@ -555,6 +559,7 @@
 * 语义分割
   * [Semi-Supervised Semantic Segmentation Based on Pseudo-Labels: A Survey](https://arxiv.org/abs/2403.01909)<br>[2024-03-06]无PDF
   * [Deep Learning-Based 3D Instance and Semantic Segmentation: A Review](https://arxiv.org/abs/2406.13308)<br>[2024-06-21]
+  * [Deep Learning on 3D Semantic Segmentation: A Detailed Review](https://arxiv.org/abs/2411.02104)<br>:star:[code](https://github.com/thobet/Deep-Learning-on-3D-Semantic-Segmentation-a-Detailed-Review)<br>[2024-11-05]
 * 纹理分割
   * [Review of wavelet-based unsupervised texture segmentation, advantage of adaptive wavelets](https://arxiv.org/abs/2410.19191)<br>[2024-10-28]
 
@@ -591,6 +596,9 @@
 
 ## Image Segmentation
 * [Systematic review of image segmentation using complex networks](https://arxiv.org/abs/2401.02758)<br>[2024-01-08]
+
+## Image/video compression(图像/视频压缩)
+* [The evolution of volumetric video: A survey of smart transcoding and compression approaches](https://arxiv.org/abs/2411.02095)<br>[2024-11-05]
 
 ## Face(人脸)
 * [SoK: Facial Deepfake Detectors](https://arxiv.org/abs/2401.04364)<br>[2024-01-10]
