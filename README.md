@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月5日已公开 397+6 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月7日已公开 403+1 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -680,6 +680,7 @@
 * [Transfer Learning Applied to Computer Vision Problems: Survey on Current Progress, Limitations, and Opportunities](https://arxiv.org/abs/2409.07736)<br>[2024-09-13]
 * [Mamba in Vision: A Comprehensive Survey of Techniques and Applications](https://arxiv.org/abs/2410.03105)<br>:star:[code](https://github.com/maklachur/Mamba-in-Computer-Vision)<br>[2024-10-07]
 * [AI-Driven Approaches for Glaucoma Detection -- A Comprehensive Review](https://arxiv.org/abs/2410.15947)<br>[2024-10-22]
+* [Where Do We Stand with Implicit Neural Representations? A Technical and Performance Survey](https://arxiv.org/abs/2411.03688)<br>[2024-11-07]
 
 <a name="0000"/>
 
