@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月7日已公开 403+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月11日已公开 404+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -449,6 +449,7 @@
 * [AI Foundation Models in Remote Sensing: A Survey](https://arxiv.org/abs/2408.03464)<br>[2024-08-08]
 * [Applications of Knowledge Distillation in Remote Sensing: A Survey](https://arxiv.org/abs/2409.12111)<br>[2024-09-19]
 * [Foundation Models for Remote Sensing and Earth Observation: A Survey](https://arxiv.org/abs/2410.16602)<br>[2024-10-23]
+* [Generative Artificial Intelligence Meets Synthetic Aperture Radar: A Survey](https://arxiv.org/abs/2411.05027)<br>:star:[code](https://github.com/XAI4SAR/GenAIxSAR)<br>[2024-11-11]
 * 交叉视角地理定位
   * [Cross-view geo-localization: a survey](https://arxiv.org/abs/2406.09722)<br>[2024-06-17]
 * 航空航天
@@ -483,6 +484,7 @@
 * [Medical AI for Early Detection of Lung Cancer: A Survey](https://arxiv.org/abs/2410.14769)<br>:star:[code](https://github.com/CaiGuoHui123/Awesome-Lung-Cancer-Detection)<br>[2024-10-22]
 * [Advancing Histopathology with Deep Learning Under Data Scarcity: A Decade in Review](https://arxiv.org/abs/2410.19820)<br>[2024-10-29]
 * [Multiplex Imaging Analysis in Pathology: a Comprehensive Review on Analytical Approaches and Digital Toolkits](https://arxiv.org/abs/2411.00948)<br>[2024-11-05]
+* [Ultrasound-Based AI for COVID-19 Detection: A Comprehensive Review of Public and Private Lung Ultrasound Datasets and Studies](https://arxiv.org/abs/2411.05029)<br>[2024-11-11]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
   * [Artificial Intelligence in Gastrointestinal Bleeding Analysis for Video Capsule Endoscopy: Insights, Innovations, and Prospects (2008-2023)](https://arxiv.org/abs/2409.00639)<br>[2024-09-04]
