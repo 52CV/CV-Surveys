@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月13日已公开 409+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月13日已公开 409+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -72,6 +72,7 @@
 * [A Timely Survey on Vision Transformer for Deepfake Detection](https://arxiv.org/abs/2405.08463)<br>[2024-05-15]
 * [Media Forensics and Deepfake Systematic Survey](https://arxiv.org/abs/2406.13295)<br>[2024-06-21]
 * [The Tug-of-War Between Deepfake Generation and Detection](https://arxiv.org/abs/2407.06174)<br>[2024-07-09]
+* [Understanding Audiovisual Deepfake Detection: Techniques, Challenges, Human Factors and Perceptual Insights](https://arxiv.org/abs/2411.07650)<br>[2024-11-13]
 
 ## Industrial Anomaly Detection(工业缺陷检测)
 * [A Systematic Review of Available Datasets in Additive Manufacturing](https://arxiv.org/abs/2401.15448)<br>[2024-01-30]
