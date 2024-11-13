@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月11日已公开 404+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月13日已公开 409+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -207,6 +207,7 @@
 * [Preference Tuning with Human Feedback on Language, Speech, and Vision Tasks: A Survey](https://arxiv.org/abs/2409.11564)<br>[2024-09-19]
 * [One missing piece in Vision and Language: A Survey on Comics Understanding](https://arxiv.org/abs/2409.09502)<br>:star:[code](https://github.com/emanuelevivoli/awesome-comics-understanding)<br>[2024-09-17]
 * [A Survey of Low-shot Vision-Language Model Adaptation via Representer Theorem](https://arxiv.org/abs/2410.11686)<br>[2024-10-16]
+* [Autoregressive Models in Vision: A Survey](https://arxiv.org/abs/2411.05902)<br>:star:[code](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey)<br>[2024-11-12]
 * 基础模型
   * [Few-shot Adaptation of Multi-modal Foundation Models: A Survey](https://arxiv.org/abs/2401.01736)<br>[2024-01-04]
   * [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Review](https://arxiv.org/abs/2405.09589)<br>[2024-05-17]
@@ -450,6 +451,7 @@
 * [Applications of Knowledge Distillation in Remote Sensing: A Survey](https://arxiv.org/abs/2409.12111)<br>[2024-09-19]
 * [Foundation Models for Remote Sensing and Earth Observation: A Survey](https://arxiv.org/abs/2410.16602)<br>[2024-10-23]
 * [Generative Artificial Intelligence Meets Synthetic Aperture Radar: A Survey](https://arxiv.org/abs/2411.05027)<br>:star:[code](https://github.com/XAI4SAR/GenAIxSAR)<br>[2024-11-11]
+* [Maritime Search and Rescue Missions with Aerial Images: A Survey](https://arxiv.org/abs/2411.07649)<br>[2024-11-13]
 * 交叉视角地理定位
   * [Cross-view geo-localization: a survey](https://arxiv.org/abs/2406.09722)<br>[2024-06-17]
 * 航空航天
@@ -485,6 +487,7 @@
 * [Advancing Histopathology with Deep Learning Under Data Scarcity: A Decade in Review](https://arxiv.org/abs/2410.19820)<br>[2024-10-29]
 * [Multiplex Imaging Analysis in Pathology: a Comprehensive Review on Analytical Approaches and Digital Toolkits](https://arxiv.org/abs/2411.00948)<br>[2024-11-05]
 * [Ultrasound-Based AI for COVID-19 Detection: A Comprehensive Review of Public and Private Lung Ultrasound Datasets and Studies](https://arxiv.org/abs/2411.05029)<br>[2024-11-11]
+* [Artificial Intelligence-Informed Handheld Breast Ultrasound for Screening: A Systematic Review of Diagnostic Test Accuracy](https://arxiv.org/abs/2411.07322)<br>[2024-11-13]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
   * [Artificial Intelligence in Gastrointestinal Bleeding Analysis for Video Capsule Endoscopy: Insights, Innovations, and Prospects (2008-2023)](https://arxiv.org/abs/2409.00639)<br>[2024-09-04]
@@ -521,6 +524,7 @@
 * 医学影像分析
   * [A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond](https://arxiv.org/abs/2410.02362)<br>[2024-10-04]
   * [Self-eXplainable AI for Medical Image Analysis: A Survey and New Outlooks](https://arxiv.org/abs/2410.02331)<br>[2024-10-04]
+  * [Navigating Distribution Shifts in Medical Image Analysis: A Survey](https://arxiv.org/abs/2411.05824)<br>[2024-11-12]
 * 细胞核实例分割
   * [A Survey on Cell Nuclei Instance Segmentation and Classification: Leveraging Context and Attention](https://arxiv.org/abs/2407.18673)<br>[2024-07-29]
 * 神经成像中的异常检测
@@ -683,6 +687,7 @@
 * [Mamba in Vision: A Comprehensive Survey of Techniques and Applications](https://arxiv.org/abs/2410.03105)<br>:star:[code](https://github.com/maklachur/Mamba-in-Computer-Vision)<br>[2024-10-07]
 * [AI-Driven Approaches for Glaucoma Detection -- A Comprehensive Review](https://arxiv.org/abs/2410.15947)<br>[2024-10-22]
 * [Where Do We Stand with Implicit Neural Representations? A Technical and Performance Survey](https://arxiv.org/abs/2411.03688)<br>[2024-11-07]
+* [Trends, Challenges, and Future Directions in Deep Learning for Glaucoma: A Systematic Review](https://arxiv.org/abs/2411.05876)<br>[2024-11-12]
 
 <a name="0000"/>
 
