@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月13日已公开 409+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月14日已公开 413+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -619,6 +619,7 @@
 * [A Survey on Physical Adversarial Attacks against Face Recognition Systems](https://arxiv.org/abs/2410.16317)<br>[2024-10-23]
 * 人脸表情
   * [A Survey on Facial Expression Recognition of Static and Dynamic Emotions](https://arxiv.org/abs/2408.15777)<br>:star:[code](https://github.com/wangyanckxx/SurveyFER)<br>[2024-08-29]
+  * [A survey on Graph Deep Representation Learning for Facial Expression Recognition](https://arxiv.org/abs/2411.08472)<br>[2024-11-14]
 * 群体情绪识别(Group-level Emotion Recognition ,GReco)
   * [A Survey of Deep Learning for Group-level Emotion Recognition](https://arxiv.org/abs/2408.15276)<br>[2024-08-29]
 * 人脸伪造检测
@@ -691,6 +692,7 @@
 * [AI-Driven Approaches for Glaucoma Detection -- A Comprehensive Review](https://arxiv.org/abs/2410.15947)<br>[2024-10-22]
 * [Where Do We Stand with Implicit Neural Representations? A Technical and Performance Survey](https://arxiv.org/abs/2411.03688)<br>[2024-11-07]
 * [Trends, Challenges, and Future Directions in Deep Learning for Glaucoma: A Systematic Review](https://arxiv.org/abs/2411.05876)<br>[2024-11-12]
+* [A Survey on Vision Autoregressive Model](https://arxiv.org/abs/2411.08666)<br>[2024-11-14]
 
 <a name="0000"/>
 
