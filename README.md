@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月18日已公开 416+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月19日已公开 418+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -142,6 +142,7 @@
 
 ## Visual Question Answering(视觉问答)
 * [Visual Question Answering in Ophthalmology: A Progressive and Practical Perspective](https://arxiv.org/abs/2410.16662)<br>[2024-10-23]
+* [A Comprehensive Survey on Visual Question Answering Datasets and Algorithms](https://arxiv.org/abs/2411.11150)<br>[2024-11-19]
 
 ## Robot/SLAM
 * [Event-based Sensor Fusion and Application on Odometry: A Survey](https://arxiv.org/abs/2410.15480)<br>[2024-10-22]
@@ -185,6 +186,9 @@
   * [A Comprehensive Survey on Deep-Learning-based Vehicle Re-Identification: Models, Data Sets and Challenges](https://arxiv.org/abs/2401.10643)<br>[2024-01-22]
 * 疲劳驾驶检测
   * [A Survey on Drowsiness Detection -- Modern Applications and Methods](https://arxiv.org/abs/2408.12990)<br>[2024-08-26]
+
+## Scene Understanding(场景理解)
+* [Reducing Label Dependency for Underwater Scene Understanding: A Survey of Datasets, Techniques and Applications](https://arxiv.org/abs/2411.11287)<br>[2024-11-19]
 
 ## Tamper Detection/image forencis detection(图像篡改检测方向)
 * [Datasets, Clues and State-of-the-Arts for Multimedia Forensics: An Extensive Review](https://arxiv.org/abs/2401.06999)<br>[2024-01-17]
@@ -269,6 +273,7 @@
 ## OCR
 * [Transformers and Language Models in Form Understanding: A Comprehensive Review of Scanned Document Analysis](https://arxiv.org/abs/2403.04080)<br>[2024-03-08]
 * [A short review on graphonometric evaluation tools in children.](https://arxiv.org/abs/2406.04818)<br>[2024-06-11]
+* [A comprehensive survey of oracle character recognition: challenges, benchmarks, and beyond](https://arxiv.org/abs/2411.11354)<br>[2024-11-19]
 * 文本图像处理
   * [Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing](https://arxiv.org/abs/2402.03082)<br>:star:[code](https://github.com/shuyansy/Survey-of-Visual-Text-Processing)<br>[2024-02-06]
 * 图表理解
@@ -346,6 +351,7 @@
 
 ## Biometrics(生物特征识别)
 * [Deep Learning Techniques for Hand Vein Biometrics: A Comprehensive Review](https://arxiv.org/abs/2409.07128)<br>[2024-09-12]
+* [Biometrics in Extended Reality: A Review](https://arxiv.org/abs/2411.10489)<br>[2024-11-19]
 
 ## Reid/Pedestrian Detection(行人/重识别检测)
 * Reid
