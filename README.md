@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月20日已公开 422+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月21日已公开 423+1 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -703,6 +703,7 @@
 * [Where Do We Stand with Implicit Neural Representations? A Technical and Performance Survey](https://arxiv.org/abs/2411.03688)<br>[2024-11-07]
 * [Trends, Challenges, and Future Directions in Deep Learning for Glaucoma: A Systematic Review](https://arxiv.org/abs/2411.05876)<br>[2024-11-12]
 * [A Survey on Vision Autoregressive Model](https://arxiv.org/abs/2411.08666)<br>[2024-11-14]
+* [Towards Fairness in AI for Melanoma Detection: Systemic Review and Recommendations](https://arxiv.org/abs/2411.12846)<br>[2024-11-21]
 
 <a name="0000"/>
 
