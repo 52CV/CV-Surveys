@@ -411,6 +411,7 @@ nihaoma
   * [Networking Systems for Video Anomaly Detection: A Tutorial and Survey](https://arxiv.org/abs/2405.10347)<br>:star:[code](https://github.com/fdjingliu/NSVAD)<br>[2024-05-20]
   * [Video Anomaly Detection in 10 Years: A Survey and Outlook](https://arxiv.org/abs/2405.19387)<br>[2024-05-31]
   * [Deep Learning for Video Anomaly Detection: A Review](https://arxiv.org/abs/2409.05383)<br>[2024-09-10]
+  * [Privacy-Preserving Video Anomaly Detection: A Survey](https://arxiv.org/abs/2411.14565)<br>[2024-11-25]
 
 ## Object Tracking(目标跟踪)
 * [Beyond Traditional Single Object Tracking: A Survey](https://arxiv.org/abs/2405.10439)<br>[2024-05-20]
