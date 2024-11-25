@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月25日已公开 424+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月25日已公开 424+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -393,6 +393,7 @@
 ## Video
 * [Deep video representation learning: a survey](https://arxiv.org/abs/2405.06574)<br>[2024-05-13]
 * [Segment Anything for Videos: A Systematic Survey](https://arxiv.org/abs/2408.08315)<br>:star:[code](https://github.com/983632847/SAM-for-Videos)<br>[2024-08-19]
+* [About Time: Advances, Challenges, and Outlooks of Action Understanding](https://arxiv.org/abs/2411.15106)<br>[2024-11-25]
 * 视频摘要
   * [Video Summarization Techniques: A Comprehensive Review](https://arxiv.org/abs/2410.04449)<br>[2024-10-08]
 * 视频理解
