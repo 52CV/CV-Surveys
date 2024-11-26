@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月25日已公开 424+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月26日已公开 426+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -181,6 +181,8 @@
   * [Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook](https://arxiv.org/abs/2401.06542)<br>[2024-01-15]
   * [Deep Event-based Object Detection in Autonomous Driving: A Survey](https://arxiv.org/abs/2405.03995)<br>[2024-05-08]
   * [A Comprehensive Review of 3D Object Detection in Autonomous Driving: Technological Advances and Future Directions](https://arxiv.org/abs/2408.16530)<br>:star:[code](https://github.com/Fishsoup0/Autonomous-Driving-Perception)<br>[2024-08-30]
+* 车道线检测
+  * [Monocular Lane Detection Based on Deep Learning: A Survey](https://arxiv.org/abs/2411.16316)<br>:star:[code](https://github.com/Core9724/Awesome-Lane-Detection)<br>[2024-11-26]
 * 车辆重识别
   * [A Comprehensive Survey on Deep-Learning-based Vehicle Re-Identification: Models, Data Sets and Challenges](https://arxiv.org/abs/2401.10643)<br>[2024-01-22]
 * 疲劳驾驶检测
@@ -225,6 +227,7 @@
   * [The Synergy between Data and Multi-Modal Large Language Models: A Survey from Co-Development Perspective](https://arxiv.org/abs/2407.08583)<br>:star:[code](https://github.com/modelscope/data-juicer/blob/main/docs/awesome_llm_data.md)<br>[2024-07-12]
   * [A Survey on Benchmarks of Multimodal Large Language Models](https://arxiv.org/abs/2408.08632)<br>:star:[code](https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey)<br>[2024-08-19]
   * [Visual Prompting in Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2409.15310)<br>[2024-09-25]
+  * [MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs](https://arxiv.org/abs/2411.15296)<br>:star:[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Benchmarks)<br>[2024-11-26]
 * VLN
   * [Vision-Language Navigation with Embodied Intelligence: A Survey](https://arxiv.org/abs/2402.14304)<br>[2024-02-23]
   * [Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models](https://arxiv.org/abs/2407.07035)<br>[2024-07-10]
@@ -305,6 +308,7 @@
   * [Theoretical research on generative diffusion models: an overview](https://arxiv.org/abs/2404.09016)<br>[2024-04-16]
   * [Exploring Feedback Generation in Automated Skeletal Movement Assessment: A Comprehensive Overview](https://arxiv.org/abs/2404.09359)<br>[2024-04-16]
   * [Adversarial Attacks and Defenses on Text-to-Image Diffusion Models: A Survey](https://arxiv.org/abs/2407.15861)<br>:star:[code](https://github.com/datar001/Awesome-AD-on-T2IDM)<br>[2024-07-24]
+  * [Text-to-Image Synthesis: A Decade Survey](https://arxiv.org/abs/2411.16164)<br>[2024-11-26]
 * 内容生成
   * [A Survey on Personalized Content Synthesis with Diffusion Models](https://arxiv.org/abs/2405.05538)<br>[2024-05-10]
   * 文本-3D
@@ -576,6 +580,7 @@
 ## Image Segmentation(图像分割)
 * [Image Segmentation in Foundation Model Era: A Survey](https://arxiv.org/abs/2408.12957)<br>[2024-08-26]
 * [On Efficient Variants of Segment Anything Model: A Survey](https://arxiv.org/abs/2410.04960)<br>[2024-10-08]
+* [A Review of Bayesian Uncertainty Quantification in Deep Probabilistic Image Segmentation](https://arxiv.org/abs/2411.16370)<br>[2024-11-26]
 * 语义分割
   * [Semi-Supervised Semantic Segmentation Based on Pseudo-Labels: A Survey](https://arxiv.org/abs/2403.01909)<br>[2024-03-06]无PDF
   * [Deep Learning-Based 3D Instance and Semantic Segmentation: A Review](https://arxiv.org/abs/2406.13308)<br>[2024-06-21]
