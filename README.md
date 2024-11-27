@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月26日已公开 426+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至11月27日已公开 430+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -142,6 +142,7 @@
 ## Visual Question Answering(视觉问答)
 * [Visual Question Answering in Ophthalmology: A Progressive and Practical Perspective](https://arxiv.org/abs/2410.16662)<br>[2024-10-23]
 * [A Comprehensive Survey on Visual Question Answering Datasets and Algorithms](https://arxiv.org/abs/2411.11150)<br>[2024-11-19]
+* [Natural Language Understanding and Inference with MLLM in Visual Question Answering: A Survey](https://arxiv.org/abs/2411.17558)<br>[2024-11-27]
 
 ## Robot/SLAM
 * [Event-based Sensor Fusion and Application on Odometry: A Survey](https://arxiv.org/abs/2410.15480)<br>[2024-10-22]
@@ -246,6 +247,7 @@
   * [Survey of Cultural Awareness in Language Models: Text and Beyond](https://arxiv.org/abs/2411.00860)<br>[2024-11-05]
 * 多模态
   * [A Comprehensive Survey on Deep Multimodal Learning with Missing Modality](https://arxiv.org/abs/2409.07825)<br>[2024-09-13]
+  * [Multimodal Alignment and Fusion: A Survey](https://arxiv.org/abs/2411.17040)<br>[2024-11-27]
 
 ## Vision Transformer
 * [Exploring the Synergies of Hybrid CNNs and ViTs Architectures for Computer Vision: A survey](https://arxiv.org/abs/2402.02941)<br>[2024-02-06]
@@ -431,6 +433,7 @@
 * [Surveying You Only Look Once (YOLO) Multispectral Object Detection Advancements, Applications And Challenges](https://arxiv.org/abs/2409.12977)<br>[2024-09-23]
 * [Advancing Object Detection in Transportation with Multimodal Large Language Models (MLLMs): A Comprehensive Review and Empirical Testing](https://export.arxiv.org/ftp/arxiv/papers/2409/2409.18286.pdf)<br>[2024-09-30]
 * [Radar and Camera Fusion for Object Detection and Tracking: A Comprehensive Survey](https://arxiv.org/abs/2410.19872)<br>[2024-10-29]
+* [Event-based Spiking Neural Networks for Object Detection: A Review of Datasets, Architectures, Learning Rules, and Implementation](https://arxiv.org/abs/2411.17006)<br>:star:[code](https://github.com/radlab-sketch/Event-SNN-Resources)<br>[2024-11-27]
 * 真实世界目标检测
   * [Self-Supervised Learning for Real-World Object Detection: a Survey](https://arxiv.org/abs/2410.07442)<br>[2024-10-11]
 * 开发世界目标检测
