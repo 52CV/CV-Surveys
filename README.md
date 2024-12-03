@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月2日已公开 437+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月3日已公开 438+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -64,6 +64,7 @@
 * [A Review and Efficient Implementation of Scene Graph Generation Metrics](https://arxiv.org/abs/2404.09616)<br>:star:[code](https://lorjul.github.io/sgbench/)<br>[2024-04-16]
 
 ## Sound
+* [A Survey of Recent Advances and Challenges in Deep Audio-Visual Correlation Learning](https://arxiv.org/abs/2412.00049)<br>[2024-12-03]
 * 音频描述
   * [Audio Description Generation in the Era of LLMs and VLMs: A Review of Transferable Generative AI Technologies](https://arxiv.org/abs/2410.08860)<br>[2024-10-14]
 
@@ -191,6 +192,8 @@
   * [A Comprehensive Survey on Deep-Learning-based Vehicle Re-Identification: Models, Data Sets and Challenges](https://arxiv.org/abs/2401.10643)<br>[2024-01-22]
 * 疲劳驾驶检测
   * [A Survey on Drowsiness Detection -- Modern Applications and Methods](https://arxiv.org/abs/2408.12990)<br>[2024-08-26]
+* 交通监控
+  * [Vision Technologies with Applications in Traffic Surveillance Systems: A Holistic Survey](https://arxiv.org/abs/2412.00348)<br>[2024-12-03]
 
 ## Scene Understanding(场景理解)
 * [Reducing Label Dependency for Underwater Scene Understanding: A Survey of Datasets, Techniques and Applications](https://arxiv.org/abs/2411.11287)<br>[2024-11-19]
@@ -474,6 +477,7 @@
 * [Foundation Models for Remote Sensing and Earth Observation: A Survey](https://arxiv.org/abs/2410.16602)<br>[2024-10-23]
 * [Generative Artificial Intelligence Meets Synthetic Aperture Radar: A Survey](https://arxiv.org/abs/2411.05027)<br>:star:[code](https://github.com/XAI4SAR/GenAIxSAR)<br>[2024-11-11]
 * [Maritime Search and Rescue Missions with Aerial Images: A Survey](https://arxiv.org/abs/2411.07649)<br>[2024-11-13]
+* [A comprehensive review of datasets and deep learning techniques for vision in Unmanned Surface Vehicles](https://arxiv.org/abs/2412.01461)<br>[2024-12-03]
 * 交叉视角地理定位
   * [Cross-view geo-localization: a survey](https://arxiv.org/abs/2406.09722)<br>[2024-06-17]
 * 航空航天
@@ -484,6 +488,7 @@
   * [Systematic Literature Review of Vision-Based Approaches to Outdoor Livestock Monitoring with Lessons from Wildlife Studies](https://arxiv.org/pdf/2410.05041)<br>[2024-10-08]
 * 变化检测
   * [Exploring Foundation Models in Remote Sensing Image Change Detection: A Comprehensive Survey](https://arxiv.org/abs/2410.07824)<br>[2024-10-11]
+
 
 ## Medical Image Progress
 * [Empowering Medical Imaging with Artificial Intelligence: A Review of Machine Learning Approaches for the Detection, and Segmentation of COVID-19 Using Radiographic and Tomographic Images](https://arxiv.org/abs/2401.07020)<br>[2024-01-17]
@@ -717,6 +722,7 @@
 * [Trends, Challenges, and Future Directions in Deep Learning for Glaucoma: A Systematic Review](https://arxiv.org/abs/2411.05876)<br>[2024-11-12]
 * [A Survey on Vision Autoregressive Model](https://arxiv.org/abs/2411.08666)<br>[2024-11-14]
 * [Towards Fairness in AI for Melanoma Detection: Systemic Review and Recommendations](https://arxiv.org/abs/2411.12846)<br>[2024-11-21]
+* [Artificial Intelligence for Geometry-Based Feature Extraction, Analysis and Synthesis in Artistic Images: A Survey](https://arxiv.org/abs/2412.01450)<br>[2024-12-03]
 
 <a name="0000"/>
 
