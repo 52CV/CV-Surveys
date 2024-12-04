@@ -21,7 +21,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月3日已公开 438+5 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月4日已公开 443+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -236,6 +236,7 @@
   * [A Survey on Benchmarks of Multimodal Large Language Models](https://arxiv.org/abs/2408.08632)<br>:star:[code](https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey)<br>[2024-08-19]
   * [Visual Prompting in Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2409.15310)<br>[2024-09-25]
   * [MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs](https://arxiv.org/abs/2411.15296)<br>:star:[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Benchmarks)<br>[2024-11-26]
+  * [Personalized Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2412.02142)<br>[2024-12-04]
 * VLN
   * [Vision-Language Navigation with Embodied Intelligence: A Survey](https://arxiv.org/abs/2402.14304)<br>[2024-02-23]
   * [Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models](https://arxiv.org/abs/2407.07035)<br>[2024-07-10]
@@ -479,6 +480,7 @@
 * [Generative Artificial Intelligence Meets Synthetic Aperture Radar: A Survey](https://arxiv.org/abs/2411.05027)<br>:star:[code](https://github.com/XAI4SAR/GenAIxSAR)<br>[2024-11-11]
 * [Maritime Search and Rescue Missions with Aerial Images: A Survey](https://arxiv.org/abs/2411.07649)<br>[2024-11-13]
 * [A comprehensive review of datasets and deep learning techniques for vision in Unmanned Surface Vehicles](https://arxiv.org/abs/2412.01461)<br>[2024-12-03]
+* [Remote Sensing Temporal Vision-Language Models: A Comprehensive Survey](https://arxiv.org/abs/2412.02573)<br>:star:[code](https://github.com/Chen-Yang-Liu/Awesome-RS-Temporal-VLM)<br>[2024-12-04]
 * 交叉视角地理定位
   * [Cross-view geo-localization: a survey](https://arxiv.org/abs/2406.09722)<br>[2024-06-17]
 * 航空航天
@@ -517,6 +519,7 @@
 * [Ultrasound-Based AI for COVID-19 Detection: A Comprehensive Review of Public and Private Lung Ultrasound Datasets and Studies](https://arxiv.org/abs/2411.05029)<br>[2024-11-11]
 * [Artificial Intelligence-Informed Handheld Breast Ultrasound for Screening: A Systematic Review of Diagnostic Test Accuracy](https://arxiv.org/abs/2411.07322)<br>[2024-11-13]
 * [A Survey of Medical Vision-and-Language Applications and Their Techniques](https://arxiv.org/abs/2411.12195)<br>:star:[code](https://github.com/YtongXie/Medical-Vision-and-Language-Tasks-and-Methodologies-A-Survey)<br>[2024-11-20]
+* [Explainable Artificial Intelligence for Medical Applications: A Review](https://arxiv.org/abs/2412.01829)<br>[2024-12-04]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
   * [Artificial Intelligence in Gastrointestinal Bleeding Analysis for Video Capsule Endoscopy: Insights, Innovations, and Prospects (2008-2023)](https://arxiv.org/abs/2409.00639)<br>[2024-09-04]
@@ -550,6 +553,7 @@
   * [Deep Learning for Pancreas Segmentation: a Systematic Review](https://arxiv.org/abs/2407.16313)<br>[2024-07-24]
   * [A Short Review and Evaluation of SAM2's Performance in 3D CT Image Segmentation](https://arxiv.org/abs/2408.11210)<br>[2024-08-22]
   * [Unleashing the Potential of SAM2 for Biomedical Images and Videos: A Survey](https://arxiv.org/abs/2408.12889)<br>:star:[code](https://github.com/YichiZhang98/SAM4MIS)<br>[2024-08-26]
+  * [U-Net in Medical Image Segmentation: A Review of Its Applications Across Modalities](https://arxiv.org/abs/2412.02242)<br>[2024-12-04]
 * 医学影像分析
   * [A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond](https://arxiv.org/abs/2410.02362)<br>[2024-10-04]
   * [Self-eXplainable AI for Medical Image Analysis: A Survey and New Outlooks](https://arxiv.org/abs/2410.02331)<br>[2024-10-04]
