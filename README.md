@@ -145,6 +145,7 @@
 
 ## Visual Question Answering(视觉问答)
 * [Visual Question Answering in Ophthalmology: A Progressive and Practical Perspective](https://arxiv.org/abs/2410.16662)<br>[2024-10-23]
+* [Video Question Answering: A survey of the state-of-the-art](https://www.sciencedirect.com/science/article/pii/S1047320324002761)<br>[2024-10-28]
 * [A Comprehensive Survey on Visual Question Answering Datasets and Algorithms](https://arxiv.org/abs/2411.11150)<br>[2024-11-19]
 * [Natural Language Understanding and Inference with MLLM in Visual Question Answering: A Survey](https://arxiv.org/abs/2411.17558)<br>[2024-11-27]
 
