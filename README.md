@@ -4,6 +4,10 @@
 
 ## 查看2024年综述文献点这里↘️[2024-CV-Surveys](https://github.com/52CV/CV-Surveys)
 
+## 2025 年论文分类汇总戳这里
+↘️[WACV-2025-Papers](https://github.com/52CV/WACV-2025-Papers)
+↘️[CVPR-2025-Papers](https://github.com/52CV/CVPR-2025-Papers)
+
 ## 2024 年论文分类汇总戳这里
 ↘️[WACV-2024-Papers](https://github.com/52CV/WACV-2024-Papers)
 ↘️[CVPR-2024-Papers](https://github.com/52CV/CVPR-2024-Papers)
@@ -18,7 +22,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月6日已公开 447+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月9日已公开 448+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -440,6 +444,7 @@
 * [Advancing Object Detection in Transportation with Multimodal Large Language Models (MLLMs): A Comprehensive Review and Empirical Testing](https://export.arxiv.org/ftp/arxiv/papers/2409/2409.18286.pdf)<br>[2024-09-30]
 * [Radar and Camera Fusion for Object Detection and Tracking: A Comprehensive Survey](https://arxiv.org/abs/2410.19872)<br>[2024-10-29]
 * [Event-based Spiking Neural Networks for Object Detection: A Review of Datasets, Architectures, Learning Rules, and Implementation](https://arxiv.org/abs/2411.17006)<br>:star:[code](https://github.com/radlab-sketch/Event-SNN-Resources)<br>[2024-11-27]
+* [From classical techniques to convolution-based models: A review of object detection algorithms](https://arxiv.org/abs/2412.05252)<br>[2024-12-09]
 * 真实世界目标检测
   * [Self-Supervised Learning for Real-World Object Detection: a Survey](https://arxiv.org/abs/2410.07442)<br>[2024-10-11]
 * 开发世界目标检测
@@ -523,6 +528,7 @@
   * [Artificial Intelligence in Gastrointestinal Bleeding Analysis for Video Capsule Endoscopy: Insights, Innovations, and Prospects (2008-2023)](https://arxiv.org/abs/2409.00639)<br>[2024-09-04]
   * [A Short Survey on Set-Based Aggregation Techniques for Single-Vector WSI Representation in Digital Pathology](https://arxiv.org/abs/2409.04615)<br>[2024-09-10]
   * [The Era of Foundation Models in Medical Imaging is Approaching : A Scoping Review of the Clinical Value of Large-Scale Generative AI Applications in Radiology](https://arxiv.org/abs/2409.12973)<br>[2024-09-23]
+  * [Machine learning algorithms to predict the risk of rupture of intracranial aneurysms: a systematic review](https://arxiv.org/abs/2412.04749)<br>[2024-12-09]预测颅内动脉瘤破裂风险的机器学习算法：系统综述
 * 生物医学图像分割
   * [Foundation Models for Biomedical Image Segmentation: A Survey](https://arxiv.org/abs/2401.07654)<br>[2024-01-17]
   * [Biomedical Image Segmentation: A Systematic Literature Review of Deep Learning Based Object Detection Methods](https://arxiv.org/abs/2408.03393)<br>[2024-08-08]
@@ -633,6 +639,8 @@
     * [A Comprehensive Survey on Underwater Image Enhancement Based on Deep Learning](https://arxiv.org/abs/2405.19684)<br>:star:[code](https://github.com/YuZhao1999/UIE)<br>[2024-05-31]
   * 图像数据增强
     * [Advances in Diffusion Models for Image Data Augmentation: A Review of Methods, Models, Evaluation Metrics and Future Research Directions](https://arxiv.org/abs/2407.04103)<br>[2024-07-08]
+* 视频质量评估
+  * [Video Quality Assessment: A Comprehensive Survey](https://arxiv.org/abs/2412.04508)<br>[2024-12-09]
 
 ## Image Segmentation
 * [Systematic review of image segmentation using complex networks](https://arxiv.org/abs/2401.02758)<br>[2024-01-08]
