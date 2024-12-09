@@ -6,13 +6,10 @@
 
 ## 2024 年论文分类汇总戳这里
 ↘️[WACV-2024-Papers](https://github.com/52CV/WACV-2024-Papers)
+↘️[CVPR-2024-Papers](https://github.com/52CV/CVPR-2024-Papers)
+↘️[ECCV-2024-Papers](https://github.com/52CV/ECCV-2024-Papers)
 
-## 2023 年论文分类汇总戳这里
-↘️[CVPR-2023-Papers](https://github.com/52CV/CVPR-2023-Papers)
-↘️[WACV-2023-Papers](https://github.com/52CV/WACV-2023-Papers)
-↘️[ICCV-2023-Papers](https://github.com/52CV/ICCV-2023-Papers)
-↘️[2023-CV-Surveys](https://github.com/52CV/CV-Surveys/blob/main/2023-CV-Surveys.md)
-
+## [2023 年论文分类汇总戳这里](#00000)
 ## [2022 年论文分类汇总戳这里](#0000)
 ## [2021 年论文分类汇总戳这里](#000)
 ## [2020 年论文分类汇总戳这里](#00)
@@ -729,6 +726,14 @@
 * [A Survey on Vision Autoregressive Model](https://arxiv.org/abs/2411.08666)<br>[2024-11-14]
 * [Towards Fairness in AI for Melanoma Detection: Systemic Review and Recommendations](https://arxiv.org/abs/2411.12846)<br>[2024-11-21]
 * [Artificial Intelligence for Geometry-Based Feature Extraction, Analysis and Synthesis in Artistic Images: A Survey](https://arxiv.org/abs/2412.01450)<br>[2024-12-03]
+
+<a name="00000"/>
+
+## 2023 年论文分类汇总戳这里
+↘️[CVPR-2023-Papers](https://github.com/52CV/CVPR-2023-Papers)
+↘️[WACV-2023-Papers](https://github.com/52CV/WACV-2023-Papers)
+↘️[ICCV-2023-Papers](https://github.com/52CV/ICCV-2023-Papers)
+↘️[2023-CV-Surveys](https://github.com/52CV/CV-Surveys/blob/main/2023-CV-Surveys.md)
 
 <a name="0000"/>
 
