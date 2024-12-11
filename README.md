@@ -22,7 +22,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月9日已公开 448+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月11日已公开 452+1 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -421,6 +421,8 @@
   * [A Survey on Video Prediction: From Deterministic to Generative Approaches](https://arxiv.org/abs/2401.14718)<br>[2024-01-29]
 * 视频制作
   * [Reviewing Intelligent Cinematography: AI research for camera-based video production](https://arxiv.org/abs/2405.05039)<br>[2024-05-09]
+* 视频监控
+  * [Safety Monitoring of Machine Learning Perception Functions: a Survey](https://arxiv.org/abs/2412.06869)<br>[2024-12-11]
 * 视频异常检测
   * [Networking Systems for Video Anomaly Detection: A Tutorial and Survey](https://arxiv.org/abs/2405.10347)<br>:star:[code](https://github.com/fdjingliu/NSVAD)<br>[2024-05-20]
   * [Video Anomaly Detection in 10 Years: A Survey and Outlook](https://arxiv.org/abs/2405.19387)<br>[2024-05-31]
