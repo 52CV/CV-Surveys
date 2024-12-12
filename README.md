@@ -22,7 +22,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月11日已公开 452+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月12日已公开 453+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -224,6 +224,7 @@
 * [A Survey of Low-shot Vision-Language Model Adaptation via Representer Theorem](https://arxiv.org/abs/2410.11686)<br>[2024-10-16]
 * [Autoregressive Models in Vision: A Survey](https://arxiv.org/abs/2411.05902)<br>:star:[code](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey)<br>[2024-11-12]
 * [Online Knowledge Integration for 3D Semantic Mapping: A Survey](https://arxiv.org/abs/2411.18147)<br>[2024-11-28]
+* [How Vision-Language Tasks Benefit from Large Pre-trained Models: A Survey](https://arxiv.org/abs/2412.08158)<br>[2024-12-12]
 * 基础模型
   * [Few-shot Adaptation of Multi-modal Foundation Models: A Survey](https://arxiv.org/abs/2401.01736)<br>[2024-01-04]
   * [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Review](https://arxiv.org/abs/2405.09589)<br>[2024-05-17]
@@ -737,6 +738,7 @@
 * [A Survey on Vision Autoregressive Model](https://arxiv.org/abs/2411.08666)<br>[2024-11-14]
 * [Towards Fairness in AI for Melanoma Detection: Systemic Review and Recommendations](https://arxiv.org/abs/2411.12846)<br>[2024-11-21]
 * [Artificial Intelligence for Geometry-Based Feature Extraction, Analysis and Synthesis in Artistic Images: A Survey](https://arxiv.org/abs/2412.01450)<br>[2024-12-03]
+* [A Review of Intelligent Device Fault Diagnosis Technologies Based on Machine Vision](https://arxiv.org/abs/2412.08148)<br>[2024-12-12]
 
 <a name="00000"/>
 
