@@ -22,7 +22,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月12日已公开 453+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月16日已公开 455+1 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -434,6 +434,7 @@
 * [Beyond Traditional Single Object Tracking: A Survey](https://arxiv.org/abs/2405.10439)<br>[2024-05-20]
 * [The Progression of Transformers from Language to Vision to MOT: A Literature Review on Multi-Object Tracking with Transformers](https://export.arxiv.org/abs/2406.16784)<br>[2024-06-25]
 * [Object Tracking in a 360o View: A Novel Perspective on Bridging the Gap to Biomedical Advancements](https://arxiv.org/abs/2412.01119)<br>[2024-12-03]
+* [Visual Object Tracking across Diverse Data Modalities: A Review](https://arxiv.org/abs/2412.09991)<br>[2024-12-16]
 * 多模态目标跟踪
   * [Awesome Multi-modal Object Tracking](https://arxiv.org/abs/2405.14200)<br>:star:[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)<br>[2024-05-24]
 
