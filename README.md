@@ -22,7 +22,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月16日已公开 455+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月17日已公开 456+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -389,6 +389,8 @@
 * [A Comprehensive Methodological Survey of Human Activity Recognition Across Divers Data Modalities](https://arxiv.org/abs/2409.09678)<br>[2024-09-17]
 * [Human Action Anticipation: A Survey](https://arxiv.org/abs/2410.14045)<br>[2024-10-21]
 * [Exocentric To Egocentric Transfer For Action Recognition: A Short Survey](https://arxiv.org/abs/2410.20621)<br>[2024-10-29]
+* 动作质量评估
+  * [A Comprehensive Survey of Action Quality Assessment: Method and Benchmark](https://arxiv.org/abs/2412.11149)<br>:star:[code](https://zhoukanglei.github.io/AQA-Survey)<br>[2024-12-17]
 * 跌倒检测
   * [Deep Learning for Computer Vision based Activity Recognition and Fall Detection of the Elderly: a Systematic Review](https://arxiv.org/abs/2401.11790)<br>[2024-01-23]
 
@@ -405,6 +407,8 @@
   * [A Methodological and Structural Review of Hand Gesture Recognition Across Diverse Data Modalities](https://arxiv.org/abs/2408.05436)<br>[2024-08-13]
 * 手语翻译
   * [From Rule-Based Models to Deep Learning Transformers Architectures for Natural Language Processing and Sign Language Translation Systems: Survey, Taxonomy and Performance Evaluation](https://arxiv.org/abs/2408.14825)<br>[2024-08-28]
+* 运动生成
+  * [Motion Generation Review: Exploring Deep Learning for Lifelike Animation with Manifold](https://arxiv.org/abs/2412.10458)<br>[2024-12-17]
 
 ## Video
 * [Deep video representation learning: a survey](https://arxiv.org/abs/2405.06574)<br>[2024-05-13]
@@ -529,6 +533,7 @@
 * [Privacy-Preserving in Medical Image Analysis: A Review of Methods and Applications](https://arxiv.org/abs/2412.03924)<br>[2024-12-06]
 * [Automatic Prediction of Stroke Treatment Outcomes: Latest Advances and Perspectives](https://arxiv.org/abs/2412.04812)<br>[2024-12-09]
 * [Machine learning algorithms to predict the risk of rupture of intracranial aneurysms: a systematic review](https://arxiv.org/abs/2412.04749)<br>[2024-12-09]预测颅内动脉瘤破裂风险的机器学习算法：系统综述
+* [Computational Methods for Breast Cancer Molecular Profiling through Routine Histopathology: A Review](https://arxiv.org/abs/2412.10392)<br>[2024-12-17]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
   * [Artificial Intelligence in Gastrointestinal Bleeding Analysis for Video Capsule Endoscopy: Insights, Innovations, and Prospects (2008-2023)](https://arxiv.org/abs/2409.00639)<br>[2024-09-04]
@@ -740,6 +745,7 @@
 * [Towards Fairness in AI for Melanoma Detection: Systemic Review and Recommendations](https://arxiv.org/abs/2411.12846)<br>[2024-11-21]
 * [Artificial Intelligence for Geometry-Based Feature Extraction, Analysis and Synthesis in Artistic Images: A Survey](https://arxiv.org/abs/2412.01450)<br>[2024-12-03]
 * [A Review of Intelligent Device Fault Diagnosis Technologies Based on Machine Vision](https://arxiv.org/abs/2412.08148)<br>[2024-12-12]
+* [Predictive Pattern Recognition Techniques Towards Spatiotemporal Representation of Plant Growth in Simulated and Controlled Environments: A Comprehensive Review](https://arxiv.org/abs/2412.10538)<br>[2024-12-17]
 
 <a name="00000"/>
 
