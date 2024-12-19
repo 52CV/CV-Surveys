@@ -22,7 +22,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月18日已公开 461+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月19日已公开 462+3 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -183,6 +183,7 @@
 * [Collective Perception Datasets for Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2405.16973)<br>[2024-05-28]
 * [Panoptic Perception for Autonomous Driving: A Survey](https://arxiv.org/abs/2408.15388)<br>[2024-08-29]
 * [Feature Importance in Pedestrian Intention Prediction: A Context-Aware Review](https://arxiv.org/abs/2409.07645)<br>[2024-09-13]
+* [Joint Perception and Prediction for Autonomous Driving: A Survey](https://arxiv.org/abs/2412.14088)<br>[2024-12-19]
 * 目标检测
   * [Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook](https://arxiv.org/abs/2401.06542)<br>[2024-01-15]
   * [Deep Event-based Object Detection in Autonomous Driving: A Survey](https://arxiv.org/abs/2405.03995)<br>[2024-05-08]
@@ -273,9 +274,11 @@
 * [Local Feature Matching Using Deep Learning: A Survey](https://arxiv.org/abs/2401.17592)<br>[2024-02-01]
 
 ## Point Cloud(点云)
-* [A Comprehensive Survey and Taxonomy on Point Cloud Registration Based on Deep Learning](https://export.arxiv.org/abs/2404.13830)<br>:star:[code](https://github.com/yxzhang15/PCR.)<br>[2024-04-23]
 * [Advancing 3D Point Cloud Understanding through Deep Transfer Learning: A Comprehensive Survey](https://arxiv.org/abs/2407.17877)<br>[2024-07-26]
 * [Deep Learning for 3D Point Cloud Enhancement: A Survey](https://arxiv.org/abs/2411.00857)<br>[2024-11-05]
+* 点云配准
+  * [A Comprehensive Survey and Taxonomy on Point Cloud Registration Based on Deep Learning](https://export.arxiv.org/abs/2404.13830)<br>:star:[code](https://github.com/yxzhang15/PCR.)<br>[2024-04-23]
+  * [3D Registration in 30 Years: A Survey](https://arxiv.org/abs/2412.13735)<br>[2024-12-19]
 
 ## MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)
 * [Computer Vision Model Compression Techniques for Embedded Systems: A Survey](https://arxiv.org/abs/2408.08250)<br>:star:[code](https://github.com/venturusbr/cv-model-compression)<br>[2024-08-16]
@@ -749,6 +752,7 @@
 * [Artificial Intelligence for Geometry-Based Feature Extraction, Analysis and Synthesis in Artistic Images: A Survey](https://arxiv.org/abs/2412.01450)<br>[2024-12-03]
 * [A Review of Intelligent Device Fault Diagnosis Technologies Based on Machine Vision](https://arxiv.org/abs/2412.08148)<br>[2024-12-12]
 * [Predictive Pattern Recognition Techniques Towards Spatiotemporal Representation of Plant Growth in Simulated and Controlled Environments: A Comprehensive Review](https://arxiv.org/abs/2412.10538)<br>[2024-12-17]
+* [A Review of Multimodal Explainable Artificial Intelligence: Past, Present and Future](https://arxiv.org/abs/2412.14056)<br>[2024-12-19]
 
 <a name="00000"/>
 
