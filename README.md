@@ -22,7 +22,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月19日已公开 462+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月20日已公开 465+1 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -616,6 +616,7 @@
 * [Image Segmentation in Foundation Model Era: A Survey](https://arxiv.org/abs/2408.12957)<br>[2024-08-26]
 * [On Efficient Variants of Segment Anything Model: A Survey](https://arxiv.org/abs/2410.04960)<br>[2024-10-08]
 * [A Review of Bayesian Uncertainty Quantification in Deep Probabilistic Image Segmentation](https://arxiv.org/abs/2411.16370)<br>[2024-11-26]
+* [Review of Fruit Tree Image Segmentation](https://arxiv.org/abs/2412.14631)<br>[2024-12-20]
 * 语义分割
   * [Semi-Supervised Semantic Segmentation Based on Pseudo-Labels: A Survey](https://arxiv.org/abs/2403.01909)<br>[2024-03-06]无PDF
   * [Deep Learning-Based 3D Instance and Semantic Segmentation: A Review](https://arxiv.org/abs/2406.13308)<br>[2024-06-21]
