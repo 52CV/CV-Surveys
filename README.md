@@ -22,7 +22,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月24日已公开 467+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月24日已公开 467+5 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -544,6 +544,7 @@
 * [Machine learning algorithms to predict the risk of rupture of intracranial aneurysms: a systematic review](https://arxiv.org/abs/2412.04749)<br>[2024-12-09]预测颅内动脉瘤破裂风险的机器学习算法：系统综述
 * [Computational Methods for Breast Cancer Molecular Profiling through Routine Histopathology: A Review](https://arxiv.org/abs/2412.10392)<br>[2024-12-17]
 * [From Model Based to Learned Regularization in Medical Image Registration: A Comprehensive Review](https://arxiv.org/abs/2412.15740)<br>[2024-12-23]
+* [The Potential of Convolutional Neural Networks for Cancer Detection](https://arxiv.org/abs/2412.17155)<br>[2024-12-24]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
   * [Artificial Intelligence in Gastrointestinal Bleeding Analysis for Video Capsule Endoscopy: Insights, Innovations, and Prospects (2008-2023)](https://arxiv.org/abs/2409.00639)<br>[2024-09-04]
