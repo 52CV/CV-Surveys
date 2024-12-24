@@ -22,7 +22,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月23日已公开 466+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月24日已公开 467+4 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -50,6 +50,9 @@
 
 ## Gaze estimation
 * [A Survey on Deep Learning-based Gaze Direction Regression: Searching for the State-of-the-art](https://arxiv.org/abs/2410.17082)<br>[2024-10-23]
+
+## Neural Radiance Fields (NeRF) 
+* [Editing Implicit and Explicit Representations of Radiance Fields: A Survey](https://arxiv.org/abs/2412.17628)<br>[2024-12-24]
 
 ## Fish-eye Camera(鱼眼相机)
 * [A Comprehensive Overview of Fish-Eye Camera Distortion Correction Methods](https://arxiv.org/abs/2401.00442)<br>[2024-01-02]
@@ -240,6 +243,7 @@
   * [Visual Prompting in Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2409.15310)<br>[2024-09-25]
   * [MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs](https://arxiv.org/abs/2411.15296)<br>:star:[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Benchmarks)<br>[2024-11-26]
   * [Personalized Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2412.02142)<br>[2024-12-04]
+  * [Survey of Large Multimodal Model Datasets, Application Categories and Taxonomy](https://arxiv.org/abs/2412.17759)<br>[2024-12-24]
 * VLN
   * [Vision-Language Navigation with Embodied Intelligence: A Survey](https://arxiv.org/abs/2402.14304)<br>[2024-02-23]
   * [Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models](https://arxiv.org/abs/2407.07035)<br>[2024-07-10]
@@ -457,6 +461,7 @@
 * [Radar and Camera Fusion for Object Detection and Tracking: A Comprehensive Survey](https://arxiv.org/abs/2410.19872)<br>[2024-10-29]
 * [Event-based Spiking Neural Networks for Object Detection: A Review of Datasets, Architectures, Learning Rules, and Implementation](https://arxiv.org/abs/2411.17006)<br>:star:[code](https://github.com/radlab-sketch/Event-SNN-Resources)<br>[2024-11-27]
 * [From classical techniques to convolution-based models: A review of object detection algorithms](https://arxiv.org/abs/2412.05252)<br>[2024-12-09]
+* [Feature Based Methods Domain Adaptation for Object Detection: A Review Paper](https://arxiv.org/abs/2412.17325)<br>[2024-12-24]
 * 真实世界目标检测
   * [Self-Supervised Learning for Real-World Object Detection: a Survey](https://arxiv.org/abs/2410.07442)<br>[2024-10-11]
 * 开发世界目标检测
@@ -755,6 +760,7 @@
 * [A Review of Intelligent Device Fault Diagnosis Technologies Based on Machine Vision](https://arxiv.org/abs/2412.08148)<br>[2024-12-12]
 * [Predictive Pattern Recognition Techniques Towards Spatiotemporal Representation of Plant Growth in Simulated and Controlled Environments: A Comprehensive Review](https://arxiv.org/abs/2412.10538)<br>[2024-12-17]
 * [A Review of Multimodal Explainable Artificial Intelligence: Past, Present and Future](https://arxiv.org/abs/2412.14056)<br>[2024-12-19]
+* [Deep Learning for Spatio-Temporal Fusion in Land Surface Temperature Estimation: A Comprehensive Survey, Experimental Analysis, and Future Trends](https://arxiv.org/abs/2412.16631)<br>[2024-12-24]
 
 <a name="00000"/>
 
