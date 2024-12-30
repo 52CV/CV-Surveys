@@ -22,7 +22,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月25日已公开 472+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月30日已公开 473+2 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -546,6 +546,7 @@
 * [From Model Based to Learned Regularization in Medical Image Registration: A Comprehensive Review](https://arxiv.org/abs/2412.15740)<br>[2024-12-23]
 * [The Potential of Convolutional Neural Networks for Cancer Detection](https://arxiv.org/abs/2412.17155)<br>[2024-12-24]
 * [Optimization of Convolutional Neural Network Hyperparameter for Medical Image Diagnosis using Metaheuristic Algorithms: A short Recent Review (2019-2022)](https://arxiv.org/abs/2412.17956)<br>[2024-12-25]
+* [A Review on the Integration of Artificial Intelligence and Medical Imaging in IVF Ovarian Stimulation](https://arxiv.org/abs/2412.19688)<br>[2024-12-30]
 * 息肉分割
   * [Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey](https://arxiv.org/abs/2401.11734)<br>[2024-01-23]
   * [Artificial Intelligence in Gastrointestinal Bleeding Analysis for Video Capsule Endoscopy: Insights, Innovations, and Prospects (2008-2023)](https://arxiv.org/abs/2409.00639)<br>[2024-09-04]
@@ -763,6 +764,7 @@
 * [Predictive Pattern Recognition Techniques Towards Spatiotemporal Representation of Plant Growth in Simulated and Controlled Environments: A Comprehensive Review](https://arxiv.org/abs/2412.10538)<br>[2024-12-17]
 * [A Review of Multimodal Explainable Artificial Intelligence: Past, Present and Future](https://arxiv.org/abs/2412.14056)<br>[2024-12-19]
 * [Deep Learning for Spatio-Temporal Fusion in Land Surface Temperature Estimation: A Comprehensive Survey, Experimental Analysis, and Future Trends](https://arxiv.org/abs/2412.16631)<br>[2024-12-24]
+* [Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey](https://arxiv.org/abs/2412.18619)<br>[2024-12-30]
 
 <a name="00000"/>
 
