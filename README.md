@@ -22,7 +22,7 @@
 
 2024 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月31日已公开 476+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至12月31日已公开 479 篇。
 1月份共计44篇。<br>
 2月份共计36篇。<br>
 3月份共计25篇。<br>
@@ -40,39 +40,57 @@
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
-|[1.Unkown(未分)](#1)|
+|[1.Unkown(未分)](#1)|[2.3D Reconstruction(三维重建)](#2)|[3.Face(人脸)](#3)|[4.Image/video compression(图像/视频压缩)](#4)|
+|[5.Image Segmentation(图像分割)](#5)|[6.Image and Video Progress(图像处理)](#6)|[7.Super-Resolution(超分辨率)](#7)|[8.Image retrieval(图像检索)](#8)|
+|[9.Image Captioning(图像字幕)](#9)|[10.Image Classification(图像分类)](#10)|[11.Medical Image Progress(医学图像处理)](#11)|[12.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#12)|
+|[13.Object Detection(目标检测)](#13)|[14.Object Tracking(目标跟踪)](#14)|[15.Video](#15)|[16.Human Pose Estimation(人体姿态估计)](#16)|
+|[17.Human Action Recognition(人体动作识别)](#17)|[18.Reid/Pedestrian Detection(行人/重识别检测)](#18)|[19.Biometrics(生物特征识别)](#19)|[20.Generation/AIGC(生成)](#20)|
+|[21.OCR](#21)|[22.MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)](#22)|[23.Point Cloud(点云)](#23)|[24.Image Matching(图像匹配)](#24)|
+|[25.Style Transfer(风格迁移)](#25)|[26.Vision Transformer](#26)|[27.Vision language(视觉语言)](#27)|[28.Visual Question Answering(视觉问答)](#28)|
+|[29.Neural Radiance Fields](#29)|[30.Tamper Detection/image forencis detection(图像篡改检测方向)](#30)|[31.Scene Understanding(场景理解)](#31)|[32.Autonomous Driving(自动驾驶)](#32)|
+|[33.Robot/SLAM](#33)|[34.Human Object Interaction(人机交互)](#34)|[35.Self-supervised Learning(自监督)](#35)|[36.Object Re-Id/Pose Estimation(物体姿态估计)](#36)|
+|[37.Machine Learning(机器学习)](#37)|[38.Deep learning(深度学习)](#38)|[39.Few/Zero-Shot Learning/DG/A(小/零样本/域泛化/域适应)](#39)|[40.Industrial Anomaly Detection(工业缺陷检测)](#40)|
+|[41.Deepfake](#41)|[42.Sound](#42)|
+|[43.Scene Graph Generation(场景图生成)](#43)|[44.Memes Detection](#44)|
+|[45.Fish-eye Camera(鱼眼相机)](#45)|
 
-## Biometrics
-* [Reversing the Irreversible: A Survey on Inverse Biometrics](https://arxiv.org/abs/2401.02861)<br>[2024-01-08]
 
-## Data Augmentation
+<a name="47"/>
+
+## 47.Data Augmentation
 * [A survey of synthetic data augmentation methods in computer vision](https://arxiv.org/abs/2403.10075)<br>[2024-03-18]
 
-## Gaze estimation
+<a name="46"/>
+
+## 46.Gaze estimation(凝视估计)
 * [A Survey on Deep Learning-based Gaze Direction Regression: Searching for the State-of-the-art](https://arxiv.org/abs/2410.17082)<br>[2024-10-23]
 
-## Neural Radiance Fields (NeRF) 
-* [Editing Implicit and Explicit Representations of Radiance Fields: A Survey](https://arxiv.org/abs/2412.17628)<br>[2024-12-24]
+<a name="45"/>
 
-## Fish-eye Camera(鱼眼相机)
+## 45.Fish-eye Camera(鱼眼相机)
 * [A Comprehensive Overview of Fish-Eye Camera Distortion Correction Methods](https://arxiv.org/abs/2401.00442)<br>[2024-01-02]
 * [Surround-View Fisheye Optics in Computer Vision and Simulation: Survey and Challenge](https://arxiv.org/abs/2402.12041)<br>[2024-02-20]
 
-## Memes Detection
+<a name="44"/>
+
+## 44.Memes Detection
 * [Toxic Memes: A Survey of Computational Perspectives on the Detection and Explanation of Meme Toxicities](https://arxiv.org/abs/2406.07353)<br>[2024-06-12]
 
-## Fake News Detection(虚假新闻检测)
-* [Fact-checking based fake news detection: a review](https://arxiv.org/abs/2401.01717)<br>[2024-01-04]
+<a name="43"/>
 
-## Scene Graph Generation
+## 43.Scene Graph Generation(场景图生成)
 * [A Review and Efficient Implementation of Scene Graph Generation Metrics](https://arxiv.org/abs/2404.09616)<br>:star:[code](https://lorjul.github.io/sgbench/)<br>[2024-04-16]
 
-## Sound
+<a name="42"/>
+
+## 42.Sound
 * [A Survey of Recent Advances and Challenges in Deep Audio-Visual Correlation Learning](https://arxiv.org/abs/2412.00049)<br>[2024-12-03]
 * 音频描述
   * [Audio Description Generation in the Era of LLMs and VLMs: A Review of Transferable Generative AI Technologies](https://arxiv.org/abs/2410.08860)<br>[2024-10-14]
 
-## Deepfake
+<a name="41"/>
+
+## 41.Deepfake
 * [Deepfake Generation and Detection: A Benchmark and Survey](https://arxiv.org/abs/2403.17881)<br>[2024-03-27]<br>:star:[code](https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection)
 * [A Timely Survey on Vision Transformer for Deepfake Detection](https://arxiv.org/abs/2405.08463)<br>[2024-05-15]
 * [Media Forensics and Deepfake Systematic Survey](https://arxiv.org/abs/2406.13295)<br>[2024-06-21]
@@ -80,8 +98,12 @@
 * [Understanding Audiovisual Deepfake Detection: Techniques, Challenges, Human Factors and Perceptual Insights](https://arxiv.org/abs/2411.07650)<br>[2024-11-13]
 * [Passive Deepfake Detection Across Multi-modalities: A Comprehensive Survey](https://arxiv.org/abs/2411.17911)<br>[2024-11-28]
 * [Deepfake Media Generation and Detection in the Generative AI Era: A Survey and Outlook](https://arxiv.org/abs/2411.19537)<br>[2024-12-02]
+* Fake News Detection(虚假新闻检测)
+  * [Fact-checking based fake news detection: a review](https://arxiv.org/abs/2401.01717)<br>[2024-01-04]
 
-## Industrial Anomaly Detection(工业缺陷检测)
+<a name="40"/>
+
+## 40.Industrial Anomaly Detection(工业缺陷检测)
 * [A Systematic Review of Available Datasets in Additive Manufacturing](https://arxiv.org/abs/2401.15448)<br>[2024-01-30]
 * [A Comprehensive Survey on Machine Learning Driven Material Defect Detection: Challenges, Solutions, and Future Prospects](https://arxiv.org/abs/2406.07880)<br>[2024-06-13]
 * [A PRISMA Driven Systematic Review of Publicly Available Datasets for Benchmark and Model Developments for Industrial Defect Detection](https://arxiv.org/abs/2406.07694)<br>[2024-06-13]
@@ -94,18 +116,24 @@
 * OOD
   * [Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey](https://arxiv.org/abs/2407.21794)(https://github.com/AtsuMiyai/Awesome-OOD-VLM)<br>[2024-08-01]<br>
 
-## Multi-Label Learning(多标签学习)
-* [Deep Learning for Multi-Label Learning: A Comprehensive Survey](https://arxiv.org/abs/2401.16549)<br>[2024-01-31]
 
-## Few/Zero-Shot Learning/DG/A(小/零样本/域泛化/域适应)
+<a name="39"/>
+
+## 39.Few/Zero-Shot Learning/DG/A(小/零样本/域泛化/域适应)
 * 零样本
   * [Improving deep learning with prior knowledge and cognitive models: A survey on enhancing explainability, adversarial robustness and zero-shot learning](https://arxiv.org/abs/2403.07078)<br>[2024-03-13]
 
-## Deep learning
+<a name="38"/>
+
+## 38.Deep learning(深度学习)
 * 长尾学习
   * [A Systematic Review on Long-Tailed Learning](https://arxiv.org/abs/2408.00483)<br>[2024-08-02]
+* Multi-Label Learning(多标签学习)
+  * [Deep Learning for Multi-Label Learning: A Comprehensive Survey](https://arxiv.org/abs/2401.16549)<br>[2024-01-31]
 
-## Machine Learning(机器学习)
+<a name="37"/>
+
+## 37.Machine Learning(机器学习)
 * [A Comprehensive Review of Machine Learning Advances on Data Change: A Cross-Field Perspective](https://arxiv.org/abs/2402.12627)<br>[2024-02-21]
 * [Open-world Machine Learning: A Review and New Outlooks](https://arxiv.org/abs/2403.01759)<br>[2024-03-06]无PDF
 * [Inference Attacks in Machine Learning as a Service: A Taxonomy, Review, and Promising Directions](https://arxiv.org/abs/2406.02027)<br>[2024-06-05]
@@ -124,13 +152,17 @@
   * [Adversarial Attacks of Vision Tasks in the Past 10 Years: A Survey](https://arxiv.org/abs/2410.23687)<br>[2024-11-01]
   * [Adversarial Attacks Using Differentiable Rendering: A Survey](https://arxiv.org/abs/2411.09749)<br>[2024-11-18]
 
-## Object Re-Id/Pose Estimation
+<a name="36"/>
+
+## 36.Object Re-Id/Pose Estimation(物体姿态估计)
 * 物体重识别
   * [Transformer for Object Re-Identification: A Survey](https://arxiv.org/abs/2401.06960)<br>[2024-01-17]
 * 物体姿态估计
   * [Deep Learning-Based Object Pose Estimation: A Comprehensive Survey](https://arxiv.org/abs/2405.07801)<br>:star:[code](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation)<br>[2024-05-14]
 
-## Self-supervised Learning
+<a name="35"/>
+
+## 35.Self-supervised Learning(自监督)
 * 自监督
   * [Masked Modeling for Self-supervised Representation Learning on Vision and Beyond](https://github.com/Lupin1998/Awesome-MIM)<br>:star:[code](https://github.com/Lupin1998/Awesome-MIM)<br>[2024-01-03]
   * [A review on discriminative self-supervised learning methods](https://arxiv.org/abs/2405.04969)<br>[2024-05-09]
@@ -139,20 +171,16 @@
 * 无监督学习
   * [A Survey on Deep Clustering: From the Prior Perspective](https://arxiv.org/abs/2406.19602)<br>[2024-07-01]
 
-## Neural Radiance Fields (NeRF)
-* [Neural Radiance Field-based Visual Rendering: A Comprehensive Review](https://arxiv.org/abs/2404.00714)<br>[2024-04-02]
-* [Dynamic NeRF: A Review](https://arxiv.org/abs/2405.08609)<br>[2024-05-15]
+<a name="34"/>
 
-## Human Object Interaction(人机交互)
+## 34.Human Object Interaction(人机交互)
 * [How Can Large Language Models Enable Better Socially Assistive Human-Robot Interaction: A Brief Survey](https://arxiv.org/abs/2404.00938)<br>[2024-04-02]
 * [A Review of Human-Object Interaction Detection](https://arxiv.org/abs/2408.10641)<br>[2024-08-21]
 
-## Visual Question Answering(视觉问答)
-* [Visual Question Answering in Ophthalmology: A Progressive and Practical Perspective](https://arxiv.org/abs/2410.16662)<br>[2024-10-23]
-* [A Comprehensive Survey on Visual Question Answering Datasets and Algorithms](https://arxiv.org/abs/2411.11150)<br>[2024-11-19]
-* [Natural Language Understanding and Inference with MLLM in Visual Question Answering: A Survey](https://arxiv.org/abs/2411.17558)<br>[2024-11-27]
 
-## Robot/SLAM
+<a name="33"/>
+
+## 33.Robot/SLAM
 * [Event-based Sensor Fusion and Application on Odometry: A Survey](https://arxiv.org/abs/2410.15480)<br>[2024-10-22]
 * SLAM
   * [How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey](https://arxiv.org/abs/2402.13255)<br>[2024-02-21]
@@ -169,7 +197,9 @@
 * PR
   * [General Place Recognition Survey: Towards Real-World Autonomy](https://arxiv.org/abs/2405.04812)<br>:star:[code](https://github.com/MetaSLAM/GPRS)<br>[2024-05-09]
 
-## Autonomous Driving(自动驾驶)
+<a name="32"/>
+
+## 32.Autonomous Driving(自动驾驶)
 * [A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook](https://arxiv.org/abs/2401.01454)<br>[2024-01-04]
 * [Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies](https://arxiv.org/abs/2401.12888)<br>[2024-01-24]
 * [A Survey for Foundation Models in Autonomous Driving](https://arxiv.org/abs/2402.01105)<br>[2024-02-05]
@@ -200,22 +230,37 @@
 * 交通监控
   * [Vision Technologies with Applications in Traffic Surveillance Systems: A Holistic Survey](https://arxiv.org/abs/2412.00348)<br>[2024-12-03]
 
-## Scene Understanding(场景理解)
+<a name="31"/>
+
+## 31.Scene Understanding(场景理解)
 * [Reducing Label Dependency for Underwater Scene Understanding: A Survey of Datasets, Techniques and Applications](https://arxiv.org/abs/2411.11287)<br>[2024-11-19]
 
-## Tamper Detection/image forencis detection(图像篡改检测方向)
+<a name="30"/>
+
+## 30.Tamper Detection/image forencis detection(图像篡改检测方向)
 * [Datasets, Clues and State-of-the-Arts for Multimedia Forensics: An Extensive Review](https://arxiv.org/abs/2401.06999)<br>[2024-01-17]
 
-## Neural Rendering(神经渲染)
-* [Neural Rendering and Its Hardware Acceleration: A Review](https://arxiv.org/abs/2402.00028)<br>[2024-02-02]
+<a name="29"/>
 
-## Neural Radiance Fields
+## 29.Neural Radiance Fields
 * [Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review](https://arxiv.org/abs/2402.11141)<br>[2024-02-20]
+* [Neural Radiance Field-based Visual Rendering: A Comprehensive Review](https://arxiv.org/abs/2404.00714)<br>[2024-04-02]
+* [Dynamic NeRF: A Review](https://arxiv.org/abs/2405.08609)<br>[2024-05-15]
+* [Editing Implicit and Explicit Representations of Radiance Fields: A Survey](https://arxiv.org/abs/2412.17628)<br>[2024-12-24]
+* 渲染
+  * [Neural Rendering and Its Hardware Acceleration: A Review](https://arxiv.org/abs/2402.00028)<br>[2024-02-02]
 
-## Visual Question Answering
+<a name="28"/>
+
+## 28.Visual Question Answering(视觉问答)
 * [Assistive Image Annotation Systems with Deep Learning and Natural Language Capabilities: A Review](https://arxiv.org/abs/2407.00252)<br>[2024-07-02]
+* [Visual Question Answering in Ophthalmology: A Progressive and Practical Perspective](https://arxiv.org/abs/2410.16662)<br>[2024-10-23]
+* [A Comprehensive Survey on Visual Question Answering Datasets and Algorithms](https://arxiv.org/abs/2411.11150)<br>[2024-11-19]
+* [Natural Language Understanding and Inference with MLLM in Visual Question Answering: A Survey](https://arxiv.org/abs/2411.17558)<br>[2024-11-27]
 
-## Vision language(视觉语言)
+<a name="27"/>
+
+## 27.Vision language(视觉语言)
 * [A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2402.00253)<br>[2024-02-02]
 * [Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions](https://arxiv.org/abs/2404.07214)<br>[2024-04-12]
 * [A Survey on Visual Mamba](https://export.arxiv.org/abs/2404.15956)<br>[2024-04-25]
@@ -266,34 +311,45 @@
 * Visual Grounding
   * [Towards Visual Grounding: A Survey](https://arxiv.org/abs/2412.20206)<br>:star:[code](https://github.com/linhuixiao/Awesome-Visual-Grounding)<br>[2024-12-31]
 
-## Vision Transformer
+<a name="26"/>
+
+## 26.Vision Transformer
 * [Exploring the Synergies of Hybrid CNNs and ViTs Architectures for Computer Vision: A survey](https://arxiv.org/abs/2402.02941)<br>[2024-02-06]
 * [Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges](https://export.arxiv.org/abs/2404.16112)<br>:star:[code](https://github.com/badripatro/mamba360)<br>[2024-04-26]
 * [A Comparative Survey of Vision Transformers for Feature Extraction in Texture Analysis](https://arxiv.org/abs/2406.06136)<br>[2024-06-11]
 * [A Review of Transformer-Based Models for Computer Vision Tasks: Capturing Global Context and Spatial Relationships](https://arxiv.org/abs/2408.15178)<br>[2024-08-28]
 
-## Style Transfer(风格迁移)
+<a name="25"/>
+
+## 25.Style Transfer(风格迁移)
 * [Evaluation in Neural Style Transfer: A Review](https://arxiv.org/abs/2401.17109)<br>[2024-01-31]
 
+<a name="24"/>
 
-## Image Matching(图像匹配)
+## 24.Image Matching(图像匹配)
 * [Local Feature Matching Using Deep Learning: A Survey](https://arxiv.org/abs/2401.17592)<br>[2024-02-01]
 
-## Point Cloud(点云)
+<a name="23"/>
+
+## 23.Point Cloud(点云)
 * [Advancing 3D Point Cloud Understanding through Deep Transfer Learning: A Comprehensive Survey](https://arxiv.org/abs/2407.17877)<br>[2024-07-26]
 * [Deep Learning for 3D Point Cloud Enhancement: A Survey](https://arxiv.org/abs/2411.00857)<br>[2024-11-05]
 * 点云配准
   * [A Comprehensive Survey and Taxonomy on Point Cloud Registration Based on Deep Learning](https://export.arxiv.org/abs/2404.13830)<br>:star:[code](https://github.com/yxzhang15/PCR.)<br>[2024-04-23]
   * [3D Registration in 30 Years: A Survey](https://arxiv.org/abs/2412.13735)<br>[2024-12-19]
 
-## MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)
+<a name="22"/>
+
+## 22.MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)
 * [Computer Vision Model Compression Techniques for Embedded Systems: A Survey](https://arxiv.org/abs/2408.08250)<br>:star:[code](https://github.com/venturusbr/cv-model-compression)<br>[2024-08-16]
 * [Adversarial Pruning: A Survey and Benchmark of Pruning Methods for Adversarial Robustness](https://arxiv.org/abs/2409.01249)<br>:star:[code](https://github.com/pralab/AdversarialPruningBenchmark)<br>[2024-09-04]
 * [Model Compression Techniques in Biometrics Applications: A Survey](https://arxiv.org/abs/2401.10139)<br>[2024-01-19]
 * KD
   * [A Comprehensive Review of Knowledge Distillation in Computer Vision](https://arxiv.org/abs/2404.00936)<br>[2024-04-02]
 
-## OCR
+<a name="21"/>
+
+## 21.OCR
 * [Transformers and Language Models in Form Understanding: A Comprehensive Review of Scanned Document Analysis](https://arxiv.org/abs/2403.04080)<br>[2024-03-08]
 * [A short review on graphonometric evaluation tools in children.](https://arxiv.org/abs/2406.04818)<br>[2024-06-11]
 * [A comprehensive survey of oracle character recognition: challenges, benchmarks, and beyond](https://arxiv.org/abs/2411.11354)<br>[2024-11-19]
@@ -311,7 +367,9 @@
 * 表格理解
   * [Transformers Utilization in Chart Understanding: A Review of Recent Advances & Future Trends](https://arxiv.org/abs/2410.13883)<br>[2024-10-21]
 
-## Generation
+<a name="20"/>
+
+## 20.Generation/AIGC(生成)
 * [Video Diffusion Models: A Survey](https://arxiv.org/abs/2405.03150)<br>:star:[code](https://github.com/ndrwmlnk/Awesome-Video-Diffusion-Models)<br>[2024-05-07]
 * [Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond](https://arxiv.org/abs/2405.03520)<br>:star:[code](https://github.com/GigaAI-research/General-World-Models-Survey)<br>[2024-05-07]
 * [Survey on Visual Signal Coding and Processing with Generative Models: Technologies, Standards and Optimization](https://arxiv.org/abs/2405.14221)<br>[2024-05-24]
@@ -373,12 +431,16 @@
   * [A Survey on Diffusion Models for Inverse Problems](https://arxiv.org/abs/2410.00083)<br>[2024-10-02]
   * [Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices](https://arxiv.org/abs/2410.11795)<br>:star:[code](https://github.com/ponyzym/Efficient-DMs-Survey)<br>[2024-10-16]
 
+<a name="19"/>
 
-## Biometrics(生物特征识别)
+## 19.Biometrics(生物特征识别)
+* [Reversing the Irreversible: A Survey on Inverse Biometrics](https://arxiv.org/abs/2401.02861)<br>[2024-01-08]
 * [Deep Learning Techniques for Hand Vein Biometrics: A Comprehensive Review](https://arxiv.org/abs/2409.07128)<br>[2024-09-12]
 * [Biometrics in Extended Reality: A Review](https://arxiv.org/abs/2411.10489)<br>[2024-11-19]
 
-## Reid/Pedestrian Detection(行人/重识别检测)
+<a name="18"/>
+
+## 18.Reid/Pedestrian Detection(行人/重识别检测)
 * Reid
   * [A Survey on 3D Skeleton Based Person Re-Identification: Approaches, Designs, Challenges, and Future Directions](https://arxiv.org/abs/2401.15296)<br>:star:[code](https://github.com/Kali-Hac/3D-skeleton-based-person-re-ID-survey)<br>[2024-01-30]
   * 基于文本-重识别
@@ -387,7 +449,9 @@
   * [Pedestrian Detection in Low-Light Conditions: A Comprehensive Survey](https://arxiv.org/abs/2401.07801)<br>[2024-01-17]
   * [Research, Applications and Prospects of Event-Based Pedestrian Detection: A Survey](https://arxiv.org/abs/2407.04277)<br>[2024-07-08]
 
-## Human Action Recognition(人体动作识别)
+<a name="17"/>
+
+## 17.Human Action Recognition(人体动作识别)
 * [Body-Area Capacitive or Electric Field Sensing for Human Activity Recognition and Human-Computer Interaction: A Comprehensive Survey](https://arxiv.org/abs/2401.06000)<br>[2024-01-12]
 * [A Survey of IMU Based Cross-Modal Transfer Learning in Human Activity Recognition](https://arxiv.org/abs/2403.15444)<br>[2024-03-26]
 * [A Survey on Backbones for Deep Video Action Recognition](https://arxiv.org/abs/2405.05584)<br>[2024-05-10]
@@ -404,7 +468,9 @@
 * 跌倒检测
   * [Deep Learning for Computer Vision based Activity Recognition and Fall Detection of the Elderly: a Systematic Review](https://arxiv.org/abs/2401.11790)<br>[2024-01-23]
 
-## Human Pose Estimation(人体姿态估计)
+<a name="16"/>
+
+## 16.Human Pose Estimation(人体姿态估计)
 * [In-Bed Pose Estimation: A Review](https://arxiv.org/abs/2402.00700)<br>[2024-02-02]
 * [Survey of 3D Human Body Pose and Shape Estimation Methods for Contemporary Dance Applications](https://arxiv.org/abs/2401.02383)<br>[2024-01-05]
 * [Deep Learning for 3D Human Pose Estimation and Mesh Recovery: A Survey](https://arxiv.org/abs/2402.18844)<br>:star:[code](https://github.com/liuyangme/SOTA-3DHPE-HMR)<br>[2024-03-01]
@@ -420,7 +486,9 @@
 * 运动生成
   * [Motion Generation Review: Exploring Deep Learning for Lifelike Animation with Manifold](https://arxiv.org/abs/2412.10458)<br>[2024-12-17]
 
-## Video
+<a name="15"/>
+
+## 15.Video
 * [Deep video representation learning: a survey](https://arxiv.org/abs/2405.06574)<br>[2024-05-13]
 * [Segment Anything for Videos: A Systematic Survey](https://arxiv.org/abs/2408.08315)<br>:star:[code](https://github.com/983632847/SAM-for-Videos)<br>[2024-08-19]
 * [About Time: Advances, Challenges, and Outlooks of Action Understanding](https://arxiv.org/abs/2411.15106)<br>[2024-11-25]
@@ -445,7 +513,9 @@
   * [Deep Learning for Video Anomaly Detection: A Review](https://arxiv.org/abs/2409.05383)<br>[2024-09-10]
   * [Privacy-Preserving Video Anomaly Detection: A Survey](https://arxiv.org/abs/2411.14565)<br>[2024-11-25]
 
-## Object Tracking(目标跟踪)
+<a name="14"/>
+
+## 14.Object Tracking(目标跟踪)
 * [Beyond Traditional Single Object Tracking: A Survey](https://arxiv.org/abs/2405.10439)<br>[2024-05-20]
 * [The Progression of Transformers from Language to Vision to MOT: A Literature Review on Multi-Object Tracking with Transformers](https://export.arxiv.org/abs/2406.16784)<br>[2024-06-25]
 * [Object Tracking in a 360o View: A Novel Perspective on Bridging the Gap to Biomedical Advancements](https://arxiv.org/abs/2412.01119)<br>[2024-12-03]
@@ -453,7 +523,9 @@
 * 多模态目标跟踪
   * [Awesome Multi-modal Object Tracking](https://arxiv.org/abs/2405.14200)<br>:star:[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)<br>[2024-05-24]
 
-## Object Detection(目标检测)
+<a name="13"/>
+
+## 13.Object Detection(目标检测)
 * [Agricultural Object Detection with You Look Only Once (YOLO) Algorithm: A Bibliometric and Systematic Literature Review](https://arxiv.org/abs/2401.10379)<br>[2024-01-22]
 * [YOLOv1 to YOLOv10: A comprehensive review of YOLO variants and their application in the agricultural domain](https://arxiv.org/abs/2406.10139)<br>[2024-06-17]
 * [YOLOv10 to Its Genesis: A Decadal and Comprehensive Review of The You Only Look Once Series](https://arxiv.org/abs/2406.19407)<br>[2024-07-01]
@@ -483,7 +555,9 @@
 * 目标发现
   * [Unsupervised Object Discovery: A Comprehensive Survey and Unified Taxonomy](https://arxiv.org/abs/2411.00868)<br>[2024-11-05]
 
-## UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
+<a name="12"/>
+
+## 12.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
 * [Image Fusion in Remote Sensing: An Overview and Meta Analysis](https://arxiv.org/abs/2401.08837)<br>[2024-01-18]
 * [UAV-borne Mapping Algorithms for Canopy-Level and High-Speed Drone Applications](https://arxiv.org/abs/2401.06407)<br>[2024-01-15]
 * [Solid Waste Detection in Remote Sensing Images: A Survey](https://arxiv.org/abs/2402.09066)<br>[2024-02-15]
@@ -514,8 +588,9 @@
 * 变化检测
   * [Exploring Foundation Models in Remote Sensing Image Change Detection: A Comprehensive Survey](https://arxiv.org/abs/2410.07824)<br>[2024-10-11]
 
+<a name="11"/>
 
-## Medical Image Progress
+## 11.Medical Image Progress(医学图像处理)
 * [Empowering Medical Imaging with Artificial Intelligence: A Review of Machine Learning Approaches for the Detection, and Segmentation of COVID-19 Using Radiographic and Tomographic Images](https://arxiv.org/abs/2401.07020)<br>[2024-01-17]
 * [Advancing Low-Rank and Local Low-Rank Matrix Approximation in Medical Imaging: A Systematic Literature Review and Future Directions](https://arxiv.org/abs/2402.14045)<br>[2024-02-23]
 * [When Eye-Tracking Meets Machine Learning: A Systematic Review on Applications in Medical Image Analysis](https://arxiv.org/abs/2403.07834)<br>[2024-03-33]
@@ -610,7 +685,9 @@
   * [A Review of Electromagnetic Elimination Methods for low-field portable MRI scanner](https://arxiv.org/abs/2406.17804)<br>[2024-06-27]
 
 
-## Image Classification(图像分类)
+<a name="10"/>
+
+## 10.Image Classification(图像分类)
 * [High-energy physics image classification: A Survey of Jet Applications](https://arxiv.org/abs/2403.11934)<br>[2024-03-19]
 * [Noisy Label Processing for Classification: A Survey](https://arxiv.org/abs/2404.04159)<br>[2024-04-08]
 * [Traditional to Transformers: A Survey on Current Trends and Future Prospects for Hyperspectral Image Classification](https://export.arxiv.org/abs/2404.14955)<br>:star:[code](https://github.com/mahmad00/Conventional-to-Transformer-for-Hyperspectral-Image-Classification-Survey-2024.)<br>[2024-04-24]
@@ -618,32 +695,27 @@
 * [A review on vision-based motion estimation](https://arxiv.org/abs/2407.14478)<br>[2024-07-22]
 * [On the Element-Wise Representation and Reasoning in Zero-Shot Image Recognition: A Systematic Survey](https://arxiv.org/abs/2408.04879)<br>[2024-08-12]
 
-## Image Retrieval
-* [A Review of Image Retrieval Techniques: Data Augmentation and Adversarial Learning Approaches](https://arxiv.org/abs/2409.01219)<br>[2024-09-04]
+<a name="9"/>
 
-## Image Captioning(图像字幕)
+## 9.Image Captioning(图像字幕)
 * [Surveying the Landscape of Image Captioning Evaluation: A Comprehensive Taxonomy and Novel Ensemble Method](https://arxiv.org/abs/2408.04909)<br>[2024-08-12]
 
-## Image Segmentation(图像分割)
-* [Image Segmentation in Foundation Model Era: A Survey](https://arxiv.org/abs/2408.12957)<br>[2024-08-26]
-* [On Efficient Variants of Segment Anything Model: A Survey](https://arxiv.org/abs/2410.04960)<br>[2024-10-08]
-* [A Review of Bayesian Uncertainty Quantification in Deep Probabilistic Image Segmentation](https://arxiv.org/abs/2411.16370)<br>[2024-11-26]
-* [Review of Fruit Tree Image Segmentation](https://arxiv.org/abs/2412.14631)<br>[2024-12-20]
-* 语义分割
-  * [Semi-Supervised Semantic Segmentation Based on Pseudo-Labels: A Survey](https://arxiv.org/abs/2403.01909)<br>[2024-03-06]无PDF
-  * [Deep Learning-Based 3D Instance and Semantic Segmentation: A Review](https://arxiv.org/abs/2406.13308)<br>[2024-06-21]
-  * [Deep Learning on 3D Semantic Segmentation: A Detailed Review](https://arxiv.org/abs/2411.02104)<br>:star:[code](https://github.com/thobet/Deep-Learning-on-3D-Semantic-Segmentation-a-Detailed-Review)<br>[2024-11-05]
-* 纹理分割
-  * [Review of wavelet-based unsupervised texture segmentation, advantage of adaptive wavelets](https://arxiv.org/abs/2410.19191)<br>[2024-10-28]
+<a name="8"/>
 
-## Image retrieval(图像检索)
+## 8.Image retrieval(图像检索)
+* [A Review of Image Retrieval Techniques: Data Augmentation and Adversarial Learning Approaches](https://arxiv.org/abs/2409.01219)<br>[2024-09-04]
 * [A Survey of Multimodal Composite Editing and Retrieval](https://arxiv.org/abs/2409.05405)<br>:star:[code](https://github.com/fuxianghuang1/Multimodal-Composite-Editing-and-Retrieval)<br>[2024-09-10]
 
-## Super-Resolution(超分辨率)
+
+<a name="7"/>
+
+## 7.Super-Resolution(超分辨率)
 * ISR
   * [Diffusion Models, Image Super-Resolution And Everything: A Survey](https://arxiv.org/abs/2401.00736)<br>[2024-01-02]
 
-## Image and Video Progress
+<a name="6"/>
+
+## 6.Image and Video Progress(图像处理)
 * 修复
   * [Deep Learning-based Image and Video Inpainting: A Survey](https://arxiv.org/abs/2401.03395)<br>[2024-01-09]
   * [Reimagining Reality: A Comprehensive Survey of Video Inpainting Techniques](https://arxiv.org/abs/2401.17883)<br>[2024-02-01]
@@ -669,13 +741,29 @@
 * 视频质量评估
   * [Video Quality Assessment: A Comprehensive Survey](https://arxiv.org/abs/2412.04508)<br>[2024-12-09]
 
-## Image Segmentation
-* [Systematic review of image segmentation using complex networks](https://arxiv.org/abs/2401.02758)<br>[2024-01-08]
+<a name="5"/>
 
-## Image/video compression(图像/视频压缩)
+## 5.Image Segmentation(图像分割)
+* [Systematic review of image segmentation using complex networks](https://arxiv.org/abs/2401.02758)<br>[2024-01-08]
+* [Image Segmentation in Foundation Model Era: A Survey](https://arxiv.org/abs/2408.12957)<br>[2024-08-26]
+* [On Efficient Variants of Segment Anything Model: A Survey](https://arxiv.org/abs/2410.04960)<br>[2024-10-08]
+* [A Review of Bayesian Uncertainty Quantification in Deep Probabilistic Image Segmentation](https://arxiv.org/abs/2411.16370)<br>[2024-11-26]
+* [Review of Fruit Tree Image Segmentation](https://arxiv.org/abs/2412.14631)<br>[2024-12-20]
+* 语义分割
+  * [Semi-Supervised Semantic Segmentation Based on Pseudo-Labels: A Survey](https://arxiv.org/abs/2403.01909)<br>[2024-03-06]无PDF
+  * [Deep Learning-Based 3D Instance and Semantic Segmentation: A Review](https://arxiv.org/abs/2406.13308)<br>[2024-06-21]
+  * [Deep Learning on 3D Semantic Segmentation: A Detailed Review](https://arxiv.org/abs/2411.02104)<br>:star:[code](https://github.com/thobet/Deep-Learning-on-3D-Semantic-Segmentation-a-Detailed-Review)<br>[2024-11-05]
+* 纹理分割
+  * [Review of wavelet-based unsupervised texture segmentation, advantage of adaptive wavelets](https://arxiv.org/abs/2410.19191)<br>[2024-10-28]
+
+<a name="4"/>
+
+## 4.Image/video compression(图像/视频压缩)
 * [The evolution of volumetric video: A survey of smart transcoding and compression approaches](https://arxiv.org/abs/2411.02095)<br>[2024-11-05]
 
-## Face(人脸)
+<a name="3"/>
+
+## 3.Face(人脸)
 * [SoK: Facial Deepfake Detectors](https://arxiv.org/abs/2401.04364)<br>[2024-01-10]
 * [Neuromorphic Face Analysis: a Survey](https://arxiv.org/abs/2402.11631)<br>[2024-02-20]
 * [A Comprehensive Survey of Masked Faces: Recognition, Detection, and Unmasking](https://arxiv.org/abs/2405.05900)<br>[2024-05-10]
@@ -691,7 +779,9 @@
 * 人脸伪造检测
   * [Deep Learning Technology for Face Forgery Detection: A Survey](https://arxiv.org/abs/2409.14289)<br>[2024-09-24]
 
-## 3D Reconstruction
+<a name="2"/>
+
+## 2.3D Reconstruction(三维重建)
 * [3D Scene Geometry Estimation from 360∘ Imagery: A Survey](https://arxiv.org/abs/2401.09252)<br>[2024-01-18]
 * [Survey on Modeling of Articulated Objects](https://arxiv.org/abs/2403.14937)<br>[2024-03-25]
 * [RGB Guided ToF Imaging System: A Survey of Deep Learning-based Methods](https://arxiv.org/abs/2405.10357)<br>[2024-05-20]
