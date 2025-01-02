@@ -50,8 +50,7 @@
 |[29.Neural Radiance Fields](#29)|[30.Tamper Detection/image forencis detection(图像篡改检测方向)](#30)|[31.Scene Understanding(场景理解)](#31)|[32.Autonomous Driving(自动驾驶)](#32)|
 |[33.Robot/SLAM](#33)|[34.Human Object Interaction(人机交互)](#34)|[35.Self-supervised Learning(自监督)](#35)|[36.Object Re-Id/Pose Estimation(物体姿态估计)](#36)|
 |[37.Machine Learning(机器学习)](#37)|[38.Deep learning(深度学习)](#38)|[39.Few/Zero-Shot Learning/DG/A(小/零样本/域泛化/域适应)](#39)|[40.Industrial Anomaly Detection(工业缺陷检测)](#40)|
-|[41.Deepfake](#41)|[42.Sound](#42)|
-|[43.Scene Graph Generation(场景图生成)](#43)|[44.Memes Detection](#44)|
+|[41.Deepfake](#41)|[42.Sound](#42)||[43.Scene Graph Generation(场景图生成)](#43)|[44.Memes Detection](#44)|
 |[45.Fish-eye Camera(鱼眼相机)](#45)|
 
 
