@@ -45,6 +45,12 @@
 * [Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches](https://arxiv.org/abs/2501.03151)<BR>[2025-01-07]
 * [Visual Large Language Models for Generalized and Specialized Applications](https://arxiv.org/abs/2501.02765)<be>:star:[code](https://github.com/JackYFL/awesome-VLLMs)<BR>[2025-01-07]
 
+## GAN/Image Synthesis(图像生成)
+* [Generative AI for Cel-Animation: A Survey](https://arxiv.org/abs/2501.06250)<be>:star:[code](https://github.com/yunlong10/Awesome-AI4Animation)<BR>[2025-01-14]
+
+## MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)
+* [A Survey on Dynamic Neural Networks: from Computer Vision to Multi-modal Sensor Fusion](https://arxiv.org/abs/2501.07451)<BR>[2025-01-14]
+
 ## Visual Question Answering (视觉问答)
 * [Visual question answering: from early developments to recent advances -- a survey](https://arxiv.org/abs/2501.03939)<BR>[2025-01-08]
 
@@ -57,6 +63,13 @@
 
 ## Image Classification
 * [Plant Leaf Disease Detection and Classification Using Deep Learning: A Review and A Proposed System on Bangladesh's Perspective](https://arxiv.org/abs/2501.03305)<BR>[2025-01-08]基于深度学习的植物叶片病害检测与分类
+
+## Image Progress(图像/视频处理)
+* 图像增强
+  * [Underwater Image Enhancement using Generative Adversarial Networks: A Survey](https://arxiv.org/abs/2501.06273)<BR>[2025-01-14]
+
+## Unknown(未分)
+* [Visualizing Uncertainty in Image Guided Surgery a Review](https://arxiv.org/abs/2501.06280)<BR>[2025-01-14]
 
 <a name="00000"/>
 
