@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月13日已公开 8+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月14日已公开 10+5 篇。
 
 
 ## 目录
@@ -53,6 +53,7 @@
 
 ## Visual Question Answering (视觉问答)
 * [Visual question answering: from early developments to recent advances -- a survey](https://arxiv.org/abs/2501.03939)<BR>[2025-01-08]
+* [The Quest for Visual Understanding: A Journey Through the Evolution of Visual Question Answering](https://arxiv.org/abs/2501.07109)<BR>[2025-01-14]
 
 ## Points Cloud(点云)
 * [Implicit Guidance and Explicit Representation of Semantic Information in Points Cloud: A Survey](https://arxiv.org/abs/2501.05473)<BR>[2025-01-13]
