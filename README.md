@@ -18,11 +18,11 @@
 ## [2021 年论文分类汇总戳这里](#000)
 ## [2020 年论文分类汇总戳这里](#00)
 
-# 2024-CV-Surveys
+# 2025-CV-Surveys
 
-2024 年，计算机视觉相关综述。包括目标检测、跟踪........
+2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月10日已公开 7+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月13日已公开 8+2 篇。
 
 
 ## 目录
@@ -36,6 +36,9 @@
 * 掌纹识别
   * [Deep Learning in Palmprint Recognition-A Comprehensive Survey](https://arxiv.org/abs/2501.01166)<BR>[2025-01-03]
 
+## Robots(机器人)
+* [Semantic Mapping in Indoor Embodied AI – A Comprehensive Survey and Future Directions](https://arxiv.org/abs/2501.05750)<BR>[2025-01-13]
+
 ## Vision-Language(视觉语言)
 * [Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability](https://arxiv.org/abs/2501.01346)<BR>[2025-01-03]
 * [Benchmark Evaluations, Applications, and Challenges of Large Vision Language Models: A Survey](https://arxiv.org/abs/2501.02189)<be>:star:[code](https://github.com/zli12321/Awesome-VLM-Papers-And-Models.git)<BR>[2025-01-07]
@@ -44,6 +47,9 @@
 
 ## Visual Question Answering (视觉问答)
 * [Visual question answering: from early developments to recent advances -- a survey](https://arxiv.org/abs/2501.03939)<BR>[2025-01-08]
+
+## Points Cloud(点云)
+* [Implicit Guidance and Explicit Representation of Semantic Information in Points Cloud: A Survey](https://arxiv.org/abs/2501.05473)<BR>[2025-01-13]
 
 ## 3D Visual
 * 深度估计
