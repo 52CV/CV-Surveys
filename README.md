@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月20日已公开 19+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月20日已公开 19+2 篇。
 
 
 ## 目录
@@ -82,6 +82,7 @@
 * [Visualizing Uncertainty in Image Guided Surgery a Review](https://arxiv.org/abs/2501.06280)<BR>[2025-01-14]
 * [A Preliminary Survey of Semantic Descriptive Model for Images](https://arxiv.org/abs/2501.08352)<BR>[2025-01-16]
 * [New Fashion Products Performance Forecasting: A Survey on Evolutions, Models and Emerging Trends](https://arxiv.org/abs/2501.10324)<BR>[2025-01-20]
+* [Explainable artificial intelligence (XAI): from inherent explainability to large language models](https://arxiv.org/abs/2501.09967)<BR>[2025-01-20]
 
 <a name="00000"/>
 
