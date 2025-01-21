@@ -59,7 +59,7 @@
 * [The Quest for Visual Understanding: A Journey Through the Evolution of Visual Question Answering](https://arxiv.org/abs/2501.07109)<BR>[2025-01-14]
 
 ## Points Cloud(点云)
-* [Implicit Guidance and Explicit Representation of Semantic Information in Points Cloud: A Survey](https://arxiv.org/abs/2501.05473)<BR>[2025-01-13]
+* [Implicit Guidance and Explicit Representation of Semantic Information in Points Cloud: A Survey](https://arxiv.org/abs/2501.05473)<be>:star:[code](https://github.com/Jasmine-tjy/Semantic-based-Point-Cloud-Tasks)<BR>[2025-01-13]
 
 ## 3D Visual
 * 深度估计
