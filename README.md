@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月22日已公开 21+12 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月23日已公开 33+2 篇。
 
 
 ## 目录
@@ -35,6 +35,9 @@
 ## Biomedical(生物特征识别)
 * 掌纹识别
   * [Deep Learning in Palmprint Recognition-A Comprehensive Survey](https://arxiv.org/abs/2501.01166)<BR>[2025-01-03]
+
+## Neural Radiance Fields
+* [Neural Radiance Fields for the Real World: A Survey](https://arxiv.org/abs/2501.13104)<BR>[2025-01-23]
 
 ## Robots(机器人)
 * [Semantic Mapping in Indoor Embodied AI – A Comprehensive Survey and Future Directions](https://arxiv.org/abs/2501.05750)<BR>[2025-01-13]
@@ -72,6 +75,9 @@
 
 ## UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
 * [Advancing Earth Observation: A Survey on AI-Powered Image Processing in Satellites](https://arxiv.org/abs/2501.12030)<BR>[2025-01-22]
+
+## Action Recognition
+* [SMART-Vision: Survey of Modern Action Recognition Techniques in Vision](https://arxiv.org/abs/2501.13066)<BR>[2025-01-23]
 
 ## Pose(姿态估计)
 * [Survey on Hand Gesture Recognition from Visual Input](https://arxiv.org/abs/2501.11992)<BR>[2025-01-22]
