@@ -22,8 +22,8 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至1月24日已公开 35+1 篇。
-
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月10日已公开 36+1 篇。
+1月36篇。
 
 ## 目录
 
@@ -116,6 +116,7 @@
 * [Explainability for Vision Foundation Models: A Survey](https://arxiv.org/abs/2501.12203)<BR>[2025-01-22]
 * [Advanced technology in railway track monitoring using the GPR Technique: A Review](https://arxiv.org/abs/2501.11132)<BR>[2025-01-22]
 * [Reproducibility review of "Why Not Other Classes": Towards Class-Contrastive Back-Propagation Explanations](https://arxiv.org/abs/2501.11096)<BR>[2025-01-22]
+* [Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation](https://arxiv.org/abs/2502.05151)<BR>[2025-02-10]
 
 <a name="00000"/>
 
