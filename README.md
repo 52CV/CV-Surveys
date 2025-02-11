@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月10日已公开 36+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月11日已公开 37+7 篇。
 1月36篇。
 
 ## 目录
@@ -45,6 +45,9 @@
 ## Industrial Defect Detection(工业缺陷检测)
 * [Anomaly Detection for Industrial Applications, Its Challenges, Solutions, and Future Directions: A Review](https://arxiv.org/abs/2501.11310)<BR>[2025-01-22]
 
+## Video
+* [A Survey on Video Analytics in Cloud-Edge-Terminal Collaborative Systems](https://arxiv.org/abs/2502.06581)<BR>[2025-02-11]
+
 ## Autonomous Driving(自动驾驶)
 * [A Survey of World Models for Autonomous Driving](https://arxiv.org/abs/2501.11260)<BR>[2025-01-22]
 * 分心驾驶检测
@@ -58,10 +61,12 @@
 * [Benchmark Evaluations, Applications, and Challenges of Large Vision Language Models: A Survey](https://arxiv.org/abs/2501.02189)<be>:star:[code](https://github.com/zli12321/Awesome-VLM-Papers-And-Models.git)<BR>[2025-01-07]
 * [Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches](https://arxiv.org/abs/2501.03151)<BR>[2025-01-07]
 * [Visual Large Language Models for Generalized and Specialized Applications](https://arxiv.org/abs/2501.02765)<be>:star:[code](https://github.com/JackYFL/awesome-VLLMs)<BR>[2025-01-07]
+* [When Data Manipulation Meets Attack Goals: An In-depth Survey of Attacks for VLMs](https://arxiv.org/abs/2502.06390)<be>:star:[code](https://github.com/AobtDai/VLM_Attack_Paper_List)<BR>[2025-02-11]
 
 ## GAN/Image Synthesis(图像生成)
 * [Generative AI for Cel-Animation: A Survey](https://arxiv.org/abs/2501.06250)<be>:star:[code](https://github.com/yunlong10/Awesome-AI4Animation)<BR>[2025-01-14]
 * [Generative Physical AI in Vision: A Survey](https://arxiv.org/abs/2501.10928)<be>:star:[code](https://github.com/BestJunYu/Awesome-Physics-aware-Generation)<BR>[2025-01-22]
+* [Survey on AI-Generated Media Detection: From Non-MLLM to MLLM](https://arxiv.org/abs/2502.05240)<BR>[2025-02-11]
 
 ## MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)
 * [A Survey on Dynamic Neural Networks: from Computer Vision to Multi-modal Sensor Fusion](https://arxiv.org/abs/2501.07451)<BR>[2025-01-14]
@@ -105,6 +110,7 @@
 ## Image Progress(图像/视频处理)
 * 图像增强
   * [Underwater Image Enhancement using Generative Adversarial Networks: A Survey](https://arxiv.org/abs/2501.06273)<BR>[2025-01-14]
+  * [A Comprehensive Survey on Image Signal Processing Approaches for Low-Illumination Image Enhancement](https://arxiv.org/abs/2502.05995)<BR>[2025-02-11]
 * 图像质量评估/增强  
   * [Fundus Image Quality Assessment and Enhancement: a Systematic Review](https://arxiv.org/abs/2501.11520)<BR>[2025-01-22]
 
@@ -117,6 +123,9 @@
 * [Advanced technology in railway track monitoring using the GPR Technique: A Review](https://arxiv.org/abs/2501.11132)<BR>[2025-01-22]
 * [Reproducibility review of "Why Not Other Classes": Towards Class-Contrastive Back-Propagation Explanations](https://arxiv.org/abs/2501.11096)<BR>[2025-01-22]
 * [Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation](https://arxiv.org/abs/2502.05151)<BR>[2025-02-10]
+* [Diffusion Models for Computational Neuroimaging: A Survey](https://arxiv.org/abs/2502.06552)<be>:star:[code](https://github.com/JoeZhao527/dm4neuro)<BR>[2025-02-11]
+* [Safety at Scale: A Comprehensive Survey of Large Model Safety](https://arxiv.org/abs/2502.05206)<BR>[2025-02-11]
+* [Event Vision Sensor: A Review](https://arxiv.org/abs/2502.06116)<BR>[2025-02-11]
 
 <a name="00000"/>
 
