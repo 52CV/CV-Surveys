@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月11日已公开 37+7 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月11日已公开 44+5 篇。
 1月36篇。
 
 ## 目录
@@ -62,11 +62,14 @@
 * [Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches](https://arxiv.org/abs/2501.03151)<BR>[2025-01-07]
 * [Visual Large Language Models for Generalized and Specialized Applications](https://arxiv.org/abs/2501.02765)<be>:star:[code](https://github.com/JackYFL/awesome-VLLMs)<BR>[2025-01-07]
 * [When Data Manipulation Meets Attack Goals: An In-depth Survey of Attacks for VLMs](https://arxiv.org/abs/2502.06390)<be>:star:[code](https://github.com/AobtDai/VLM_Attack_Paper_List)<BR>[2025-02-11]
+* [Survey on Vision-Language-Action Models](https://arxiv.org/abs/2502.06851)<BR>[2025-02-12]
 
 ## GAN/Image Synthesis(图像生成)
 * [Generative AI for Cel-Animation: A Survey](https://arxiv.org/abs/2501.06250)<be>:star:[code](https://github.com/yunlong10/Awesome-AI4Animation)<BR>[2025-01-14]
 * [Generative Physical AI in Vision: A Survey](https://arxiv.org/abs/2501.10928)<be>:star:[code](https://github.com/BestJunYu/Awesome-Physics-aware-Generation)<BR>[2025-01-22]
 * [Survey on AI-Generated Media Detection: From Non-MLLM to MLLM](https://arxiv.org/abs/2502.05240)<BR>[2025-02-11]
+* AIGC
+  * [Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC](https://arxiv.org/abs/2502.07007)<BR>[2025-02-12]
 
 ## MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)
 * [A Survey on Dynamic Neural Networks: from Computer Vision to Multi-modal Sensor Fusion](https://arxiv.org/abs/2501.07451)<BR>[2025-01-14]
@@ -75,8 +78,10 @@
 * [Visual question answering: from early developments to recent advances -- a survey](https://arxiv.org/abs/2501.03939)<BR>[2025-01-08]
 * [The Quest for Visual Understanding: A Journey Through the Evolution of Visual Question Answering](https://arxiv.org/abs/2501.07109)<BR>[2025-01-14]
 
-## Medical Image Progress
+## Medical Image Progress(医学图像处理)
 * [In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review](https://arxiv.org/abs/2501.10727)<BR>[2025-01-22]
+* 医学图像分割
+  * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
 
 ## UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
 * [Advancing Earth Observation: A Survey on AI-Powered Image Processing in Satellites](https://arxiv.org/abs/2501.12030)<BR>[2025-01-22]
@@ -100,6 +105,7 @@
 
 ## Face
 * [A Survey on Facial Image Privacy Preservation in Cloud-Based Services](https://arxiv.org/abs/2501.08665)<BR>[2025-01-16]
+* [Emotion Recognition and Generation: A Comprehensive Review of Face, Speech, and Text Modalities](https://arxiv.org/abs/2502.06803)<BR>[2025-02-12]
 
 ## Image Classification
 * [Plant Leaf Disease Detection and Classification Using Deep Learning: A Review and A Proposed System on Bangladesh's Perspective](https://arxiv.org/abs/2501.03305)<BR>[2025-01-08]基于深度学习的植物叶片病害检测与分类
@@ -126,6 +132,7 @@
 * [Diffusion Models for Computational Neuroimaging: A Survey](https://arxiv.org/abs/2502.06552)<be>:star:[code](https://github.com/JoeZhao527/dm4neuro)<BR>[2025-02-11]
 * [Safety at Scale: A Comprehensive Survey of Large Model Safety](https://arxiv.org/abs/2502.05206)<BR>[2025-02-11]
 * [Event Vision Sensor: A Review](https://arxiv.org/abs/2502.06116)<BR>[2025-02-11]
+* [A Survey on Mamba Architecture for Vision Applications](https://arxiv.org/abs/2502.07161)<BR>[2025-02-12]
 
 <a name="00000"/>
 
