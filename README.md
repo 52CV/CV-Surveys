@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月17日已公开 61+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月18日已公开 62+4 篇。
 1月36篇。
 
 ## 目录
@@ -56,11 +56,14 @@
 
 ## Autonomous Driving(自动驾驶)
 * [A Survey of World Models for Autonomous Driving](https://arxiv.org/abs/2501.11260)<BR>[2025-01-22]
+* [The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey](https://arxiv.org/abs/2502.10498)<be>:star:[code](https://github.com/LMD0311/Awesome-World-Model)<BR>[2025-02-18]
 * 分心驾驶检测
   * [A Review Paper of the Effects of Distinct Modalities and ML Techniques to Distracted Driving Detection](https://arxiv.org/abs/2501.11758)<BR>[2025-01-22]
 
 ## Machine Learning
 * [A Systematic Review of Machine Learning Methods for Multimodal EEG Data in Clinical Application](https://arxiv.org/abs/2501.08585)<BR>[2025-01-16]
+* 强化学习
+  * [A Survey of Representation Learning, Optimization Strategies, and Applications for Omnidirectional Vision](https://arxiv.org/abs/2502.10444)<BR>[2025-02-18]
 
 ## Vision-Language(视觉语言)
 * [Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability](https://arxiv.org/abs/2501.01346)<BR>[2025-01-03]
@@ -76,6 +79,8 @@
 * [Generative AI for Cel-Animation: A Survey](https://arxiv.org/abs/2501.06250)<be>:star:[code](https://github.com/yunlong10/Awesome-AI4Animation)<BR>[2025-01-14]
 * [Generative Physical AI in Vision: A Survey](https://arxiv.org/abs/2501.10928)<be>:star:[code](https://github.com/BestJunYu/Awesome-Physics-aware-Generation)<BR>[2025-01-22]
 * [Survey on AI-Generated Media Detection: From Non-MLLM to MLLM](https://arxiv.org/abs/2502.05240)<BR>[2025-02-11]
+* GAN 
+  * [Image Inversion: A Survey from GANs to Diffusion and Beyond](https://arxiv.org/abs/2502.11974)<be>:star:[code](https://github.com/RyanChenYN/ImageInversion)<BR>[2025-02-18]
 * 图像生成
   * [Preference Alignment on Diffusion Model: A Comprehensive Survey for Image Generation and Editing](https://export.arxiv.org/abs/2502.07829)<BR>[2025-02-13]
 * AIGC
@@ -93,6 +98,7 @@
 ## Medical Image Progress(医学图像处理)
 * [In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review](https://arxiv.org/abs/2501.10727)<BR>[2025-01-22]
 * [Foundation Models in Computational Pathology: A Review of Challenges, Opportunities, and Impact](https://arxiv.org/abs/2502.08333)<BR>[2025-02-13]
+* [A Survey of LLM-based Agents in Medicine: How far are we from Baymax?](https://arxiv.org/abs/2502.11211)<BR>[2025-02-18]
 * 医学图像分割
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
 
