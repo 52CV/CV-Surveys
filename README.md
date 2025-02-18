@@ -62,8 +62,7 @@
 
 ## Machine Learning
 * [A Systematic Review of Machine Learning Methods for Multimodal EEG Data in Clinical Application](https://arxiv.org/abs/2501.08585)<BR>[2025-01-16]
-* 强化学习
-  * [A Survey of Representation Learning, Optimization Strategies, and Applications for Omnidirectional Vision](https://arxiv.org/abs/2502.10444)<be>:star:[code](https://github.com/52CV/CV-Surveys/)<BR>[2025-02-18]
+
 
 ## Vision-Language(视觉语言)
 * [Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability](https://arxiv.org/abs/2501.01346)<BR>[2025-01-03]
@@ -162,7 +161,7 @@
 * [Safety at Scale: A Comprehensive Survey of Large Model Safety](https://arxiv.org/abs/2502.05206)<BR>[2025-02-11]
 * [Event Vision Sensor: A Review](https://arxiv.org/abs/2502.06116)<BR>[2025-02-11]
 * [A Survey on Mamba Architecture for Vision Applications](https://arxiv.org/abs/2502.07161)<BR>[2025-02-12]
-
+* [A Survey of Representation Learning, Optimization Strategies, and Applications for Omnidirectional Vision](https://arxiv.org/abs/2502.10444)<be>:star:[code](https://github.com/52CV/CV-Surveys/)<BR>[2025-02-18]
 <a name="00000"/>
 
 ## 2023 年论文分类汇总戳这里
