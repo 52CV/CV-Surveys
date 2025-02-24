@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月21日已公开 68+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月24日已公开 69+5 篇。
 1月36篇。
 
 ## 目录
@@ -74,14 +74,16 @@
 * [Visual Large Language Models for Generalized and Specialized Applications](https://arxiv.org/abs/2501.02765)<be>:star:[code](https://github.com/JackYFL/awesome-VLLMs)<BR>[2025-01-07]
 * [When Data Manipulation Meets Attack Goals: An In-depth Survey of Attacks for VLMs](https://arxiv.org/abs/2502.06390)<be>:star:[code](https://github.com/AobtDai/VLM_Attack_Paper_List)<BR>[2025-02-11]
 * [Survey on Vision-Language-Action Models](https://arxiv.org/abs/2502.06851)<BR>[2025-02-12]
-* [Vision-Language Models for Edge Networks: A Comprehensive Survey](https://export.arxiv.org/abs/2502.07855)<BR>[2025-02-13]
+* [Vision-Language Models for Edge Networks: A Comprehensive Survey](https://arxiv.org/abs/2502.07855)<BR>[2025-02-13]
 * [Harnessing Vision Models for Time Series Analysis: A Survey](https://arxiv.org/abs/2502.08869)<BR>[2025-02-14]
+* [A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations](https://arxiv.org/abs/2502.14881)<be>:star:[code](https://github.com/XuankunRong/Awesome-LVLM-Safety)<BR>[2025-02-24]
 
 ## GAN/Image Synthesis(图像生成)
 * [Generative AI for Cel-Animation: A Survey](https://arxiv.org/abs/2501.06250)<be>:star:[code](https://github.com/yunlong10/Awesome-AI4Animation)<BR>[2025-01-14]
 * [Generative Physical AI in Vision: A Survey](https://arxiv.org/abs/2501.10928)<be>:star:[code](https://github.com/BestJunYu/Awesome-Physics-aware-Generation)<BR>[2025-01-22]
 * [Survey on AI-Generated Media Detection: From Non-MLLM to MLLM](https://arxiv.org/abs/2502.05240)<BR>[2025-02-11]
 * [A Survey on Text-Driven 360-Degree Panorama Generation](https://export.arxiv.org/abs/2502.14799)<be>:star:[code](https://littlewhitesea.github.io/Text-Driven-Pano-Gen/)<BR>[2025-02-21]
+* [Methods and Trends in Detecting Generated Images: A Comprehensive Review](https://arxiv.org/abs/2502.15176)<BR>[2025-02-24]
 * GAN 
   * [Image Inversion: A Survey from GANs to Diffusion and Beyond](https://arxiv.org/abs/2502.11974)<be>:star:[code](https://github.com/RyanChenYN/ImageInversion)<BR>[2025-02-18]
 * 图像生成
@@ -91,6 +93,9 @@
   * [Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC](https://arxiv.org/abs/2502.07007)<BR>[2025-02-12]
 * 图像到图像翻译
   * [Unpaired Image-to-Image Translation with Content Preserving Perspective: A Review](https://arxiv.org/abs/2502.08667)<BR>[2025-02-14]
+* 文本-图像
+  * [A Comprehensive Survey on Concept Erasure in Text-to-Image Diffusion Models](https://arxiv.org/abs/2502.14896)<BR>[2025-02-24]
+
 
 ## MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)
 * [A Survey on Dynamic Neural Networks: from Computer Vision to Multi-modal Sensor Fusion](https://arxiv.org/abs/2501.07451)<BR>[2025-01-14]
@@ -103,8 +108,11 @@
 * [In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review](https://arxiv.org/abs/2501.10727)<BR>[2025-01-22]
 * [Foundation Models in Computational Pathology: A Review of Challenges, Opportunities, and Impact](https://arxiv.org/abs/2502.08333)<BR>[2025-02-13]
 * [A Survey of LLM-based Agents in Medicine: How far are we from Baymax?](https://arxiv.org/abs/2502.11211)<BR>[2025-02-18]
+* [Denoising, segmentation and volumetric rendering of optical coherence tomography angiography (OCTA) image using deep learning techniques: a review](https://arxiv.org/abs/2502.14935)<BR>[2025-02-24]
 * 医学图像分割
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
+* 手术场景理解
+  * [Surgical Scene Understanding in the Era of Foundation AI Models: A Comprehensive Review](https://arxiv.org/abs/2502.14886)<BR>[2025-02-24]
 
 ## OCR
 * [Handwritten Text Recognition: A Survey](https://arxiv.org/abs/2502.08417)<BR>[2025-02-13]
