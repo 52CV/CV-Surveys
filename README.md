@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月24日已公开 69+5 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月25日已公开 74+5 篇。
 1月36篇。
 
 ## 目录
@@ -38,6 +38,10 @@
 * 类增量学习
   * [Latest Advancements Towards Catastrophic Forgetting under Data Scarcity: A Comprehensive Survey on Few-Shot Class Incremental Learning](https://export.arxiv.org/abs/2502.08181)<BR>[2025-02-13]
 
+
+## agriculture(农业)
+* [A survey of datasets for computer vision in agriculture](https://arxiv.org/abs/2502.16950)<be>:star:[code](https://smartfarminglab.github.io/field_dataset_survey/)<BR>[2025-02-25]
+
 ## Biomedical(生物特征识别)
 * 掌纹识别
   * [Deep Learning in Palmprint Recognition-A Comprehensive Survey](https://arxiv.org/abs/2501.01166)<BR>[2025-01-03]
@@ -50,6 +54,7 @@
 
 ## Industrial Defect Detection(工业缺陷检测)
 * [Anomaly Detection for Industrial Applications, Its Challenges, Solutions, and Future Directions: A Review](https://arxiv.org/abs/2501.11310)<BR>[2025-01-22]
+* [A Survey on Industrial Anomalies Synthesis](https://arxiv.org/abs/2502.16412)<be>:star:[code](https://github.com/M-3LAB/awesome-anomaly-synthesis.)<BR>[2025-02-25]
 
 ## Video
 * [A Survey on Video Analytics in Cloud-Edge-Terminal Collaborative Systems](https://arxiv.org/abs/2502.06581)<BR>[2025-02-11]
@@ -77,6 +82,8 @@
 * [Vision-Language Models for Edge Networks: A Comprehensive Survey](https://arxiv.org/abs/2502.07855)<BR>[2025-02-13]
 * [Harnessing Vision Models for Time Series Analysis: A Survey](https://arxiv.org/abs/2502.08869)<BR>[2025-02-14]
 * [A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations](https://arxiv.org/abs/2502.14881)<be>:star:[code](https://github.com/XuankunRong/Awesome-LVLM-Safety)<BR>[2025-02-24]
+* MLLM
+  * [Multimodal Large Language Models for Text-rich Image Understanding: A Comprehensive Review](https://arxiv.org/abs/2502.16586)<BR>[2025-02-25]
 
 ## GAN/Image Synthesis(图像生成)
 * [Generative AI for Cel-Animation: A Survey](https://arxiv.org/abs/2501.06250)<be>:star:[code](https://github.com/yunlong10/Awesome-AI4Animation)<BR>[2025-01-14]
@@ -113,6 +120,10 @@
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
 * 手术场景理解
   * [Surgical Scene Understanding in the Era of Foundation AI Models: A Comprehensive Review](https://arxiv.org/abs/2502.14886)<BR>[2025-02-24]
+* 手术视频分割
+  * [Deep learning approaches to surgical video segmentation and object detection: A Scoping Review](https://arxiv.org/abs/2502.16459)<BR>[2025-02-25]
+* MRI重建
+  * [A Survey of fMRI to Image Reconstruction](https://arxiv.org/abs/2502.16861)<BR>[2025-02-25]
 
 ## OCR
 * [Handwritten Text Recognition: A Survey](https://arxiv.org/abs/2502.08417)<BR>[2025-02-13]
