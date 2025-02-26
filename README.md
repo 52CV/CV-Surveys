@@ -40,7 +40,7 @@
 
 
 ## agriculture(农业)
-* [A survey of datasets for computer vision in agriculture](https://arxiv.org/abs/2502.16950)<be>:star:[code](https://smartfarminglab.github.io/field_dataset_survey/)<BR>[2025-02-25]
+* [A survey of datasets for computer vision in agriculture](https://arxiv.org/abs/2502.16950)<BR>:star:[code](https://smartfarminglab.github.io/field_dataset_survey/)<BR>[2025-02-25]
 
 ## Biomedical(生物特征识别)
 * 掌纹识别
@@ -54,14 +54,14 @@
 
 ## Industrial Defect Detection(工业缺陷检测)
 * [Anomaly Detection for Industrial Applications, Its Challenges, Solutions, and Future Directions: A Review](https://arxiv.org/abs/2501.11310)<BR>[2025-01-22]
-* [A Survey on Industrial Anomalies Synthesis](https://arxiv.org/abs/2502.16412)<be>:star:[code](https://github.com/M-3LAB/awesome-anomaly-synthesis.)<BR>[2025-02-25]
+* [A Survey on Industrial Anomalies Synthesis](https://arxiv.org/abs/2502.16412)<BR>:star:[code](https://github.com/M-3LAB/awesome-anomaly-synthesis.)<BR>[2025-02-25]
 
 ## Video
 * [A Survey on Video Analytics in Cloud-Edge-Terminal Collaborative Systems](https://arxiv.org/abs/2502.06581)<BR>[2025-02-11]
 
 ## Autonomous Driving(自动驾驶)
 * [A Survey of World Models for Autonomous Driving](https://arxiv.org/abs/2501.11260)<BR>[2025-01-22]
-* [The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey](https://arxiv.org/abs/2502.10498)<be>:star:[code](https://github.com/LMD0311/Awesome-World-Model)<BR>[2025-02-18]
+* [The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey](https://arxiv.org/abs/2502.10498)<BR>:star:[code](https://github.com/LMD0311/Awesome-World-Model)<BR>[2025-02-18]
 * 分心驾驶检测
   * [A Review Paper of the Effects of Distinct Modalities and ML Techniques to Distracted Driving Detection](https://arxiv.org/abs/2501.11758)<BR>[2025-01-22]
 
@@ -74,28 +74,28 @@
 
 ## Vision-Language(视觉语言)
 * [Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability](https://arxiv.org/abs/2501.01346)<BR>[2025-01-03]
-* [Benchmark Evaluations, Applications, and Challenges of Large Vision Language Models: A Survey](https://arxiv.org/abs/2501.02189)<be>:star:[code](https://github.com/zli12321/Awesome-VLM-Papers-And-Models.git)<BR>[2025-01-07]
+* [Benchmark Evaluations, Applications, and Challenges of Large Vision Language Models: A Survey](https://arxiv.org/abs/2501.02189)<BR>:star:[code](https://github.com/zli12321/Awesome-VLM-Papers-And-Models.git)<BR>[2025-01-07]
 * [Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches](https://arxiv.org/abs/2501.03151)<BR>[2025-01-07]
-* [Visual Large Language Models for Generalized and Specialized Applications](https://arxiv.org/abs/2501.02765)<be>:star:[code](https://github.com/JackYFL/awesome-VLLMs)<BR>[2025-01-07]
-* [When Data Manipulation Meets Attack Goals: An In-depth Survey of Attacks for VLMs](https://arxiv.org/abs/2502.06390)<be>:star:[code](https://github.com/AobtDai/VLM_Attack_Paper_List)<BR>[2025-02-11]
+* [Visual Large Language Models for Generalized and Specialized Applications](https://arxiv.org/abs/2501.02765)<BR>:star:[code](https://github.com/JackYFL/awesome-VLLMs)<BR>[2025-01-07]
+* [When Data Manipulation Meets Attack Goals: An In-depth Survey of Attacks for VLMs](https://arxiv.org/abs/2502.06390)<BR>:star:[code](https://github.com/AobtDai/VLM_Attack_Paper_List)<BR>[2025-02-11]
 * [Survey on Vision-Language-Action Models](https://arxiv.org/abs/2502.06851)<BR>[2025-02-12]
 * [Vision-Language Models for Edge Networks: A Comprehensive Survey](https://arxiv.org/abs/2502.07855)<BR>[2025-02-13]
 * [Harnessing Vision Models for Time Series Analysis: A Survey](https://arxiv.org/abs/2502.08869)<BR>[2025-02-14]
-* [A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations](https://arxiv.org/abs/2502.14881)<be>:star:[code](https://github.com/XuankunRong/Awesome-LVLM-Safety)<BR>[2025-02-24]
+* [A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations](https://arxiv.org/abs/2502.14881)<BR>:star:[code](https://github.com/XuankunRong/Awesome-LVLM-Safety)<BR>[2025-02-24]
 * MLLM
   * [Multimodal Large Language Models for Text-rich Image Understanding: A Comprehensive Review](https://arxiv.org/abs/2502.16586)<BR>[2025-02-25]
 
 ## GAN/Image Synthesis(图像生成)
-* [Generative AI for Cel-Animation: A Survey](https://arxiv.org/abs/2501.06250)<be>:star:[code](https://github.com/yunlong10/Awesome-AI4Animation)<BR>[2025-01-14]
-* [Generative Physical AI in Vision: A Survey](https://arxiv.org/abs/2501.10928)<be>:star:[code](https://github.com/BestJunYu/Awesome-Physics-aware-Generation)<BR>[2025-01-22]
+* [Generative AI for Cel-Animation: A Survey](https://arxiv.org/abs/2501.06250)<BR>:star:[code](https://github.com/yunlong10/Awesome-AI4Animation)<BR>[2025-01-14]
+* [Generative Physical AI in Vision: A Survey](https://arxiv.org/abs/2501.10928)<BR>:star:[code](https://github.com/BestJunYu/Awesome-Physics-aware-Generation)<BR>[2025-01-22]
 * [Survey on AI-Generated Media Detection: From Non-MLLM to MLLM](https://arxiv.org/abs/2502.05240)<BR>[2025-02-11]
-* [A Survey on Text-Driven 360-Degree Panorama Generation](https://export.arxiv.org/abs/2502.14799)<be>:star:[code](https://littlewhitesea.github.io/Text-Driven-Pano-Gen/)<BR>[2025-02-21]
+* [A Survey on Text-Driven 360-Degree Panorama Generation](https://export.arxiv.org/abs/2502.14799)<BR>:star:[code](https://littlewhitesea.github.io/Text-Driven-Pano-Gen/)<BR>[2025-02-21]
 * [Methods and Trends in Detecting Generated Images: A Comprehensive Review](https://arxiv.org/abs/2502.15176)<BR>[2025-02-24]
 * GAN 
-  * [Image Inversion: A Survey from GANs to Diffusion and Beyond](https://arxiv.org/abs/2502.11974)<be>:star:[code](https://github.com/RyanChenYN/ImageInversion)<BR>[2025-02-18]
+  * [Image Inversion: A Survey from GANs to Diffusion and Beyond](https://arxiv.org/abs/2502.11974)<BR>:star:[code](https://github.com/RyanChenYN/ImageInversion)<BR>[2025-02-18]
 * 图像生成
   * [Preference Alignment on Diffusion Model: A Comprehensive Survey for Image Generation and Editing](https://export.arxiv.org/abs/2502.07829)<BR>[2025-02-13]
-  * [Personalized Image Generation with Deep Generative Models: A Decade Survey](https://arxiv.org/abs/2502.13081)<be>:star:[code](https://github.com/csyxwei/Awesome-Personalized-Image-Generation)<BR>[2025-02-19]
+  * [Personalized Image Generation with Deep Generative Models: A Decade Survey](https://arxiv.org/abs/2502.13081)<BR>:star:[code](https://github.com/csyxwei/Awesome-Personalized-Image-Generation)<BR>[2025-02-19]
 * AIGC
   * [Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC](https://arxiv.org/abs/2502.07007)<BR>[2025-02-12]
 * 图像到图像翻译
@@ -182,11 +182,11 @@
 * [Advanced technology in railway track monitoring using the GPR Technique: A Review](https://arxiv.org/abs/2501.11132)<BR>[2025-01-22]
 * [Reproducibility review of "Why Not Other Classes": Towards Class-Contrastive Back-Propagation Explanations](https://arxiv.org/abs/2501.11096)<BR>[2025-01-22]
 * [Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation](https://arxiv.org/abs/2502.05151)<BR>[2025-02-10]
-* [Diffusion Models for Computational Neuroimaging: A Survey](https://arxiv.org/abs/2502.06552)<be>:star:[code](https://github.com/JoeZhao527/dm4neuro)<BR>[2025-02-11]
+* [Diffusion Models for Computational Neuroimaging: A Survey](https://arxiv.org/abs/2502.06552)<BR>:star:[code](https://github.com/JoeZhao527/dm4neuro)<BR>[2025-02-11]
 * [Safety at Scale: A Comprehensive Survey of Large Model Safety](https://arxiv.org/abs/2502.05206)<BR>[2025-02-11]
 * [Event Vision Sensor: A Review](https://arxiv.org/abs/2502.06116)<BR>[2025-02-11]
 * [A Survey on Mamba Architecture for Vision Applications](https://arxiv.org/abs/2502.07161)<BR>[2025-02-12]
-* [A Survey of Representation Learning, Optimization Strategies, and Applications for Omnidirectional Vision](https://arxiv.org/abs/2502.10444)<be>:star:[code](https://github.com/52CV/CV-Surveys/)<BR>[2025-02-18]
+* [A Survey of Representation Learning, Optimization Strategies, and Applications for Omnidirectional Vision](https://arxiv.org/abs/2502.10444)<BR>:star:[code](https://github.com/52CV/CV-Surveys/)<BR>[2025-02-18]
 <a name="00000"/>
 
 ## 2023 年论文分类汇总戳这里
