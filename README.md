@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月26日已公开 79+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至2月27日已公开 80+5 篇。
 1月36篇。
 
 ## 目录
@@ -55,6 +55,7 @@
 ## Industrial Defect Detection(工业缺陷检测)
 * [Anomaly Detection for Industrial Applications, Its Challenges, Solutions, and Future Directions: A Review](https://arxiv.org/abs/2501.11310)<BR>[2025-01-22]
 * [A Survey on Industrial Anomalies Synthesis](https://arxiv.org/abs/2502.16412)<BR>:star:[code](https://github.com/M-3LAB/awesome-anomaly-synthesis.)<BR>[2025-02-25]
+* [A Survey on Foundation-Model-Based Industrial Defect Detection](https://arxiv.org/abs/2502.19106)<BR>[2025-02-27]
 
 ## Video
 * [A Survey on Video Analytics in Cloud-Edge-Terminal Collaborative Systems](https://arxiv.org/abs/2502.06581)<BR>[2025-02-11]
@@ -123,6 +124,8 @@
   * [Surgical Scene Understanding in the Era of Foundation AI Models: A Comprehensive Review](https://arxiv.org/abs/2502.14886)<BR>[2025-02-24]
 * 手术视频分割
   * [Deep learning approaches to surgical video segmentation and object detection: A Scoping Review](https://arxiv.org/abs/2502.16459)<BR>[2025-02-25]
+* 图像配准
+  * [From Traditional to Deep Learning Approaches in Whole Slide Image Registration: A Methodological Review](https://export.arxiv.org/abs/2502.19123)<BR>[2025-02-27]
 * MRI重建
   * [A Survey of fMRI to Image Reconstruction](https://arxiv.org/abs/2502.16861)<BR>[2025-02-25]
 
@@ -157,6 +160,12 @@
 * [Emotion Recognition and Generation: A Comprehensive Review of Face, Speech, and Text Modalities](https://arxiv.org/abs/2502.06803)<BR>[2025-02-12]
 * [Face Deepfakes - A Comprehensive Review](https://arxiv.org/abs/2502.09812)<BR>[2025-02-17]
 
+## Image Segmentation(图像分割)
+* [A Comparative Review of the Histogram-based Image Segmentation Methods](https://export.arxiv.org/abs/2502.18550)<BR>[2025-02-27]
+
+## Image Retrieval(图像检索)
+* [A Comprehensive Survey on Composed Image Retrieval](https://arxiv.org/abs/2502.18495)<BR>[2025-02-27]
+
 ## Image Classification
 * [Plant Leaf Disease Detection and Classification Using Deep Learning: A Review and A Proposed System on Bangladesh's Perspective](https://arxiv.org/abs/2501.03305)<BR>[2025-01-08]基于深度学习的植物叶片病害检测与分类
 
@@ -187,6 +196,8 @@
 * [Event Vision Sensor: A Review](https://arxiv.org/abs/2502.06116)<BR>[2025-02-11]
 * [A Survey on Mamba Architecture for Vision Applications](https://arxiv.org/abs/2502.07161)<BR>[2025-02-12]
 * [A Survey of Representation Learning, Optimization Strategies, and Applications for Omnidirectional Vision](https://arxiv.org/abs/2502.10444)<BR>:star:[code](https://github.com/52CV/CV-Surveys/)<BR>[2025-02-18]
+* [Event-based Solutions for Human-centered Applications: A Comprehensive Review](https://arxiv.org/abs/2502.18490)<BR>:star:[code](https://github.com/nmirabeth/event_human)<BR>[2025-02-27]
+
 <a name="00000"/>
 
 ## 2023 年论文分类汇总戳这里
