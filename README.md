@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月3日已公开 86+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月4日已公开 87+5 篇。
 1月36篇。<BR>
 2月50篇。
 
@@ -37,8 +37,9 @@
 * 对比学习
   * [A Survey on Data Curation for Visual Contrastive Learning: Why Crafting Effective Positive and Negative Pairs Matters](https://arxiv.org/abs/2502.08134)<BR>[2025-02-13]
 * 类增量学习
-  * [Latest Advancements Towards Catastrophic Forgetting under Data Scarcity: A Comprehensive Survey on Few-Shot Class Incremental Learning](https://export.arxiv.org/abs/2502.08181)<BR>[2025-02-13]
-
+  * [Latest Advancements Towards Catastrophic Forgetting under Data Scarcity: A Comprehensive Survey on Few-Shot Class Incremental Learning](https://arxiv.org/abs/2502.08181)<BR>[2025-02-13]
+* 对抗
+  * [A Survey of Adversarial Defenses in Vision-based Systems: Categorization, Methods and Challenges](https://arxiv.org/abs/2503.00384)<BR>[2025-03-04]
 
 ## agriculture(农业)
 * [A survey of datasets for computer vision in agriculture](https://arxiv.org/abs/2502.16950)<BR>:star:[code](https://smartfarminglab.github.io/field_dataset_survey/)<BR>[2025-02-25]
@@ -72,7 +73,7 @@
 
 ## Few/Zero-Shot Learning/DG/A(小/零样本/域泛化/域适应)
 * Non-Transferable Learning(反迁移学习)
-  * [Toward Robust Non-Transferable Learning: A Survey and Benchmark](https://export.arxiv.org/abs/2502.13593)<BR>[2025-02-20]
+  * [Toward Robust Non-Transferable Learning: A Survey and Benchmark](https://arxiv.org/abs/2502.13593)<BR>[2025-02-20]
 
 ## Vision-Language(视觉语言)
 * [Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability](https://arxiv.org/abs/2501.01346)<BR>[2025-01-03]
@@ -91,12 +92,12 @@
 * [Generative AI for Cel-Animation: A Survey](https://arxiv.org/abs/2501.06250)<BR>:star:[code](https://github.com/yunlong10/Awesome-AI4Animation)<BR>[2025-01-14]
 * [Generative Physical AI in Vision: A Survey](https://arxiv.org/abs/2501.10928)<BR>:star:[code](https://github.com/BestJunYu/Awesome-Physics-aware-Generation)<BR>[2025-01-22]
 * [Survey on AI-Generated Media Detection: From Non-MLLM to MLLM](https://arxiv.org/abs/2502.05240)<BR>[2025-02-11]
-* [A Survey on Text-Driven 360-Degree Panorama Generation](https://export.arxiv.org/abs/2502.14799)<BR>:star:[code](https://littlewhitesea.github.io/Text-Driven-Pano-Gen/)<BR>[2025-02-21]
+* [A Survey on Text-Driven 360-Degree Panorama Generation](https://arxiv.org/abs/2502.14799)<BR>:star:[code](https://littlewhitesea.github.io/Text-Driven-Pano-Gen/)<BR>[2025-02-21]
 * [Methods and Trends in Detecting Generated Images: A Comprehensive Review](https://arxiv.org/abs/2502.15176)<BR>[2025-02-24]
 * GAN 
   * [Image Inversion: A Survey from GANs to Diffusion and Beyond](https://arxiv.org/abs/2502.11974)<BR>:star:[code](https://github.com/RyanChenYN/ImageInversion)<BR>[2025-02-18]
 * 图像生成
-  * [Preference Alignment on Diffusion Model: A Comprehensive Survey for Image Generation and Editing](https://export.arxiv.org/abs/2502.07829)<BR>[2025-02-13]
+  * [Preference Alignment on Diffusion Model: A Comprehensive Survey for Image Generation and Editing](https://arxiv.org/abs/2502.07829)<BR>[2025-02-13]
   * [Personalized Image Generation with Deep Generative Models: A Decade Survey](https://arxiv.org/abs/2502.13081)<BR>:star:[code](https://github.com/csyxwei/Awesome-Personalized-Image-Generation)<BR>[2025-02-19]
 * AIGC
   * [Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC](https://arxiv.org/abs/2502.07007)<BR>[2025-02-12]
@@ -105,6 +106,7 @@
 * 文本-图像
   * [A Comprehensive Survey on Concept Erasure in Text-to-Image Diffusion Models](https://arxiv.org/abs/2502.14896)<BR>[2025-02-24]
   * [A Review on Generative AI For Text-To-Image and Image-To-Image Generation and Implications To Scientific Images](https://arxiv.org/abs/2502.21151)<BR>[2025-03-03]
+  * [A Systematic Review of Open Datasets Used in Text-to-Image (T2I) Gen AI Model Safety](https://arxiv.org/abs/2503.00020)<BR>[2025-03-04]
 * 视频生成
   * [A Survey: Spatiotemporal Consistency in Video Generation](https://arxiv.org/abs/2502.17863)<BR>[2025-02-26]
 
@@ -127,7 +129,7 @@
 * 手术视频分割
   * [Deep learning approaches to surgical video segmentation and object detection: A Scoping Review](https://arxiv.org/abs/2502.16459)<BR>[2025-02-25]
 * 图像配准
-  * [From Traditional to Deep Learning Approaches in Whole Slide Image Registration: A Methodological Review](https://export.arxiv.org/abs/2502.19123)<BR>[2025-02-27]
+  * [From Traditional to Deep Learning Approaches in Whole Slide Image Registration: A Methodological Review](https://arxiv.org/abs/2502.19123)<BR>[2025-02-27]
 * MRI重建
   * [A Survey of fMRI to Image Reconstruction](https://arxiv.org/abs/2502.16861)<BR>[2025-02-25]
 
@@ -165,10 +167,12 @@
 * [Face Deepfakes - A Comprehensive Review](https://arxiv.org/abs/2502.09812)<BR>[2025-02-17]
 
 ## Image Segmentation(图像分割)
-* [A Comparative Review of the Histogram-based Image Segmentation Methods](https://export.arxiv.org/abs/2502.18550)<BR>[2025-02-27]
+* [A Comparative Review of the Histogram-based Image Segmentation Methods](https://arxiv.org/abs/2502.18550)<BR>[2025-02-27]
 
 ## Image Retrieval(图像检索)
 * [A Comprehensive Survey on Composed Image Retrieval](https://arxiv.org/abs/2502.18495)<BR>[2025-02-27]
+* [Composed Multi-modal Retrieval: A Survey of Approaches and Applications](https://arxiv.org/abs/2503.01334)<BR>[2025-03-04]
+
 
 ## Image Classification
 * [Plant Leaf Disease Detection and Classification Using Deep Learning: A Review and A Proposed System on Bangladesh's Perspective](https://arxiv.org/abs/2501.03305)<BR>[2025-01-08]基于深度学习的植物叶片病害检测与分类
@@ -201,6 +205,8 @@
 * [A Survey on Mamba Architecture for Vision Applications](https://arxiv.org/abs/2502.07161)<BR>[2025-02-12]
 * [A Survey of Representation Learning, Optimization Strategies, and Applications for Omnidirectional Vision](https://arxiv.org/abs/2502.10444)<BR>:star:[code](https://github.com/52CV/CV-Surveys/)<BR>[2025-02-18]
 * [Event-based Solutions for Human-centered Applications: A Comprehensive Review](https://arxiv.org/abs/2502.18490)<BR>:star:[code](https://github.com/nmirabeth/event_human)<BR>[2025-02-27]
+* [A Survey on Ordinal Regression: Applications, Advances and Prospects](https://arxiv.org/abs/2503.00952)<BR>[2025-03-04]
+* [Lossy Neural Compression for Geospatial Analytics: A Review](https://arxiv.org/abs/2503.01505)<BR>[2025-03-04]
 
 <a name="00000"/>
 
