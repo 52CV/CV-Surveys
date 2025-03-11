@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月10日已公开 95+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月11日已公开 96+3 篇。
 1月36篇。<BR>
 2月50篇。
 
@@ -137,6 +137,7 @@
   * [From Traditional to Deep Learning Approaches in Whole Slide Image Registration: A Methodological Review](https://arxiv.org/abs/2502.19123)<BR>[2025-02-27]
 * MRI重建
   * [A Survey of fMRI to Image Reconstruction](https://arxiv.org/abs/2502.16861)<BR>[2025-02-25]
+  * [A Comprehensive Survey on Magnetic Resonance Image Reconstruction](https://arxiv.org/abs/2503.07097)<BR>[2025-03-11]
 
 ## OCR
 * [Handwritten Text Recognition: A Survey](https://arxiv.org/abs/2502.08417)<BR>[2025-02-13]
@@ -212,6 +213,8 @@
 * [Event-based Solutions for Human-centered Applications: A Comprehensive Review](https://arxiv.org/abs/2502.18490)<BR>:star:[code](https://github.com/nmirabeth/event_human)<BR>[2025-02-27]
 * [A Survey on Ordinal Regression: Applications, Advances and Prospects](https://arxiv.org/abs/2503.00952)<BR>[2025-03-04]
 * [Lossy Neural Compression for Geospatial Analytics: A Review](https://arxiv.org/abs/2503.01505)<BR>[2025-03-04]
+* [A Review on Geometry and Surface Inspection in 3D Concrete Printing](https://arxiv.org/abs/2503.07472)<BR>[2025-03-11]
+* [A Systematic Review of ECG Arrhythmia Classification: Adherence to Standards, Fair Evaluation, and Embedded Feasibility](https://arxiv.org/abs/2503.07276)<BR>[2025-03-11]
 
 <a name="00000"/>
 
