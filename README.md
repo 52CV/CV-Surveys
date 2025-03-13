@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月11日已公开 96+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月13日已公开 99+1 篇。
 1月36篇。<BR>
 2月50篇。
 
@@ -86,6 +86,7 @@
 * [Vision-Language Models for Edge Networks: A Comprehensive Survey](https://arxiv.org/abs/2502.07855)<BR>[2025-02-13]
 * [Harnessing Vision Models for Time Series Analysis: A Survey](https://arxiv.org/abs/2502.08869)<BR>[2025-02-14]
 * [A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations](https://arxiv.org/abs/2502.14881)<BR>:star:[code](https://github.com/XuankunRong/Awesome-LVLM-Safety)<BR>[2025-02-24]
+* [Multi-Modal Foundation Models for Computational Pathology: A Survey](https://arxiv.org/abs/2503.09091)<BR>[2025-03-13]
 * LLM
   * [Leveraging Large Language Models For Scalable Vector Graphics Processing: A Review](https://arxiv.org/abs/2503.04983)<BR>[2025-03-10]
 * MLLM
