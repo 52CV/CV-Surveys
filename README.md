@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月13日已公开 99+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月13日已公开 100+1 篇。
 1月36篇。<BR>
 2月50篇。
 
@@ -216,6 +216,7 @@
 * [Lossy Neural Compression for Geospatial Analytics: A Review](https://arxiv.org/abs/2503.01505)<BR>[2025-03-04]
 * [A Review on Geometry and Surface Inspection in 3D Concrete Printing](https://arxiv.org/abs/2503.07472)<BR>[2025-03-11]
 * [A Systematic Review of ECG Arrhythmia Classification: Adherence to Standards, Fair Evaluation, and Embedded Feasibility](https://arxiv.org/abs/2503.07276)<BR>[2025-03-11]
+* [A Survey on Wi-Fi Sensing Generalizability: Taxonomy, Techniques, Datasets, and Future Research Prospects](https://arxiv.org/abs/2503.08008)<BR>[2025-03-12]
 
 <a name="00000"/>
 
