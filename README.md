@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月14日已公开 101+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月17日已公开 102+2 篇。
 1月36篇。<BR>
 2月50篇。
 
@@ -89,6 +89,7 @@
 * [Harnessing Vision Models for Time Series Analysis: A Survey](https://arxiv.org/abs/2502.08869)<BR>[2025-02-14]
 * [A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations](https://arxiv.org/abs/2502.14881)<BR>:star:[code](https://github.com/XuankunRong/Awesome-LVLM-Safety)<BR>[2025-02-24]
 * [Multi-Modal Foundation Models for Computational Pathology: A Survey](https://arxiv.org/abs/2503.09091)<BR>[2025-03-13]
+* [Small Vision-Language Models: A Survey on Compact Architectures and Techniques](https://arxiv.org/abs/2503.10665)<BR>[2025-03-17]
 * LLM
   * [Leveraging Large Language Models For Scalable Vector Graphics Processing: A Review](https://arxiv.org/abs/2503.04983)<BR>[2025-03-10]
 * MLLM
@@ -114,6 +115,7 @@
   * [A Comprehensive Survey on Concept Erasure in Text-to-Image Diffusion Models](https://arxiv.org/abs/2502.14896)<BR>[2025-02-24]
   * [A Review on Generative AI For Text-To-Image and Image-To-Image Generation and Implications To Scientific Images](https://arxiv.org/abs/2502.21151)<BR>[2025-03-03]
   * [A Systematic Review of Open Datasets Used in Text-to-Image (T2I) Gen AI Model Safety](https://arxiv.org/abs/2503.00020)<BR>[2025-03-04]
+  * [A Survey on Self-supervised Contrastive Learning for Multimodal Text-Image Analysis](https://arxiv.org/abs/2503.11101)<BR>[2025-03-17]
 * 视频生成
   * [A Survey: Spatiotemporal Consistency in Video Generation](https://arxiv.org/abs/2502.17863)<BR>[2025-02-26]
 
