@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月17日已公开 102+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月18日已公开 104+8 篇。
 1月36篇。<BR>
 2月50篇。
 
@@ -94,6 +94,7 @@
   * [Leveraging Large Language Models For Scalable Vector Graphics Processing: A Review](https://arxiv.org/abs/2503.04983)<BR>[2025-03-10]
 * MLLM
   * [Multimodal Large Language Models for Text-rich Image Understanding: A Comprehensive Review](https://arxiv.org/abs/2502.16586)<BR>[2025-02-25]
+  * [Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey](https://arxiv.org/abs/2503.12605)<BR>:star:[code](https://github.com/yaotingwangofficial/Awesome-MCoT)<BR>[2025-03-18]
 
 ## GAN/Image Synthesis(图像生成)
 * [Generative AI for Cel-Animation: A Survey](https://arxiv.org/abs/2501.06250)<BR>:star:[code](https://github.com/yunlong10/Awesome-AI4Animation)<BR>[2025-01-14]
@@ -122,6 +123,8 @@
 ## MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)
 * [A Survey on Dynamic Neural Networks: from Computer Vision to Multi-modal Sensor Fusion](https://arxiv.org/abs/2501.07451)<BR>[2025-01-14]
 * [Vision Transformers on the Edge: A Comprehensive Survey of Model Compression and Acceleration Strategies](https://arxiv.org/abs/2503.02891)<BR>[2025-03-06]
+* KD
+  * [A Comprehensive Survey on Knowledge Distillation](https://arxiv.org/abs/2503.12067)<BR>:star:[code](https://github.com/IPL-Sharif/KD_Survey)<BR>[2025-03-18]
 
 ## Visual Question Answering (视觉问答)
 * [Visual question answering: from early developments to recent advances -- a survey](https://arxiv.org/abs/2501.03939)<BR>[2025-01-08]
@@ -150,11 +153,17 @@
 ## UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
 * [Advancing Earth Observation: A Survey on AI-Powered Image Processing in Satellites](https://arxiv.org/abs/2501.12030)<BR>[2025-01-22]
 * [Plantation Monitoring Using Drone Images: A Dataset and Performance Review](https://arxiv.org/abs/2502.08233)<BR>[2025-02-13]
+* 船舶分类
+  * [A Survey on SAR ship classification using Deep Learning](https://arxiv.org/abs/2503.11906)<BR>[2025-03-18]
 
 ## Object Detection(目标检测)
 * [YOLOv8 to YOLO11: A Comprehensive Architecture In-depth Comparative Review](https://arxiv.org/abs/2501.13400)<BR>[2025-01-24]
 * 线路检测
   * [Deep Learning in Automated Power Line Inspection: A Review](https://arxiv.org/abs/2502.07826)<BR>[2025-02-13]
+
+## HOI
+* [3D Human Interaction Generation: A Survey](https://arxiv.org/abs/2503.13120)<BR>[2025-03-18]
+* [A Survey on Human Interaction Motion Generation](https://arxiv.org/abs/2503.12763)<BR>:star:[code](https://github.com/soraproducer/Awesome-Human-Interaction-Motion-Generation)<BR>[2025-03-18]
 
 ## Action Recognition
 * [SMART-Vision: Survey of Modern Action Recognition Techniques in Vision](https://arxiv.org/abs/2501.13066)<BR>[2025-01-23]
@@ -164,6 +173,7 @@
 
 ## Points Cloud(点云)
 * [Implicit Guidance and Explicit Representation of Semantic Information in Points Cloud: A Survey](https://arxiv.org/abs/2501.05473)<BR>[2025-01-13]
+* [Point Cloud Based Scene Segmentation: A Survey](https://arxiv.org/abs/2503.12595)<BR>[2025-03-18]
 
 ## 3D Visual
 * 三维重建
@@ -176,9 +186,12 @@
 * [A Survey on Facial Image Privacy Preservation in Cloud-Based Services](https://arxiv.org/abs/2501.08665)<BR>[2025-01-16]
 * [Emotion Recognition and Generation: A Comprehensive Review of Face, Speech, and Text Modalities](https://arxiv.org/abs/2502.06803)<BR>[2025-02-12]
 * [Face Deepfakes - A Comprehensive Review](https://arxiv.org/abs/2502.09812)<BR>[2025-02-17]
+* 情绪分析
+  * [Enhanced Sentiment Analysis of Iranian Restaurant Reviews Utilizing Sentiment Intensity Analyzer & Fuzzy Logic](https://arxiv.org/abs/2503.12141)<BR>[2025-03-18]
 
 ## Image Segmentation(图像分割)
 * [A Comparative Review of the Histogram-based Image Segmentation Methods](https://arxiv.org/abs/2502.18550)<BR>[2025-02-27]
+* [SAM2 for Image and Video Segmentation: A Comprehensive Survey](https://arxiv.org/abs/2503.12781)<BR>[2025-03-18]
 
 ## Image Retrieval(图像检索)
 * [A Comprehensive Survey on Composed Image Retrieval](https://arxiv.org/abs/2502.18495)<BR>[2025-02-27]
