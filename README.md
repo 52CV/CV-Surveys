@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月18日已公开 104+8 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月19日已公开 112+4 篇。
 1月36篇。<BR>
 2月50篇。
 
@@ -95,6 +95,8 @@
 * MLLM
   * [Multimodal Large Language Models for Text-rich Image Understanding: A Comprehensive Review](https://arxiv.org/abs/2502.16586)<BR>[2025-02-25]
   * [Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey](https://arxiv.org/abs/2503.12605)<BR>:star:[code](https://github.com/yaotingwangofficial/Awesome-MCoT)<BR>[2025-03-18]
+  * [Aligning Multimodal LLM with Human Preference: A Survey](https://arxiv.org/abs/2503.14504)<BR>:star:[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment.)<BR>[2025-03-19]
+  * [Survey of Adversarial Robustness in Multimodal Large Language Models](https://arxiv.org/abs/2503.13962)<BR>[2025-03-19]
 
 ## GAN/Image Synthesis(图像生成)
 * [Generative AI for Cel-Animation: A Survey](https://arxiv.org/abs/2501.06250)<BR>:star:[code](https://github.com/yunlong10/Awesome-AI4Animation)<BR>[2025-01-14]
@@ -117,8 +119,11 @@
   * [A Review on Generative AI For Text-To-Image and Image-To-Image Generation and Implications To Scientific Images](https://arxiv.org/abs/2502.21151)<BR>[2025-03-03]
   * [A Systematic Review of Open Datasets Used in Text-to-Image (T2I) Gen AI Model Safety](https://arxiv.org/abs/2503.00020)<BR>[2025-03-04]
   * [A Survey on Self-supervised Contrastive Learning for Multimodal Text-Image Analysis](https://arxiv.org/abs/2503.11101)<BR>[2025-03-17]
+  * [A Comprehensive Survey on Visual Concept Mining in Text-to-image Diffusion Models](https://arxiv.org/abs/2503.13576)<BR>[2025-03-19]
 * 视频生成
   * [A Survey: Spatiotemporal Consistency in Video Generation](https://arxiv.org/abs/2502.17863)<BR>[2025-02-26]
+* 4D生成
+  * [Advances in 4D Generation: A Survey](https://arxiv.org/abs/2503.14501)<BR>:star:[code](https://github.com/MiaoQiaowei/Awesome-4D)<BR>[2025-03-19]
 
 ## MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)
 * [A Survey on Dynamic Neural Networks: from Computer Vision to Multi-modal Sensor Fusion](https://arxiv.org/abs/2501.07451)<BR>[2025-01-14]
