@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月19日已公开 112+5 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月20日已公开 117+6 篇。
 1月36篇。<BR>
 2月50篇。
 
@@ -92,11 +92,13 @@
 * [Small Vision-Language Models: A Survey on Compact Architectures and Techniques](https://arxiv.org/abs/2503.10665)<BR>[2025-03-17]
 * LLM
   * [Leveraging Large Language Models For Scalable Vector Graphics Processing: A Review](https://arxiv.org/abs/2503.04983)<BR>[2025-03-10]
+  * [A Review on Large Language Models for Visual Analytics](https://arxiv.org/abs/2503.15176)<BR>[2025-03-20]
 * MLLM
   * [Multimodal Large Language Models for Text-rich Image Understanding: A Comprehensive Review](https://arxiv.org/abs/2502.16586)<BR>[2025-02-25]
   * [Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey](https://arxiv.org/abs/2503.12605)<BR>:star:[code](https://github.com/yaotingwangofficial/Awesome-MCoT)<BR>[2025-03-18]
   * [Aligning Multimodal LLM with Human Preference: A Survey](https://arxiv.org/abs/2503.14504)<BR>:star:[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment.)<BR>[2025-03-19]
   * [Survey of Adversarial Robustness in Multimodal Large Language Models](https://arxiv.org/abs/2503.13962)<BR>[2025-03-19]
+  * [UPME: An Unsupervised Peer Review Framework for Multimodal Large Language Model Evaluation](https://arxiv.org/abs/2503.14941)<BR>[2025-03-20]
 
 ## GAN/Image Synthesis(图像生成)
 * [Generative AI for Cel-Animation: A Survey](https://arxiv.org/abs/2501.06250)<BR>:star:[code](https://github.com/yunlong10/Awesome-AI4Animation)<BR>[2025-01-14]
@@ -140,6 +142,7 @@
 * [Foundation Models in Computational Pathology: A Review of Challenges, Opportunities, and Impact](https://arxiv.org/abs/2502.08333)<BR>[2025-02-13]
 * [A Survey of LLM-based Agents in Medicine: How far are we from Baymax?](https://arxiv.org/abs/2502.11211)<BR>[2025-02-18]
 * [Denoising, segmentation and volumetric rendering of optical coherence tomography angiography (OCTA) image using deep learning techniques: a review](https://arxiv.org/abs/2502.14935)<BR>[2025-02-24]
+* [The Impact of Artificial Intelligence on Emergency Medicine: A Review of Recent Advances](https://arxiv.org/abs/2503.14546)<BR>[2025-03-20]
 * 医学图像分割
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
 * 手术场景理解
@@ -162,6 +165,8 @@
   * [Operational Change Detection for Geographical Information: Overview and Challenges](https://arxiv.org/abs/2503.14109)<BR>[2025-03-19]
 * 船舶分类
   * [A Survey on SAR ship classification using Deep Learning](https://arxiv.org/abs/2503.11906)<BR>[2025-03-18]
+* 火灾烟雾
+   [Fire and Smoke Datasets in 20 Years: An In-depth Review](https://arxiv.org/abs/2503.14552)<BR>[2025-03-20]
 
 ## Object Detection(目标检测)
 * [YOLOv8 to YOLO11: A Comprehensive Architecture In-depth Comparative Review](https://arxiv.org/abs/2501.13400)<BR>[2025-01-24]
@@ -185,6 +190,7 @@
 ## 3D Visual
 * 三维重建
   * [Cutting-edge 3D reconstruction solutions for underwater coral reef images: A review and comparison](https://arxiv.org/abs/2502.20154)<BR>[2025-02-28]
+  * [Learning-based 3D Reconstruction in Autonomous Driving: A Comprehensive Survey](https://arxiv.org/abs/2503.14537)<BR>[2025-03-20]
 * 深度估计
   * [A Systematic Literature Review on Deep Learning-based Depth Estimation in Computer Vision](https://arxiv.org/abs/2501.05147)<BR>[2025-01-10]
   * [Survey on Monocular Metric Depth Estimation](https://arxiv.org/abs/2501.11841)<BR>[2025-01-22]
@@ -241,6 +247,7 @@
 * [A Review on Geometry and Surface Inspection in 3D Concrete Printing](https://arxiv.org/abs/2503.07472)<BR>[2025-03-11]
 * [A Systematic Review of ECG Arrhythmia Classification: Adherence to Standards, Fair Evaluation, and Embedded Feasibility](https://arxiv.org/abs/2503.07276)<BR>[2025-03-11]
 * [A Survey on Wi-Fi Sensing Generalizability: Taxonomy, Techniques, Datasets, and Future Research Prospects](https://arxiv.org/abs/2503.08008)<BR>[2025-03-12]
+* [Challenges and Trends in Egocentric Vision: A Survey](https://arxiv.org/abs/2503.15275)<BR>[2025-03-20]
 
 <a name="00000"/>
 
