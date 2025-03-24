@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月21日已公开 122+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月24日已公开 123+3 篇。
 1月36篇。<BR>
 2月50篇。
 
@@ -93,6 +93,7 @@
 * LLM
   * [Leveraging Large Language Models For Scalable Vector Graphics Processing: A Review](https://arxiv.org/abs/2503.04983)<BR>[2025-03-10]
   * [A Review on Large Language Models for Visual Analytics](https://arxiv.org/abs/2503.15176)<BR>[2025-03-20]
+  * [Distributed LLMs and Multimodal Large Language Models: A Survey on Advances, Challenges, and Future Directions](https://arxiv.org/abs/2503.16585)<BR>[2025-03-24]
 * MLLM
   * [Multimodal Large Language Models for Text-rich Image Understanding: A Comprehensive Review](https://arxiv.org/abs/2502.16586)<BR>[2025-02-25]
   * [Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey](https://arxiv.org/abs/2503.12605)<BR>:star:[code](https://github.com/yaotingwangofficial/Awesome-MCoT)<BR>[2025-03-18]
@@ -142,6 +143,7 @@
 * [A Survey of LLM-based Agents in Medicine: How far are we from Baymax?](https://arxiv.org/abs/2502.11211)<BR>[2025-02-18]
 * [Denoising, segmentation and volumetric rendering of optical coherence tomography angiography (OCTA) image using deep learning techniques: a review](https://arxiv.org/abs/2502.14935)<BR>[2025-02-24]
 * [The Impact of Artificial Intelligence on Emergency Medicine: A Review of Recent Advances](https://arxiv.org/abs/2503.14546)<BR>[2025-03-20]
+* [Comprehensive Review of Reinforcement Learning for Medical Ultrasound Imaging](https://arxiv.org/abs/2503.16543)<BR>[2025-03-24]
 * 医学图像分割
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
 * 手术场景理解
@@ -248,6 +250,7 @@
 * [A Systematic Review of ECG Arrhythmia Classification: Adherence to Standards, Fair Evaluation, and Embedded Feasibility](https://arxiv.org/abs/2503.07276)<BR>[2025-03-11]
 * [A Survey on Wi-Fi Sensing Generalizability: Taxonomy, Techniques, Datasets, and Future Research Prospects](https://arxiv.org/abs/2503.08008)<BR>[2025-03-12]
 * [Challenges and Trends in Egocentric Vision: A Survey](https://arxiv.org/abs/2503.15275)<BR>[2025-03-20]
+* [A Comprehensive Survey on Architectural Advances in Deep CNNs: Challenges, Applications, and Emerging Research Directions](https://arxiv.org/abs/2503.16546)<BR>[2025-03-24]
 
 <a name="00000"/>
 
