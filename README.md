@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月24日已公开 123+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月25日已公开 126+1 篇。
 1月36篇。<BR>
 2月50篇。
 
@@ -77,6 +77,9 @@
 ## Few/Zero-Shot Learning/DG/A(小/零样本/域泛化/域适应)
 * Non-Transferable Learning(反迁移学习)
   * [Toward Robust Non-Transferable Learning: A Survey and Benchmark](https://arxiv.org/abs/2502.13593)<BR>[2025-02-20]
+
+## Retrieval-Augmented Generation(检索增强生成)
+* [Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook](https://arxiv.org/abs/2503.18016)<BR>:star:[code](https://github.com/zhengxuJosh/Awesome-RAG-Vision)<BR>[2025-03-25]
 
 ## Vision-Language(视觉语言)
 * [Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability](https://arxiv.org/abs/2501.01346)<BR>[2025-01-03]
