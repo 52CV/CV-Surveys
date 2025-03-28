@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月27日已公开 128+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月28日已公开 129+2 篇。
 1月36篇。<BR>
 2月50篇。
 
@@ -127,8 +127,11 @@
   * [A Comprehensive Survey on Visual Concept Mining in Text-to-image Diffusion Models](https://arxiv.org/abs/2503.13576)<BR>[2025-03-19]
 * 视频生成
   * [A Survey: Spatiotemporal Consistency in Video Generation](https://arxiv.org/abs/2502.17863)<BR>[2025-02-26]
+  * [Exploring the Evolution of Physics Cognition in Video Generation: A Survey](https://arxiv.org/abs/2503.21765)<BR>:star:[code](https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation)<BR>[2025-03-28]
 * 4D生成
   * [Advances in 4D Generation: A Survey](https://arxiv.org/abs/2503.14501)<BR>:star:[code](https://github.com/MiaoQiaowei/Awesome-4D)<BR>[2025-03-19]
+* 视觉-音乐生成
+  * [Vision-to-Music Generation: A Survey](https://arxiv.org/abs/2503.21254)<BR>:star:[code](https://github.com/wzk1015/Awesome-Vision-to-Music-Generation.)<BR>[2025-03-28]
 
 ## MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)
 * [A Survey on Dynamic Neural Networks: from Computer Vision to Multi-modal Sensor Fusion](https://arxiv.org/abs/2501.07451)<BR>[2025-01-14]
