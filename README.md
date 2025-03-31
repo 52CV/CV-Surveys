@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月28日已公开 129+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月31日已公开 131+2 篇。
 1月36篇。<BR>
 2月50篇。
 
@@ -169,6 +169,7 @@
 ## UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
 * [Advancing Earth Observation: A Survey on AI-Powered Image Processing in Satellites](https://arxiv.org/abs/2501.12030)<BR>[2025-01-22]
 * [Plantation Monitoring Using Drone Images: A Dataset and Performance Review](https://arxiv.org/abs/2502.08233)<BR>[2025-02-13]
+* [A Survey on Remote Sensing Foundation Models: From Vision to Multimodality](https://arxiv.org/abs/2503.22081)<BR>[2025-03-31]
 * 变化检测
   * [Operational Change Detection for Geographical Information: Overview and Challenges](https://arxiv.org/abs/2503.14109)<BR>[2025-03-19]
 * 船舶分类
@@ -260,6 +261,7 @@
 * [A Survey on Wi-Fi Sensing Generalizability: Taxonomy, Techniques, Datasets, and Future Research Prospects](https://arxiv.org/abs/2503.08008)<BR>[2025-03-12]
 * [Challenges and Trends in Egocentric Vision: A Survey](https://arxiv.org/abs/2503.15275)<BR>[2025-03-20]
 * [A Comprehensive Survey on Architectural Advances in Deep CNNs: Challenges, Applications, and Emerging Research Directions](https://arxiv.org/abs/2503.16546)<BR>[2025-03-24]
+* [Hybrid Multi-Stage Learning Framework for Edge Detection: A Survey](https://arxiv.org/abs/2503.21827)<BR>[2025-03-31]
 
 <a name="00000"/>
 
