@@ -22,9 +22,10 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至3月31日已公开 131+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月1日已公开 133+4 篇。
 1月36篇。<BR>
-2月50篇。
+2月50篇。<BR>
+3月45篇。
 
 ## 目录
 
@@ -68,6 +69,7 @@
 ## Autonomous Driving(自动驾驶)
 * [A Survey of World Models for Autonomous Driving](https://arxiv.org/abs/2501.11260)<BR>[2025-01-22]
 * [The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey](https://arxiv.org/abs/2502.10498)<BR>:star:[code](https://github.com/LMD0311/Awesome-World-Model)<BR>[2025-02-18]
+* [4D mmWave Radar in Adverse Environments for Autonomous Driving: A Survey](https://arxiv.org/abs/2503.24091)<BR>[2025-04-01]
 * 分心驾驶检测
   * [A Review Paper of the Effects of Distinct Modalities and ML Techniques to Distracted Driving Detection](https://arxiv.org/abs/2501.11758)<BR>[2025-01-22]
 
@@ -179,6 +181,7 @@
 
 ## Object Detection(目标检测)
 * [YOLOv8 to YOLO11: A Comprehensive Architecture In-depth Comparative Review](https://arxiv.org/abs/2501.13400)<BR>[2025-01-24]
+* [Context in object detection: a systematic literature review](https://arxiv.org/abs/2503.23249)<BR>[2025-04-01]
 * 线路检测
   * [Deep Learning in Automated Power Line Inspection: A Review](https://arxiv.org/abs/2502.07826)<BR>[2025-02-13]
 * 小目标检测
@@ -262,6 +265,8 @@
 * [Challenges and Trends in Egocentric Vision: A Survey](https://arxiv.org/abs/2503.15275)<BR>[2025-03-20]
 * [A Comprehensive Survey on Architectural Advances in Deep CNNs: Challenges, Applications, and Emerging Research Directions](https://arxiv.org/abs/2503.16546)<BR>[2025-03-24]
 * [Hybrid Multi-Stage Learning Framework for Edge Detection: A Survey](https://arxiv.org/abs/2503.21827)<BR>[2025-03-31]
+* [Towards Mobile Sensing with Event Cameras on High-mobility Resource-constrained Devices: A Survey](https://arxiv.org/abs/2503.22943)<BR>[2025-04-01]
+* [Foundation Models For Seismic Data Processing: An Extensive Review](https://arxiv.org/abs/2503.24166)<BR>[2025-04-01]
 
 <a name="00000"/>
 
