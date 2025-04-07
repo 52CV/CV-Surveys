@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月1日已公开 133+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月7日已公开 137+1 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。
@@ -172,6 +172,8 @@
 * [Advancing Earth Observation: A Survey on AI-Powered Image Processing in Satellites](https://arxiv.org/abs/2501.12030)<BR>[2025-01-22]
 * [Plantation Monitoring Using Drone Images: A Dataset and Performance Review](https://arxiv.org/abs/2502.08233)<BR>[2025-02-13]
 * [A Survey on Remote Sensing Foundation Models: From Vision to Multimodality](https://arxiv.org/abs/2503.22081)<BR>[2025-03-31]
+* [A Decade of Deep Learning for Remote Sensing Spatiotemporal Fusion: Advances, Challenges, and Opportunities](https://arxiv.org/abs/2504.00901)<BR>:star:[code](https://github.com/yc-cui/Deep-Learning-Spatiotemporal-Fusion-Survey)<BR>[2025-04-02]
+* [MIMRS: A Survey on Masked Image Modeling in Remote Sensing](https://arxiv.org/abs/2504.03181)<BR>[2025-04-07]
 * 变化检测
   * [Operational Change Detection for Geographical Information: Overview and Challenges](https://arxiv.org/abs/2503.14109)<BR>[2025-03-19]
 * 船舶分类
