@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月8日已公开 138+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月9日已公开 142+3 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。
@@ -66,6 +66,9 @@
 ## Video
 * [A Survey on Video Analytics in Cloud-Edge-Terminal Collaborative Systems](https://arxiv.org/abs/2502.06581)<BR>[2025-02-11]
 
+## Action Detection(动作检测)
+* [Action Valuation in Sports: A Survey](https://arxiv.org/abs/2504.06163)<BR>[2025-04-09]
+
 ## Autonomous Driving(自动驾驶)
 * [A Survey of World Models for Autonomous Driving](https://arxiv.org/abs/2501.11260)<BR>[2025-01-22]
 * [The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey](https://arxiv.org/abs/2502.10498)<BR>:star:[code](https://github.com/LMD0311/Awesome-World-Model)<BR>[2025-02-18]
@@ -100,6 +103,7 @@
   * [Leveraging Large Language Models For Scalable Vector Graphics Processing: A Review](https://arxiv.org/abs/2503.04983)<BR>[2025-03-10]
   * [A Review on Large Language Models for Visual Analytics](https://arxiv.org/abs/2503.15176)<BR>[2025-03-20]
   * [Distributed LLMs and Multimodal Large Language Models: A Survey on Advances, Challenges, and Future Directions](https://arxiv.org/abs/2503.16585)<BR>[2025-03-24]
+  * [How to Enable LLM with 3D Capacity? A Survey of Spatial Reasoning in LLM](https://arxiv.org/abs/2504.05786)<BR>[2025-04-09]
 * MLLM
   * [Multimodal Large Language Models for Text-rich Image Understanding: A Comprehensive Review](https://arxiv.org/abs/2502.16586)<BR>[2025-02-25]
   * [Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey](https://arxiv.org/abs/2503.12605)<BR>:star:[code](https://github.com/yaotingwangofficial/Awesome-MCoT)<BR>[2025-03-18]
@@ -115,6 +119,7 @@
 * [Simulating the Real World: A Unified Survey of Multimodal Generative Models](https://arxiv.org/abs/2503.04641)<BR>[2025-03-07]
 * GAN 
   * [Image Inversion: A Survey from GANs to Diffusion and Beyond](https://arxiv.org/abs/2502.11974)<BR>:star:[code](https://github.com/RyanChenYN/ImageInversion)<BR>[2025-02-18]
+  * [Generative Adversarial Networks with Limited Data: A Survey and Benchmarking](https://arxiv.org/abs/2504.05456)<BR>[2025-04-09]
 * 图像生成
   * [Preference Alignment on Diffusion Model: A Comprehensive Survey for Image Generation and Editing](https://arxiv.org/abs/2502.07829)<BR>[2025-02-13]
   * [Personalized Image Generation with Deep Generative Models: A Decade Survey](https://arxiv.org/abs/2502.13081)<BR>:star:[code](https://github.com/csyxwei/Awesome-Personalized-Image-Generation)<BR>[2025-02-19]
