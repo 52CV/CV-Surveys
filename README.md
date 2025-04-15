@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月14日已公开 145+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月15日已公开 149+3 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。
@@ -102,6 +102,7 @@
 * [A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations](https://arxiv.org/abs/2502.14881)<BR>:star:[code](https://github.com/XuankunRong/Awesome-LVLM-Safety)<BR>[2025-02-24]
 * [Multi-Modal Foundation Models for Computational Pathology: A Survey](https://arxiv.org/abs/2503.09091)<BR>[2025-03-13]
 * [Small Vision-Language Models: A Survey on Compact Architectures and Techniques](https://arxiv.org/abs/2503.10665)<BR>[2025-03-17]
+* [A Survey on Efficient Vision-Language Models](https://arxiv.org/abs/2504.09724)<BR>:star:[code](https://github.com/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey)<BR>[2025-04-15]
 * LLM
   * [Leveraging Large Language Models For Scalable Vector Graphics Processing: A Review](https://arxiv.org/abs/2503.04983)<BR>[2025-03-10]
   * [A Review on Large Language Models for Visual Analytics](https://arxiv.org/abs/2503.15176)<BR>[2025-03-20]
@@ -194,6 +195,7 @@
 ## Object Detection(目标检测)
 * [YOLOv8 to YOLO11: A Comprehensive Architecture In-depth Comparative Review](https://arxiv.org/abs/2501.13400)<BR>[2025-01-24]
 * [Context in object detection: a systematic literature review](https://arxiv.org/abs/2503.23249)<BR>[2025-04-01]
+* [Vision-Language Model for Object Detection and Segmentation: A Review and Evaluation](https://arxiv.org/abs/2504.09480)<BR>:star:[code](https://github.com/better-chao/perceptual_abilities_evaluation)<BR>[2025-04-15]
 * 线路检测
   * [Deep Learning in Automated Power Line Inspection: A Review](https://arxiv.org/abs/2502.07826)<BR>[2025-02-13]
 * 小目标检测
@@ -283,6 +285,7 @@
 * [Attention in Diffusion Model: A Survey](https://arxiv.org/abs/2504.03738)<BR>[2025-04-08]
 * [Loss Functions in Deep Learning: A Comprehensive Review](https://arxiv.org/abs/2504.04242)<BR>[2025-04-08]
 * [Hardware, Algorithms, and Applications of the Neuromorphic Vision Sensor: a Review](https://arxiv.org/abs/2504.08588)<BR>[2025-04-14]
+* [Computer-Aided Layout Generation for Building Design: A Review](https://arxiv.org/abs/2504.09694)<BR>:star:[code](https://github.com/jcliu0428/awesome-building-layout-generation)<BR>[2025-04-15]
 
 <a name="00000"/>
 
