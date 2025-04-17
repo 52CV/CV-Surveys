@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月16日已公开 152+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月17日已公开 154+4 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。
@@ -143,6 +143,8 @@
   * [Exploring the Evolution of Physics Cognition in Video Generation: A Survey](https://arxiv.org/abs/2503.21765)<BR>:star:[code](https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation)<BR>[2025-03-28]
 * 4D生成
   * [Advances in 4D Generation: A Survey](https://arxiv.org/abs/2503.14501)<BR>:star:[code](https://github.com/MiaoQiaowei/Awesome-4D)<BR>[2025-03-19]
+* 3D生成
+  * [Recent Advance in 3D Object and Scene Generation: A Survey](https://arxiv.org/abs/2504.11734)<BR>[2025-04-17]
 * 视觉-音乐生成
   * [Vision-to-Music Generation: A Survey](https://arxiv.org/abs/2503.21254)<BR>:star:[code](https://github.com/wzk1015/Awesome-Vision-to-Music-Generation.)<BR>[2025-03-28]
 
@@ -163,6 +165,7 @@
 * [Denoising, segmentation and volumetric rendering of optical coherence tomography angiography (OCTA) image using deep learning techniques: a review](https://arxiv.org/abs/2502.14935)<BR>[2025-02-24]
 * [The Impact of Artificial Intelligence on Emergency Medicine: A Review of Recent Advances](https://arxiv.org/abs/2503.14546)<BR>[2025-03-20]
 * [Comprehensive Review of Reinforcement Learning for Medical Ultrasound Imaging](https://arxiv.org/abs/2503.16543)<BR>[2025-03-24]
+* [Deep Learning Approaches for Medical Imaging Under Varying Degrees of Label Availability: A Comprehensive Survey](https://arxiv.org/abs/2504.11588)<BR>[2025-04-17]
 * 医学图像分割
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
 * 手术场景理解
@@ -186,6 +189,8 @@
 * [A Decade of Deep Learning for Remote Sensing Spatiotemporal Fusion: Advances, Challenges, and Opportunities](https://arxiv.org/abs/2504.00901)<BR>:star:[code](https://github.com/yc-cui/Deep-Learning-Spatiotemporal-Fusion-Survey)<BR>[2025-04-02]
 * [MIMRS: A Survey on Masked Image Modeling in Remote Sensing](https://arxiv.org/abs/2504.03181)<BR>[2025-04-07]
 * [A comprehensive review of remote sensing in wetland classification and mapping](https://arxiv.org/abs/2504.10842)<BR>[2025-04-16]
+* Anti-UAV
+  * [Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions](https://arxiv.org/abs/2504.11967)<BR>[2025-04-17]
 * 变化检测
   * [Operational Change Detection for Geographical Information: Overview and Challenges](https://arxiv.org/abs/2503.14109)<BR>[2025-03-19]
 * 船舶分类
@@ -197,6 +202,7 @@
 * [YOLOv8 to YOLO11: A Comprehensive Architecture In-depth Comparative Review](https://arxiv.org/abs/2501.13400)<BR>[2025-01-24]
 * [Context in object detection: a systematic literature review](https://arxiv.org/abs/2503.23249)<BR>[2025-04-01]
 * [Vision-Language Model for Object Detection and Segmentation: A Review and Evaluation](https://arxiv.org/abs/2504.09480)<BR>:star:[code](https://github.com/better-chao/perceptual_abilities_evaluation)<BR>[2025-04-15]
+* [A Review of YOLOv12: Attention-Based Enhancements vs. Previous Versions](https://arxiv.org/abs/2504.11995)<BR>[2025-04-17]
 * 线路检测
   * [Deep Learning in Automated Power Line Inspection: A Review](https://arxiv.org/abs/2502.07826)<BR>[2025-02-13]
 * 小目标检测
