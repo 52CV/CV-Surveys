@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月17日已公开 154+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月18日已公开 158+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。
@@ -75,6 +75,7 @@
 * [4D mmWave Radar in Adverse Environments for Autonomous Driving: A Survey](https://arxiv.org/abs/2503.24091)<BR>[2025-04-01]
 * [Systematic Literature Review on Vehicular Collaborative Perception -- A Computer Vision Perspective](https://arxiv.org/abs/2504.04631)<BR>[2025-04-08]
 * [Adversarial Examples in Environment Perception for Automated Driving (Review)](https://arxiv.org/abs/2504.08414)<BR>[2025-04-14]
+* [Collaborative Perception Datasets for Autonomous Driving: A Review](https://arxiv.org/abs/2504.12696)<BR>:star:[code](https://github.com/frankwnb/Collaborative-Perception-Datasets-for-Autonomous-Driving)<BR>[2025-04-18]
 * 车道线检测
   * [Datasets for Lane Detection in Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2504.08540)<BR>[2025-04-14]
 * 分心驾驶检测
@@ -294,6 +295,7 @@
 * [Loss Functions in Deep Learning: A Comprehensive Review](https://arxiv.org/abs/2504.04242)<BR>[2025-04-08]
 * [Hardware, Algorithms, and Applications of the Neuromorphic Vision Sensor: a Review](https://arxiv.org/abs/2504.08588)<BR>[2025-04-14]
 * [Computer-Aided Layout Generation for Building Design: A Review](https://arxiv.org/abs/2504.09694)<BR>:star:[code](https://github.com/jcliu0428/awesome-building-layout-generation)<BR>[2025-04-15]
+* [Digital Twin Generation from Visual Data: A Survey](https://arxiv.org/abs/2504.13159)<BR>:star:[code](https://github.com/ndrwmlnk/awesome-digital-twins)<BR>[2025-04-18]
 
 <a name="00000"/>
 
