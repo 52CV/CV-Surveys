@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月18日已公开 158+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月22日已公开 160+4 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。
@@ -85,6 +85,8 @@
 * [A Systematic Review of Machine Learning Methods for Multimodal EEG Data in Clinical Application](https://arxiv.org/abs/2501.08585)<BR>[2025-01-16]
 
 ## Few/Zero-Shot Learning/DG/A(小/零样本/域泛化/域适应)
+* 域泛化
+  * [CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey](https://arxiv.org/abs/2504.14280)<BR>:star:[code](https://github.com/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation)<BR>[2025-04-22]
 * Non-Transferable Learning(反迁移学习)
   * [Toward Robust Non-Transferable Learning: A Survey and Benchmark](https://arxiv.org/abs/2502.13593)<BR>[2025-02-20]
 
@@ -109,6 +111,8 @@
   * [A Review on Large Language Models for Visual Analytics](https://arxiv.org/abs/2503.15176)<BR>[2025-03-20]
   * [Distributed LLMs and Multimodal Large Language Models: A Survey on Advances, Challenges, and Future Directions](https://arxiv.org/abs/2503.16585)<BR>[2025-03-24]
   * [How to Enable LLM with 3D Capacity? A Survey of Spatial Reasoning in LLM](https://arxiv.org/abs/2504.05786)<BR>[2025-04-09]
+  * [PEFT A2Z: Parameter-Efficient Fine-Tuning Survey for Large Language and Vision Models](https://arxiv.org/abs/2504.14117)<BR>:star:[code](https://github.com/Nusrat-Prottasha/PEFT-A2Z)<BR>[2025-04-22]
+  * [A Survey on (M)LLM-Based GUI Agents](https://arxiv.org/abs/2504.13865)<BR>[2025-04-22]
 * MLLM
   * [Multimodal Large Language Models for Text-rich Image Understanding: A Comprehensive Review](https://arxiv.org/abs/2502.16586)<BR>[2025-02-25]
   * [Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey](https://arxiv.org/abs/2503.12605)<BR>:star:[code](https://github.com/yaotingwangofficial/Awesome-MCoT)<BR>[2025-03-18]
@@ -296,6 +300,7 @@
 * [Hardware, Algorithms, and Applications of the Neuromorphic Vision Sensor: a Review](https://arxiv.org/abs/2504.08588)<BR>[2025-04-14]
 * [Computer-Aided Layout Generation for Building Design: A Review](https://arxiv.org/abs/2504.09694)<BR>:star:[code](https://github.com/jcliu0428/awesome-building-layout-generation)<BR>[2025-04-15]
 * [Digital Twin Generation from Visual Data: A Survey](https://arxiv.org/abs/2504.13159)<BR>:star:[code](https://github.com/ndrwmlnk/awesome-digital-twins)<BR>[2025-04-18]
+* [A Survey on Small Sample Imbalance Problem: Metrics, Feature Analysis, and Solutions](https://arxiv.org/abs/2504.14800)<BR>[2025-04-22]
 
 <a name="00000"/>
 
