@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月24日已公开 165+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月24日已公开 166+3 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。
@@ -164,6 +164,7 @@
 ## Visual Question Answering (视觉问答)
 * [Visual question answering: from early developments to recent advances -- a survey](https://arxiv.org/abs/2501.03939)<BR>[2025-01-08]
 * [The Quest for Visual Understanding: A Journey Through the Evolution of Visual Question Answering](https://arxiv.org/abs/2501.07109)<BR>[2025-01-14]
+* [A Comprehensive Survey of Knowledge-Based Vision Question Answering Systems: The Lifecycle of Knowledge in Visual Reasoning Task](https://arxiv.org/abs/2504.17547)<BR>[2025-04-25]
 
 ## Medical Image Progress(医学图像处理)
 * [In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review](https://arxiv.org/abs/2501.10727)<BR>[2025-01-22]
@@ -173,6 +174,7 @@
 * [The Impact of Artificial Intelligence on Emergency Medicine: A Review of Recent Advances](https://arxiv.org/abs/2503.14546)<BR>[2025-03-20]
 * [Comprehensive Review of Reinforcement Learning for Medical Ultrasound Imaging](https://arxiv.org/abs/2503.16543)<BR>[2025-03-24]
 * [Deep Learning Approaches for Medical Imaging Under Varying Degrees of Label Availability: A Comprehensive Survey](https://arxiv.org/abs/2504.11588)<BR>[2025-04-17]
+* [A Comprehensive Review on RNA Subcellular Localization Prediction](https://arxiv.org/abs/2504.17162)<BR>[2025-04-25]
 * 医学图像分割
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
 * 手术场景理解
@@ -303,6 +305,7 @@
 * [Computer-Aided Layout Generation for Building Design: A Review](https://arxiv.org/abs/2504.09694)<BR>:star:[code](https://github.com/jcliu0428/awesome-building-layout-generation)<BR>[2025-04-15]
 * [Digital Twin Generation from Visual Data: A Survey](https://arxiv.org/abs/2504.13159)<BR>:star:[code](https://github.com/ndrwmlnk/awesome-digital-twins)<BR>[2025-04-18]
 * [A Survey on Small Sample Imbalance Problem: Metrics, Feature Analysis, and Solutions](https://arxiv.org/abs/2504.14800)<BR>[2025-04-22]
+* [Unsupervised Time-Series Signal Analysis with Autoencoders and Vision Transformers: A Review of Architectures and Applications](https://arxiv.org/abs/2504.16972)<BR>[2025-04-25]
 
 <a name="00000"/>
 
