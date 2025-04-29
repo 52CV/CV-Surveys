@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月24日已公开 166+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月29日已公开 169+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。
@@ -137,6 +137,7 @@
   * [Personalized Image Generation with Deep Generative Models: A Decade Survey](https://arxiv.org/abs/2502.13081)<BR>:star:[code](https://github.com/csyxwei/Awesome-Personalized-Image-Generation)<BR>[2025-02-19]
 * AIGC
   * [Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC](https://arxiv.org/abs/2502.07007)<BR>[2025-02-12]
+  * [Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions](https://arxiv.org/abs/2504.19056)<BR>:star:[code](https://github.com/llm-lab-org/Generative-AI-for-Character-Animation-Survey)<BR>[2025-04-29]
 * 图像到图像翻译
   * [Unpaired Image-to-Image Translation with Content Preserving Perspective: A Review](https://arxiv.org/abs/2502.08667)<BR>[2025-02-14]
 * 文本-图像
@@ -216,6 +217,8 @@
   * [Deep Learning in Automated Power Line Inspection: A Review](https://arxiv.org/abs/2502.07826)<BR>[2025-02-13]
 * 小目标检测
   * [Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications](https://arxiv.org/abs/2503.20516)<BR>[2025-03-27]
+* 3D目标检测
+  * [A Review of 3D Object Detection with Vision-Language Models](https://arxiv.org/abs/2504.18738)<BR>[2025-04-29]
 
 ## HOI
 * [3D Human Interaction Generation: A Survey](https://arxiv.org/abs/2503.13120)<BR>[2025-03-18]
