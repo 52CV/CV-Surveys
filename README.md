@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月29日已公开 169+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月29日已公开 169+3 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。
@@ -213,6 +213,7 @@
 * [Context in object detection: a systematic literature review](https://arxiv.org/abs/2503.23249)<BR>[2025-04-01]
 * [Vision-Language Model for Object Detection and Segmentation: A Review and Evaluation](https://arxiv.org/abs/2504.09480)<BR>:star:[code](https://github.com/better-chao/perceptual_abilities_evaluation)<BR>[2025-04-15]
 * [A Review of YOLOv12: Attention-Based Enhancements vs. Previous Versions](https://arxiv.org/abs/2504.11995)<BR>[2025-04-17]
+* [A Decade of You Only Look Once (YOLO) for Object Detection](https://arxiv.org/abs/2504.18586)<BR>[2025-04-29]
 * 线路检测
   * [Deep Learning in Automated Power Line Inspection: A Review](https://arxiv.org/abs/2502.07826)<BR>[2025-02-13]
 * 小目标检测
