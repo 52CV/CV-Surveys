@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月29日已公开 169+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月30日已公开 172+1 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。
@@ -310,6 +310,7 @@
 * [Digital Twin Generation from Visual Data: A Survey](https://arxiv.org/abs/2504.13159)<BR>:star:[code](https://github.com/ndrwmlnk/awesome-digital-twins)<BR>[2025-04-18]
 * [A Survey on Small Sample Imbalance Problem: Metrics, Feature Analysis, and Solutions](https://arxiv.org/abs/2504.14800)<BR>[2025-04-22]
 * [Unsupervised Time-Series Signal Analysis with Autoencoders and Vision Transformers: A Review of Architectures and Applications](https://arxiv.org/abs/2504.16972)<BR>[2025-04-25]
+* [A Survey on Event-based Optical Marker Systems](https://arxiv.org/abs/2504.20736)<BR>[2025-04-30]
 
 <a name="00000"/>
 
