@@ -22,10 +22,11 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至4月30日已公开 172+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月6日已公开 172+12 篇。
 1月36篇。<BR>
 2月50篇。<BR>
-3月45篇。
+3月45篇。<BR>
+4月41篇。
 
 ## 目录
 
@@ -33,6 +34,9 @@
 |------|------|------|------|
 |[1.Unkown(未分)](#1)|
 
+
+## OOD
+* [Recent Advances in Out-of-Distribution Detection with CLIP-Like Models: A Survey](http://arxiv.org/abs/2505.02448v1)<BR>[2025-05-06]
 
 ## Machine Learning
 * [Machine Learning Applications to Diffuse Reflectance Spectroscopy in Optical Diagnosis; A Systematic Review](https://arxiv.org/abs/2503.02905)<BR>[2025-03-06]
@@ -47,6 +51,8 @@
 
 ## agriculture(农业)
 * [A survey of datasets for computer vision in agriculture](https://arxiv.org/abs/2502.16950)<BR>:star:[code](https://smartfarminglab.github.io/field_dataset_survey/)<BR>[2025-02-25]
+* [Advancing Wheat Crop Analysis: A Survey of Deep Learning Approaches Using Hyperspectral Imaging](https://arxiv.org/abs/2505.00805)<BR>:star:[code](https://github.com/fadi-07/Awesome-Wheat-HSI-DeepLearning)<BR>[2025-05-05]
+* [Vision Transformers in Precision Agriculture: A Comprehensive Survey](https://arxiv.org/abs/2504.21706)<BR>[2025-05-01]
 
 ## Biomedical(生物特征识别)
 * 掌纹识别
@@ -78,10 +84,12 @@
 * [Adversarial Examples in Environment Perception for Automated Driving (Review)](https://arxiv.org/abs/2504.08414)<BR>[2025-04-14]
 * [Collaborative Perception Datasets for Autonomous Driving: A Review](https://arxiv.org/abs/2504.12696)<BR>:star:[code](https://github.com/frankwnb/Collaborative-Perception-Datasets-for-Autonomous-Driving)<BR>[2025-04-18]
 * [Multimodal Large Language Models for Enhanced Traffic Safety: A Comprehensive Review and Future Trends](https://arxiv.org/abs/2504.16134)<BR>[2025-04-24]
+* [Wireless Communication as an Information Sensor for Multi-agent Cooperative Perception: A Survey](https://arxiv.org/abs/2505.00747)<BR>[2025-05-05]
 * 车道线检测
   * [Datasets for Lane Detection in Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2504.08540)<BR>[2025-04-14]
 * 分心驾驶检测
   * [A Review Paper of the Effects of Distinct Modalities and ML Techniques to Distracted Driving Detection](https://arxiv.org/abs/2501.11758)<BR>[2025-01-22]
+  * [Visual Dominance and Emerging Multimodal Approaches in Distracted Driving Detection: A Review of Machine Learning Techniques](http://arxiv.org/abs/2505.01973v1)<BR>[2025-05-06]
 
 ## Machine Learning
 * [A Systematic Review of Machine Learning Methods for Multimodal EEG Data in Clinical Application](https://arxiv.org/abs/2501.08585)<BR>[2025-01-16]
@@ -146,9 +154,11 @@
   * [A Systematic Review of Open Datasets Used in Text-to-Image (T2I) Gen AI Model Safety](https://arxiv.org/abs/2503.00020)<BR>[2025-03-04]
   * [A Survey on Self-supervised Contrastive Learning for Multimodal Text-Image Analysis](https://arxiv.org/abs/2503.11101)<BR>[2025-03-17]
   * [A Comprehensive Survey on Visual Concept Mining in Text-to-image Diffusion Models](https://arxiv.org/abs/2503.13576)<BR>[2025-03-19]
+  * [Text to Image Generation and Editing: A Survey](http://arxiv.org/abs/2505.02527v1)<BR>[2025-05-06]
 * 视频生成
   * [A Survey: Spatiotemporal Consistency in Video Generation](https://arxiv.org/abs/2502.17863)<BR>[2025-02-26]
   * [Exploring the Evolution of Physics Cognition in Video Generation: A Survey](https://arxiv.org/abs/2503.21765)<BR>:star:[code](https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation)<BR>[2025-03-28]
+  * [A Survey of Interactive Generative Video](https://arxiv.org/abs/2504.21853)<BR>[2025-05-01]
 * 4D生成
   * [Advances in 4D Generation: A Survey](https://arxiv.org/abs/2503.14501)<BR>:star:[code](https://github.com/MiaoQiaowei/Awesome-4D)<BR>[2025-03-19]
 * 3D生成
@@ -176,6 +186,7 @@
 * [Comprehensive Review of Reinforcement Learning for Medical Ultrasound Imaging](https://arxiv.org/abs/2503.16543)<BR>[2025-03-24]
 * [Deep Learning Approaches for Medical Imaging Under Varying Degrees of Label Availability: A Comprehensive Survey](https://arxiv.org/abs/2504.11588)<BR>[2025-04-17]
 * [A Comprehensive Review on RNA Subcellular Localization Prediction](https://arxiv.org/abs/2504.17162)<BR>[2025-04-25]
+* [A Methodological and Structural Review of Parkinsons Disease Detection Across Diverse Data Modalities](https://arxiv.org/abs/2505.00525)<BR>[2025-05-02]
 * 医学图像分割
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
 * 手术场景理解
@@ -191,6 +202,7 @@
 
 ## OCR
 * [Handwritten Text Recognition: A Survey](https://arxiv.org/abs/2502.08417)<BR>[2025-02-13]
+* [Visual Text Processing: A Comprehensive Review and Unified Evaluation](https://arxiv.org/abs/2504.21682)<BR>:star:[code](https://github.com/shuyansy/Visual-Text-Processing-survey)<BR>[2025-05-01]
 
 ## UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
 * [Advancing Earth Observation: A Survey on AI-Powered Image Processing in Satellites](https://arxiv.org/abs/2501.12030)<BR>[2025-01-22]
@@ -199,6 +211,7 @@
 * [A Decade of Deep Learning for Remote Sensing Spatiotemporal Fusion: Advances, Challenges, and Opportunities](https://arxiv.org/abs/2504.00901)<BR>:star:[code](https://github.com/yc-cui/Deep-Learning-Spatiotemporal-Fusion-Survey)<BR>[2025-04-02]
 * [MIMRS: A Survey on Masked Image Modeling in Remote Sensing](https://arxiv.org/abs/2504.03181)<BR>[2025-04-07]
 * [A comprehensive review of remote sensing in wetland classification and mapping](https://arxiv.org/abs/2504.10842)<BR>[2025-04-16]
+* [Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook](https://arxiv.org/abs/2505.00630)<BR>:star:[code](https://github.com/BaoBao0926/Awesome-Mamba-in-Remote-Sensing)<BR>[2025-05-02]
 * Anti-UAV
   * [Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions](https://arxiv.org/abs/2504.11967)<BR>[2025-04-17]
 * 变化检测
@@ -241,6 +254,7 @@
   * [Learning-based 3D Reconstruction in Autonomous Driving: A Comprehensive Survey](https://arxiv.org/abs/2503.14537)<BR>[2025-03-20]
   * [A Survey on Event-driven 3D Reconstruction: Development under Different Categories](https://arxiv.org/abs/2503.19753)<BR>[2025-03-26]
   * [Explicit and Implicit Representations in AI-based 3D Reconstruction for Radiology: A systematic literature review](https://arxiv.org/abs/2504.11349)<BR>:star:[code](https://github.com/Bean-Young/AI4Med)<BR>[2025-04-16]
+  * [A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond](https://arxiv.org/abs/2505.00737)<BR>[2025-05-05]
 * 深度估计
   * [A Systematic Literature Review on Deep Learning-based Depth Estimation in Computer Vision](https://arxiv.org/abs/2501.05147)<BR>[2025-01-10]
   * [Survey on Monocular Metric Depth Estimation](https://arxiv.org/abs/2501.11841)<BR>[2025-01-22]
@@ -268,11 +282,12 @@
 * [State-of-the-Art Transformer Models for Image Super-Resolution: Techniques, Challenges, and Applications](https://arxiv.org/abs/2501.07855)<BR>[2025-01-15]
 
 ## Image Progress(图像/视频处理)
-* 图像增强
+* 水下图像增强
   * [Underwater Image Enhancement using Generative Adversarial Networks: A Survey](https://arxiv.org/abs/2501.06273)<BR>[2025-01-14]
-  * [A Comprehensive Survey on Image Signal Processing Approaches for Low-Illumination Image Enhancement](https://arxiv.org/abs/2502.05995)<BR>[2025-02-11]
+  * [Visual enhancement and 3D representation for underwater scenes: a review](http://arxiv.org/abs/2505.01869v1)<BR>[2025-05-06]
 * 图像质量评估/增强  
   * [Fundus Image Quality Assessment and Enhancement: a Systematic Review](https://arxiv.org/abs/2501.11520)<BR>[2025-01-22]
+  * [A Comprehensive Survey on Image Signal Processing Approaches for Low-Illumination Image Enhancement](https://arxiv.org/abs/2502.05995)<BR>[2025-02-11]
   * [A Survey on Image Quality Assessment: Insights, Analysis, and Future Outlook](https://arxiv.org/abs/2502.08540)<BR>[2025-02-13]
 * 去反射
   * [Survey on Single-Image Reflection Removal using Deep Learning Techniques](https://arxiv.org/abs/2502.08836)<BR>[2025-02-14]
