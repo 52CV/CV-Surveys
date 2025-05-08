@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月7日已公开 184+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月8日已公开 187+4 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -63,6 +63,7 @@
 
 ## Robots(机器人)
 * [Semantic Mapping in Indoor Embodied AI – A Comprehensive Survey and Future Directions](https://arxiv.org/abs/2501.05750)<BR>[2025-01-13]
+* [OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation](https://arxiv.org/abs/2505.03912)<BR>:star:[code](https://openhelix-robot.github.io/)<BR>[2025-05-08]
 
 ## Industrial Defect Detection(工业缺陷检测)
 * [Anomaly Detection for Industrial Applications, Its Challenges, Solutions, and Future Directions: A Review](https://arxiv.org/abs/2501.11310)<BR>[2025-01-22]
@@ -72,6 +73,10 @@
 ## Video
 * [A Survey on Video Analytics in Cloud-Edge-Terminal Collaborative Systems](https://arxiv.org/abs/2502.06581)<BR>[2025-02-11]
 * [Survey of Video Diffusion Models: Foundations, Implementations, and Applications](https://arxiv.org/abs/2504.16081)<BR>:star:[code](https://github.com/Eyeline-Research/Survey-Video-Diffusion)<BR>[2025-04-23]
+* 视频理解
+  * [VideoLLM Benchmarks and Evaluation: A Survey](https://arxiv.org/abs/2505.03829)<BR>[2025-05-08]
+* 视频监控
+  * [Video Forgery Detection for Surveillance Cameras: A Review](https://arxiv.org/abs/2505.03832)<BR>[2025-05-08]
 
 ## Action Detection(动作检测)
 * [Action Valuation in Sports: A Survey](https://arxiv.org/abs/2504.06163)<BR>[2025-04-09]
@@ -190,6 +195,7 @@
 * [A Methodological and Structural Review of Parkinsons Disease Detection Across Diverse Data Modalities](https://arxiv.org/abs/2505.00525)<BR>[2025-05-02]
 * [From Pixels to Polygons: A Survey of Deep Learning Approaches for Medical Image-to-Mesh Reconstruction](https://arxiv.org/abs/2505.03599)<BR>[2025-05-07]
 * [Physical foundations for trustworthy medical imaging: a review for artificial intelligence researchers](https://arxiv.org/abs/2505.02843)<BR>[2025-05-07]
+* [The Eye as a Window to Systemic Health: A Survey of Retinal Imaging from Classical Techniques to Oculomics](https://arxiv.org/abs/2505.04006)<BR>[2025-05-08]
 * 医学图像分割
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
 * 手术场景理解
