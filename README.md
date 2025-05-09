@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月8日已公开 187+5 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月9日已公开 192+3 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -122,6 +122,7 @@
 * [Multi-Modal Foundation Models for Computational Pathology: A Survey](https://arxiv.org/abs/2503.09091)<BR>[2025-03-13]
 * [Small Vision-Language Models: A Survey on Compact Architectures and Techniques](https://arxiv.org/abs/2503.10665)<BR>[2025-03-17]
 * [A Survey on Efficient Vision-Language Models](https://arxiv.org/abs/2504.09724)<BR>:star:[code](https://github.com/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey)<BR>[2025-04-15]
+* [Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models](https://arxiv.org/abs/2505.04921)<BR>:star:[code](https://github.com/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models)<BR>[2025-05-09]
 * LLM
   * [Leveraging Large Language Models For Scalable Vector Graphics Processing: A Review](https://arxiv.org/abs/2503.04983)<BR>[2025-03-10]
   * [A Review on Large Language Models for Visual Analytics](https://arxiv.org/abs/2503.15176)<BR>[2025-03-20]
@@ -171,6 +172,8 @@
   * [Recent Advance in 3D Object and Scene Generation: A Survey](https://arxiv.org/abs/2504.11734)<BR>[2025-04-17]
 * 视觉-音乐生成
   * [Vision-to-Music Generation: A Survey](https://arxiv.org/abs/2503.21254)<BR>:star:[code](https://github.com/wzk1015/Awesome-Vision-to-Music-Generation.)<BR>[2025-03-28]
+* 场景生成
+  * [3D Scene Generation: A Survey](https://arxiv.org/abs/2505.05474)<BR>:star:[code](https://github.com/hzxie/Awesome-3D-Scene-Generation)<BR>[2025-05-09]
 
 ## MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)
 * [A Survey on Dynamic Neural Networks: from Computer Vision to Multi-modal Sensor Fusion](https://arxiv.org/abs/2501.07451)<BR>[2025-01-14]
@@ -336,6 +339,7 @@
 * [A Survey on Small Sample Imbalance Problem: Metrics, Feature Analysis, and Solutions](https://arxiv.org/abs/2504.14800)<BR>[2025-04-22]
 * [Unsupervised Time-Series Signal Analysis with Autoencoders and Vision Transformers: A Review of Architectures and Applications](https://arxiv.org/abs/2504.16972)<BR>[2025-04-25]
 * [A Survey on Event-based Optical Marker Systems](https://arxiv.org/abs/2504.20736)<BR>[2025-04-30]
+* [Diffusion Model Quantization: A Review](https://arxiv.org/abs/2505.05215)<BR>:star:[code](https://github.com/TaylorJocelyn/Diffusion-Model-Quantization)<BR>[2025-05-09]
 
 <a name="00000"/>
 
