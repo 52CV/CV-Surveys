@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月12日已公开 195+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月13日已公开 198+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -96,6 +96,8 @@
 * 分心驾驶检测
   * [A Review Paper of the Effects of Distinct Modalities and ML Techniques to Distracted Driving Detection](https://arxiv.org/abs/2501.11758)<BR>[2025-01-22]
   * [Visual Dominance and Emerging Multimodal Approaches in Distracted Driving Detection: A Review of Machine Learning Techniques](http://arxiv.org/abs/2505.01973v1)<BR>[2025-05-06]
+* 交通事故预测
+  * [Deep Learning Advances in Vision-Based Traffic Accident Anticipation: A Comprehensive Review of Methods,Datasets,and Future Directions](https://arxiv.org/abs/2505.07611)<BR>[2025-05-13]
 
 ## Machine Learning
 * [A Systematic Review of Machine Learning Methods for Multimodal EEG Data in Clinical Application](https://arxiv.org/abs/2501.08585)<BR>[2025-01-16]
@@ -343,6 +345,7 @@
 * [A Survey on Event-based Optical Marker Systems](https://arxiv.org/abs/2504.20736)<BR>[2025-04-30]
 * [Diffusion Model Quantization: A Review](https://arxiv.org/abs/2505.05215)<BR>:star:[code](https://github.com/TaylorJocelyn/Diffusion-Model-Quantization)<BR>[2025-05-09]
 * [From Events to Enhancement: A Survey on Event-Based Imaging Technologies](https://arxiv.org/abs/2505.05488)<BR>:star:[code](https://github.com/yunfanLu/Awesome-Event-Imaging)<BR>[2025-05-12]
+* [Towards Artificial General or Personalized Intelligence? A Survey on Foundation Models for Personalized Federated Intelligence](https://arxiv.org/abs/2505.06907)<BR>[2025-05-13]
 
 <a name="00000"/>
 
