@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月13日已公开 198+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月14日已公开 200+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -203,6 +203,7 @@
 * [Physical foundations for trustworthy medical imaging: a review for artificial intelligence researchers](https://arxiv.org/abs/2505.02843)<BR>[2025-05-07]
 * [The Eye as a Window to Systemic Health: A Survey of Retinal Imaging from Classical Techniques to Oculomics](https://arxiv.org/abs/2505.04006)<BR>[2025-05-08]
 * [The Application of Deep Learning for Lymph Node Segmentation: A Systematic Review](https://arxiv.org/abs/2505.06118)<BR>[2025-05-12]
+* [Computationally Efficient Diffusion Models in Medical Imaging: A Comprehensive Review](https://arxiv.org/abs/2505.07866)<BR>[2025-05-14]
 * 医学图像分割
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
 * 手术场景理解
@@ -271,6 +272,7 @@
   * [A Survey on Event-driven 3D Reconstruction: Development under Different Categories](https://arxiv.org/abs/2503.19753)<BR>[2025-03-26]
   * [Explicit and Implicit Representations in AI-based 3D Reconstruction for Radiology: A systematic literature review](https://arxiv.org/abs/2504.11349)<BR>:star:[code](https://github.com/Bean-Young/AI4Med)<BR>[2025-04-16]
   * [A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond](https://arxiv.org/abs/2505.00737)<BR>[2025-05-05]
+  * [A Survey of 3D Reconstruction with Event Cameras: From Event-based Geometry to Neural 3D Rendering](https://arxiv.org/abs/2505.08438)<BR>[2025-05-14]
 * 深度估计
   * [A Systematic Literature Review on Deep Learning-based Depth Estimation in Computer Vision](https://arxiv.org/abs/2501.05147)<BR>[2025-01-10]
   * [Survey on Monocular Metric Depth Estimation](https://arxiv.org/abs/2501.11841)<BR>[2025-01-22]
