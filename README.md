@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月14日已公开 200+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月15日已公开 202+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -181,6 +181,8 @@
 * [A Survey on Dynamic Neural Networks: from Computer Vision to Multi-modal Sensor Fusion](https://arxiv.org/abs/2501.07451)<BR>[2025-01-14]
 * [Vision Transformers on the Edge: A Comprehensive Survey of Model Compression and Acceleration Strategies](https://arxiv.org/abs/2503.02891)<BR>[2025-03-06]
 * [Image Recognition with Online Lightweight Vision Transformer: A Survey](https://arxiv.org/abs/2505.03113)<BR>:star:[code](https://github.com/ajxklo/Lightweight-VIT)<BR>[2025-05-07]
+* 量化
+  * [Zero-shot Quantization: A Comprehensive Survey](https://arxiv.org/abs/2505.09188)<BR>[2025-05-15]
 * KD
   * [A Comprehensive Survey on Knowledge Distillation](https://arxiv.org/abs/2503.12067)<BR>:star:[code](https://github.com/IPL-Sharif/KD_Survey)<BR>[2025-03-18]
 
@@ -206,6 +208,7 @@
 * [Computationally Efficient Diffusion Models in Medical Imaging: A Comprehensive Review](https://arxiv.org/abs/2505.07866)<BR>[2025-05-14]
 * 医学图像分割
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
+  * [Recent Advances in Medical Imaging Segmentation: A Survey](https://arxiv.org/abs/2505.09274)<BR>:star:[code](https://github.com/faresbougourzi/Awesome-DL-for-Medical-Imaging-Segmentation)<BR>[2025-05-15]
 * 手术场景理解
   * [Surgical Scene Understanding in the Era of Foundation AI Models: A Comprehensive Review](https://arxiv.org/abs/2502.14886)<BR>[2025-02-24]
 * 手术视频分割
