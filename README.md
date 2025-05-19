@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月15日已公开 202+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月19日已公开 205+4 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -209,6 +209,7 @@
 * [The Eye as a Window to Systemic Health: A Survey of Retinal Imaging from Classical Techniques to Oculomics](https://arxiv.org/abs/2505.04006)<BR>[2025-05-08]
 * [The Application of Deep Learning for Lymph Node Segmentation: A Systematic Review](https://arxiv.org/abs/2505.06118)<BR>[2025-05-12]
 * [Computationally Efficient Diffusion Models in Medical Imaging: A Comprehensive Review](https://arxiv.org/abs/2505.07866)<BR>[2025-05-14]
+* [Generative Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges](https://arxiv.org/abs/2505.10993)<BR>[2025-05-19]
 * 医学图像分割
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
   * [Recent Advances in Medical Imaging Segmentation: A Survey](https://arxiv.org/abs/2505.09274)<BR>:star:[code](https://github.com/faresbougourzi/Awesome-DL-for-Medical-Imaging-Segmentation)<BR>[2025-05-15]
@@ -243,6 +244,8 @@
   * [A Survey on SAR ship classification using Deep Learning](https://arxiv.org/abs/2503.11906)<BR>[2025-03-18]
 * 火灾烟雾
    [Fire and Smoke Datasets in 20 Years: An In-depth Review](https://arxiv.org/abs/2503.14552)<BR>[2025-03-20]
+* 野生动物监测
+  * [Automated Detection of Salvin's Albatrosses: Improving Deep Learning Tools for Aerial Wildlife Surveys](https://arxiv.org/abs/2505.10737)<BR>[2025-05-19]
 
 ## Object Detection(目标检测)
 * [YOLOv8 to YOLO11: A Comprehensive Architecture In-depth Comparative Review](https://arxiv.org/abs/2501.13400)<BR>[2025-01-24]
@@ -354,6 +357,8 @@
 * [Diffusion Model Quantization: A Review](https://arxiv.org/abs/2505.05215)<BR>:star:[code](https://github.com/TaylorJocelyn/Diffusion-Model-Quantization)<BR>[2025-05-09]
 * [From Events to Enhancement: A Survey on Event-Based Imaging Technologies](https://arxiv.org/abs/2505.05488)<BR>:star:[code](https://github.com/yunfanLu/Awesome-Event-Imaging)<BR>[2025-05-12]
 * [Towards Artificial General or Personalized Intelligence? A Survey on Foundation Models for Personalized Federated Intelligence](https://arxiv.org/abs/2505.06907)<BR>[2025-05-13]
+* [A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?](https://arxiv.org/abs/2505.10924)<BR>[2025-05-19]
+* [Diffusion Model in Hyperspectral Image Processing and Analysis: A Review](https://arxiv.org/abs/2505.11158)<BR>[2025-05-19]
 
 <a name="00000"/>
 
