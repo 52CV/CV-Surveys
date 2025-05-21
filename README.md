@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月19日已公开 205+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月21日已公开 209+4 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -67,6 +67,10 @@
 ## Robots(机器人)
 * [Semantic Mapping in Indoor Embodied AI – A Comprehensive Survey and Future Directions](https://arxiv.org/abs/2501.05750)<BR>[2025-01-13]
 * [OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation](https://arxiv.org/abs/2505.03912)<BR>:star:[code](https://openhelix-robot.github.io/)<BR>[2025-05-08]
+* 位置识别
+  * [Place Recognition: A Comprehensive Review, Current Challenges and Future Directions](https://arxiv.org/abs/2505.14068)<BR>:star:[code](https://github.com/CV4RA/SOTA-Place-Recognitioner)<BR>[2025-05-21]
+* 导航
+  * [A Review of Vision-Based Assistive Systems for Visually Impaired People: Technologies, Applications, and Future Directions](https://arxiv.org/abs/2505.14298)<BR>[2025-05-21]
 
 ## Industrial Defect Detection(工业缺陷检测)
 * [Anomaly Detection for Industrial Applications, Its Challenges, Solutions, and Future Directions: A Review](https://arxiv.org/abs/2501.11310)<BR>[2025-01-22]
@@ -296,6 +300,7 @@
 ## Image Segmentation(图像分割)
 * [A Comparative Review of the Histogram-based Image Segmentation Methods](https://arxiv.org/abs/2502.18550)<BR>[2025-02-27]
 * [SAM2 for Image and Video Segmentation: A Comprehensive Survey](https://arxiv.org/abs/2503.12781)<BR>[2025-03-18]
+* [Self-Supervised Learning for Image Segmentation: A Comprehensive Survey](https://arxiv.org/abs/2505.13584)<BR>[2025-05-21]
 
 ## Image Retrieval(图像检索)
 * [A Comprehensive Survey on Composed Image Retrieval](https://arxiv.org/abs/2502.18495)<BR>[2025-02-27]
@@ -359,6 +364,7 @@
 * [Towards Artificial General or Personalized Intelligence? A Survey on Foundation Models for Personalized Federated Intelligence](https://arxiv.org/abs/2505.06907)<BR>[2025-05-13]
 * [A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?](https://arxiv.org/abs/2505.10924)<BR>[2025-05-19]
 * [Diffusion Model in Hyperspectral Image Processing and Analysis: A Review](https://arxiv.org/abs/2505.11158)<BR>[2025-05-19]
+* [Plane Geometry Problem Solving with Multi-modal Reasoning: A Survey](https://arxiv.org/abs/2505.14340)<BR>[2025-05-21]
 
 <a name="00000"/>
 
