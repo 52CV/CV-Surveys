@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月22日已公开 214+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月23日已公开 216+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -98,6 +98,7 @@
 * [Collaborative Perception Datasets for Autonomous Driving: A Review](https://arxiv.org/abs/2504.12696)<BR>:star:[code](https://github.com/frankwnb/Collaborative-Perception-Datasets-for-Autonomous-Driving)<BR>[2025-04-18]
 * [Multimodal Large Language Models for Enhanced Traffic Safety: A Comprehensive Review and Future Trends](https://arxiv.org/abs/2504.16134)<BR>[2025-04-24]
 * [Wireless Communication as an Information Sensor for Multi-agent Cooperative Perception: A Survey](https://arxiv.org/abs/2505.00747)<BR>[2025-05-05]
+* [Generative AI for Autonomous Driving: A Review](https://arxiv.org/abs/2505.15863)<BR>[2025-05-23]
 * 车道线检测
   * [Datasets for Lane Detection in Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2504.08540)<BR>[2025-04-14]
 * 分心驾驶检测
@@ -319,6 +320,8 @@
 * [State-of-the-Art Transformer Models for Image Super-Resolution: Techniques, Challenges, and Applications](https://arxiv.org/abs/2501.07855)<BR>[2025-01-15]
 
 ## Image Progress(图像/视频处理)
+* 图像恢复
+  * [Deep Learning-Driven Ultra-High-Definition Image Restoration: A Survey](https://arxiv.org/abs/2505.16161)<BR>:star:[code](https://github.com/wlydlut/UHD-Image-Restoration-Survey)<BR>[2025-05-23]
 * 水下图像增强
   * [Underwater Image Enhancement using Generative Adversarial Networks: A Survey](https://arxiv.org/abs/2501.06273)<BR>[2025-01-14]
   * [Visual enhancement and 3D representation for underwater scenes: a review](http://arxiv.org/abs/2505.01869v1)<BR>[2025-05-06]
