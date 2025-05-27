@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月26日已公开 218+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月27日已公开 220+4 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -90,6 +90,9 @@
 * [Action Valuation in Sports: A Survey](https://arxiv.org/abs/2504.06163)<BR>[2025-04-09]
 * [Action Spotting and Precise Event Detection in Sports: Datasets, Methods, and Challenges](https://arxiv.org/abs/2505.03991)<BR>[2025-05-08]
 
+## Reid
+* [Recent Deep Learning in Crowd Behaviour Analysis: A Brief Review](https://arxiv.org/abs/2505.18401)<BR>[2025-05-27]
+
 ## Autonomous Driving(自动驾驶)
 * [A Survey of World Models for Autonomous Driving](https://arxiv.org/abs/2501.11260)<BR>[2025-01-22]
 * [The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey](https://arxiv.org/abs/2502.10498)<BR>:star:[code](https://github.com/LMD0311/Awesome-World-Model)<BR>[2025-02-18]
@@ -155,6 +158,7 @@
 * [Methods and Trends in Detecting Generated Images: A Comprehensive Review](https://arxiv.org/abs/2502.15176)<BR>[2025-02-24]
 * [Simulating the Real World: A Unified Survey of Multimodal Generative Models](https://arxiv.org/abs/2503.04641)<BR>[2025-03-07]
 * [Generative AI for Film Creation: A Survey of Recent Advances](https://arxiv.org/abs/2504.08296)<BR>[2025-04-14]
+* [Erasing Concepts, Steering Generations: A Comprehensive Survey of Concept Suppression](https://arxiv.org/abs/2505.19398)<BR>[2025-05-27]
 * GAN 
   * [Image Inversion: A Survey from GANs to Diffusion and Beyond](https://arxiv.org/abs/2502.11974)<BR>:star:[code](https://github.com/RyanChenYN/ImageInversion)<BR>[2025-02-18]
   * [Generative Adversarial Networks with Limited Data: A Survey and Benchmarking](https://arxiv.org/abs/2504.05456)<BR>[2025-04-09]
@@ -303,11 +307,14 @@
 * [Face Deepfakes - A Comprehensive Review](https://arxiv.org/abs/2502.09812)<BR>[2025-02-17]
 * 情绪分析
   * [Enhanced Sentiment Analysis of Iranian Restaurant Reviews Utilizing Sentiment Intensity Analyzer & Fuzzy Logic](https://arxiv.org/abs/2503.12141)<BR>[2025-03-18]
+* 情感识别
+  * [Evaluation in EEG Emotion Recognition: State-of-the-Art Review and Unified Framework](https://arxiv.org/abs/2505.18175)<BR>[2025-05-27]
 
 ## Image Segmentation(图像分割)
 * [A Comparative Review of the Histogram-based Image Segmentation Methods](https://arxiv.org/abs/2502.18550)<BR>[2025-02-27]
 * [SAM2 for Image and Video Segmentation: A Comprehensive Survey](https://arxiv.org/abs/2503.12781)<BR>[2025-03-18]
 * [Self-Supervised Learning for Image Segmentation: A Comprehensive Survey](https://arxiv.org/abs/2505.13584)<BR>[2025-05-21]
+* [Reasoning Segmentation for Images and Videos: A Survey](https://arxiv.org/abs/2505.18816)<BR>[2025-05-27]
 
 ## Image Retrieval(图像检索)
 * [A Comprehensive Survey on Composed Image Retrieval](https://arxiv.org/abs/2502.18495)<BR>[2025-02-27]
