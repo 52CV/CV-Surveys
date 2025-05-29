@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月28日已公开 224+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月29日已公开 226+1 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -317,6 +317,8 @@
 * [SAM2 for Image and Video Segmentation: A Comprehensive Survey](https://arxiv.org/abs/2503.12781)<BR>[2025-03-18]
 * [Self-Supervised Learning for Image Segmentation: A Comprehensive Survey](https://arxiv.org/abs/2505.13584)<BR>[2025-05-21]
 * [Reasoning Segmentation for Images and Videos: A Survey](https://arxiv.org/abs/2505.18816)<BR>[2025-05-27]
+* 语义分割
+  * [A Survey on Training-free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2505.22209)<BR>[2025-05-29]
 
 ## Image Retrieval(图像检索)
 * [A Comprehensive Survey on Composed Image Retrieval](https://arxiv.org/abs/2502.18495)<BR>[2025-02-27]
