@@ -22,11 +22,12 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至5月30日已公开 227+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月03日已公开 228+4 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
-4月41篇。
+4月41篇。<BR>
+5月56篇。
 
 ## 目录
 
@@ -86,10 +87,16 @@
   * [VideoLLM Benchmarks and Evaluation: A Survey](https://arxiv.org/abs/2505.03829)<BR>[2025-05-08]
 * 视频监控
   * [Video Forgery Detection for Surveillance Cameras: A Review](https://arxiv.org/abs/2505.03832)<BR>[2025-05-08]
+* 视频帧插值
+  * [AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation](https://arxiv.org/abs/2506.01061)<BR>:star:[code](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation)<BR>[2025-06-03]
+
+## Animal(动物)
+* [A Review on Coarse to Fine-Grained Animal Action Recognition](https://arxiv.org/abs/2506.01214)<BR>[2025-06-03]
 
 ## Action Detection(动作检测)
 * [Action Valuation in Sports: A Survey](https://arxiv.org/abs/2504.06163)<BR>[2025-04-09]
 * [Action Spotting and Precise Event Detection in Sports: Datasets, Methods, and Challenges](https://arxiv.org/abs/2505.03991)<BR>[2025-05-08]
+* [3D Skeleton-Based Action Recognition: A Review](https://arxiv.org/abs/2506.00915)<BR>[2025-06-03]
 
 ## Person Re-ID(重识别)
 * [Recent Deep Learning in Crowd Behaviour Analysis: A Brief Review](https://arxiv.org/abs/2505.18401)<BR>[2025-05-27]
@@ -388,6 +395,7 @@
 * [Diffusion Model in Hyperspectral Image Processing and Analysis: A Review](https://arxiv.org/abs/2505.11158)<BR>[2025-05-19]
 * [Plane Geometry Problem Solving with Multi-modal Reasoning: A Survey](https://arxiv.org/abs/2505.14340)<BR>[2025-05-21]
 * [Semantic Correspondence: Unified Benchmarking and a Strong Baseline](https://arxiv.org/abs/2505.18060)<BR>:star:[code](https://github.com/Visual-AI/Semantic-Correspondence)<BR>[2025-05-26]
+* [Camera Trajectory Generation: A Comprehensive Survey of Methods, Metrics, and Future Directions](https://arxiv.org/abs/2506.00974)<BR>[2025-06-03]
 
 <a name="00000"/>
 
