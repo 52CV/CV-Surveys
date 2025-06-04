@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月03日已公开 228+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月04日已公开 232+1 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -396,6 +396,7 @@
 * [Plane Geometry Problem Solving with Multi-modal Reasoning: A Survey](https://arxiv.org/abs/2505.14340)<BR>[2025-05-21]
 * [Semantic Correspondence: Unified Benchmarking and a Strong Baseline](https://arxiv.org/abs/2505.18060)<BR>:star:[code](https://github.com/Visual-AI/Semantic-Correspondence)<BR>[2025-05-26]
 * [Camera Trajectory Generation: A Comprehensive Survey of Methods, Metrics, and Future Directions](https://arxiv.org/abs/2506.00974)<BR>[2025-06-03]
+* [Towards Geometry Problem Solving in the Large Model Era: A Survey](https://arxiv.org/abs/2506.02690)<BR>[2025-06-04]
 
 <a name="00000"/>
 
