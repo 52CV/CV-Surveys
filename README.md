@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月04日已公开 232+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月05日已公开 233+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -290,6 +290,9 @@
 * [3D Human Interaction Generation: A Survey](https://arxiv.org/abs/2503.13120)<BR>[2025-03-18]
 * [A Survey on Human Interaction Motion Generation](https://arxiv.org/abs/2503.12763)<BR>:star:[code](https://github.com/soraproducer/Awesome-Human-Interaction-Motion-Generation)<BR>[2025-03-18]
 
+## Trajectory Prediction(轨迹预测)
+* [Trajectory Prediction Meets Large Language Models: A Survey](https://arxiv.org/abs/2506.03408)<BR>:star:[code](https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers)<BR>[2025-06-05]
+
 ## Action Recognition
 * [SMART-Vision: Survey of Modern Action Recognition Techniques in Vision](https://arxiv.org/abs/2501.13066)<BR>[2025-01-23]
 
@@ -337,8 +340,10 @@
 ## Image Classification
 * [Plant Leaf Disease Detection and Classification Using Deep Learning: A Review and A Proposed System on Bangladesh's Perspective](https://arxiv.org/abs/2501.03305)<BR>[2025-01-08]基于深度学习的植物叶片病害检测与分类
 
-## Image Super-Resolution
+## Image Super-Resolution(超分辨率)
 * [State-of-the-Art Transformer Models for Image Super-Resolution: Techniques, Challenges, and Applications](https://arxiv.org/abs/2501.07855)<BR>[2025-01-15]
+* VSR 
+  * [A Survey of Deep Learning Video Super-Resolution](https://arxiv.org/abs/2506.03216)<BR>[2025-06-05]
 
 ## Image Progress(图像/视频处理)
 * 图像恢复
