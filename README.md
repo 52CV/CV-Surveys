@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月05日已公开 233+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月06日已公开 236+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -250,6 +250,7 @@
 ## OCR
 * [Handwritten Text Recognition: A Survey](https://arxiv.org/abs/2502.08417)<BR>[2025-02-13]
 * [Visual Text Processing: A Comprehensive Review and Unified Evaluation](https://arxiv.org/abs/2504.21682)<BR>:star:[code](https://github.com/shuyansy/Visual-Text-Processing-survey)<BR>[2025-05-01]
+* [A Survey on Vietnamese Document Analysis and Recognition: Challenges and Future Directions](https://arxiv.org/abs/2506.05061)<BR>[2025-06-06]
 
 ## UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
 * [Advancing Earth Observation: A Survey on AI-Powered Image Processing in Satellites](https://arxiv.org/abs/2501.12030)<BR>[2025-01-22]
@@ -306,6 +307,7 @@
 * [Point Cloud Based Scene Segmentation: A Survey](https://arxiv.org/abs/2503.12595)<BR>[2025-03-18]
 
 ## 3D Visual
+* [Deep Learning Reforms Image Matching: A Survey and Outlook](https://arxiv.org/abs/2506.04619)<BR>[2025-06-06]
 * 三维重建
   * [Cutting-edge 3D reconstruction solutions for underwater coral reef images: A review and comparison](https://arxiv.org/abs/2502.20154)<BR>[2025-02-28]
   * [Learning-based 3D Reconstruction in Autonomous Driving: A Comprehensive Survey](https://arxiv.org/abs/2503.14537)<BR>[2025-03-20]
