@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月09日已公开 238+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月09日已公开 238+5 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -266,6 +266,7 @@
 * [A comprehensive review of remote sensing in wetland classification and mapping](https://arxiv.org/abs/2504.10842)<BR>[2025-04-16]
 * [Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook](https://arxiv.org/abs/2505.00630)<BR>:star:[code](https://github.com/BaoBao0926/Awesome-Mamba-in-Remote-Sensing)<BR>[2025-05-02]
 * [Vision-Language Modeling Meets Remote Sensing: Models, Datasets and Perspectives](https://arxiv.org/abs/2505.14361)<BR>[2025-05-21]
+* [A Compendium of Autonomous Navigation using Object Detection and Tracking in Unmanned Aerial Vehicles](https://arxiv.org/abs/2506.05378)<BR>[2025-06-09]
 * Anti-UAV
   * [Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions](https://arxiv.org/abs/2504.11967)<BR>[2025-04-17]
 * 变化检测
