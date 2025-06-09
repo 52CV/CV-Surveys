@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月06日已公开 236+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月09日已公开 238+4 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -85,10 +85,14 @@
 * [Survey of Video Diffusion Models: Foundations, Implementations, and Applications](https://arxiv.org/abs/2504.16081)<BR>:star:[code](https://github.com/Eyeline-Research/Survey-Video-Diffusion)<BR>[2025-04-23]
 * 视频理解
   * [VideoLLM Benchmarks and Evaluation: A Survey](https://arxiv.org/abs/2505.03829)<BR>[2025-05-08]
+  * [Bridging Perspectives: A Survey on Cross-view Collaborative Intelligence with Egocentric-Exocentric Vision](https://arxiv.org/abs/2506.06253)<BR>:star:[code](https://github.com/ayiyayi/Awesome-Egocentric-and-Exocentric-Vision)<BR>[2025-06-09]
 * 视频监控
   * [Video Forgery Detection for Surveillance Cameras: A Review](https://arxiv.org/abs/2505.03832)<BR>[2025-05-08]
 * 视频帧插值
   * [AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation](https://arxiv.org/abs/2506.01061)<BR>:star:[code](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation)<BR>[2025-06-03]
+
+## Agricultural(农业)
+* [Domain Adaptation in Agricultural Image Analysis: A Comprehensive Review from Shallow Models to Deep Learning](https://arxiv.org/abs/2506.05972)<BR>[2025-06-09]
 
 ## Animal(动物)
 * [A Review on Coarse to Fine-Grained Animal Action Recognition](https://arxiv.org/abs/2506.01214)<BR>[2025-06-03]
@@ -194,6 +198,7 @@
   * [Advances in 4D Generation: A Survey](https://arxiv.org/abs/2503.14501)<BR>:star:[code](https://github.com/MiaoQiaowei/Awesome-4D)<BR>[2025-03-19]
 * 3D生成
   * [Recent Advance in 3D Object and Scene Generation: A Survey](https://arxiv.org/abs/2504.11734)<BR>[2025-04-17]
+  * [AI-powered Contextual 3D Environment Generation: A Systematic Review](https://arxiv.org/abs/2506.05449)<BR>[2025-06-09]
 * 视觉-音乐生成
   * [Vision-to-Music Generation: A Survey](https://arxiv.org/abs/2503.21254)<BR>:star:[code](https://github.com/wzk1015/Awesome-Vision-to-Music-Generation.)<BR>[2025-03-28]
 * 场景生成
@@ -328,6 +333,9 @@
 * 情感识别
   * [Evaluation in EEG Emotion Recognition: State-of-the-Art Review and Unified Framework](https://arxiv.org/abs/2505.18175)<BR>[2025-05-27]
 
+## Image Captioning(图像字幕)
+* [Attention-based transformer models for image captioning across languages: An in-depth survey and evaluation](https://arxiv.org/abs/2506.05399)<BR>[2025-06-09]
+
 ## Image Segmentation(图像分割)
 * [A Comparative Review of the Histogram-based Image Segmentation Methods](https://arxiv.org/abs/2502.18550)<BR>[2025-02-27]
 * [SAM2 for Image and Video Segmentation: A Comprehensive Survey](https://arxiv.org/abs/2503.12781)<BR>[2025-03-18]
@@ -341,7 +349,7 @@
 * [Composed Multi-modal Retrieval: A Survey of Approaches and Applications](https://arxiv.org/abs/2503.01334)<BR>[2025-03-04]
 
 
-## Image Classification
+## Image Classification(图像分类)
 * [Plant Leaf Disease Detection and Classification Using Deep Learning: A Review and A Proposed System on Bangladesh's Perspective](https://arxiv.org/abs/2501.03305)<BR>[2025-01-08]基于深度学习的植物叶片病害检测与分类
 
 ## Image Super-Resolution(超分辨率)
