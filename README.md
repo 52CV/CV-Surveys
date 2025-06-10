@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月09日已公开 238+5 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月10日已公开 243+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -234,6 +234,7 @@
 * [The Application of Deep Learning for Lymph Node Segmentation: A Systematic Review](https://arxiv.org/abs/2505.06118)<BR>[2025-05-12]
 * [Computationally Efficient Diffusion Models in Medical Imaging: A Comprehensive Review](https://arxiv.org/abs/2505.07866)<BR>[2025-05-14]
 * [Generative Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges](https://arxiv.org/abs/2505.10993)<BR>[2025-05-19]
+* [A Narrative Review on Large AI Models in Lung Cancer Screening, Diagnosis, and Treatment Planning](https://arxiv.org/abs/2506.07236)<BR>[2025-06-10]
 * 医学图像分割
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
   * [Recent Advances in Medical Imaging Segmentation: A Survey](https://arxiv.org/abs/2505.09274)<BR>:star:[code](https://github.com/faresbougourzi/Awesome-DL-for-Medical-Imaging-Segmentation)<BR>[2025-05-15]
@@ -325,10 +326,11 @@
   * [A Systematic Literature Review on Deep Learning-based Depth Estimation in Computer Vision](https://arxiv.org/abs/2501.05147)<BR>[2025-01-10]
   * [Survey on Monocular Metric Depth Estimation](https://arxiv.org/abs/2501.11841)<BR>[2025-01-22]
 
-## Face
+## Face(人脸)
 * [A Survey on Facial Image Privacy Preservation in Cloud-Based Services](https://arxiv.org/abs/2501.08665)<BR>[2025-01-16]
 * [Emotion Recognition and Generation: A Comprehensive Review of Face, Speech, and Text Modalities](https://arxiv.org/abs/2502.06803)<BR>[2025-02-12]
 * [Face Deepfakes - A Comprehensive Review](https://arxiv.org/abs/2502.09812)<BR>[2025-02-17]
+* [Generative Models at the Frontier of Compression: A Survey on Generative Face Video Coding](https://arxiv.org/abs/2506.07369)<BR>[2025-06-10]
 * 情绪分析
   * [Enhanced Sentiment Analysis of Iranian Restaurant Reviews Utilizing Sentiment Intensity Analyzer & Fuzzy Logic](https://arxiv.org/abs/2503.12141)<BR>[2025-03-18]
 * 情感识别
