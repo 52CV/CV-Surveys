@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月12日已公开 245+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月13日已公开 247+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -174,6 +174,7 @@
 * [Simulating the Real World: A Unified Survey of Multimodal Generative Models](https://arxiv.org/abs/2503.04641)<BR>[2025-03-07]
 * [Generative AI for Film Creation: A Survey of Recent Advances](https://arxiv.org/abs/2504.08296)<BR>[2025-04-14]
 * [Erasing Concepts, Steering Generations: A Comprehensive Survey of Concept Suppression](https://arxiv.org/abs/2505.19398)<BR>[2025-05-27]
+* [A Survey of Automatic Evaluation Methods on Text, Visual and Speech Generations](https://arxiv.org/abs/2506.10019)<BR>[2025-06-13]
 * GAN 
   * [Image Inversion: A Survey from GANs to Diffusion and Beyond](https://arxiv.org/abs/2502.11974)<BR>:star:[code](https://github.com/RyanChenYN/ImageInversion)<BR>[2025-02-18]
   * [Generative Adversarial Networks with Limited Data: A Survey and Benchmarking](https://arxiv.org/abs/2504.05456)<BR>[2025-04-09]
@@ -241,6 +242,7 @@
 * 医学图像分割
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
   * [Recent Advances in Medical Imaging Segmentation: A Survey](https://arxiv.org/abs/2505.09274)<BR>:star:[code](https://github.com/faresbougourzi/Awesome-DL-for-Medical-Imaging-Segmentation)<BR>[2025-05-15]
+  * [Generalist Models in Medical Image Segmentation: A Survey and Performance Comparison with Task-Specific Approaches](https://arxiv.org/abs/2506.10825)<BR>[2025-06-13]
 * 医学图像融合
   * [A Comprehensive Review of Techniques, Algorithms, Advancements, Challenges, and Clinical Applications of Multi-modal Medical Image Fusion for Improved Diagnosis](https://arxiv.org/abs/2505.14715)<BR>[2025-05-22]
 * 医学图像分类
