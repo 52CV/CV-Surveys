@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月13日已公开 247+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月17日已公开 249+7 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -39,13 +39,15 @@
 ## OOD
 * [Recent Advances in Out-of-Distribution Detection with CLIP-Like Models: A Survey](http://arxiv.org/abs/2505.02448v1)<BR>[2025-05-06]
 
-## Machine Learning
+## Machine Learning(机器学习)
 * [Machine Learning Applications to Diffuse Reflectance Spectroscopy in Optical Diagnosis; A Systematic Review](https://arxiv.org/abs/2503.02905)<BR>[2025-03-06]
 * 强化学习
   * [Exploring Mutual Empowerment Between Wireless Networks and RL-based LLMs: A Survey](https://arxiv.org/abs/2503.09956)<BR>[2025-03-14]
   * [Alignment and Safety of Diffusion Models via Reinforcement Learning and Reward Modeling: A Survey](https://arxiv.org/abs/2505.17352)<BR>[2025-05-26]
 * 对比学习
   * [A Survey on Data Curation for Visual Contrastive Learning: Why Crafting Effective Positive and Negative Pairs Matters](https://arxiv.org/abs/2502.08134)<BR>[2025-02-13]
+* 持续学习
+  * [A Comprehensive Survey on Continual Learning in Generative Models](https://arxiv.org/abs/2506.13045)<BR>:star:[code](https://github.com/Ghy0501/Awesome-Continual-Learning-in-Generative-Models)<BR>[2025-06-17]
 * 类增量学习
   * [Latest Advancements Towards Catastrophic Forgetting under Data Scarcity: A Comprehensive Survey on Few-Shot Class Incremental Learning](https://arxiv.org/abs/2502.08181)<BR>[2025-02-13]
 * 对抗
@@ -105,6 +107,7 @@
 ## Person Re-ID(重识别)
 * [Recent Deep Learning in Crowd Behaviour Analysis: A Brief Review](https://arxiv.org/abs/2505.18401)<BR>[2025-05-27]
 * [Causality and "In-the-Wild" Video-Based Person Re-ID: A Survey](https://arxiv.org/abs/2505.20540)<BR>[2025-05-28]
+* [Domain Generalization for Person Re-identification: A Survey Towards Domain-Agnostic Person Matching](https://arxiv.org/abs/2506.12413)<BR>:star:[code](https://github.com/PerceptualAI-Lab/Awesome-Domain-Generalizable-Person-Re-ID)<BR>[2025-06-17]
 
 ## Autonomous Driving(自动驾驶)
 * [A Survey of World Models for Autonomous Driving](https://arxiv.org/abs/2501.11260)<BR>[2025-01-22]
@@ -239,6 +242,7 @@
 * [Generative Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges](https://arxiv.org/abs/2505.10993)<BR>[2025-05-19]
 * [A Narrative Review on Large AI Models in Lung Cancer Screening, Diagnosis, and Treatment Planning](https://arxiv.org/abs/2506.07236)<BR>[2025-06-10]
 * [Foundation Models in Medical Imaging -- A Review and Outlook](https://arxiv.org/abs/2506.09095)<BR>[2025-06-12]
+* [Brain Imaging Foundation Models, Are We There Yet? A Systematic Review of Foundation Models for Brain Imaging and Biomedical Research](https://arxiv.org/abs/2506.13306)<BR>[2025-06-17]
 * 医学图像分割
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
   * [Recent Advances in Medical Imaging Segmentation: A Survey](https://arxiv.org/abs/2505.09274)<BR>:star:[code](https://github.com/faresbougourzi/Awesome-DL-for-Medical-Imaging-Segmentation)<BR>[2025-05-15]
@@ -287,6 +291,9 @@
   * [From Pixels to Images: Deep Learning Advances in Remote Sensing Image Semantic Segmentation](https://arxiv.org/abs/2505.15147)<BR>[2025-05-22]
 * 遥感超分辨率
   * [Advancing Image Super-resolution Techniques in Remote Sensing: A Comprehensive Survey](https://arxiv.org/abs/2505.23248)<BR>[2025-05-30]
+
+## Object Tracking(目标跟踪)
+* [Deep Learning-Based Multi-Object Tracking: A Comprehensive Survey from Foundations to State-of-the-Art](https://arxiv.org/abs/2506.13457)<BR>[2025-06-17]
 
 ## Object Detection(目标检测)
 * [YOLOv8 to YOLO11: A Comprehensive Architecture In-depth Comparative Review](https://arxiv.org/abs/2501.13400)<BR>[2025-01-24]
@@ -351,6 +358,8 @@
 * [Reasoning Segmentation for Images and Videos: A Survey](https://arxiv.org/abs/2505.18816)<BR>[2025-05-27]
 * 语义分割
   * [A Survey on Training-free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2505.22209)<BR>[2025-05-29]
+* 场景解析
+  * [A Comprehensive Survey on Video Scene Parsing:Advances, Challenges, and Prospects](https://arxiv.org/abs/2506.13552)<BR>[2025-06-17]
 
 ## Image Retrieval(图像检索)
 * [A Comprehensive Survey on Composed Image Retrieval](https://arxiv.org/abs/2502.18495)<BR>[2025-02-27]
@@ -422,6 +431,8 @@
 * [Semantic Correspondence: Unified Benchmarking and a Strong Baseline](https://arxiv.org/abs/2505.18060)<BR>:star:[code](https://github.com/Visual-AI/Semantic-Correspondence)<BR>[2025-05-26]
 * [Camera Trajectory Generation: A Comprehensive Survey of Methods, Metrics, and Future Directions](https://arxiv.org/abs/2506.00974)<BR>[2025-06-03]
 * [Towards Geometry Problem Solving in the Large Model Era: A Survey](https://arxiv.org/abs/2506.02690)<BR>[2025-06-04]
+* [A Comprehensive Survey on Deep Learning Solutions for 3D Flood Mapping](https://arxiv.org/abs/2506.13201)<BR>[2025-06-17]
+* [Style-based Composer Identification and Attribution of Symbolic Music Scores: a Systematic Survey](https://arxiv.org/abs/2506.12440)<BR>[2025-06-17]
 
 <a name="00000"/>
 
