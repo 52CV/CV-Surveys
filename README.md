@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月18日已公开 256+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月19日已公开 257+1 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -314,6 +314,7 @@
 
 ## Trajectory Prediction(轨迹预测)
 * [Trajectory Prediction Meets Large Language Models: A Survey](https://arxiv.org/abs/2506.03408)<BR>:star:[code](https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers)<BR>[2025-06-05]
+* [Recent Advances in Multi-Agent Human Trajectory Prediction: A Comprehensive Review](https://arxiv.org/abs/2506.14831)<BR>[2025-06-19]
 
 ## Action Recognition
 * [SMART-Vision: Survey of Modern Action Recognition Techniques in Vision](https://arxiv.org/abs/2501.13066)<BR>[2025-01-23]
