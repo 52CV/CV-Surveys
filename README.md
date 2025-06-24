@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月23日已公开 258+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月24日已公开 259+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -153,6 +153,7 @@
 * [Small Vision-Language Models: A Survey on Compact Architectures and Techniques](https://arxiv.org/abs/2503.10665)<BR>[2025-03-17]
 * [A Survey on Efficient Vision-Language Models](https://arxiv.org/abs/2504.09724)<BR>:star:[code](https://github.com/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey)<BR>[2025-04-15]
 * [Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models](https://arxiv.org/abs/2505.04921)<BR>:star:[code](https://github.com/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models)<BR>[2025-05-09]
+* [Generalizing Vision-Language Models to Novel Domains: A Comprehensive Survey](https://arxiv.org/abs/2506.18504)<BR>[2025-06-24]
 * LLM
   * [Leveraging Large Language Models For Scalable Vector Graphics Processing: A Review](https://arxiv.org/abs/2503.04983)<BR>[2025-03-10]
   * [A Review on Large Language Models for Visual Analytics](https://arxiv.org/abs/2503.15176)<BR>[2025-03-20]
@@ -243,6 +244,7 @@
 * [A Narrative Review on Large AI Models in Lung Cancer Screening, Diagnosis, and Treatment Planning](https://arxiv.org/abs/2506.07236)<BR>[2025-06-10]
 * [Foundation Models in Medical Imaging -- A Review and Outlook](https://arxiv.org/abs/2506.09095)<BR>[2025-06-12]
 * [Brain Imaging Foundation Models, Are We There Yet? A Systematic Review of Foundation Models for Brain Imaging and Biomedical Research](https://arxiv.org/abs/2506.13306)<BR>[2025-06-17]
+* [Taming Vision-Language Models for Medical Image Analysis: A Comprehensive Review](https://arxiv.org/abs/2506.18378)<BR>[2025-06-24]
 * 医学图像分割
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
   * [Recent Advances in Medical Imaging Segmentation: A Survey](https://arxiv.org/abs/2505.09274)<BR>:star:[code](https://github.com/faresbougourzi/Awesome-DL-for-Medical-Imaging-Segmentation)<BR>[2025-05-15]
