@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月24日已公开 259+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月25日已公开 261+3 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -185,6 +185,7 @@
 * 图像生成
   * [Preference Alignment on Diffusion Model: A Comprehensive Survey for Image Generation and Editing](https://arxiv.org/abs/2502.07829)<BR>[2025-02-13]
   * [Personalized Image Generation with Deep Generative Models: A Decade Survey](https://arxiv.org/abs/2502.13081)<BR>:star:[code](https://github.com/csyxwei/Awesome-Personalized-Image-Generation)<BR>[2025-02-19]
+  * [SoK: Can Synthetic Images Replace Real Data? A Survey of Utility and Privacy of Synthetic Image Generation](https://arxiv.org/abs/2506.19360)<BR>[2025-06-25]
 * AIGC
   * [Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC](https://arxiv.org/abs/2502.07007)<BR>[2025-02-12]
   * [Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions](https://arxiv.org/abs/2504.19056)<BR>:star:[code](https://github.com/llm-lab-org/Generative-AI-for-Character-Animation-Survey)<BR>[2025-04-29]
@@ -245,6 +246,7 @@
 * [Foundation Models in Medical Imaging -- A Review and Outlook](https://arxiv.org/abs/2506.09095)<BR>[2025-06-12]
 * [Brain Imaging Foundation Models, Are We There Yet? A Systematic Review of Foundation Models for Brain Imaging and Biomedical Research](https://arxiv.org/abs/2506.13306)<BR>[2025-06-17]
 * [Taming Vision-Language Models for Medical Image Analysis: A Comprehensive Review](https://arxiv.org/abs/2506.18378)<BR>[2025-06-24]
+* [Systematic Review of Pituitary Gland and Pituitary Adenoma Automatic Segmentation Techniques in Magnetic Resonance Imaging](https://arxiv.org/abs/2506.19797)<BR>[2025-06-25]
 * 医学图像分割
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
   * [Recent Advances in Medical Imaging Segmentation: A Survey](https://arxiv.org/abs/2505.09274)<BR>:star:[code](https://github.com/faresbougourzi/Awesome-DL-for-Medical-Imaging-Segmentation)<BR>[2025-05-15]
@@ -268,6 +270,8 @@
 * [Handwritten Text Recognition: A Survey](https://arxiv.org/abs/2502.08417)<BR>[2025-02-13]
 * [Visual Text Processing: A Comprehensive Review and Unified Evaluation](https://arxiv.org/abs/2504.21682)<BR>:star:[code](https://github.com/shuyansy/Visual-Text-Processing-survey)<BR>[2025-05-01]
 * [A Survey on Vietnamese Document Analysis and Recognition: Challenges and Future Directions](https://arxiv.org/abs/2506.05061)<BR>[2025-06-06]
+* 古文字图像识别
+  * [Ancient Script Image Recognition and Processing: A Review](https://arxiv.org/abs/2506.19208)<BR>[2025-06-25]
 
 ## UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
 * [Advancing Earth Observation: A Survey on AI-Powered Image Processing in Satellites](https://arxiv.org/abs/2501.12030)<BR>[2025-01-22]
