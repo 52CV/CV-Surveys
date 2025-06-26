@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月25日已公开 261+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月26日已公开 264+1 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -335,6 +335,7 @@
 ## 3D Visual
 * [Deep Learning Reforms Image Matching: A Survey and Outlook](https://arxiv.org/abs/2506.04619)<BR>[2025-06-06]
 * [R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision](https://arxiv.org/abs/2506.16262)<BR>:star:[code](https://github.com/CMLab-Korea/Awesome-3D-Low-Level-Vision)<BR>[2025-06-23]
+* [From 2D to 3D Cognition: A Brief Survey of General World Models](https://arxiv.org/abs/2506.20134)<BR>[2025-06-26]
 * 三维重建
   * [Cutting-edge 3D reconstruction solutions for underwater coral reef images: A review and comparison](https://arxiv.org/abs/2502.20154)<BR>[2025-02-28]
   * [Learning-based 3D Reconstruction in Autonomous Driving: A Comprehensive Survey](https://arxiv.org/abs/2503.14537)<BR>[2025-03-20]
