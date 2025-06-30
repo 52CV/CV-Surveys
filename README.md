@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月26日已公开 264+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月30日已公开 265+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -161,6 +161,7 @@
   * [How to Enable LLM with 3D Capacity? A Survey of Spatial Reasoning in LLM](https://arxiv.org/abs/2504.05786)<BR>[2025-04-09]
   * [PEFT A2Z: Parameter-Efficient Fine-Tuning Survey for Large Language and Vision Models](https://arxiv.org/abs/2504.14117)<BR>:star:[code](https://github.com/Nusrat-Prottasha/PEFT-A2Z)<BR>[2025-04-22]
   * [A Survey on (M)LLM-Based GUI Agents](https://arxiv.org/abs/2504.13865)<BR>[2025-04-22]
+  * [Towards Transparent AI: A Survey on Explainable Large Language Models](https://arxiv.org/abs/2506.21812)<BR>[2025-06-30]
 * MLLM
   * [Multimodal Large Language Models for Text-rich Image Understanding: A Comprehensive Review](https://arxiv.org/abs/2502.16586)<BR>[2025-02-25]
   * [Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey](https://arxiv.org/abs/2503.12605)<BR>:star:[code](https://github.com/yaotingwangofficial/Awesome-MCoT)<BR>[2025-03-18]
@@ -443,6 +444,7 @@
 * [Towards Geometry Problem Solving in the Large Model Era: A Survey](https://arxiv.org/abs/2506.02690)<BR>[2025-06-04]
 * [A Comprehensive Survey on Deep Learning Solutions for 3D Flood Mapping](https://arxiv.org/abs/2506.13201)<BR>[2025-06-17]
 * [Style-based Composer Identification and Attribution of Symbolic Music Scores: a Systematic Survey](https://arxiv.org/abs/2506.12440)<BR>[2025-06-17]
+* [Integrating Multi-Modal Sensors: A Review of Fusion Techniques for Intelligent Vehicles](https://arxiv.org/abs/2506.21885)<BR>[2025-06-30]
 
 <a name="00000"/>
 
