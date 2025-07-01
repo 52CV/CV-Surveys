@@ -22,12 +22,13 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至6月30日已公开 265+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月1日已公开 267+3 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
 4月41篇。<BR>
-5月56篇。
+5月56篇。<BR>
+6月39篇。
 
 ## 目录
 
@@ -119,6 +120,7 @@
 * [Multimodal Large Language Models for Enhanced Traffic Safety: A Comprehensive Review and Future Trends](https://arxiv.org/abs/2504.16134)<BR>[2025-04-24]
 * [Wireless Communication as an Information Sensor for Multi-agent Cooperative Perception: A Survey](https://arxiv.org/abs/2505.00747)<BR>[2025-05-05]
 * [Generative AI for Autonomous Driving: A Review](https://arxiv.org/abs/2505.15863)<BR>[2025-05-23]
+* [A Survey on Vision-Language-Action Models for Autonomous Driving](https://arxiv.org/abs/2506.24044)<BR>:star:[code](https://github.com/JohnsonJiang1996/Awesome-VLA4AD)<BR>[2025-07-01]
 * 车道线检测
   * [Datasets for Lane Detection in Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2504.08540)<BR>[2025-04-14]
 * 分心驾驶检测
@@ -332,6 +334,7 @@
 ## Points Cloud(点云)
 * [Implicit Guidance and Explicit Representation of Semantic Information in Points Cloud: A Survey](https://arxiv.org/abs/2501.05473)<BR>[2025-01-13]
 * [Point Cloud Based Scene Segmentation: A Survey](https://arxiv.org/abs/2503.12595)<BR>[2025-03-18]
+* [Point Cloud Compression and Objective Quality Assessment: A Survey](https://arxiv.org/abs/2506.22902)<BR>[2025-07-01]
 
 ## 3D Visual
 * [Deep Learning Reforms Image Matching: A Survey and Outlook](https://arxiv.org/abs/2506.04619)<BR>[2025-06-06]
@@ -347,6 +350,8 @@
 * 深度估计
   * [A Systematic Literature Review on Deep Learning-based Depth Estimation in Computer Vision](https://arxiv.org/abs/2501.05147)<BR>[2025-01-10]
   * [Survey on Monocular Metric Depth Estimation](https://arxiv.org/abs/2501.11841)<BR>[2025-01-22]
+* 三维形状生成
+  * [3D Shape Generation: A Survey](https://arxiv.org/abs/2506.22678)<BR>[2025-07-01]
 
 ## Face(人脸)
 * [A Survey on Facial Image Privacy Preservation in Cloud-Based Services](https://arxiv.org/abs/2501.08665)<BR>[2025-01-16]
