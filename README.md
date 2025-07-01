@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月1日已公开 267+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月1日已公开 267+4 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -167,10 +167,12 @@
 * MLLM
   * [Multimodal Large Language Models for Text-rich Image Understanding: A Comprehensive Review](https://arxiv.org/abs/2502.16586)<BR>[2025-02-25]
   * [Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey](https://arxiv.org/abs/2503.12605)<BR>:star:[code](https://github.com/yaotingwangofficial/Awesome-MCoT)<BR>[2025-03-18]
-  * [Aligning Multimodal LLM with Human Preference: A Survey](https://arxiv.org/abs/2503.14504)<BR>:star:[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment.)<BR>[2025-03-19]
+  * [Aligning Multimodal LLM with Human Preference: A Survey](https://arxiv.org/abs/2503.14504)<BR>:star:[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment)<BR>[2025-03-19]
   * [Survey of Adversarial Robustness in Multimodal Large Language Models](https://arxiv.org/abs/2503.13962)<BR>[2025-03-19]
 * 基础模型
   * [Vision Generalist Model: A Survey](https://arxiv.org/abs/2506.09954)<BR>[2025-06-12]
+* 多模态推理
+  * [Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers](https://arxiv.org/abs/2506.23918)<BR>:star:[code](https://github.com/zhaochen0110/Awesome_Think_With_Images)<BR>[2025-07-01]
 
 ## GAN/Image Synthesis(图像生成)
 * [Generative AI for Cel-Animation: A Survey](https://arxiv.org/abs/2501.06250)<BR>:star:[code](https://github.com/yunlong10/Awesome-AI4Animation)<BR>[2025-01-14]
