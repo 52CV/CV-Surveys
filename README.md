@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月2日已公开 271+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月3日已公开 272+3 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -42,6 +42,7 @@
 
 ## Machine Learning(机器学习)
 * [Machine Learning Applications to Diffuse Reflectance Spectroscopy in Optical Diagnosis; A Systematic Review](https://arxiv.org/abs/2503.02905)<BR>[2025-03-06]
+* [Prompt Mechanisms in Medical Imaging: A Comprehensive Survey](https://arxiv.org/abs/2507.01055)<BR>[2025-07-03]
 * 强化学习
   * [Exploring Mutual Empowerment Between Wireless Networks and RL-based LLMs: A Survey](https://arxiv.org/abs/2503.09956)<BR>[2025-03-14]
   * [Alignment and Safety of Diffusion Models via Reinforcement Learning and Reward Modeling: A Survey](https://arxiv.org/abs/2505.17352)<BR>[2025-05-26]
@@ -288,6 +289,7 @@
 * [Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook](https://arxiv.org/abs/2505.00630)<BR>:star:[code](https://github.com/BaoBao0926/Awesome-Mamba-in-Remote-Sensing)<BR>[2025-05-02]
 * [Vision-Language Modeling Meets Remote Sensing: Models, Datasets and Perspectives](https://arxiv.org/abs/2505.14361)<BR>[2025-05-21]
 * [A Compendium of Autonomous Navigation using Object Detection and Tracking in Unmanned Aerial Vehicles](https://arxiv.org/abs/2506.05378)<BR>[2025-06-09]
+* [Advancements in Weed Mapping: A Systematic Review](https://arxiv.org/abs/2507.01269)<BR>[2025-07-03]
 * Anti-UAV
   * [Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions](https://arxiv.org/abs/2504.11967)<BR>[2025-04-17]
 * 变化检测
@@ -387,6 +389,8 @@
 
 ## Image Classification(图像分类)
 * [Plant Leaf Disease Detection and Classification Using Deep Learning: A Review and A Proposed System on Bangladesh's Perspective](https://arxiv.org/abs/2501.03305)<BR>[2025-01-08]基于深度学习的植物叶片病害检测与分类
+* 作物害虫分类
+  * [Crop Pest Classification Using Deep Learning Techniques: A Review](https://arxiv.org/abs/2507.01494)<BR>[2025-07-03]
 
 ## Image Super-Resolution(超分辨率)
 * [State-of-the-Art Transformer Models for Image Super-Resolution: Techniques, Challenges, and Applications](https://arxiv.org/abs/2501.07855)<BR>[2025-01-15]
