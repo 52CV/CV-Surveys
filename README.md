@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月4日已公开 275+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月8日已公开 276+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -336,6 +336,8 @@
 
 ## Pose(姿态估计)
 * [Survey on Hand Gesture Recognition from Visual Input](https://arxiv.org/abs/2501.11992)<BR>[2025-01-22]
+* 手势识别
+  * [Visual Hand Gesture Recognition with Deep Learning: A Comprehensive Review of Methods, Datasets, Challenges and Future Research Directions](https://arxiv.org/abs/2507.04465)<BR>[2025-07-08]
 
 ## Points Cloud(点云)
 * [Implicit Guidance and Explicit Representation of Semantic Information in Points Cloud: A Survey](https://arxiv.org/abs/2501.05473)<BR>[2025-01-13]
@@ -369,6 +371,8 @@
   * [Enhanced Sentiment Analysis of Iranian Restaurant Reviews Utilizing Sentiment Intensity Analyzer & Fuzzy Logic](https://arxiv.org/abs/2503.12141)<BR>[2025-03-18]
 * 情感识别
   * [Evaluation in EEG Emotion Recognition: State-of-the-Art Review and Unified Framework](https://arxiv.org/abs/2505.18175)<BR>[2025-05-27]
+* 说话头
+  * [Advancing Talking Head Generation: A Comprehensive Survey of Multi-Modal Methodologies, Datasets, Evaluation Metrics, and Loss Functions](https://arxiv.org/abs/2507.02900)<BR>:star:[code](https://github.com/VineetKumarRakesh/thg)<BR>[2025-07-08]
 
 ## Image Captioning(图像字幕)
 * [Attention-based transformer models for image captioning across languages: An in-depth survey and evaluation](https://arxiv.org/abs/2506.05399)<BR>[2025-06-09]
