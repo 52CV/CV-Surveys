@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月8日已公开 276+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月9日已公开 278+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -69,6 +69,7 @@
 
 ## Motion Generation(动作生成)
 * [Text-driven Motion Generation: Overview, Challenges and Directions](https://arxiv.org/abs/2505.09379)<BR>[2025-05-15]
+* [Motion Generation: A Survey of Generative Approaches and Benchmarks](https://arxiv.org/abs/2507.05419)<BR>[2025-07-09]
 
 ## Robots(机器人)
 * [Semantic Mapping in Indoor Embodied AI – A Comprehensive Survey and Future Directions](https://arxiv.org/abs/2501.05750)<BR>[2025-01-13]
@@ -83,6 +84,8 @@
 * [Anomaly Detection for Industrial Applications, Its Challenges, Solutions, and Future Directions: A Review](https://arxiv.org/abs/2501.11310)<BR>[2025-01-22]
 * [A Survey on Industrial Anomalies Synthesis](https://arxiv.org/abs/2502.16412)<BR>:star:[code](https://github.com/M-3LAB/awesome-anomaly-synthesis.)<BR>[2025-02-25]
 * [A Survey on Foundation-Model-Based Industrial Defect Detection](https://arxiv.org/abs/2502.19106)<BR>[2025-02-27]
+* 异常检测
+  * [Hyperspectral Anomaly Detection Methods: A Survey and Comparative Study](https://arxiv.org/abs/2507.05730)<BR>[2025-07-09]
 
 ## Video
 * [A Survey on Video Analytics in Cloud-Edge-Terminal Collaborative Systems](https://arxiv.org/abs/2502.06581)<BR>[2025-02-11]
