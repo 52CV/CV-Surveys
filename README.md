@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月9日已公开 278+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月10日已公开 280+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -281,6 +281,7 @@
 * [Handwritten Text Recognition: A Survey](https://arxiv.org/abs/2502.08417)<BR>[2025-02-13]
 * [Visual Text Processing: A Comprehensive Review and Unified Evaluation](https://arxiv.org/abs/2504.21682)<BR>:star:[code](https://github.com/shuyansy/Visual-Text-Processing-survey)<BR>[2025-05-01]
 * [A Survey on Vietnamese Document Analysis and Recognition: Challenges and Future Directions](https://arxiv.org/abs/2506.05061)<BR>[2025-06-06]
+* [Advancing Offline Handwritten Text Recognition: A Systematic Review of Data Augmentation and Generation Techniques](https://arxiv.org/abs/2507.06275)<BR>[2025-07-10]
 * 古文字图像识别
   * [Ancient Script Image Recognition and Processing: A Review](https://arxiv.org/abs/2506.19208)<BR>[2025-06-25]
 
@@ -390,6 +391,8 @@
   * [A Survey on Training-free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2505.22209)<BR>[2025-05-29]
 * 场景解析
   * [A Comprehensive Survey on Video Scene Parsing:Advances, Challenges, and Prospects](https://arxiv.org/abs/2506.13552)<BR>[2025-06-17]
+* 场景理解
+  * [What Demands Attention in Urban Street Scenes? From Scene Understanding towards Road Safety: A Survey of Vision-driven Datasets and Studies](https://arxiv.org/abs/2507.06513)<BR>[2025-07-10]
 
 ## Image Retrieval(图像检索)
 * [A Comprehensive Survey on Composed Image Retrieval](https://arxiv.org/abs/2502.18495)<BR>[2025-02-27]
