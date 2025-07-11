@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月10日已公开 280+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月11日已公开 282+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -98,7 +98,8 @@
   * [Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges](https://arxiv.org/abs/2507.02074)<BR>[2025-07-04]
 * 视频帧插值
   * [AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation](https://arxiv.org/abs/2506.01061)<BR>:star:[code](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation)<BR>[2025-06-03]
-
+* 长视频叙事生成
+  * [A Survey on Long-Video Storytelling Generation: Architectures, Consistency, and Cinematic Quality](https://arxiv.org/abs/2507.07202)<BR>[2025-07-11]
 
 ## Agricultural(农业)
 * [Domain Adaptation in Agricultural Image Analysis: A Comprehensive Review from Shallow Models to Deep Learning](https://arxiv.org/abs/2506.05972)<BR>[2025-06-09]
@@ -266,6 +267,8 @@
   * [A Comprehensive Review of Techniques, Algorithms, Advancements, Challenges, and Clinical Applications of Multi-modal Medical Image Fusion for Improved Diagnosis](https://arxiv.org/abs/2505.14715)<BR>[2025-05-22]
 * 医学图像分类
   * [Recent Advances in Medical Image Classification](https://arxiv.org/abs/2506.04129)<BR>[2025-06-05]
+* 医学图像分析
+  * [Explainable Artificial Intelligence in Biomedical Image Analysis: A Comprehensive Survey](https://arxiv.org/abs/2507.07148)<BR>[2025-07-11]
 * 手术场景理解
   * [Surgical Scene Understanding in the Era of Foundation AI Models: A Comprehensive Review](https://arxiv.org/abs/2502.14886)<BR>[2025-02-24]
 * 手术视频分割
