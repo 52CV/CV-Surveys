@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月11日已公开 282+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月14日已公开 284+3 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -279,6 +279,8 @@
   * [A Survey of fMRI to Image Reconstruction](https://arxiv.org/abs/2502.16861)<BR>[2025-02-25]
   * [A Comprehensive Survey on Magnetic Resonance Image Reconstruction](https://arxiv.org/abs/2503.07097)<BR>[2025-03-11]
   * [A Survey on fMRI-based Brain Decoding for Reconstructing Multimodal Stimuli](https://arxiv.org/abs/2503.15978)<BR>:star:[code](https://github.com/LpyNow/BrainDecodingImage)<BR>[2025-03-21]
+* VQA
+  * [Barriers in Integrating Medical Visual Question Answering into Radiology Workflows: A Scoping Review and Clinicians' Insights](https://arxiv.org/abs/2507.08036)<BR>[2025-07-14]
 
 ## OCR
 * [Handwritten Text Recognition: A Survey](https://arxiv.org/abs/2502.08417)<BR>[2025-02-13]
@@ -363,6 +365,7 @@
   * [Explicit and Implicit Representations in AI-based 3D Reconstruction for Radiology: A systematic literature review](https://arxiv.org/abs/2504.11349)<BR>:star:[code](https://github.com/Bean-Young/AI4Med)<BR>[2025-04-16]
   * [A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond](https://arxiv.org/abs/2505.00737)<BR>[2025-05-05]
   * [A Survey of 3D Reconstruction with Event Cameras: From Event-based Geometry to Neural 3D Rendering](https://arxiv.org/abs/2505.08438)<BR>[2025-05-14]
+  * [Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT](https://arxiv.org/abs/2507.08448)<BR>[2025-07-14]
 * 深度估计
   * [A Systematic Literature Review on Deep Learning-based Depth Estimation in Computer Vision](https://arxiv.org/abs/2501.05147)<BR>[2025-01-10]
   * [Survey on Monocular Metric Depth Estimation](https://arxiv.org/abs/2501.11841)<BR>[2025-01-22]
@@ -425,6 +428,8 @@
   * [A review of advancements in low-light image enhancement using deep learning](https://arxiv.org/abs/2505.05759)<BR>[2025-05-12]
 * 去反射
   * [Survey on Single-Image Reflection Removal using Deep Learning Techniques](https://arxiv.org/abs/2502.08836)<BR>[2025-02-14]
+* 视频恢复
+  * [Unsupervised Methods for Video Quality Improvement: A Survey of Restoration and Enhancement Techniques](https://arxiv.org/abs/2507.08375)<BR>[2025-07-14]
 
 ## Unknown(未分)
 * [Visualizing Uncertainty in Image Guided Surgery a Review](https://arxiv.org/abs/2501.06280)<BR>[2025-01-14]
