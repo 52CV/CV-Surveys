@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月14日已公开 284+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月15日已公开 287+3 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -228,6 +228,7 @@
 * [A Survey on Dynamic Neural Networks: from Computer Vision to Multi-modal Sensor Fusion](https://arxiv.org/abs/2501.07451)<BR>[2025-01-14]
 * [Vision Transformers on the Edge: A Comprehensive Survey of Model Compression and Acceleration Strategies](https://arxiv.org/abs/2503.02891)<BR>[2025-03-06]
 * [Image Recognition with Online Lightweight Vision Transformer: A Survey](https://arxiv.org/abs/2505.03113)<BR>:star:[code](https://github.com/ajxklo/Lightweight-VIT)<BR>[2025-05-07]
+* [Token Compression Meets Compact Vision Transformers: A Survey and Comparative Evaluation for Edge AI](https://arxiv.org/abs/2507.09702)<BR>[2025-07-15]
 * 量化
   * [Zero-shot Quantization: A Comprehensive Survey](https://arxiv.org/abs/2505.09188)<BR>[2025-05-15]
 * KD
@@ -289,6 +290,8 @@
 * [Advancing Offline Handwritten Text Recognition: A Systematic Review of Data Augmentation and Generation Techniques](https://arxiv.org/abs/2507.06275)<BR>[2025-07-10]
 * 古文字图像识别
   * [Ancient Script Image Recognition and Processing: A Review](https://arxiv.org/abs/2506.19208)<BR>[2025-06-25]
+* 文档理解
+  * [A Survey on MLLM-based Visually Rich Document Understanding: Methods, Challenges, and Emerging Trends](https://arxiv.org/abs/2507.09861)<BR>[2025-07-15]
 
 ## UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
 * [Advancing Earth Observation: A Survey on AI-Powered Image Processing in Satellites](https://arxiv.org/abs/2501.12030)<BR>[2025-01-22]
@@ -301,6 +304,7 @@
 * [Vision-Language Modeling Meets Remote Sensing: Models, Datasets and Perspectives](https://arxiv.org/abs/2505.14361)<BR>[2025-05-21]
 * [A Compendium of Autonomous Navigation using Object Detection and Tracking in Unmanned Aerial Vehicles](https://arxiv.org/abs/2506.05378)<BR>[2025-06-09]
 * [Advancements in Weed Mapping: A Systematic Review](https://arxiv.org/abs/2507.01269)<BR>[2025-07-03]
+* [From Physics to Foundation Models: A Review of AI-Driven Quantitative Remote Sensing Inversion](https://arxiv.org/abs/2507.09081)<BR>[2025-07-15]
 * Anti-UAV
   * [Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions](https://arxiv.org/abs/2504.11967)<BR>[2025-04-17]
 * 变化检测
