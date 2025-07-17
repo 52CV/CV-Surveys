@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月16日已公开 290+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月17日已公开 291+3 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -128,6 +128,7 @@
 * [Wireless Communication as an Information Sensor for Multi-agent Cooperative Perception: A Survey](https://arxiv.org/abs/2505.00747)<BR>[2025-05-05]
 * [Generative AI for Autonomous Driving: A Review](https://arxiv.org/abs/2505.15863)<BR>[2025-05-23]
 * [A Survey on Vision-Language-Action Models for Autonomous Driving](https://arxiv.org/abs/2506.24044)<BR>:star:[code](https://github.com/JohnsonJiang1996/Awesome-VLA4AD)<BR>[2025-07-01]
+* [Towards Autonomous Riding: A Review of Perception, Planning, and Control in Intelligent Two-Wheelers](https://arxiv.org/abs/2507.11852)<BR>[2025-07-17]
 * 车道线检测
   * [Datasets for Lane Detection in Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2504.08540)<BR>[2025-04-14]
 * 分心驾驶检测
@@ -288,6 +289,7 @@
 * [Visual Text Processing: A Comprehensive Review and Unified Evaluation](https://arxiv.org/abs/2504.21682)<BR>:star:[code](https://github.com/shuyansy/Visual-Text-Processing-survey)<BR>[2025-05-01]
 * [A Survey on Vietnamese Document Analysis and Recognition: Challenges and Future Directions](https://arxiv.org/abs/2506.05061)<BR>[2025-06-06]
 * [Advancing Offline Handwritten Text Recognition: A Systematic Review of Data Augmentation and Generation Techniques](https://arxiv.org/abs/2507.06275)<BR>[2025-07-10]
+* [Seeing the Signs: A Survey of Edge-Deployable OCR Models for Billboard Visibility Analysis](https://arxiv.org/abs/2507.11730)<BR>[2025-07-17]
 * 古文字图像识别
   * [Ancient Script Image Recognition and Processing: A Review](https://arxiv.org/abs/2506.19208)<BR>[2025-06-25]
 * 文档理解
@@ -482,6 +484,7 @@
 * [Style-based Composer Identification and Attribution of Symbolic Music Scores: a Systematic Survey](https://arxiv.org/abs/2506.12440)<BR>[2025-06-17]
 * [Integrating Multi-Modal Sensors: A Review of Fusion Techniques for Intelligent Vehicles](https://arxiv.org/abs/2506.21885)<BR>[2025-06-30]
 * [A Survey on Interpretability in Visual Recognition](https://arxiv.org/abs/2507.11099)<BR>[2025-07-16]
+* [A Survey of Deep Learning for Geometry Problem Solving](https://arxiv.org/abs/2507.11936)<BR>:star:[code](https://github.com/majianz/dl4gps)<BR>[2025-07-17]
 
 <a name="00000"/>
 
