@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月18日已公开 294+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月21日已公开 295+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -84,6 +84,7 @@
 * [Anomaly Detection for Industrial Applications, Its Challenges, Solutions, and Future Directions: A Review](https://arxiv.org/abs/2501.11310)<BR>[2025-01-22]
 * [A Survey on Industrial Anomalies Synthesis](https://arxiv.org/abs/2502.16412)<BR>:star:[code](https://github.com/M-3LAB/awesome-anomaly-synthesis.)<BR>[2025-02-25]
 * [A Survey on Foundation-Model-Based Industrial Defect Detection](https://arxiv.org/abs/2502.19106)<BR>[2025-02-27]
+* [A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects](https://arxiv.org/abs/2507.13378)<BR>[2025-07-21]
 * 异常检测
   * [Hyperspectral Anomaly Detection Methods: A Survey and Comparative Study](https://arxiv.org/abs/2507.05730)<BR>[2025-07-09]
 
@@ -307,6 +308,8 @@
 * [A Compendium of Autonomous Navigation using Object Detection and Tracking in Unmanned Aerial Vehicles](https://arxiv.org/abs/2506.05378)<BR>[2025-06-09]
 * [Advancements in Weed Mapping: A Systematic Review](https://arxiv.org/abs/2507.01269)<BR>[2025-07-03]
 * [From Physics to Foundation Models: A Review of AI-Driven Quantitative Remote Sensing Inversion](https://arxiv.org/abs/2507.09081)<BR>[2025-07-15]
+* 目标检测
+  * [Open-Vocabulary Object Detection in UAV Imagery: A Review and Future Perspectives](https://arxiv.org/abs/2507.13359)<BR>:star:[code](https://github.com/zhouyang2002/OVOD-in-UVA-imagery)<BR>[2025-07-21]
 * Anti-UAV
   * [Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions](https://arxiv.org/abs/2504.11967)<BR>[2025-04-17]
 * 变化检测
