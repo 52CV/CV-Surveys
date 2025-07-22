@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月21日已公开 295+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月22日已公开 297+3 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -91,6 +91,8 @@
 ## Video
 * [A Survey on Video Analytics in Cloud-Edge-Terminal Collaborative Systems](https://arxiv.org/abs/2502.06581)<BR>[2025-02-11]
 * [Survey of Video Diffusion Models: Foundations, Implementations, and Applications](https://arxiv.org/abs/2504.16081)<BR>:star:[code](https://github.com/Eyeline-Research/Survey-Video-Diffusion)<BR>[2025-04-23]
+* 视频分析
+  * [A Survey on Efficiency Optimization Techniques for DNN-based Video Analytics: Process Systems, Algorithms, and Applications](https://arxiv.org/abs/2507.15628)<BR>[2025-07-22]
 * 视频理解
   * [VideoLLM Benchmarks and Evaluation: A Survey](https://arxiv.org/abs/2505.03829)<BR>[2025-05-08]
   * [Bridging Perspectives: A Survey on Cross-view Collaborative Intelligence with Egocentric-Exocentric Vision](https://arxiv.org/abs/2506.06253)<BR>:star:[code](https://github.com/ayiyayi/Awesome-Egocentric-and-Exocentric-Vision)<BR>[2025-06-09]
@@ -308,6 +310,7 @@
 * [A Compendium of Autonomous Navigation using Object Detection and Tracking in Unmanned Aerial Vehicles](https://arxiv.org/abs/2506.05378)<BR>[2025-06-09]
 * [Advancements in Weed Mapping: A Systematic Review](https://arxiv.org/abs/2507.01269)<BR>[2025-07-03]
 * [From Physics to Foundation Models: A Review of AI-Driven Quantitative Remote Sensing Inversion](https://arxiv.org/abs/2507.09081)<BR>[2025-07-15]
+* [Hyper-spectral Unmixing algorithms for remote compositional surface mapping: a review of the state of the art](https://arxiv.org/abs/2507.14260)<BR>[2025-07-22]
 * 目标检测
   * [Open-Vocabulary Object Detection in UAV Imagery: A Review and Future Perspectives](https://arxiv.org/abs/2507.13359)<BR>:star:[code](https://github.com/zhouyang2002/OVOD-in-UVA-imagery)<BR>[2025-07-21]
 * Anti-UAV
@@ -375,6 +378,7 @@
   * [A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond](https://arxiv.org/abs/2505.00737)<BR>[2025-05-05]
   * [A Survey of 3D Reconstruction with Event Cameras: From Event-based Geometry to Neural 3D Rendering](https://arxiv.org/abs/2505.08438)<BR>[2025-05-14]
   * [Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT](https://arxiv.org/abs/2507.08448)<BR>[2025-07-14]
+  * [Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey](https://arxiv.org/abs/2507.14501)<BR>:star:[code](https://fnzhan.com/projects/Feed-Forward-3D)<BR>[2025-07-22]
 * 深度估计
   * [A Systematic Literature Review on Deep Learning-based Depth Estimation in Computer Vision](https://arxiv.org/abs/2501.05147)<BR>[2025-01-10]
   * [Survey on Monocular Metric Depth Estimation](https://arxiv.org/abs/2501.11841)<BR>[2025-01-22]
