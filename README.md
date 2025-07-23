@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月22日已公开 297+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月23日已公开 300+1 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -264,6 +264,7 @@
 * [Brain Imaging Foundation Models, Are We There Yet? A Systematic Review of Foundation Models for Brain Imaging and Biomedical Research](https://arxiv.org/abs/2506.13306)<BR>[2025-06-17]
 * [Taming Vision-Language Models for Medical Image Analysis: A Comprehensive Review](https://arxiv.org/abs/2506.18378)<BR>[2025-06-24]
 * [Systematic Review of Pituitary Gland and Pituitary Adenoma Automatic Segmentation Techniques in Magnetic Resonance Imaging](https://arxiv.org/abs/2506.19797)<BR>[2025-06-25]
+* [Handcrafted vs. Deep Radiomics vs. Fusion vs. Deep Learning: A Comprehensive Review of Machine Learning -Based Cancer Outcome Prediction in PET and SPECT Imaging](https://arxiv.org/abs/2507.16065)<BR>[2025-07-23]
 * 医学图像分割
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
   * [Recent Advances in Medical Imaging Segmentation: A Survey](https://arxiv.org/abs/2505.09274)<BR>:star:[code](https://github.com/faresbougourzi/Awesome-DL-for-Medical-Imaging-Segmentation)<BR>[2025-05-15]
