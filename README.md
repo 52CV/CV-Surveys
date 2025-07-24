@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月23日已公开 300+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月24日已公开 301+3 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -218,6 +218,7 @@
   * [A Survey: Spatiotemporal Consistency in Video Generation](https://arxiv.org/abs/2502.17863)<BR>[2025-02-26]
   * [Exploring the Evolution of Physics Cognition in Video Generation: A Survey](https://arxiv.org/abs/2503.21765)<BR>:star:[code](https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation)<BR>[2025-03-28]
   * [A Survey of Interactive Generative Video](https://arxiv.org/abs/2504.21853)<BR>[2025-05-01]
+  * [Controllable Video Generation: A Survey](https://arxiv.org/abs/2507.16869)<BR>:star:[code](https://github.com/mayuelala/Awesome-Controllable-Video-Generation)<BR>[2025-07-24]
 * 4D生成
   * [Advances in 4D Generation: A Survey](https://arxiv.org/abs/2503.14501)<BR>:star:[code](https://github.com/MiaoQiaowei/Awesome-4D)<BR>[2025-03-19]
 * 3D生成
@@ -265,6 +266,7 @@
 * [Taming Vision-Language Models for Medical Image Analysis: A Comprehensive Review](https://arxiv.org/abs/2506.18378)<BR>[2025-06-24]
 * [Systematic Review of Pituitary Gland and Pituitary Adenoma Automatic Segmentation Techniques in Magnetic Resonance Imaging](https://arxiv.org/abs/2506.19797)<BR>[2025-06-25]
 * [Handcrafted vs. Deep Radiomics vs. Fusion vs. Deep Learning: A Comprehensive Review of Machine Learning -Based Cancer Outcome Prediction in PET and SPECT Imaging](https://arxiv.org/abs/2507.16065)<BR>[2025-07-23]
+* [Harmonization in Magnetic Resonance Imaging: A Survey of Acquisition, Image-level, and Feature-level Methods](https://arxiv.org/abs/2507.16962)<BR>[2025-07-24]
 * 医学图像分割
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
   * [Recent Advances in Medical Imaging Segmentation: A Survey](https://arxiv.org/abs/2505.09274)<BR>:star:[code](https://github.com/faresbougourzi/Awesome-DL-for-Medical-Imaging-Segmentation)<BR>[2025-05-15]
@@ -344,6 +346,7 @@
   * [Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications](https://arxiv.org/abs/2503.20516)<BR>[2025-03-27]
 * 3D目标检测
   * [A Review of 3D Object Detection with Vision-Language Models](https://arxiv.org/abs/2504.18738)<BR>[2025-04-29]
+  * [Few-Shot Learning in Video and 3D Object Detection: A Survey](https://arxiv.org/abs/2507.17079)<BR>[2025-07-24]
 
 ## HOI
 * [3D Human Interaction Generation: A Survey](https://arxiv.org/abs/2503.13120)<BR>[2025-03-18]
