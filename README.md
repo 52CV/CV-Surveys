@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月25日已公开 304+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月28日已公开 305+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -180,6 +180,7 @@
   * [Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey](https://arxiv.org/abs/2503.12605)<BR>:star:[code](https://github.com/yaotingwangofficial/Awesome-MCoT)<BR>[2025-03-18]
   * [Aligning Multimodal LLM with Human Preference: A Survey](https://arxiv.org/abs/2503.14504)<BR>:star:[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment)<BR>[2025-03-19]
   * [Survey of Adversarial Robustness in Multimodal Large Language Models](https://arxiv.org/abs/2503.13962)<BR>[2025-03-19]
+  * [A Survey of Multimodal Hallucination Evaluation and Detection](https://arxiv.org/abs/2507.19024)<BR>[2025-07-28]
 * 基础模型
   * [Vision Generalist Model: A Survey](https://arxiv.org/abs/2506.09954)<BR>[2025-06-12]
 * 多模态推理
@@ -434,6 +435,7 @@
   * [A Survey of Deep Learning Video Super-Resolution](https://arxiv.org/abs/2506.03216)<BR>[2025-06-05]
 
 ## Image Progress(图像/视频处理)
+* [Fuzzy Theory in Computer Vision: A Review](https://arxiv.org/abs/2507.18660)<BR>[2025-07-28]
 * 图像恢复
   * [Deep Learning-Driven Ultra-High-Definition Image Restoration: A Survey](https://arxiv.org/abs/2505.16161)<BR>:star:[code](https://github.com/wlydlut/UHD-Image-Restoration-Survey)<BR>[2025-05-23]
 * 水下图像增强
