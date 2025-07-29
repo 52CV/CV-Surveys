@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月28日已公开 305+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月29日已公开 307+4 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -39,6 +39,9 @@
 
 ## OOD
 * [Recent Advances in Out-of-Distribution Detection with CLIP-Like Models: A Survey](http://arxiv.org/abs/2505.02448v1)<BR>[2025-05-06]
+
+## 4D
+* [Reconstructing 4D Spatial Intelligence: A Survey](https://arxiv.org/abs/2507.21045)<BR>:star:[code](https://github.com/yukangcao/Awesome-4D-Spatial-Intelligence)<BR>[2025-07-29]
 
 ## Machine Learning(机器学习)
 * [Machine Learning Applications to Diffuse Reflectance Spectroscopy in Optical Diagnosis; A Systematic Review](https://arxiv.org/abs/2503.02905)<BR>[2025-03-06]
@@ -181,6 +184,7 @@
   * [Aligning Multimodal LLM with Human Preference: A Survey](https://arxiv.org/abs/2503.14504)<BR>:star:[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment)<BR>[2025-03-19]
   * [Survey of Adversarial Robustness in Multimodal Large Language Models](https://arxiv.org/abs/2503.13962)<BR>[2025-03-19]
   * [A Survey of Multimodal Hallucination Evaluation and Detection](https://arxiv.org/abs/2507.19024)<BR>[2025-07-28]
+  * [When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token Compression across Images, Videos, and Audios](https://arxiv.org/abs/2507.20198)<BR>:star:[code](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression)<BR>[2025-07-29]
 * 基础模型
   * [Vision Generalist Model: A Survey](https://arxiv.org/abs/2506.09954)<BR>[2025-06-12]
 * 多模态推理
@@ -268,6 +272,7 @@
 * [Systematic Review of Pituitary Gland and Pituitary Adenoma Automatic Segmentation Techniques in Magnetic Resonance Imaging](https://arxiv.org/abs/2506.19797)<BR>[2025-06-25]
 * [Handcrafted vs. Deep Radiomics vs. Fusion vs. Deep Learning: A Comprehensive Review of Machine Learning -Based Cancer Outcome Prediction in PET and SPECT Imaging](https://arxiv.org/abs/2507.16065)<BR>[2025-07-23]
 * [Harmonization in Magnetic Resonance Imaging: A Survey of Acquisition, Image-level, and Feature-level Methods](https://arxiv.org/abs/2507.16962)<BR>[2025-07-24]
+* [Review of Deep Learning Applications to Structural Proteomics Enabled by Cryogenic Electron Microscopy and Tomography](https://arxiv.org/abs/2507.19565)<BR>[2025-07-29]
 * 医学图像分割
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
   * [Recent Advances in Medical Imaging Segmentation: A Survey](https://arxiv.org/abs/2505.09274)<BR>:star:[code](https://github.com/faresbougourzi/Awesome-DL-for-Medical-Imaging-Segmentation)<BR>[2025-05-15]
@@ -388,6 +393,7 @@
 * 深度估计
   * [A Systematic Literature Review on Deep Learning-based Depth Estimation in Computer Vision](https://arxiv.org/abs/2501.05147)<BR>[2025-01-10]
   * [Survey on Monocular Metric Depth Estimation](https://arxiv.org/abs/2501.11841)<BR>[2025-01-22]
+  * [Endoscopic Depth Estimation Based on Deep Learning: A Survey](https://arxiv.org/abs/2507.20881)<BR>[2025-07-29]
 * 三维形状生成
   * [3D Shape Generation: A Survey](https://arxiv.org/abs/2506.22678)<BR>[2025-07-01]
 
