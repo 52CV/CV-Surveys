@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月29日已公开 307+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月30日已公开 311+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -109,6 +109,9 @@
 
 ## Agricultural(农业)
 * [Domain Adaptation in Agricultural Image Analysis: A Comprehensive Review from Shallow Models to Deep Learning](https://arxiv.org/abs/2506.05972)<BR>[2025-06-09]
+
+## Deepfake Detection
+* [Unmasking Synthetic Realities in Generative AI: A Comprehensive Review of Adversarially Robust Deepfake Detection Systems](https://arxiv.org/pdf/2507.21157v1)<BR>:star:[code](https://github.com/Magnet200/SOT_Deepfake_Detection_Mechanisms)<BR>[2025-07-30]
 
 ## Animal(动物)
 * [A Review on Coarse to Fine-Grained Animal Action Recognition](https://arxiv.org/abs/2506.01214)<BR>[2025-06-03]
@@ -320,6 +323,7 @@
 * [Advancements in Weed Mapping: A Systematic Review](https://arxiv.org/abs/2507.01269)<BR>[2025-07-03]
 * [From Physics to Foundation Models: A Review of AI-Driven Quantitative Remote Sensing Inversion](https://arxiv.org/abs/2507.09081)<BR>[2025-07-15]
 * [Hyper-spectral Unmixing algorithms for remote compositional surface mapping: a review of the state of the art](https://arxiv.org/abs/2507.14260)<BR>[2025-07-22]
+* [Sun sensor calibration algorithms: A systematic mapping and survey](https://arxiv.org/pdf/2507.21541v1)<BR>[2025-07-30]
 * 目标检测
   * [Open-Vocabulary Object Detection in UAV Imagery: A Review and Future Perspectives](https://arxiv.org/abs/2507.13359)<BR>:star:[code](https://github.com/zhouyang2002/OVOD-in-UVA-imagery)<BR>[2025-07-21]
 * Anti-UAV
