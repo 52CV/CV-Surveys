@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月30日已公开 311+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至7月31日已公开 313+3 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -43,6 +43,10 @@
 ## 4D
 * [Reconstructing 4D Spatial Intelligence: A Survey](https://arxiv.org/abs/2507.21045)<BR>:star:[code](https://github.com/yukangcao/Awesome-4D-Spatial-Intelligence)<BR>[2025-07-29]
 
+
+## Feature Matching(特征匹配)
+* [Modality-Aware Feature Matching: A Comprehensive Review of Single- and Cross-Modality Techniques](https://arxiv.org/pdf/2507.22791v1)<BR>[2025-07-31]
+
 ## Machine Learning(机器学习)
 * [Machine Learning Applications to Diffuse Reflectance Spectroscopy in Optical Diagnosis; A Systematic Review](https://arxiv.org/abs/2503.02905)<BR>[2025-03-06]
 * [Prompt Mechanisms in Medical Imaging: A Comprehensive Survey](https://arxiv.org/abs/2507.01055)<BR>[2025-07-03]
@@ -58,10 +62,18 @@
 * 对抗
   * [A Survey of Adversarial Defenses in Vision-based Systems: Categorization, Methods and Challenges](https://arxiv.org/abs/2503.00384)<BR>[2025-03-04]
 
-## agriculture(农业)
+## Deepfake Detection
+* [Unmasking Synthetic Realities in Generative AI: A Comprehensive Review of Adversarially Robust Deepfake Detection Systems](https://arxiv.org/pdf/2507.21157v1)<BR>:star:[code](https://github.com/Magnet200/SOT_Deepfake_Detection_Mechanisms)<BR>[2025-07-30]
+
+## Animal(动物)
+* [A Review on Coarse to Fine-Grained Animal Action Recognition](https://arxiv.org/abs/2506.01214)<BR>[2025-06-03]
+
+## Agricultural(农业)
 * [A survey of datasets for computer vision in agriculture](https://arxiv.org/abs/2502.16950)<BR>:star:[code](https://smartfarminglab.github.io/field_dataset_survey/)<BR>[2025-02-25]
 * [Advancing Wheat Crop Analysis: A Survey of Deep Learning Approaches Using Hyperspectral Imaging](https://arxiv.org/abs/2505.00805)<BR>:star:[code](https://github.com/fadi-07/Awesome-Wheat-HSI-DeepLearning)<BR>[2025-05-05]
 * [Vision Transformers in Precision Agriculture: A Comprehensive Survey](https://arxiv.org/abs/2504.21706)<BR>[2025-05-01]
+* [Domain Adaptation in Agricultural Image Analysis: A Comprehensive Review from Shallow Models to Deep Learning](https://arxiv.org/abs/2506.05972)<BR>[2025-06-09]
+* [AI in Agriculture: A Survey of Deep Learning Techniques for Crops, Fisheries and Livestock](https://arxiv.org/pdf/2507.22101v1)<BR>:star:[code](https://github.com/umair1221/AI-in-Agriculture)<BR>[2025-07-31]
 
 ## Biomedical(生物特征识别)
 * 掌纹识别
@@ -106,15 +118,6 @@
   * [AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation](https://arxiv.org/abs/2506.01061)<BR>:star:[code](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation)<BR>[2025-06-03]
 * 长视频叙事生成
   * [A Survey on Long-Video Storytelling Generation: Architectures, Consistency, and Cinematic Quality](https://arxiv.org/abs/2507.07202)<BR>[2025-07-11]
-
-## Agricultural(农业)
-* [Domain Adaptation in Agricultural Image Analysis: A Comprehensive Review from Shallow Models to Deep Learning](https://arxiv.org/abs/2506.05972)<BR>[2025-06-09]
-
-## Deepfake Detection
-* [Unmasking Synthetic Realities in Generative AI: A Comprehensive Review of Adversarially Robust Deepfake Detection Systems](https://arxiv.org/pdf/2507.21157v1)<BR>:star:[code](https://github.com/Magnet200/SOT_Deepfake_Detection_Mechanisms)<BR>[2025-07-30]
-
-## Animal(动物)
-* [A Review on Coarse to Fine-Grained Animal Action Recognition](https://arxiv.org/abs/2506.01214)<BR>[2025-06-03]
 
 ## Action Detection(动作检测)
 * [Action Valuation in Sports: A Survey](https://arxiv.org/abs/2504.06163)<BR>[2025-04-09]
@@ -428,6 +431,8 @@
   * [A Comprehensive Survey on Video Scene Parsing:Advances, Challenges, and Prospects](https://arxiv.org/abs/2506.13552)<BR>[2025-06-17]
 * 场景理解
   * [What Demands Attention in Urban Street Scenes? From Scene Understanding towards Road Safety: A Survey of Vision-driven Datasets and Studies](https://arxiv.org/abs/2507.06513)<BR>[2025-07-10]
+* VOS
+  * [Segment Anything for Video: A Comprehensive Review of Video Object Segmentation and Tracking from Past to Future](https://arxiv.org/pdf/2507.22792v1)<BR>[2025-07-31]
 
 ## Image Retrieval(图像检索)
 * [A Comprehensive Survey on Composed Image Retrieval](https://arxiv.org/abs/2502.18495)<BR>[2025-02-27]
