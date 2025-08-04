@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月1日已公开 316+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月4日已公开 317+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -280,6 +280,7 @@
 * [Handcrafted vs. Deep Radiomics vs. Fusion vs. Deep Learning: A Comprehensive Review of Machine Learning -Based Cancer Outcome Prediction in PET and SPECT Imaging](https://arxiv.org/abs/2507.16065)<BR>[2025-07-23]
 * [Harmonization in Magnetic Resonance Imaging: A Survey of Acquisition, Image-level, and Feature-level Methods](https://arxiv.org/abs/2507.16962)<BR>[2025-07-24]
 * [Review of Deep Learning Applications to Structural Proteomics Enabled by Cryogenic Electron Microscopy and Tomography](https://arxiv.org/abs/2507.19565)<BR>[2025-07-29]
+* [Medical Reasoning in the Era of LLMs: A Systematic Review of Enhancement Techniques and Applications](https://arxiv.org/abs/2508.00669)<BR>[2025-08-04]
 * 医学图像分割
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
   * [Recent Advances in Medical Imaging Segmentation: A Survey](https://arxiv.org/abs/2505.09274)<BR>:star:[code](https://github.com/faresbougourzi/Awesome-DL-for-Medical-Imaging-Segmentation)<BR>[2025-05-15]
@@ -427,6 +428,7 @@
 * [Self-Supervised Learning for Image Segmentation: A Comprehensive Survey](https://arxiv.org/abs/2505.13584)<BR>[2025-05-21]
 * [Reasoning Segmentation for Images and Videos: A Survey](https://arxiv.org/abs/2505.18816)<BR>[2025-05-27]
 * [Image Segmentation with Large Language Models: A Survey with Perspectives for Intelligent Transportation Systems](https://arxiv.org/abs/2506.14096)<BR>[2025-06-18]
+* [Multimodal Referring Segmentation: A Survey](https://arxiv.org/abs/2508.00265)<BR>:star:[code](https://github.com/henghuiding/Awesome-Multimodal-Referring-Segmentation)<BR>[2025-08-04]
 * 语义分割
   * [A Survey on Training-free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2505.22209)<BR>[2025-05-29]
 * 场景解析
