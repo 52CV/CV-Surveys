@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月4日已公开 317+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月5日已公开 319+4 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -62,6 +62,7 @@
   * [Latest Advancements Towards Catastrophic Forgetting under Data Scarcity: A Comprehensive Survey on Few-Shot Class Incremental Learning](https://arxiv.org/abs/2502.08181)<BR>[2025-02-13]
 * 对抗
   * [A Survey of Adversarial Defenses in Vision-based Systems: Categorization, Methods and Challenges](https://arxiv.org/abs/2503.00384)<BR>[2025-03-04]
+  * [Beyond Vulnerabilities: A Survey of Adversarial Attacks as Both Threats and Defenses in Computer Vision Systems](https://arxiv.org/abs/2508.01845)<BR>[2025-08-05]
 
 ## Deepfake Detection
 * [Unmasking Synthetic Realities in Generative AI: A Comprehensive Review of Adversarially Robust Deepfake Detection Systems](https://arxiv.org/pdf/2507.21157v1)<BR>:star:[code](https://github.com/Magnet200/SOT_Deepfake_Detection_Mechanisms)<BR>[2025-07-30]
@@ -142,6 +143,7 @@
 * [Generative AI for Autonomous Driving: A Review](https://arxiv.org/abs/2505.15863)<BR>[2025-05-23]
 * [A Survey on Vision-Language-Action Models for Autonomous Driving](https://arxiv.org/abs/2506.24044)<BR>:star:[code](https://github.com/JohnsonJiang1996/Awesome-VLA4AD)<BR>[2025-07-01]
 * [Towards Autonomous Riding: A Review of Perception, Planning, and Control in Intelligent Two-Wheelers](https://arxiv.org/abs/2507.11852)<BR>[2025-07-17]
+* [A Survey on Deep Multi-Task Learning in Connected Autonomous Vehicles](https://arxiv.org/abs/2508.00917)<BR>[2025-08-05]
 * 车道线检测
   * [Datasets for Lane Detection in Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2504.08540)<BR>[2025-04-14]
 * 分心驾驶检测
@@ -356,6 +358,7 @@
 * [Vision-Language Model for Object Detection and Segmentation: A Review and Evaluation](https://arxiv.org/abs/2504.09480)<BR>:star:[code](https://github.com/better-chao/perceptual_abilities_evaluation)<BR>[2025-04-15]
 * [A Review of YOLOv12: Attention-Based Enhancements vs. Previous Versions](https://arxiv.org/abs/2504.11995)<BR>[2025-04-17]
 * [A Decade of You Only Look Once (YOLO) for Object Detection](https://arxiv.org/abs/2504.18586)<BR>[2025-04-29]
+* [YOLOv1 to YOLOv11: A Comprehensive Survey of Real-Time Object Detection Innovations and Challenges](https://arxiv.org/abs/2508.02067)<BR>[2025-08-05]
 * 线路检测
   * [Deep Learning in Automated Power Line Inspection: A Review](https://arxiv.org/abs/2502.07826)<BR>[2025-02-13]
 * 小目标检测
@@ -412,6 +415,7 @@
 * [Emotion Recognition and Generation: A Comprehensive Review of Face, Speech, and Text Modalities](https://arxiv.org/abs/2502.06803)<BR>[2025-02-12]
 * [Face Deepfakes - A Comprehensive Review](https://arxiv.org/abs/2502.09812)<BR>[2025-02-17]
 * [Generative Models at the Frontier of Compression: A Survey on Generative Face Video Coding](https://arxiv.org/abs/2506.07369)<BR>[2025-06-10]
+* [Inclusive Review on Advances in Masked Human Face Recognition Technologies](https://arxiv.org/abs/2508.00841)<BR>[2025-08-05]
 * 情绪分析
   * [Enhanced Sentiment Analysis of Iranian Restaurant Reviews Utilizing Sentiment Intensity Analyzer & Fuzzy Logic](https://arxiv.org/abs/2503.12141)<BR>[2025-03-18]
 * 情感识别
