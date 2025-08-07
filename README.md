@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月5日已公开 319+4 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月7日已公开 323+6 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -105,6 +105,9 @@
 * 异常检测
   * [Hyperspectral Anomaly Detection Methods: A Survey and Comparative Study](https://arxiv.org/abs/2507.05730)<BR>[2025-07-09]
 
+## Sound
+* [From Waveforms to Pixels: A Survey on Audio-Visual Segmentation](https://arxiv.org/abs/2508.03724)<BR>[2025-08-07]
+
 ## Video
 * [A Survey on Video Analytics in Cloud-Edge-Terminal Collaborative Systems](https://arxiv.org/abs/2502.06581)<BR>[2025-02-11]
 * [Survey of Video Diffusion Models: Foundations, Implementations, and Applications](https://arxiv.org/abs/2504.16081)<BR>:star:[code](https://github.com/Eyeline-Research/Survey-Video-Diffusion)<BR>[2025-04-23]
@@ -179,6 +182,7 @@
 * [A Survey on Efficient Vision-Language Models](https://arxiv.org/abs/2504.09724)<BR>:star:[code](https://github.com/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey)<BR>[2025-04-15]
 * [Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models](https://arxiv.org/abs/2505.04921)<BR>:star:[code](https://github.com/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models)<BR>[2025-05-09]
 * [Generalizing Vision-Language Models to Novel Domains: A Comprehensive Survey](https://arxiv.org/abs/2506.18504)<BR>[2025-06-24]
+* [Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting](https://arxiv.org/abs/2508.04227)<BR>:star:[code](https://github.com/YuyangSunshine/Awesome-Continual-learning-of-Vision-Language-Models)<BR>[2025-08-07]
 * LLM
   * [Leveraging Large Language Models For Scalable Vector Graphics Processing: A Review](https://arxiv.org/abs/2503.04983)<BR>[2025-03-10]
   * [A Review on Large Language Models for Visual Analytics](https://arxiv.org/abs/2503.15176)<BR>[2025-03-20]
@@ -194,6 +198,7 @@
   * [Survey of Adversarial Robustness in Multimodal Large Language Models](https://arxiv.org/abs/2503.13962)<BR>[2025-03-19]
   * [A Survey of Multimodal Hallucination Evaluation and Detection](https://arxiv.org/abs/2507.19024)<BR>[2025-07-28]
   * [When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token Compression across Images, Videos, and Audios](https://arxiv.org/abs/2507.20198)<BR>:star:[code](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression)<BR>[2025-07-29]
+  * [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://arxiv.org/abs/2508.04482)<BR>[2025-08-07]
 * 基础模型
   * [Vision Generalist Model: A Survey](https://arxiv.org/abs/2506.09954)<BR>[2025-06-12]
 * 多模态推理
@@ -283,6 +288,8 @@
 * [Harmonization in Magnetic Resonance Imaging: A Survey of Acquisition, Image-level, and Feature-level Methods](https://arxiv.org/abs/2507.16962)<BR>[2025-07-24]
 * [Review of Deep Learning Applications to Structural Proteomics Enabled by Cryogenic Electron Microscopy and Tomography](https://arxiv.org/abs/2507.19565)<BR>[2025-07-29]
 * [Medical Reasoning in the Era of LLMs: A Systematic Review of Enhancement Techniques and Applications](https://arxiv.org/abs/2508.00669)<BR>[2025-08-04]
+* [A Survey of Multimodal Ophthalmic Diagnostics: From Task-Specific Approaches to Foundational Models](https://arxiv.org/abs/2508.03734)<BR>[2025-08-07]
+* [A Survey of Medical Point Cloud Shape Learning: Registration, Reconstruction and Variation](https://arxiv.org/abs/2508.03057)<BR>[2025-08-06]
 * 医学图像分割
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
   * [Recent Advances in Medical Imaging Segmentation: A Survey](https://arxiv.org/abs/2505.09274)<BR>:star:[code](https://github.com/faresbougourzi/Awesome-DL-for-Medical-Imaging-Segmentation)<BR>[2025-05-15]
@@ -359,6 +366,7 @@
 * [A Review of YOLOv12: Attention-Based Enhancements vs. Previous Versions](https://arxiv.org/abs/2504.11995)<BR>[2025-04-17]
 * [A Decade of You Only Look Once (YOLO) for Object Detection](https://arxiv.org/abs/2504.18586)<BR>[2025-04-29]
 * [YOLOv1 to YOLOv11: A Comprehensive Survey of Real-Time Object Detection Innovations and Challenges](https://arxiv.org/abs/2508.02067)<BR>[2025-08-05]
+* [Architectural Insights into Knowledge Distillation for Object Detection: A Comprehensive Review](https://arxiv.org/abs/2508.03317)<BR>[2025-08-06]
 * 线路检测
   * [Deep Learning in Automated Power Line Inspection: A Review](https://arxiv.org/abs/2502.07826)<BR>[2025-02-13]
 * 小目标检测
