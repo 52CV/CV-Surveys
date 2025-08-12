@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月7日已公开 323+6 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月12日已公开 329+3 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -54,6 +54,7 @@
 * 强化学习
   * [Exploring Mutual Empowerment Between Wireless Networks and RL-based LLMs: A Survey](https://arxiv.org/abs/2503.09956)<BR>[2025-03-14]
   * [Alignment and Safety of Diffusion Models via Reinforcement Learning and Reward Modeling: A Survey](https://arxiv.org/abs/2505.17352)<BR>[2025-05-26]
+  * [Reinforcement Learning in Vision: A Survey](https://arxiv.org/abs/2508.08189)<BR>:star:[code](https://github.com/weijiawu/Awesome-Visual-Reinforcement-Learning)<BR>[2025-08-12]
 * 对比学习
   * [A Survey on Data Curation for Visual Contrastive Learning: Why Crafting Effective Positive and Negative Pairs Matters](https://arxiv.org/abs/2502.08134)<BR>[2025-02-13]
 * 持续学习
@@ -147,6 +148,7 @@
 * [A Survey on Vision-Language-Action Models for Autonomous Driving](https://arxiv.org/abs/2506.24044)<BR>:star:[code](https://github.com/JohnsonJiang1996/Awesome-VLA4AD)<BR>[2025-07-01]
 * [Towards Autonomous Riding: A Review of Perception, Planning, and Control in Intelligent Two-Wheelers](https://arxiv.org/abs/2507.11852)<BR>[2025-07-17]
 * [A Survey on Deep Multi-Task Learning in Connected Autonomous Vehicles](https://arxiv.org/abs/2508.00917)<BR>[2025-08-05]
+* [Progressive Bird's Eye View Perception for Safety-Critical Autonomous Driving: A Comprehensive Survey](https://arxiv.org/abs/2508.07560)<BR>[2025-08-12]
 * 车道线检测
   * [Datasets for Lane Detection in Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2504.08540)<BR>[2025-04-14]
 * 分心驾驶检测
@@ -323,6 +325,8 @@
   * [Ancient Script Image Recognition and Processing: A Review](https://arxiv.org/abs/2506.19208)<BR>[2025-06-25]
 * 文档理解
   * [A Survey on MLLM-based Visually Rich Document Understanding: Methods, Challenges, and Emerging Trends](https://arxiv.org/abs/2507.09861)<BR>[2025-07-15]
+* 中文字体生成
+  * [Advancements in Chinese font generation since deep learning era: A survey](https://arxiv.org/abs/2508.06900)<BR>[2025-08-12]
 
 ## UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
 * [Advancing Earth Observation: A Survey on AI-Powered Image Processing in Satellites](https://arxiv.org/abs/2501.12030)<BR>[2025-01-22]
