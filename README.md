@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月12日已公开 329+3 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月14日已公开 332+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -193,6 +193,7 @@
   * [PEFT A2Z: Parameter-Efficient Fine-Tuning Survey for Large Language and Vision Models](https://arxiv.org/abs/2504.14117)<BR>:star:[code](https://github.com/Nusrat-Prottasha/PEFT-A2Z)<BR>[2025-04-22]
   * [A Survey on (M)LLM-Based GUI Agents](https://arxiv.org/abs/2504.13865)<BR>[2025-04-22]
   * [Towards Transparent AI: A Survey on Explainable Large Language Models](https://arxiv.org/abs/2506.21812)<BR>[2025-06-30]
+  * [Speed Always Wins: A Survey on Efficient Architectures for Large Language Models](https://arxiv.org/abs/2508.09834)<BR>:star:[code](https://github.com/weigao266/Awesome-Efficient-Arch)<BR>[2025-08-14]
 * MLLM
   * [Multimodal Large Language Models for Text-rich Image Understanding: A Comprehensive Review](https://arxiv.org/abs/2502.16586)<BR>[2025-02-25]
   * [Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey](https://arxiv.org/abs/2503.12605)<BR>:star:[code](https://github.com/yaotingwangofficial/Awesome-MCoT)<BR>[2025-03-18]
@@ -421,6 +422,8 @@
   * [Endoscopic Depth Estimation Based on Deep Learning: A Survey](https://arxiv.org/abs/2507.20881)<BR>[2025-07-29]
 * 三维形状生成
   * [3D Shape Generation: A Survey](https://arxiv.org/abs/2506.22678)<BR>[2025-07-01]
+* 3DGS
+  * [A Survey on 3D Gaussian Splatting Applications: Segmentation, Editing, and Generation](https://arxiv.org/abs/2508.09977)<BR>:star:[code](https://github.com/heshuting555/Awesome-3DGS-Applications)<BR>[2025-08-14]
 
 ## Face(人脸)
 * [A Survey on Facial Image Privacy Preservation in Cloud-Based Services](https://arxiv.org/abs/2501.08665)<BR>[2025-01-16]
