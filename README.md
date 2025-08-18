@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月14日已公开 332+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月15日已公开 334+3 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -40,10 +40,13 @@
 
 ## OOD
 * [Recent Advances in Out-of-Distribution Detection with CLIP-Like Models: A Survey](http://arxiv.org/abs/2505.02448v1)<BR>[2025-05-06]
+* [From Pixel to Mask: A Survey of Out-of-Distribution Segmentation](https://arxiv.org/abs/2508.10309)<BR>[2025-08-18]
 
 ## 4D
 * [Reconstructing 4D Spatial Intelligence: A Survey](https://arxiv.org/abs/2507.21045)<BR>:star:[code](https://github.com/yukangcao/Awesome-4D-Spatial-Intelligence)<BR>[2025-07-29]
 
+## Crack Detection(裂缝检测)
+* [Deep Learning for Crack Detection: A Review of Learning Paradigms, Generalizability, and Datasets](https://arxiv.org/abs/2508.10256)<BR>:star:[code](https://github.com/nantonzhang/Awesome-Crack-Detection)<BR>[2025-08-18]
 
 ## Feature Matching(特征匹配)
 * [Modality-Aware Feature Matching: A Comprehensive Review of Single- and Cross-Modality Techniques](https://arxiv.org/pdf/2507.22791v1)<BR>[2025-07-31]
@@ -538,6 +541,7 @@
 * [A Survey on Interpretability in Visual Recognition](https://arxiv.org/abs/2507.11099)<BR>[2025-07-16]
 * [A Survey of Deep Learning for Geometry Problem Solving](https://arxiv.org/abs/2507.11936)<BR>:star:[code](https://github.com/majianz/dl4gps)<BR>[2025-07-17]
 * [Transformer-based Spatial Grounding: A Comprehensive Survey](https://arxiv.org/abs/2507.12739)<BR>[2025-07-18]
+* [Agentic Design Review System](https://arxiv.org/abs/2508.10745)<BR>[2025-08-18]
 
 <a name="00000"/>
 
