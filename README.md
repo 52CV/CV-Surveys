@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月19日已公开 337+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月20日已公开 339+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -96,6 +96,7 @@
 * [Semantic Mapping in Indoor Embodied AI – A Comprehensive Survey and Future Directions](https://arxiv.org/abs/2501.05750)<BR>[2025-01-13]
 * [OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation](https://arxiv.org/abs/2505.03912)<BR>:star:[code](https://openhelix-robot.github.io/)<BR>[2025-05-08]
 * [Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review](https://arxiv.org/abs/2505.20503)<BR>[2025-05-28]
+* [Multimodal Data Storage and Retrieval for Embodied AI: A Survey](https://arxiv.org/abs/2508.13901)<BR>[2025-08-20]
 * 位置识别
   * [Place Recognition: A Comprehensive Review, Current Challenges and Future Directions](https://arxiv.org/abs/2505.14068)<BR>:star:[code](https://github.com/CV4RA/SOTA-Place-Recognitioner)<BR>[2025-05-21]
 * 导航
@@ -318,6 +319,8 @@
   * [A Survey on fMRI-based Brain Decoding for Reconstructing Multimodal Stimuli](https://arxiv.org/abs/2503.15978)<BR>:star:[code](https://github.com/LpyNow/BrainDecodingImage)<BR>[2025-03-21]
 * VQA
   * [Barriers in Integrating Medical Visual Question Answering into Radiology Workflows: A Scoping Review and Clinicians' Insights](https://arxiv.org/abs/2507.08036)<BR>[2025-07-14]
+* CT
+  * [State of Abdominal CT Datasets: A Critical Review of Bias, Clinical Relevance, and Real-world Applicability](https://arxiv.org/abs/2508.13626)<BR>[2025-08-20]
 
 ## OCR
 * [Handwritten Text Recognition: A Survey](https://arxiv.org/abs/2502.08417)<BR>[2025-02-13]
