@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月20日已公开 339+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月21日已公开 341+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -126,6 +126,8 @@
   * [Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges](https://arxiv.org/abs/2507.02074)<BR>[2025-07-04]
 * 视频帧插值
   * [AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation](https://arxiv.org/abs/2506.01061)<BR>:star:[code](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation)<BR>[2025-06-03]
+* 视频异常检测
+  * [A Survey on Video Anomaly Detection via Deep Learning: Human, Vehicle, and Environment](https://arxiv.org/abs/2508.14203)<BR>[2025-08-21]
 * 长视频叙事生成
   * [A Survey on Long-Video Storytelling Generation: Architectures, Consistency, and Cinematic Quality](https://arxiv.org/abs/2507.07202)<BR>[2025-07-11]
 
@@ -349,6 +351,7 @@
 * [From Physics to Foundation Models: A Review of AI-Driven Quantitative Remote Sensing Inversion](https://arxiv.org/abs/2507.09081)<BR>[2025-07-15]
 * [Hyper-spectral Unmixing algorithms for remote compositional surface mapping: a review of the state of the art](https://arxiv.org/abs/2507.14260)<BR>[2025-07-22]
 * [Sun sensor calibration algorithms: A systematic mapping and survey](https://arxiv.org/pdf/2507.21541v1)<BR>[2025-07-30]
+* [A Comprehensive Review of Agricultural Parcel and Boundary Delineation from Remote Sensing Images: Recent Progress and Future Perspectives](https://arxiv.org/abs/2508.14558)<BR>[2025-08-21]
 * 目标检测
   * [Open-Vocabulary Object Detection in UAV Imagery: A Review and Future Perspectives](https://arxiv.org/abs/2507.13359)<BR>:star:[code](https://github.com/zhouyang2002/OVOD-in-UVA-imagery)<BR>[2025-07-21]
 * Anti-UAV
