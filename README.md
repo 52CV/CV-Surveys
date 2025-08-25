@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月21日已公开 341+2 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月25日已公开 343+1 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -550,6 +550,7 @@
 * [A Survey of Deep Learning for Geometry Problem Solving](https://arxiv.org/abs/2507.11936)<BR>:star:[code](https://github.com/majianz/dl4gps)<BR>[2025-07-17]
 * [Transformer-based Spatial Grounding: A Comprehensive Survey](https://arxiv.org/abs/2507.12739)<BR>[2025-07-18]
 * [Agentic Design Review System](https://arxiv.org/abs/2508.10745)<BR>[2025-08-18]
+* [Towards Open World Detection: A Survey](https://arxiv.org/abs/2508.16527)<BR>[2025-08-25]
 
 <a name="00000"/>
 
