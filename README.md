@@ -22,14 +22,15 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月25日已公开 343+1 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月29日已公开 352 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
 4月41篇。<BR>
 5月56篇。<BR>
 6月39篇。<BR>
-8月49篇。<BR>
+7月49篇。<BR>316
+8月36篇。<BR>352
 
 ## 目录
 
@@ -44,6 +45,9 @@
 
 ## 4D
 * [Reconstructing 4D Spatial Intelligence: A Survey](https://arxiv.org/abs/2507.21045)<BR>:star:[code](https://github.com/yukangcao/Awesome-4D-Spatial-Intelligence)<BR>[2025-07-29]
+
+## 图像隐写术(Image Steganography)
+* [A Technical Review on Comparison and Estimation of Steganographic Tools](https://arxiv.org/pdf/2508.19323)<BR>[2025-08-28]
 
 ## Crack Detection(裂缝检测)
 * [Deep Learning for Crack Detection: A Review of Learning Paradigms, Generalizability, and Datasets](https://arxiv.org/abs/2508.10256)<BR>:star:[code](https://github.com/nantonzhang/Awesome-Crack-Detection)<BR>[2025-08-18]
@@ -121,6 +125,7 @@
 * 视频理解
   * [VideoLLM Benchmarks and Evaluation: A Survey](https://arxiv.org/abs/2505.03829)<BR>[2025-05-08]
   * [Bridging Perspectives: A Survey on Cross-view Collaborative Intelligence with Egocentric-Exocentric Vision](https://arxiv.org/abs/2506.06253)<BR>:star:[code](https://github.com/ayiyayi/Awesome-Egocentric-and-Exocentric-Vision)<BR>[2025-06-09]
+  * [Looking Beyond the Obvious: A Survey on Abstract Concept Recognition for Video Understanding](https://arxiv.org/pdf/2508.20765)<BR>[2025-08-29]
 * 视频监控
   * [Video Forgery Detection for Surveillance Cameras: A Review](https://arxiv.org/abs/2505.03832)<BR>[2025-05-08]
   * [Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges](https://arxiv.org/abs/2507.02074)<BR>[2025-07-04]
@@ -155,6 +160,8 @@
 * [Towards Autonomous Riding: A Review of Perception, Planning, and Control in Intelligent Two-Wheelers](https://arxiv.org/abs/2507.11852)<BR>[2025-07-17]
 * [A Survey on Deep Multi-Task Learning in Connected Autonomous Vehicles](https://arxiv.org/abs/2508.00917)<BR>[2025-08-05]
 * [Progressive Bird's Eye View Perception for Safety-Critical Autonomous Driving: A Comprehensive Survey](https://arxiv.org/abs/2508.07560)<BR>[2025-08-12]
+* [Hyperspectral Sensors and Autonomous Driving: Technologies, Limitations, and Opportunities](https://arxiv.org/pdf/2508.19905)<BR>[2025-08-28]
+* [To New Beginnings: A Survey of Unified Perception in Autonomous Vehicle Software](https://arxiv.org/pdf/2508.20892)<BR>[2025-08-29]
 * 车道线检测
   * [Datasets for Lane Detection in Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2504.08540)<BR>[2025-04-14]
 * 分心驾驶检测
@@ -299,10 +306,12 @@
 * [Medical Reasoning in the Era of LLMs: A Systematic Review of Enhancement Techniques and Applications](https://arxiv.org/abs/2508.00669)<BR>[2025-08-04]
 * [A Survey of Multimodal Ophthalmic Diagnostics: From Task-Specific Approaches to Foundational Models](https://arxiv.org/abs/2508.03734)<BR>[2025-08-07]
 * [A Survey of Medical Point Cloud Shape Learning: Registration, Reconstruction and Variation](https://arxiv.org/abs/2508.03057)<BR>[2025-08-06]
+* [Federated Learning for Large Models in Medical Imaging: A Comprehensive Review](https://arxiv.org/pdf/2508.20414)<BR>[2025-08-29]
 * 医学图像分割
   * [A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation](https://arxiv.org/abs/2502.06895)<BR>[2025-02-12]
   * [Recent Advances in Medical Imaging Segmentation: A Survey](https://arxiv.org/abs/2505.09274)<BR>:star:[code](https://github.com/faresbougourzi/Awesome-DL-for-Medical-Imaging-Segmentation)<BR>[2025-05-15]
   * [Generalist Models in Medical Image Segmentation: A Survey and Performance Comparison with Task-Specific Approaches](https://arxiv.org/abs/2506.10825)<BR>[2025-06-13]
+  * [Is the medical image segmentation problem solved? A survey of current developments and future directions](https://arxiv.org/pdf/2508.20139)<BR>[2025-08-29]
 * 医学图像融合
   * [A Comprehensive Review of Techniques, Algorithms, Advancements, Challenges, and Clinical Applications of Multi-modal Medical Image Fusion for Improved Diagnosis](https://arxiv.org/abs/2505.14715)<BR>[2025-05-22]
 * 医学图像分类
@@ -382,6 +391,7 @@
 * [A Decade of You Only Look Once (YOLO) for Object Detection](https://arxiv.org/abs/2504.18586)<BR>[2025-04-29]
 * [YOLOv1 to YOLOv11: A Comprehensive Survey of Real-Time Object Detection Innovations and Challenges](https://arxiv.org/abs/2508.02067)<BR>[2025-08-05]
 * [Architectural Insights into Knowledge Distillation for Object Detection: A Comprehensive Review](https://arxiv.org/abs/2508.03317)<BR>[2025-08-06]
+* [Object Detection with Multimodal Large Vision-Language Models: An In-depth Review](https://arxiv.org/pdf/2508.19294)<BR>[2025-08-28]
 * 线路检测
   * [Deep Learning in Automated Power Line Inspection: A Review](https://arxiv.org/abs/2502.07826)<BR>[2025-02-13]
 * 小目标检测
@@ -442,6 +452,7 @@
 * [Face Deepfakes - A Comprehensive Review](https://arxiv.org/abs/2502.09812)<BR>[2025-02-17]
 * [Generative Models at the Frontier of Compression: A Survey on Generative Face Video Coding](https://arxiv.org/abs/2506.07369)<BR>[2025-06-10]
 * [Inclusive Review on Advances in Masked Human Face Recognition Technologies](https://arxiv.org/abs/2508.00841)<BR>[2025-08-05]
+* [Deep Data Hiding for ICAO-Compliant Face Images: A Survey](https://arxiv.org/pdf/2508.19324)<BR>[2025-08-28]
 * 情绪分析
   * [Enhanced Sentiment Analysis of Iranian Restaurant Reviews Utilizing Sentiment Intensity Analyzer & Fuzzy Logic](https://arxiv.org/abs/2503.12141)<BR>[2025-03-18]
 * 情感识别
