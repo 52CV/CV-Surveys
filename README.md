@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至8月29日已公开 352 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月30日已公开 352+31 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -31,6 +31,7 @@
 6月39篇。<BR>
 7月49篇。<BR>316
 8月36篇。<BR>352
+9月31篇。<BR>383
 
 ## 目录
 
@@ -45,6 +46,16 @@
 
 ## 4D
 * [Reconstructing 4D Spatial Intelligence: A Survey](https://arxiv.org/abs/2507.21045)<BR>:star:[code](https://github.com/yukangcao/Awesome-4D-Spatial-Intelligence)<BR>[2025-07-29]
+* [3D and 4D World Modeling: A Survey](https://arxiv.org/abs/2509.07996)<BR>:star:[code](https://github.com/worldbench/survey)<BR>[2025-09-11]
+
+# XAI
+* [xAI-CV: An Overview of Explainable Artificial Intelligence in Computer Vision](https://arxiv.org/abs/2509.18913)<BR>[2025-09-24]
+
+## 计算成像(Computational Imaging)
+* [Computational Imaging for Enhanced Computer Vision](https://arxiv.org/abs/2509.08712)<BR>[2025-09-11]
+
+## 时序图像取证(Temporal image forensics)
+* [Temporal Image Forensics: A Review and Critical Evaluation](https://arxiv.org/abs/2509.07591)<BR>[2025-09-10]
 
 ## 图像隐写术(Image Steganography)
 * [A Technical Review on Comparison and Estimation of Steganographic Tools](https://arxiv.org/pdf/2508.19323)<BR>[2025-08-28]
@@ -95,12 +106,14 @@
 ## Motion Generation(动作生成)
 * [Text-driven Motion Generation: Overview, Challenges and Directions](https://arxiv.org/abs/2505.09379)<BR>[2025-05-15]
 * [Motion Generation: A Survey of Generative Approaches and Benchmarks](https://arxiv.org/abs/2507.05419)<BR>[2025-07-09]
+* [Human Motion Video Generation: A Survey](https://arxiv.org/abs/2509.03883)<BR>:star:[code](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation)<BR>[2025-09-05]
 
 ## Robots(机器人)
 * [Semantic Mapping in Indoor Embodied AI – A Comprehensive Survey and Future Directions](https://arxiv.org/abs/2501.05750)<BR>[2025-01-13]
 * [OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation](https://arxiv.org/abs/2505.03912)<BR>:star:[code](https://openhelix-robot.github.io/)<BR>[2025-05-08]
 * [Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review](https://arxiv.org/abs/2505.20503)<BR>[2025-05-28]
 * [Multimodal Data Storage and Retrieval for Embodied AI: A Survey](https://arxiv.org/abs/2508.13901)<BR>[2025-08-20]
+* [Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey](https://arxiv.org/abs/2508.13073)<BR>:star:[code](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation)<BR>[2025-09-04]
 * 位置识别
   * [Place Recognition: A Comprehensive Review, Current Challenges and Future Directions](https://arxiv.org/abs/2505.14068)<BR>:star:[code](https://github.com/CV4RA/SOTA-Place-Recognitioner)<BR>[2025-05-21]
 * 导航
@@ -126,6 +139,7 @@
   * [VideoLLM Benchmarks and Evaluation: A Survey](https://arxiv.org/abs/2505.03829)<BR>[2025-05-08]
   * [Bridging Perspectives: A Survey on Cross-view Collaborative Intelligence with Egocentric-Exocentric Vision](https://arxiv.org/abs/2506.06253)<BR>:star:[code](https://github.com/ayiyayi/Awesome-Egocentric-and-Exocentric-Vision)<BR>[2025-06-09]
   * [Looking Beyond the Obvious: A Survey on Abstract Concept Recognition for Video Understanding](https://arxiv.org/pdf/2508.20765)<BR>[2025-08-29]
+  * [Video Understanding by Design: How Datasets Shape Architectures and Insights](https://arxiv.org/abs/2509.09151)<BR>[2025-09-12]
 * 视频监控
   * [Video Forgery Detection for Surveillance Cameras: A Review](https://arxiv.org/abs/2505.03832)<BR>[2025-05-08]
   * [Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges](https://arxiv.org/abs/2507.02074)<BR>[2025-07-04]
@@ -145,6 +159,9 @@
 * [Recent Deep Learning in Crowd Behaviour Analysis: A Brief Review](https://arxiv.org/abs/2505.18401)<BR>[2025-05-27]
 * [Causality and "In-the-Wild" Video-Based Person Re-ID: A Survey](https://arxiv.org/abs/2505.20540)<BR>[2025-05-28]
 * [Domain Generalization for Person Re-identification: A Survey Towards Domain-Agnostic Person Matching](https://arxiv.org/abs/2506.12413)<BR>:star:[code](https://github.com/PerceptualAI-Lab/Awesome-Domain-Generalizable-Person-Re-ID)<BR>[2025-06-17]
+* [A review of Recent Techniques for Person Re-Identification](https://arxiv.org/pdf/2509.22690)<BR>[2025-09-30]
+* 行为检测
+  * [Enhancing Online Learning by Integrating Biosensors and Multimodal Learning Analytics for Detecting and Predicting Student Behavior: A Review](https://arxiv.org/abs/2509.07742)<BR>:star:[code](https://www.tandfonline.com/journals/tbit20)<BR>[2025-09-10]
 
 ## Autonomous Driving(自动驾驶)
 * [A Survey of World Models for Autonomous Driving](https://arxiv.org/abs/2501.11260)<BR>[2025-01-22]
@@ -162,6 +179,9 @@
 * [Progressive Bird's Eye View Perception for Safety-Critical Autonomous Driving: A Comprehensive Survey](https://arxiv.org/abs/2508.07560)<BR>[2025-08-12]
 * [Hyperspectral Sensors and Autonomous Driving: Technologies, Limitations, and Opportunities](https://arxiv.org/pdf/2508.19905)<BR>[2025-08-28]
 * [To New Beginnings: A Survey of Unified Perception in Autonomous Vehicle Software](https://arxiv.org/pdf/2508.20892)<BR>[2025-08-29]
+* [Foundation Models for Autonomous Driving Perception: A Survey Through Core Capabilities](https://arxiv.org/abs/2509.08302)<BR>[2025-09-11]
+* [Maps for Autonomous Driving: Full-process Survey and Frontiers](https://arxiv.org/abs/2509.12632)<BR>[2025-09-17]
+* [From Static to Dynamic: a Survey of Topology-Aware Perception in Autonomous Driving](https://arxiv.org/pdf/2509.23641)<BR>[2025-09-30]
 * 车道线检测
   * [Datasets for Lane Detection in Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2504.08540)<BR>[2025-04-14]
 * 分心驾驶检测
@@ -169,6 +189,8 @@
   * [Visual Dominance and Emerging Multimodal Approaches in Distracted Driving Detection: A Review of Machine Learning Techniques](http://arxiv.org/abs/2505.01973v1)<BR>[2025-05-06]
 * 交通事故预测
   * [Deep Learning Advances in Vision-Based Traffic Accident Anticipation: A Comprehensive Review of Methods,Datasets,and Future Directions](https://arxiv.org/abs/2505.07611)<BR>[2025-05-13]
+* 全景视觉
+  * [One Flight Over the Gap: A Survey from Perspective to Panoramic Vision](https://arxiv.org/abs/2509.04444)<BR>:star:[code](https://insta360-research-team.github.io/Survey-of-Panorama)<BR>[2025-09-05]
 
 ## Machine Learning
 * [A Systematic Review of Machine Learning Methods for Multimodal EEG Data in Clinical Application](https://arxiv.org/abs/2501.08585)<BR>[2025-01-16]
@@ -217,6 +239,8 @@
   * [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://arxiv.org/abs/2508.04482)<BR>[2025-08-07]
 * 基础模型
   * [Vision Generalist Model: A Survey](https://arxiv.org/abs/2506.09954)<BR>[2025-06-12]
+* 视觉定位
+  * [Towards Understanding Visual Grounding in Visual Language Models](https://arxiv.org/abs/2509.10345)<BR>[2025-09-15]
 * 多模态推理
   * [Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers](https://arxiv.org/abs/2506.23918)<BR>:star:[code](https://github.com/zhaochen0110/Awesome_Think_With_Images)<BR>[2025-07-01]
 
@@ -316,10 +340,12 @@
   * [A Comprehensive Review of Techniques, Algorithms, Advancements, Challenges, and Clinical Applications of Multi-modal Medical Image Fusion for Improved Diagnosis](https://arxiv.org/abs/2505.14715)<BR>[2025-05-22]
 * 医学图像分类
   * [Recent Advances in Medical Image Classification](https://arxiv.org/abs/2506.04129)<BR>[2025-06-05]
+  * [Towards a Transparent and Interpretable AI Model for Medical Image Classifications](https://arxiv.org/abs/2509.16685)<BR>[2025-09-23]
 * 医学图像分析
   * [Explainable Artificial Intelligence in Biomedical Image Analysis: A Comprehensive Survey](https://arxiv.org/abs/2507.07148)<BR>[2025-07-11]
 * 手术场景理解
   * [Surgical Scene Understanding in the Era of Foundation AI Models: A Comprehensive Review](https://arxiv.org/abs/2502.14886)<BR>[2025-02-24]
+  * [Decoding the Surgical Scene: A Scoping Review of Scene Graphs in Surgery](https://arxiv.org/abs/2509.20941)<BR>[2025-09-26]
 * 手术视频分割
   * [Deep learning approaches to surgical video segmentation and object detection: A Scoping Review](https://arxiv.org/abs/2502.16459)<BR>[2025-02-25]
 * 图像配准
@@ -328,6 +354,8 @@
   * [A Survey of fMRI to Image Reconstruction](https://arxiv.org/abs/2502.16861)<BR>[2025-02-25]
   * [A Comprehensive Survey on Magnetic Resonance Image Reconstruction](https://arxiv.org/abs/2503.07097)<BR>[2025-03-11]
   * [A Survey on fMRI-based Brain Decoding for Reconstructing Multimodal Stimuli](https://arxiv.org/abs/2503.15978)<BR>:star:[code](https://github.com/LpyNow/BrainDecodingImage)<BR>[2025-03-21]
+  * [Systematic Review and Meta-analysis of AI-driven MRI Motion Artifact Detection and Correction](https://arxiv.org/abs/2509.05071)<BR>[2025-09-06]
+  * [Evaluation of Machine Learning Reconstruction Techniques for Accelerated Brain MRI Scans](https://arxiv.org/pdf/2509.07193)<BR>[2025-09-10]
 * VQA
   * [Barriers in Integrating Medical Visual Question Answering into Radiology Workflows: A Scoping Review and Clinicians' Insights](https://arxiv.org/abs/2507.08036)<BR>[2025-07-14]
 * CT
@@ -339,6 +367,7 @@
 * [A Survey on Vietnamese Document Analysis and Recognition: Challenges and Future Directions](https://arxiv.org/abs/2506.05061)<BR>[2025-06-06]
 * [Advancing Offline Handwritten Text Recognition: A Systematic Review of Data Augmentation and Generation Techniques](https://arxiv.org/abs/2507.06275)<BR>[2025-07-10]
 * [Seeing the Signs: A Survey of Edge-Deployable OCR Models for Billboard Visibility Analysis](https://arxiv.org/abs/2507.11730)<BR>[2025-07-17]
+* [Automatic Intermodal Loading Unit Identification using Computer Vision: A Scoping Review](https://arxiv.org/abs/2509.17707)<BR>[2025-09-23]
 * 古文字图像识别
   * [Ancient Script Image Recognition and Processing: A Review](https://arxiv.org/abs/2506.19208)<BR>[2025-06-25]
 * 文档理解
@@ -392,6 +421,7 @@
 * [YOLOv1 to YOLOv11: A Comprehensive Survey of Real-Time Object Detection Innovations and Challenges](https://arxiv.org/abs/2508.02067)<BR>[2025-08-05]
 * [Architectural Insights into Knowledge Distillation for Object Detection: A Comprehensive Review](https://arxiv.org/abs/2508.03317)<BR>[2025-08-06]
 * [Object Detection with Multimodal Large Vision-Language Models: An In-depth Review](https://arxiv.org/pdf/2508.19294)<BR>[2025-08-28]
+* [Explaining What Machines See: XAI Strategies in Deep Object Detection Models](https://arxiv.org/abs/2509.01991)<BR>[2025-09-03]
 * 线路检测
   * [Deep Learning in Automated Power Line Inspection: A Review](https://arxiv.org/abs/2502.07826)<BR>[2025-02-13]
 * 小目标检测
@@ -399,6 +429,9 @@
 * 3D目标检测
   * [A Review of 3D Object Detection with Vision-Language Models](https://arxiv.org/abs/2504.18738)<BR>[2025-04-29]
   * [Few-Shot Learning in Video and 3D Object Detection: A Survey](https://arxiv.org/abs/2507.17079)<BR>[2025-07-24]
+* 水下监测
+  * [AI-Driven Marine Robotics: Emerging Trends in Underwater Perception and Ecosystem Monitoring](https://arxiv.org/abs/2509.01878)<BR>[2025-09-03]
+  * [A Structured Review of Underwater Object Detection Challenges and Solutions: From Traditional to Large Vision Language Models](https://arxiv.org/abs/2509.08490)<BR>[2025-09-11]
 
 ## HOI
 * [3D Human Interaction Generation: A Survey](https://arxiv.org/abs/2503.13120)<BR>[2025-03-18]
@@ -416,12 +449,15 @@
 * [Emotion Recognition from Skeleton Data: A Comprehensive Survey](https://arxiv.org/abs/2507.18026)<BR>[2025-07-25]
 * 手势识别
   * [Visual Hand Gesture Recognition with Deep Learning: A Comprehensive Review of Methods, Datasets, Challenges and Future Research Directions](https://arxiv.org/abs/2507.04465)<BR>[2025-07-08]
+* 3D HPE
+  * [3D Human Pose and Shape Estimation from LiDAR Point Clouds: A Review](https://arxiv.org/abs/2509.12197)<BR>:star:[code](https://github.com/valeoai/3D-Human-Pose-Shape-Estimation-from-LiDAR)<BR>[2025-09-16]
 
 ## Points Cloud(点云)
 * [Implicit Guidance and Explicit Representation of Semantic Information in Points Cloud: A Survey](https://arxiv.org/abs/2501.05473)<BR>[2025-01-13]
 * [Point Cloud Based Scene Segmentation: A Survey](https://arxiv.org/abs/2503.12595)<BR>[2025-03-18]
 * [Point Cloud Compression and Objective Quality Assessment: A Survey](https://arxiv.org/abs/2506.22902)<BR>[2025-07-01]
 * [Deep Learning For Point Cloud Denoising: A Survey](https://arxiv.org/abs/2508.11932)<BR>[2025-08-19]
+* [Deep learning for 3D point cloud processing - from approaches, tasks to its implications on urban and environmental applications](https://arxiv.org/abs/2509.12452)<BR>[2025-09-17]
 
 ## 3D Visual
 * [Deep Learning Reforms Image Matching: A Survey and Outlook](https://arxiv.org/abs/2506.04619)<BR>[2025-06-06]
@@ -437,6 +473,7 @@
   * [A Survey of 3D Reconstruction with Event Cameras: From Event-based Geometry to Neural 3D Rendering](https://arxiv.org/abs/2505.08438)<BR>[2025-05-14]
   * [Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT](https://arxiv.org/abs/2507.08448)<BR>[2025-07-14]
   * [Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey](https://arxiv.org/abs/2507.14501)<BR>:star:[code](https://fnzhan.com/projects/Feed-Forward-3D)<BR>[2025-07-22]
+  * [Event Camera Guided Visual Media Restoration & 3D Reconstruction: A Survey](https://arxiv.org/abs/2509.09971)<BR>[2025-09-15]
 * 深度估计
   * [A Systematic Literature Review on Deep Learning-based Depth Estimation in Computer Vision](https://arxiv.org/abs/2501.05147)<BR>[2025-01-10]
   * [Survey on Monocular Metric Depth Estimation](https://arxiv.org/abs/2501.11841)<BR>[2025-01-22]
@@ -445,6 +482,7 @@
   * [3D Shape Generation: A Survey](https://arxiv.org/abs/2506.22678)<BR>[2025-07-01]
 * 3DGS
   * [A Survey on 3D Gaussian Splatting Applications: Segmentation, Editing, and Generation](https://arxiv.org/abs/2508.09977)<BR>:star:[code](https://github.com/heshuting555/Awesome-3DGS-Applications)<BR>[2025-08-14]
+  * [From Fields to Splats: A Cross-Domain Survey of Real-Time Neural Scene Representations](https://arxiv.org/pdf/2509.23555)<BR>[2025-09-30]
 
 ## Face(人脸)
 * [A Survey on Facial Image Privacy Preservation in Cloud-Based Services](https://arxiv.org/abs/2501.08665)<BR>[2025-01-16]
@@ -459,6 +497,9 @@
   * [Evaluation in EEG Emotion Recognition: State-of-the-Art Review and Unified Framework](https://arxiv.org/abs/2505.18175)<BR>[2025-05-27]
 * 说话头
   * [Advancing Talking Head Generation: A Comprehensive Survey of Multi-Modal Methodologies, Datasets, Evaluation Metrics, and Loss Functions](https://arxiv.org/abs/2507.02900)<BR>:star:[code](https://github.com/VineetKumarRakesh/thg)<BR>[2025-07-08]
+
+## Image/Video compress(图视频压缩)
+* [Compressed Video Quality Enhancement: Classifying and Benchmarking over Standards(https://arxiv.org/abs/2509.10407)<BR>[2025-09-15]
 
 ## Image Captioning(图像字幕)
 * [Attention-based transformer models for image captioning across languages: An in-depth survey and evaluation](https://arxiv.org/abs/2506.05399)<BR>[2025-06-09]
@@ -488,9 +529,12 @@
 * [Plant Leaf Disease Detection and Classification Using Deep Learning: A Review and A Proposed System on Bangladesh's Perspective](https://arxiv.org/abs/2501.03305)<BR>[2025-01-08]基于深度学习的植物叶片病害检测与分类
 * 作物害虫分类
   * [Crop Pest Classification Using Deep Learning Techniques: A Review](https://arxiv.org/abs/2507.01494)<BR>[2025-07-03]
+* CD
+  * [Category Discovery: An Open-World Perspective](https://arxiv.org/pdf/2509.22542)<BR>:star:[code](https://github.com/Visual-AI/Category-Discovery)<BR>[2025-09-29]
 
 ## Image Super-Resolution(超分辨率)
 * [State-of-the-Art Transformer Models for Image Super-Resolution: Techniques, Challenges, and Applications](https://arxiv.org/abs/2501.07855)<BR>[2025-01-15]
+* [Deep Learning Empowered Super-Resolution: A Comprehensive Survey and Future Prospects](https://arxiv.org/pdf/2509.22692)<BR>:star:[code](https://github.com/AVC2-UESTC/Holistic-Super-Resolution-Review)<BR>[2025-09-30]
 * VSR 
   * [A Survey of Deep Learning Video Super-Resolution](https://arxiv.org/abs/2506.03216)<BR>[2025-06-05]
 
@@ -506,6 +550,7 @@
   * [A Comprehensive Survey on Image Signal Processing Approaches for Low-Illumination Image Enhancement](https://arxiv.org/abs/2502.05995)<BR>[2025-02-11]
   * [A Survey on Image Quality Assessment: Insights, Analysis, and Future Outlook](https://arxiv.org/abs/2502.08540)<BR>[2025-02-13]
   * [A review of advancements in low-light image enhancement using deep learning](https://arxiv.org/abs/2505.05759)<BR>[2025-05-12]
+  * [Recent Advancements in Microscopy Image Enhancement using Deep Learning: A Survey](https://arxiv.org/pdf/2509.15363)<BR>[2025-09-22]
 * 去反射
   * [Survey on Single-Image Reflection Removal using Deep Learning Techniques](https://arxiv.org/abs/2502.08836)<BR>[2025-02-14]
 * 视频恢复
@@ -562,6 +607,7 @@
 * [Transformer-based Spatial Grounding: A Comprehensive Survey](https://arxiv.org/abs/2507.12739)<BR>[2025-07-18]
 * [Agentic Design Review System](https://arxiv.org/abs/2508.10745)<BR>[2025-08-18]
 * [Towards Open World Detection: A Survey](https://arxiv.org/abs/2508.16527)<BR>[2025-08-25]
+* [Responsible Diffusion: A Comprehensive Survey on Safety, Ethics, and Trust in Diffusion Models](https://arxiv.org/pdf/2509.22723)<BR>[2025-09-30]
 
 <a name="00000"/>
 
