@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至9月30日已公开 352+31 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月15日已公开 383+25 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -114,6 +114,8 @@
 * [Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review](https://arxiv.org/abs/2505.20503)<BR>[2025-05-28]
 * [Multimodal Data Storage and Retrieval for Embodied AI: A Survey](https://arxiv.org/abs/2508.13901)<BR>[2025-08-20]
 * [Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey](https://arxiv.org/abs/2508.13073)<BR>:star:[code](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation)<BR>[2025-09-04]
+* [The Safety Challenge of World Models for Embodied AI Agents: A Review](https://arxiv.org/pdf/2510.05865)<BR>[2025-10-08]
+* [Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications](https://arxiv.org/pdf/2510.07077)<BR>:star:[code](https://vla-survey.github.io/)<BR>[2025-10-09]
 * 位置识别
   * [Place Recognition: A Comprehensive Review, Current Challenges and Future Directions](https://arxiv.org/abs/2505.14068)<BR>:star:[code](https://github.com/CV4RA/SOTA-Place-Recognitioner)<BR>[2025-05-21]
 * 导航
@@ -196,6 +198,8 @@
 * [A Systematic Review of Machine Learning Methods for Multimodal EEG Data in Clinical Application](https://arxiv.org/abs/2501.08585)<BR>[2025-01-16]
 
 ## Few/Zero-Shot Learning/DG/A(小/零样本/域泛化/域适应)
+* 零样本
+  * [Compositional Zero-Shot Learning: A Survey](https://arxiv.org/pdf/2510.11106)<BR>:star:[code](https://github.com/ans92/Compositional-Zero-Shot-Learning)<BR>[2025-10-14]
 * 域泛化
   * [CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey](https://arxiv.org/abs/2504.14280)<BR>:star:[code](https://github.com/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation)<BR>[2025-04-22]
 * Non-Transferable Learning(反迁移学习)
@@ -220,6 +224,9 @@
 * [Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models](https://arxiv.org/abs/2505.04921)<BR>:star:[code](https://github.com/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models)<BR>[2025-05-09]
 * [Generalizing Vision-Language Models to Novel Domains: A Comprehensive Survey](https://arxiv.org/abs/2506.18504)<BR>[2025-06-24]
 * [Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting](https://arxiv.org/abs/2508.04227)<BR>:star:[code](https://github.com/YuyangSunshine/Awesome-Continual-learning-of-Vision-Language-Models)<BR>[2025-08-07]
+* [Review of Hallucination Understanding in Large Language and Vision Models](https://arxiv.org/abs/2510.00034)<BR>[2025-10-02]
+* [Vision Language Models: A Survey of 26K Papers](https://arxiv.org/pdf/2510.09586)<BR>[2025-10-13]
+* [Towards General Urban Monitoring with Vision-Language Models: A Review, Evaluation, and a Research Agenda](https://arxiv.org/pdf/2510.12400)<BR>[2025-10-15]
 * LLM
   * [Leveraging Large Language Models For Scalable Vector Graphics Processing: A Review](https://arxiv.org/abs/2503.04983)<BR>[2025-03-10]
   * [A Review on Large Language Models for Visual Analytics](https://arxiv.org/abs/2503.15176)<BR>[2025-03-20]
@@ -237,6 +244,7 @@
   * [A Survey of Multimodal Hallucination Evaluation and Detection](https://arxiv.org/abs/2507.19024)<BR>[2025-07-28]
   * [When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token Compression across Images, Videos, and Audios](https://arxiv.org/abs/2507.20198)<BR>:star:[code](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression)<BR>[2025-07-29]
   * [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://arxiv.org/abs/2508.04482)<BR>[2025-08-07]
+  * [A Survey on Agentic Multimodal Large Language Models](https://arxiv.org/pdf/2510.10991)<BR>:star:[code](https://github.com/HJYao00/Awesome-Agentic-MLLMs)<BR>[2025-10-14]
 * 基础模型
   * [Vision Generalist Model: A Survey](https://arxiv.org/abs/2506.09954)<BR>[2025-06-12]
 * 视觉定位
@@ -257,6 +265,7 @@
 * GAN 
   * [Image Inversion: A Survey from GANs to Diffusion and Beyond](https://arxiv.org/abs/2502.11974)<BR>:star:[code](https://github.com/RyanChenYN/ImageInversion)<BR>[2025-02-18]
   * [Generative Adversarial Networks with Limited Data: A Survey and Benchmarking](https://arxiv.org/abs/2504.05456)<BR>[2025-04-09]
+  * [A Review on Domain Adaption and Generative Adversarial Networks(GANs)](https://arxiv.org/pdf/2510.12075)<BR>[2025-10-15]
 * 图像生成
   * [Preference Alignment on Diffusion Model: A Comprehensive Survey for Image Generation and Editing](https://arxiv.org/abs/2502.07829)<BR>[2025-02-13]
   * [Personalized Image Generation with Deep Generative Models: A Decade Survey](https://arxiv.org/abs/2502.13081)<BR>:star:[code](https://github.com/csyxwei/Awesome-Personalized-Image-Generation)<BR>[2025-02-19]
@@ -264,6 +273,7 @@
 * AIGC
   * [Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC](https://arxiv.org/abs/2502.07007)<BR>[2025-02-12]
   * [Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions](https://arxiv.org/abs/2504.19056)<BR>:star:[code](https://github.com/llm-lab-org/Generative-AI-for-Character-Animation-Survey)<BR>[2025-04-29]
+  * [Secure and Robust Watermarking for AI-generated Images: A Comprehensive Survey](https://arxiv.org/abs/2510.02384)<BR>[2025-10-06]
 * 图像到图像翻译
   * [Unpaired Image-to-Image Translation with Content Preserving Perspective: A Review](https://arxiv.org/abs/2502.08667)<BR>[2025-02-14]
 * 文本-图像
@@ -278,6 +288,7 @@
   * [Exploring the Evolution of Physics Cognition in Video Generation: A Survey](https://arxiv.org/abs/2503.21765)<BR>:star:[code](https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation)<BR>[2025-03-28]
   * [A Survey of Interactive Generative Video](https://arxiv.org/abs/2504.21853)<BR>[2025-05-01]
   * [Controllable Video Generation: A Survey](https://arxiv.org/abs/2507.16869)<BR>:star:[code](https://github.com/mayuelala/Awesome-Controllable-Video-Generation)<BR>[2025-07-24]
+  * [Bridging Text and Video Generation: A Survey](https://arxiv.org/pdf/2510.04999)<BR>[2025-10-07]
 * 4D生成
   * [Advances in 4D Generation: A Survey](https://arxiv.org/abs/2503.14501)<BR>:star:[code](https://github.com/MiaoQiaowei/Awesome-4D)<BR>[2025-03-19]
 * 3D生成
@@ -287,6 +298,8 @@
   * [Vision-to-Music Generation: A Survey](https://arxiv.org/abs/2503.21254)<BR>:star:[code](https://github.com/wzk1015/Awesome-Vision-to-Music-Generation.)<BR>[2025-03-28]
 * 场景生成
   * [3D Scene Generation: A Survey](https://arxiv.org/abs/2505.05474)<BR>:star:[code](https://github.com/hzxie/Awesome-3D-Scene-Generation)<BR>[2025-05-09]
+* 迁移
+  * [Image-to-Video Transfer Learning based on Image-Language Foundation Models: A Comprehensive Survey](https://arxiv.org/pdf/2510.10671)<BR>[2025-10-14]
 
 ## MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)
 * [A Survey on Dynamic Neural Networks: from Computer Vision to Multi-modal Sensor Fusion](https://arxiv.org/abs/2501.07451)<BR>[2025-01-14]
@@ -336,6 +349,7 @@
   * [Recent Advances in Medical Imaging Segmentation: A Survey](https://arxiv.org/abs/2505.09274)<BR>:star:[code](https://github.com/faresbougourzi/Awesome-DL-for-Medical-Imaging-Segmentation)<BR>[2025-05-15]
   * [Generalist Models in Medical Image Segmentation: A Survey and Performance Comparison with Task-Specific Approaches](https://arxiv.org/abs/2506.10825)<BR>[2025-06-13]
   * [Is the medical image segmentation problem solved? A survey of current developments and future directions](https://arxiv.org/pdf/2508.20139)<BR>[2025-08-29]
+  * [Advances in Medical Image Segmentation: A Comprehensive Survey with a Focus on Lumbar Spine Applications](https://arxiv.org/pdf/2510.03318)<BR>[2025-10-07]
 * 医学图像融合
   * [A Comprehensive Review of Techniques, Algorithms, Advancements, Challenges, and Clinical Applications of Multi-modal Medical Image Fusion for Improved Diagnosis](https://arxiv.org/abs/2505.14715)<BR>[2025-05-22]
 * 医学图像分类
@@ -356,10 +370,13 @@
   * [A Survey on fMRI-based Brain Decoding for Reconstructing Multimodal Stimuli](https://arxiv.org/abs/2503.15978)<BR>:star:[code](https://github.com/LpyNow/BrainDecodingImage)<BR>[2025-03-21]
   * [Systematic Review and Meta-analysis of AI-driven MRI Motion Artifact Detection and Correction](https://arxiv.org/abs/2509.05071)<BR>[2025-09-06]
   * [Evaluation of Machine Learning Reconstruction Techniques for Accelerated Brain MRI Scans](https://arxiv.org/pdf/2509.07193)<BR>[2025-09-10]
+  * [From 2D to 3D, Deep Learning-based Shape Reconstruction in Magnetic Resonance Imaging: A Review](https://arxiv.org/pdf/2510.01296)<BR>[2025-10-03]
 * VQA
   * [Barriers in Integrating Medical Visual Question Answering into Radiology Workflows: A Scoping Review and Clinicians' Insights](https://arxiv.org/abs/2507.08036)<BR>[2025-07-14]
 * CT
   * [State of Abdominal CT Datasets: A Critical Review of Bias, Clinical Relevance, and Real-world Applicability](https://arxiv.org/abs/2508.13626)<BR>[2025-08-20]
+* 报告生成
+  * [A Review of Longitudinal Radiology Report Generation: Dataset Composition, Methods, and Performance Evaluation](https://arxiv.org/pdf/2510.12444)<BR>[2025-10-15]
 
 ## OCR
 * [Handwritten Text Recognition: A Survey](https://arxiv.org/abs/2502.08417)<BR>[2025-02-13]
@@ -413,12 +430,8 @@
 * [Omni Survey for Multimodality Analysis in Visual Object Tracking](https://arxiv.org/abs/2508.13000)<BR>:star:[code](https://github.com/Zhangyong-Tang/Awesome-MultiModal-Visual-Object-Tracking)<BR>[2025-08-19]
 
 ## Object Detection(目标检测)
-* [YOLOv8 to YOLO11: A Comprehensive Architecture In-depth Comparative Review](https://arxiv.org/abs/2501.13400)<BR>[2025-01-24]
 * [Context in object detection: a systematic literature review](https://arxiv.org/abs/2503.23249)<BR>[2025-04-01]
 * [Vision-Language Model for Object Detection and Segmentation: A Review and Evaluation](https://arxiv.org/abs/2504.09480)<BR>:star:[code](https://github.com/better-chao/perceptual_abilities_evaluation)<BR>[2025-04-15]
-* [A Review of YOLOv12: Attention-Based Enhancements vs. Previous Versions](https://arxiv.org/abs/2504.11995)<BR>[2025-04-17]
-* [A Decade of You Only Look Once (YOLO) for Object Detection](https://arxiv.org/abs/2504.18586)<BR>[2025-04-29]
-* [YOLOv1 to YOLOv11: A Comprehensive Survey of Real-Time Object Detection Innovations and Challenges](https://arxiv.org/abs/2508.02067)<BR>[2025-08-05]
 * [Architectural Insights into Knowledge Distillation for Object Detection: A Comprehensive Review](https://arxiv.org/abs/2508.03317)<BR>[2025-08-06]
 * [Object Detection with Multimodal Large Vision-Language Models: An In-depth Review](https://arxiv.org/pdf/2508.19294)<BR>[2025-08-28]
 * [Explaining What Machines See: XAI Strategies in Deep Object Detection Models](https://arxiv.org/abs/2509.01991)<BR>[2025-09-03]
@@ -432,6 +445,13 @@
 * 水下监测
   * [AI-Driven Marine Robotics: Emerging Trends in Underwater Perception and Ecosystem Monitoring](https://arxiv.org/abs/2509.01878)<BR>[2025-09-03]
   * [A Structured Review of Underwater Object Detection Challenges and Solutions: From Traditional to Large Vision Language Models](https://arxiv.org/abs/2509.08490)<BR>[2025-09-11]
+  * [Sonar Image Datasets: A Comprehensive Survey of Resources, Challenges, and Applications](https://arxiv.org/pdf/2510.03353)<BR>[2025-10-07]
+* YOLO
+  * [YOLOv8 to YOLO11: A Comprehensive Architecture In-depth Comparative Review](https://arxiv.org/abs/2501.13400)<BR>[2025-01-24]
+  * [A Review of YOLOv12: Attention-Based Enhancements vs. Previous Versions](https://arxiv.org/abs/2504.11995)<BR>[2025-04-17]
+  * [A Decade of You Only Look Once (YOLO) for Object Detection](https://arxiv.org/abs/2504.18586)<BR>[2025-04-29]
+  * [YOLOv1 to YOLOv11: A Comprehensive Survey of Real-Time Object Detection Innovations and Challenges](https://arxiv.org/abs/2508.02067)<BR>[2025-08-05]
+  * [Ultralytics YOLO Evolution: An Overview of YOLO26, YOLO11, YOLOv8 and YOLOv5 Object Detectors for Computer Vision and Pattern Recognition](https://arxiv.org/pdf/2510.09653)<BR>[2025-10-14]
 
 ## HOI
 * [3D Human Interaction Generation: A Survey](https://arxiv.org/abs/2503.13120)<BR>[2025-03-18]
@@ -513,6 +533,7 @@
 * [Multimodal Referring Segmentation: A Survey](https://arxiv.org/abs/2508.00265)<BR>:star:[code](https://github.com/henghuiding/Awesome-Multimodal-Referring-Segmentation)<BR>[2025-08-04]
 * 语义分割
   * [A Survey on Training-free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2505.22209)<BR>[2025-05-29]
+  * [Domain Generalization for Semantic Segmentation: A Survey](https://arxiv.org/pdf/2510.03540)<BR>[2025-10-07]
 * 场景解析
   * [A Comprehensive Survey on Video Scene Parsing:Advances, Challenges, and Prospects](https://arxiv.org/abs/2506.13552)<BR>[2025-06-17]
 * 场景理解
@@ -521,6 +542,7 @@
   * [Segment Anything for Video: A Comprehensive Review of Video Object Segmentation and Tracking from Past to Future](https://arxiv.org/pdf/2507.22792v1)<BR>[2025-07-31]
 
 ## Image Retrieval(图像检索)
+* [Learning-Based Hashing for ANN Search: Foundations and Early Advances](https://arxiv.org/pdf/2510.04127)<BR>[2025-10-07]
 * [A Comprehensive Survey on Composed Image Retrieval](https://arxiv.org/abs/2502.18495)<BR>[2025-02-27]
 * [Composed Multi-modal Retrieval: A Survey of Approaches and Applications](https://arxiv.org/abs/2503.01334)<BR>[2025-03-04]
 
@@ -542,6 +564,7 @@
 * [Fuzzy Theory in Computer Vision: A Review](https://arxiv.org/abs/2507.18660)<BR>[2025-07-28]
 * 图像恢复
   * [Deep Learning-Driven Ultra-High-Definition Image Restoration: A Survey](https://arxiv.org/abs/2505.16161)<BR>:star:[code](https://github.com/wlydlut/UHD-Image-Restoration-Survey)<BR>[2025-05-23]
+  * [Clear Roads, Clear Vision: Advancements in Multi-Weather Restoration for Smart Transportation](https://arxiv.org/pdf/2510.09228)<BR>[2025-10-13]
 * 水下图像增强
   * [Underwater Image Enhancement using Generative Adversarial Networks: A Survey](https://arxiv.org/abs/2501.06273)<BR>[2025-01-14]
   * [Visual enhancement and 3D representation for underwater scenes: a review](http://arxiv.org/abs/2505.01869v1)<BR>[2025-05-06]
@@ -551,6 +574,7 @@
   * [A Survey on Image Quality Assessment: Insights, Analysis, and Future Outlook](https://arxiv.org/abs/2502.08540)<BR>[2025-02-13]
   * [A review of advancements in low-light image enhancement using deep learning](https://arxiv.org/abs/2505.05759)<BR>[2025-05-12]
   * [Recent Advancements in Microscopy Image Enhancement using Deep Learning: A Survey](https://arxiv.org/pdf/2509.15363)<BR>[2025-09-22]
+  * [Diffusion Models for Low-Light Image Enhancement: A Multi-Perspective Taxonomy and Performance Analysis](https://arxiv.org/pdf/2510.05976)<BR>:star:[code](https://github.com/eashanadhikarla/DMLLIE)<BR>[2025-10-08]
 * 去反射
   * [Survey on Single-Image Reflection Removal using Deep Learning Techniques](https://arxiv.org/abs/2502.08836)<BR>[2025-02-14]
 * 视频恢复
@@ -608,6 +632,11 @@
 * [Agentic Design Review System](https://arxiv.org/abs/2508.10745)<BR>[2025-08-18]
 * [Towards Open World Detection: A Survey](https://arxiv.org/abs/2508.16527)<BR>[2025-08-25]
 * [Responsible Diffusion: A Comprehensive Survey on Safety, Ethics, and Trust in Diffusion Models](https://arxiv.org/pdf/2509.22723)<BR>[2025-09-30]
+* [Color Models in Image Processing: A Review and Experimental Comparison](https://arxiv.org/abs/2510.00584)<BR>[2025-10-02]
+* [Unsupervised Transformer Pre-Training for Images: Self-Distillation, Mean Teachers, and Random Crops](https://arxiv.org/pdf/2510.03606)<BR>[2025-10-07]
+* [A Comprehensive Review on Artificial Intelligence Empowered Solutions for Enhancing Pedestrian and Cyclist Safety](https://arxiv.org/pdf/2510.03314)<BR>[2025-10-07]
+* [Quantum-enhanced Computer Vision: Going Beyond Classical Algorithms](https://arxiv.org/pdf/2510.07317)<BR>[2025-10-09]
+* [Multi Camera Connected Vision System with Multi View Analytics: A Comprehensive Survey](https://arxiv.org/pdf/2510.09731)<BR>[2025-10-14]
 
 <a name="00000"/>
 
