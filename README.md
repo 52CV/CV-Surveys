@@ -22,7 +22,7 @@
 
 2025 年，计算机视觉相关综述。包括目标检测、跟踪........
 
-### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月15日已公开 383+25 篇。
+### :green_book::green_book::green_book:在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“CV综述”，即可收到本文列出的全部论文的打包下载。至10月16日已公开 408+2 篇。
 1月36篇。<BR>
 2月50篇。<BR>
 3月45篇。<BR>
@@ -357,6 +357,8 @@
   * [Towards a Transparent and Interpretable AI Model for Medical Image Classifications](https://arxiv.org/abs/2509.16685)<BR>[2025-09-23]
 * 医学图像分析
   * [Explainable Artificial Intelligence in Biomedical Image Analysis: A Comprehensive Survey](https://arxiv.org/abs/2507.07148)<BR>[2025-07-11]
+* 医学图像增强
+  * [Challenges, Advances, and Evaluation Metrics in Medical Image Enhancement: A Systematic Literature Review](https://arxiv.org/abs/2510.13638)<BR>[2025-10-16]
 * 手术场景理解
   * [Surgical Scene Understanding in the Era of Foundation AI Models: A Comprehensive Review](https://arxiv.org/abs/2502.14886)<BR>[2025-02-24]
   * [Decoding the Surgical Scene: A Scoping Review of Scene Graphs in Surgery](https://arxiv.org/abs/2509.20941)<BR>[2025-09-26]
@@ -637,6 +639,7 @@
 * [A Comprehensive Review on Artificial Intelligence Empowered Solutions for Enhancing Pedestrian and Cyclist Safety](https://arxiv.org/pdf/2510.03314)<BR>[2025-10-07]
 * [Quantum-enhanced Computer Vision: Going Beyond Classical Algorithms](https://arxiv.org/pdf/2510.07317)<BR>[2025-10-09]
 * [Multi Camera Connected Vision System with Multi View Analytics: A Comprehensive Survey](https://arxiv.org/pdf/2510.09731)<BR>[2025-10-14]
+* [Prompt-based Adaptation in Large-scale Vision Models: A Survey](https://arxiv.org/abs/2510.13219)<BR>[2025-10-16]
 
 <a name="00000"/>
 
