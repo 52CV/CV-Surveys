@@ -31,7 +31,7 @@
 |[50.NLP](#50)|[51.建筑设计](#51)|[52.全景成像](#52)|
 |[46.Adversarial attacks(对抗攻击)](#46)|[47.工业检测](#47)|[48.农业](#48)|[49.Machine Learning(机器学习)](#49)|
 |[42.Human Analysis](#42)|[43.harmful meme detection](#43)|[44.Fish Habitat Monitoring](#44)|[45.Data Augmentation(数据增强)](#45)|
-|[38.Anomaly Detection(异常检测)](#38)|[39.Deepfake Detection(虚假内容检测)](#39)|[40.Metric Learning(度量学习)](340)|[41.Clustering(聚类)](#41)|
+|[38.Anomaly Detection(异常检测)](#38)|[39.Deepfake Detection(虚假内容检测)](#39)|[40.Metric Learning(度量学习)](#40)|[41.Clustering(聚类)](#41)|
 |[34.Transfer Learning(迁移学习)](#34)|[35.Semi/Self-Supervised Learning(自/半监督)](#35)|[36.生物特征识别](#36)|[37.Object Pose Estimation(物体姿势估计)](#37)| 
 |[30.Domain Adaptation(域适应)](#30)|[31.Visual Speech(视觉语音)](#31)|[32.Style Transfer(风格迁移)](#32)|[33.Reinforcement Learning(强化学习)](#33)|
 |[26.Graph Neural Networks(图神经网络)](#26)|[27.Image Synthesis](#27)|[28.Capsule networks(胶囊网络)](#28)|[29.Augmented Reality/Virtual Reality/Robotics(增强/虚拟现实/机器人)](#29)|
